@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea1fff34827cb180",
+        "id": "68ab6dffc65345b8",
         "type": "tabs",
         "children": [
           {
-            "id": "85626f4660066a42",
+            "id": "13eb86d59904b52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK/破题之法.md",
+                "file": "Humanities/Hemingway-English/English 1.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "破题之法"
+              "title": "English 1.4"
             }
           }
         ]
@@ -195,8 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85626f4660066a42",
+  "active": "13eb86d59904b52d",
   "lastOpenFiles": [
+    "Humanities/Hemingway-English/English SA1.1.md",
+    "Humanities/Hemingway-English/English SA1.2.md",
+    "TOK/破题之法.md",
     "README.md",
     "Humanities/Hemingway-English/Vocabulary.md",
     "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
@@ -222,9 +225,6 @@
     "Humanities/Buffett-Business/Business 1.6.1.md",
     "Humanities/Buffett-Business/Business 1.5.6.md",
     "Humanities/Buffett-Business/Business 1.5.5.md",
-    "Humanities/Buffett-Business/Business 1.5.4.md",
-    "Humanities/Buffett-Business/Business 1.5.3.md",
-    "Humanities/Buffett-Business/Business 1.5.2.md",
     "Humanities/Buffett-Business/Assets/lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png",
     "Humanities/Buffett-Business/Assets/6.png",
     "Humanities/Buffett-Business/Assets/7.png",
