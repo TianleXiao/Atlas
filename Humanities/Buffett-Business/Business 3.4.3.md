@@ -20,3 +20,7 @@ Non-current assets (also known as fixed assets) are the long-term assets or poss
 Non-current assets are generally highly illiquid assets. These items of value, owned by the business, cannot be sold quickly/easily, and are difficult to sell without incurring a significant loss in value.
 - Typical non-current assets include buildings, plant (production facilities), machinery, and vehicles.
 - Most non-current assets falls in value over time due to depreciation. Hence, the balance sheet includes "accumulated depreciation" to calculate the net value of non-current assets at the point of constructing the balance sheet.
+## Vocabulary
++ raw martirial
++ component
++ finished good
