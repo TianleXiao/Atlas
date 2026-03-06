@@ -14,3 +14,4 @@ $$Equity = Share \ Capital + Retained \ Profit$$
     - Assets being sold
 **Liabilities:** Includes total current liabilities and all other liabilities.
 - Shareholders' Equity: Generally includes preferred stock values, common stock values, total equity values, par values (if the company issues bonds), and retained earnings.
+![[Pasted image 20260306102753.png]]
