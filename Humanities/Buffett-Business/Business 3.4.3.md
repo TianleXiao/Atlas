@@ -20,7 +20,12 @@ Non-current assets (also known as fixed assets) are the long-term assets or poss
 Non-current assets are generally highly illiquid assets. These items of value, owned by the business, cannot be sold quickly/easily, and are difficult to sell without incurring a significant loss in value.
 - Typical non-current assets include buildings, plant (production facilities), machinery, and vehicles.
 - Most non-current assets falls in value over time due to depreciation. Hence, the balance sheet includes "accumulated depreciation" to calculate the net value of non-current assets at the point of constructing the balance sheet.
+## Current Assets
+Current assets are possessions of an organization with a monetary value, but intended to be liquidated (converted into cash) within 12 months of the balance sheet date. These include:
+- Cash refers to the money an organization has either "in hand" (at its premises) and/or "at bank" (i.e. in its bank account). Cash is the most liquid of current assets and is easily accessible.
+- Debtors are referring to individual or business customers that owe money to the business because they have bought goods or services on trade credit. The usual trade credit period is between 30 and 60 days.
+- Stocks (also known as inventories) are the goods that a business has available for sale, per time period. Stocks are intended to be sold as quickly as possible, thereby generating cash for the firm.
 ## Vocabulary
-+ raw martirial
-+ component
-+ finished good
++ Raw material
++ Component
++ Finished goods
