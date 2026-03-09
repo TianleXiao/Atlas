@@ -21,5 +21,3 @@ $$Net \ Asset \ Formula=Total \ Assets−Total \ Liabilities$$
 Equity refers to the value of the owners' stake in the business, i.e. what the business is worth at the time of reporting the balance sheet. Equity is comprised of both share capital and retained earnings:
 - Share capital refers to the value of equity in a business that is funded by shareholders, either through an initial public offering or via a share issue.
 - Retained earnings (sometimes referred to as retained profits) is value of equity in a business that is funded by net profit after tax that is not distributed as dividends to shareholders. Instead, it is kept as an internal source of finance for the business to use.
-## Statement of Financial Position
-![[Pasted image 20260309093005.png]]
