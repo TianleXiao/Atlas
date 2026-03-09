@@ -50,3 +50,4 @@
 
 **COS:** Costs of Sales
 
+**IPR:** Intellectual property rights 
