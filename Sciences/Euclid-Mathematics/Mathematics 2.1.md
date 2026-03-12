@@ -1,2 +1,5 @@
 ## Vocabulary
 + hyperbola
+- convergence
+- divergence
+- 
