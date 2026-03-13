@@ -2,4 +2,4 @@
 - hyperbola
 - convergence
 - divergence
-- 
+- negation
