@@ -69,4 +69,4 @@ The gross profit margin is the percentage of the business's revenue which is gro
 → The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
 
 ## Vocabulary
-+ 
++ mediocrity
