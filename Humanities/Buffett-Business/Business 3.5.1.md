@@ -64,7 +64,6 @@ Port Louis Press Ltd having much lower gross profit margin?
 - It may have adopted a low-price strategy to increase sales.
 - It has higher cost of sales.
 - The management is less effective in controlling costs.
-**Gross profit margin =**Gross profit/Sales revenue×100
-     Gross profit/Sales revenue×100
+$$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 The gross profit margin is the percentage of the business's revenue which is gross profit (profit before the deduction of expenses).  
 → The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
