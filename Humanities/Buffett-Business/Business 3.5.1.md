@@ -40,3 +40,35 @@ The purpose of ratio analysis is to:
 - **Solvency**
 - **Profitability**
 - **Market Prospects**
+# Types Of Ratios
+1. **Profitability ratios**: These assess the amount of gross or other profit made by the business in relation to its sales revenue/turnover or the assets or capital available to it.
+2. **Liquidity ratios**: Also known as solvency ratios, these measure the ability of the business to settle its debts in the short-term.
+### Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
+
+|Type of ratio|Profitability ratios|Liquidity ratios|
+|---|---|---|
+|**Ratios used:**|Gross profit margin|Current ratio|
+||Profit margin|Acid-test or quick ratio|
+||Return on capital employed (ROCE)||
+|**Purpose of ratios:**|To provide a fundamental measure of the success of the business|To assess the ability of the business to pay its immediate debts|
+|**Interested stakeholders:**|- Shareholders|- Creditors|
+||- Creditors|- Suppliers|
+||- Managers|- Managers|
+||- Competitors|- Investors|
+||- Employees||
+||- Investors|
+## Gross Profit Margin
+- **Gross profit margin:** This ratio compares gross profit with revenue.
+### What might be the reasons of
+Port Louis Press Ltd having much lower gross profit margin?
+- It may have adopted a low-price strategy to increase sales.
+- It has higher cost of sales.
+- The management is less effective in controlling costs.
+**Gross profit margin =**
+
+Gross profit/Sales revenue×100Gross profit/Sales revenue×100
+
+---
+
+The gross profit margin is the percentage of the business's revenue which is gross profit (profit before the deduction of expenses).  
+→ The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
