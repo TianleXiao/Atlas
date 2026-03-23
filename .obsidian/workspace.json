@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Business 3.5.2"
             }
+          },
+          {
+            "id": "40a684664dbfa4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 3.5.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 3.5.2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,34 +224,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "40a684664dbfa4f1",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.5.1.md",
+    "Humanities/Buffett-Business/Business 3.5.2.md",
+    "Humanities/Buffett-Business/Business 3.5.3.md",
+    "Humanities/Buffett-Business/Business 3.5.4.md",
+    "d5e441633133a3c59c52898e02fbc6a4.jpg",
+    "Humanities/Buffett-Business/Assets/e16ea135b230211c6a30370814b1db93.jpg",
+    "Humanities/Buffett-Business/Assets/d5e441633133a3c59c52898e02fbc6a4.jpg",
+    "Humanities/Buffett-Business/Assets/ceaec3b0d0f380aa452d164cc9eb75a2 1.jpg",
+    "Humanities/Buffett-Business/Assets/c408ba2d86a3b82229b4b97723bc0cdd.jpg",
+    "Humanities/Buffett-Business/Assets/adfe8f67950b976b3aa161c3f36e968d.jpg",
+    "Humanities/Buffett-Business/Assets/a49aba86b20aed33668bac96d03963c4.jpg",
+    "Humanities/Buffett-Business/Assets/322763f2d9058599681ddd013d840fc6.jpg",
+    "Humanities/Buffett-Business/Assets/02277c3ebd50191aa94e1b571a0efd43.jpg",
+    "Humanities/Buffett-Business/Assets/867a6d4a1808a82c81c7bc09427bb482.jpg",
+    "Humanities/Buffett-Business/Business 3.4.5.md",
     "Sciences/Euclid-Mathematics/Assets",
     "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
-    "b17eb225a5f466796c54184d7c0a5298.jpg",
-    "Sciences/Euclid-Mathematics/Assets/b17eb225a5f466796c54184d7c0a5298 1.jpg",
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
-    "Humanities/Buffett-Business/Business 3.5.2.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
-    "Humanities/Buffett-Business/Business 3.5.1.md",
     "Humanities/Buffett-Business/Business 1.3.3.md",
     "Humanities/Buffett-Business/Business 1.2.7.md",
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 3.4.3.md",
-    "Humanities/Buffett-Business/Pasted image 20260312145756.png",
     "Humanities/Buffett-Business/Business SA1.md",
-    "Humanities/Buffett-Business/Business 3.4.5.md",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260311093532.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260311093358.png",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.3.md",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260309105315.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260309104722.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260309103809.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260309102023.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260309095620.png",
     "Humanities/Buffett-Business/Business 3.4.4.md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
@@ -246,8 +262,6 @@
     "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Hemingway-English/English 1.4.md",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
-    "Humanities/Hemingway-English/English 1.5.md",
     "Arts/Sakamoto-Music/Magnolia.mp3",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
     "Humanities/Laozi-Chinese/Assets",
@@ -258,7 +272,6 @@
     "Guide",
     "Humanities/Buffett-Business/Assets",
     "Humanities/Buffett-Business/New folder",
-    "Humanities/Hemingway-English/English SA1.2.pdf",
     "未命名.canvas"
   ]
 }
