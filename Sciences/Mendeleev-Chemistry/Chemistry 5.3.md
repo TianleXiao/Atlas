@@ -1,2 +1,2 @@
 $$Reaching \ particle = area \ under \ the \ curve $$
-Concentration VS Strength
+## Concentration VS Strength
