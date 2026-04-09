@@ -3,4 +3,3 @@
 
 ## Vocabulary
 + Collateral
-+ 
