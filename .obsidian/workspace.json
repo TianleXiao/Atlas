@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Business 3.7.2"
             }
+          },
+          {
+            "id": "cda3139ed9a96050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 3.7.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 3.7.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,15 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "cda3139ed9a96050",
   "lastOpenFiles": [
+    "README.md",
+    "Humanities/Buffett-Business/Business 3.7.3.md",
+    "Humanities/Buffett-Business/Business 3.7.2.md",
     "Humanities/Buffett-Business/Assets/a9f8a7669739dd13ad4c069a95482a86.jpg",
     "Humanities/Buffett-Business/Assets/b3f0f8a998d99e5ee75df8d9ab8201e2.jpg",
     "Humanities/Buffett-Business/Assets/2bba0c8eb22e709113d74782547e2497.jpg",
     "Humanities/Buffett-Business/Business 1.2.5.md",
     "Humanities/Buffett-Business/Business 3.5.4.md",
     "Humanities/Buffett-Business/Business 3.7.1.md",
-    "Humanities/Buffett-Business/Business 3.7.2.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 1.2.4.md",
     "Humanities/Buffett-Business/Assets/f9ff2e0f4055a2839a2c92bd710fc668.jpg.~tmp",
@@ -217,7 +234,6 @@
     "Humanities/Buffett-Business/Assets/21bdd1418efd3a3f5162964cd1acd563.jpg",
     "Humanities/Buffett-Business/Assets/258085cec68fdb80a0fbd0bd2d5099da.jpg",
     "Guide/Markdown 快速入门指南.md",
-    "README.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.3.md",
     "Sciences/Einstein-Physics/Physics 1.2.md",
@@ -229,7 +245,6 @@
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "d5e441633133a3c59c52898e02fbc6a4.jpg",
     "Humanities/Buffett-Business/Assets/e16ea135b230211c6a30370814b1db93.jpg",
-    "Humanities/Buffett-Business/Assets/d5e441633133a3c59c52898e02fbc6a4.jpg",
     "Sciences/Euclid-Mathematics/Assets",
     "Humanities/Buffett-Business/Business 3.2.1.md",
     "Humanities/Buffett-Business/Business 1.3.3.md",
