@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.7.5.md",
+                "file": "Humanities/Buffett-Business/Business 3.7.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.7.5"
+              "title": "Business 3.7.6"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Business 3.7.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,28 +209,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc4f8608ccac702d",
+  "active": "008313f78ad2b276",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.7.6.md",
+    "pic_20260413104221_0.jpg",
     "Humanities/Buffett-Business/Business 3.7.5.md",
+    "Humanities/Buffett-Business/Business 3.7.6.md",
+    "Humanities/Buffett-Business/Business 3.5.4.md",
+    "Humanities/Buffett-Business/Business 3.7.1.md",
+    "Humanities/Buffett-Business/Business 3.7.2.md",
+    "Humanities/Buffett-Business/Business 3.7.3.md",
+    "Humanities/Buffett-Business/Business 3.7.4.md",
     "Humanities/Buffett-Business/Assets/pic_20260413103443_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260413102401_0 1.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260413102401_0.jpg",
     "Humanities/Buffett-Business/Assets/6958874896b72e3a63e5b74173dbedee.jpg",
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Humanities/Buffett-Business/Assets/00c896fc349b9b723bf1fc8bb696c198.jpg",
-    "Humanities/Buffett-Business/Business 3.7.4.md",
     "Humanities/Buffett-Business/Assets/c07249bbe914e4bc7affea6d8cdd9317.jpg",
     "Humanities/Buffett-Business/Assets/5040bf1b2c0d4de0b1fd579537362396.jpg",
     "Humanities/Buffett-Business/Assets/bd38fa3e5e1ad45201a8982f62f6e16d.jpg",
     "Humanities/Buffett-Business/Assets/Pasted image 20260410111553.png",
-    "Humanities/Buffett-Business/Business 3.7.3.md",
     "Humanities/Buffett-Business/Assets/499c072ec896629ddd12a7f62ef67513.jpg",
     "README.md",
-    "Humanities/Buffett-Business/Business 3.7.2.md",
     "Humanities/Buffett-Business/Business 1.2.5.md",
-    "Humanities/Buffett-Business/Business 3.5.4.md",
-    "Humanities/Buffett-Business/Business 3.7.1.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 1.2.4.md",
     "Humanities/Buffett-Business/Assets/f9ff2e0f4055a2839a2c92bd710fc668.jpg.~tmp",
@@ -248,7 +248,6 @@
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
-    "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Euclid-Mathematics/Assets",
     "Arts/Sakamoto-Music/Magnolia.mp3",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
