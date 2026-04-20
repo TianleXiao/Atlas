@@ -51,3 +51,5 @@
 **COS:** Costs of Sales
 
 **IPR:** Intellectual property rights 
+
+**ARR:** Average rate of return
