@@ -35,7 +35,8 @@
               "title": "Business 3.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "008313f78ad2b276",
+  "active": "fc4f8608ccac702d",
   "lastOpenFiles": [
-    "pic_20260413105139_0.jpg",
-    "ea6d9175d729fd6b90ee32b911b4c7d4.jpg",
-    "pic_20260413104221_0.jpg",
-    "Humanities/Buffett-Business/Business 3.7.5.md",
     "Humanities/Buffett-Business/Business 3.7.6.md",
+    "Humanities/Buffett-Business/Assets/pic_20260413105139_0.jpg",
+    "Humanities/Buffett-Business/Assets/ea6d9175d729fd6b90ee32b911b4c7d4.jpg",
+    "Humanities/Buffett-Business/Assets/pic_20260413104221_0.jpg",
+    "Humanities/Buffett-Business/Business 3.7.5.md",
     "Humanities/Buffett-Business/Business 3.5.4.md",
     "Humanities/Buffett-Business/Business 3.7.1.md",
     "Humanities/Buffett-Business/Business 3.7.2.md",
@@ -229,7 +230,6 @@
     "Humanities/Buffett-Business/Assets/00c896fc349b9b723bf1fc8bb696c198.jpg",
     "Humanities/Buffett-Business/Assets/c07249bbe914e4bc7affea6d8cdd9317.jpg",
     "Humanities/Buffett-Business/Assets/5040bf1b2c0d4de0b1fd579537362396.jpg",
-    "Humanities/Buffett-Business/Assets/bd38fa3e5e1ad45201a8982f62f6e16d.jpg",
     "README.md",
     "Humanities/Buffett-Business/Business 1.2.5.md",
     "Humanities/Buffett-Business/Business SA1.md",
