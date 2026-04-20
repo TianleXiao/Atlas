@@ -4,4 +4,3 @@
 ![[Pasted image 20260420093536.png]]
 ## Vocabulary
 + Upfront
-+ 

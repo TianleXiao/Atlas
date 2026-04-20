@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Business 3.7.6"
             }
+          },
+          {
+            "id": "3e1ab6619756ebf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business 3.8.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 3.8.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "3e1ab6619756ebf5",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.7.6.md",
+    "Business 3.8.1.md",
     "Humanities/Buffett-Business/Assets/Pasted image 20260420093536.png",
     "Humanities/Buffett-Business/Business 3.7.5.md",
-    "Humanities/Buffett-Business/Business 3.7.6.md",
     "Humanities/Buffett-Business/Assets/pic_20260413105139_0.jpg",
     "Humanities/Buffett-Business/Assets/ea6d9175d729fd6b90ee32b911b4c7d4.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260413104221_0.jpg",
@@ -215,7 +231,6 @@
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Humanities/Buffett-Business/Assets/00c896fc349b9b723bf1fc8bb696c198.jpg",
     "Humanities/Buffett-Business/Assets/c07249bbe914e4bc7affea6d8cdd9317.jpg",
-    "Humanities/Buffett-Business/Assets/5040bf1b2c0d4de0b1fd579537362396.jpg",
     "README.md",
     "Humanities/Buffett-Business/Business 1.2.5.md",
     "Humanities/Buffett-Business/Business SA1.md",
