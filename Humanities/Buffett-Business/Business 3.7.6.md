@@ -3,4 +3,5 @@
 ![[pic_20260413105139_0.jpg]]
 ![[Pasted image 20260420093536.png]]
 ## Vocabulary
++ Upfront
 + 
