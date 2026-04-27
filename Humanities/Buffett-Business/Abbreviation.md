@@ -53,3 +53,7 @@
 **IPR:** Intellectual property rights 
 
 **ARR:** Average rate of return
+
+**PBP:** Payback period
+
+
