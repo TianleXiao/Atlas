@@ -11,10 +11,14 @@
             "id": "0c730d3593094181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 3.7.3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 3.7.3"
             }
           }
         ]
@@ -193,13 +197,18 @@
   },
   "active": "0c730d3593094181",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.8.5.md",
+    "Humanities/Buffett-Business/Business 3.7.4.md",
+    "Humanities/Buffett-Business/Business 3.7.5.md",
+    "Humanities/Buffett-Business/Business 3.7.6.md",
+    "Humanities/Buffett-Business/Business 3.8.1.md",
     "Humanities/Buffett-Business/Business 3.8.2.md",
+    "Humanities/Buffett-Business/Business 3.8.3.md",
+    "Humanities/Buffett-Business/Business 3.8.4.md",
+    "Humanities/Buffett-Business/Business 3.8.5.md",
     "pic_20260427105223_0.jpg",
     "pic_20260427104254_0.jpg",
     "Humanities/Buffett-Business/Assets/50d5bf654f82babd9b35ab5e2dcbbd19.jpg",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
-    "Humanities/Buffett-Business/Business 3.8.4.md",
     "Humanities/Buffett-Business/Assets/dbdda2cd77f229e333668fe776efa7de.jpg",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
@@ -207,7 +216,6 @@
     "Humanities/Buffett-Business/Assets/1a043687e7e40e49c34f9c0e07c0d265.jpg",
     "Humanities/Buffett-Business/Assets/d932fbe04c4de0095030b0a263010c06.jpg",
     "Humanities/Buffett-Business/Assets/42d5fec620fbdd98167e37944e5f6c74.jpg",
-    "Humanities/Buffett-Business/Business 3.8.3.md",
     "Humanities/Buffett-Business/Assets/fbc3af46b5cdf503a4d142015f17db11.jpg",
     "Humanities/Buffett-Business/Assets/4db15aa830d320adf38f9226122f68c1.jpg",
     "Humanities/Buffett-Business/Assets/0bbcafa6f226b96db921961b605c1c0b.jpg",
@@ -216,15 +224,12 @@
     "Humanities/Buffett-Business/Business 1.4.2.md",
     "Humanities/Buffett-Business/Business 1.1.3.md",
     "Humanities/Buffett-Business/Business 1.1.1.md",
-    "Humanities/Buffett-Business/Business 3.8.1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
     "Humanities/Laozi-Chinese/Chinese P2 (2).md",
-    "Humanities/Buffett-Business/Business 3.7.5.md",
     "README.md",
-    "Humanities/Buffett-Business/Business 3.7.6.md",
     "Humanities/Buffett-Business/Business 3.5.4.md",
     "Humanities/Buffett-Business/Business 3.7.2.md",
     "Humanities/Buffett-Business/Business 3.7.3.md",
