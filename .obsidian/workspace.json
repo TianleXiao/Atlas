@@ -11,10 +11,14 @@
             "id": "8cf36c0a5fd10431",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 3.5.2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 3.5.2"
             }
           }
         ]
@@ -193,10 +197,13 @@
   },
   "active": "8cf36c0a5fd10431",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.7.3.md",
+    "Humanities/Buffett-Business/Business 3.5.1.md",
+    "Humanities/Buffett-Business/Business 3.5.2.md",
+    "Humanities/Buffett-Business/Business 3.5.3.md",
+    "Humanities/Buffett-Business/Business 3.5.4.md",
     "Humanities/Buffett-Business/Business 3.7.2.md",
     "Humanities/Buffett-Business/Business 3.7.1.md",
-    "Humanities/Buffett-Business/Assets/pic_20260427104254_0.jpg",
+    "Humanities/Buffett-Business/Business 3.7.3.md",
     "Humanities/Buffett-Business/Business 3.7.4.md",
     "Humanities/Buffett-Business/Business 3.7.5.md",
     "Humanities/Buffett-Business/Business 3.7.6.md",
@@ -205,6 +212,7 @@
     "Humanities/Buffett-Business/Business 3.8.3.md",
     "Humanities/Buffett-Business/Business 3.8.4.md",
     "Humanities/Buffett-Business/Business 3.8.5.md",
+    "Humanities/Buffett-Business/Assets/pic_20260427104254_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260427105223_0.jpg",
     "Humanities/Buffett-Business/Assets/50d5bf654f82babd9b35ab5e2dcbbd19.jpg",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
@@ -225,10 +233,6 @@
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
-    "Humanities/Laozi-Chinese/Chinese P2.md",
-    "Humanities/Laozi-Chinese/Chinese P2 (2).md",
-    "README.md",
-    "Humanities/Buffett-Business/Business 3.5.4.md",
     "Humanities/Buffett-Business/Assets/f9ff2e0f4055a2839a2c92bd710fc668.jpg.~tmp",
     "Sciences/Euclid-Mathematics/Assets",
     "Arts/Sakamoto-Music/Magnolia.mp3",
