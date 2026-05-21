@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.5.2.md",
+                "file": "Humanities/Buffett-Business/Business 3.3.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.5.2"
+              "title": "Business 3.3.5"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "finan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,18 +224,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "4afe460ba92b0b7e",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.3.1.md",
+    "Humanities/Buffett-Business/Business 3.5.1.md",
+    "Humanities/Buffett-Business/Business 3.4.1.md",
+    "Humanities/Buffett-Business/Business 3.2.7.md",
+    "Humanities/Buffett-Business/Business 3.7.1.md",
+    "Humanities/Buffett-Business/Business 3.7.2.md",
+    "Humanities/Buffett-Business/Business 3.7.3.md",
+    "Humanities/Buffett-Business/Business 3.7.4.md",
+    "Humanities/Buffett-Business/Business 3.2.5.md",
+    "Humanities/Buffett-Business/Business 3.2.2.md",
+    "Humanities/Buffett-Business/Business 3.2.1.md",
+    "Humanities/Buffett-Business/Business 3.1.1.md",
+    "Humanities/Buffett-Business/Business 1.5.6.md",
+    "Humanities/Buffett-Business/Business 1.4.1.md",
+    "Humanities/Buffett-Business/Business 1.3.4.md",
+    "Humanities/Buffett-Business/Business 1.2.8.md",
+    "Humanities/Buffett-Business/Business 1.2.7.md",
+    "Humanities/Buffett-Business/Business 1.2.6.md",
+    "Humanities/Buffett-Business/Business 1.2.5.md",
+    "Humanities/Buffett-Business/Business 1.1.4.md",
+    "Humanities/Buffett-Business/Abbreviation.md",
+    "Humanities/Buffett-Business/Business 3.5.2.md",
     "Humanities/Buffett-Business/Business 3.5.3.md",
     "Humanities/Buffett-Business/Business 3.5.4.md",
-    "Humanities/Buffett-Business/Business 3.7.2.md",
-    "Humanities/Buffett-Business/Business 3.7.4.md",
     "Humanities/Buffett-Business/Business 3.3.5.md",
     "Humanities/Buffett-Business/Business 3.3.3.md",
     "Humanities/Buffett-Business/Assets/Pasted image 20260309094620.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260309102023.png",
-    "Humanities/Buffett-Business/Business 1.2.8.md",
-    "Humanities/Buffett-Business/Business 1.1.2.md",
     "Humanities/Buffett-Business/Assets/pic_20260413105139_0.jpg",
     "Humanities/Buffett-Business/Assets/lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png",
     "Humanities/Buffett-Business/Assets/c408ba2d86a3b82229b4b97723bc0cdd.jpg",
@@ -245,24 +262,6 @@
     "Humanities/Buffett-Business/Assets/42d5fec620fbdd98167e37944e5f6c74.jpg",
     "Humanities/Buffett-Business/Assets/38b5b510d557c464d618c7d55237033e.jpg",
     "Humanities/Buffett-Business/Assets/28dd225811155f7eaaf7f58e35fea984.jpg",
-    "Humanities/Buffett-Business/Business 4.1.2.md",
-    "Humanities/Buffett-Business/Business 4.1.3.md",
-    "Humanities/Buffett-Business/Business 4.1.4.md",
-    "Humanities/Buffett-Business/Business 4.1.5.md",
-    "Humanities/Buffett-Business/Business 4.2.1.md",
-    "Humanities/Buffett-Business/Business 3.5.2.md",
-    "Humanities/Buffett-Business/Business 3.5.1.md",
-    "Humanities/Buffett-Business/Business 3.4.5.md",
-    "Humanities/Buffett-Business/Business 3.4.4.md",
-    "Humanities/Buffett-Business/Business 3.4.3.md",
-    "Humanities/Buffett-Business/Business 3.2.6.md",
-    "Humanities/Buffett-Business/Business 3.3.1.md",
-    "Humanities/Buffett-Business/Business 3.2.7.md",
-    "Humanities/Buffett-Business/Business 3.2.5.md",
-    "Humanities/Buffett-Business/Business 3.2.3.md",
-    "Humanities/Buffett-Business/Business SA1.md",
-    "Humanities/Buffett-Business/Business 4.1.1.md",
-    "Humanities/Buffett-Business/Business 3.8.5.md",
     "Humanities/Buffett-Business/Assets/f9ff2e0f4055a2839a2c92bd710fc668.jpg.~tmp",
     "Sciences/Euclid-Mathematics/Assets",
     "Arts/Sakamoto-Music/Magnolia.mp3",
