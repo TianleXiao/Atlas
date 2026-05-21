@@ -24,5 +24,10 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 **Is this a profitability or efficiency ratio?**
 - The roce is a ratio that shows profit as a percentage of the capital used to generate it.
 - The higher the roce figure, the better it is for the business.
-![[27bcdce210fb7eca71e5cdd8841659c9.jpg]]
+## Roce: a key ratio
+- As a general rule, the roce should at least exceed the interest rate offered at banks; otherwise it would be better to simply deposit the funds/capital in an interest-bearing/saving bank account.
+- Especially since bank deposits would probably carry less (to no) risk compared with other investment projects.
+- Hence, roce must be high enough to create an incentive for investors to part with their money.
+- Many people regard the roce as the single most important financial ratio as it measures how well a firm is able to generate profit from its sources of funds.
+- Some sources refer to a 20% roce as being a target benchmark, although this needs to be put into the context of the business and the industry in which it operates.
 ![[adfe8f67950b976b3aa161c3f36e968d.jpg]]
