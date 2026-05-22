@@ -1,9 +1,12 @@
 name: Sync Folder to Classmate
 
 on:
-  schedule:
-    - cron: '*/5 * * * *' # 👈 这行代表每隔 5 分钟，GitHub 就会自动帮你搬运一次
-  workflow_dispatch: # 保留这个，方便你随时在网页上手动点“立即同步”
+  push:
+    branches:
+      - main     # 👈 只要你往主仓库的 main 分支推了代码
+    paths:
+      - 'Humanities/Buffett-Business/**' # 👈 且改动了 Business 文件夹，机器人就会“瞬间”被唤醒
+  workflow_dispatch: # 依然保留，方便你手动点
 
 jobs:
   deploy:
@@ -22,3 +25,4 @@ jobs:
         destination-repository-name: 'obsidian-share'
         user-email: 'xiaotlinus@gmail.com'
         target-branch: main
+        set-user-own-as-author: true
