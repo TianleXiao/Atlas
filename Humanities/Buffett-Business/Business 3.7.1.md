@@ -27,12 +27,11 @@ Remember the good old formula: Profit = Sales revenue - Total costs
 For example, both Amazon and Netflix took about 7 years of operation before becoming profitable. Tesla took just a little longer and did not reach break-even until 2020.
 
 → It is therefore more important to pay attention to the firm’s cash flow than to profit in the early stages. Ultimately, a business must have sufficient cash flow to continue operating, whether it is profitable or not.
-
----
-
-### Chart:
-
-- **Net income**
-- **Revenue**
-- **Yearly net income and revenue of Tesla (in billion U.S. dollars)**
 ![[38b5b510d557c464d618c7d55237033e.jpg]]
+## Working capital cycle / cash conversion cycle
+- Working capital (sometimes called **net current assets or circulating capital**) refers to cash or other liquid assets available to a business for its daily operations.
+  - Positive working capital shows that a business is able to pay off its short-term liabilities very quickly, while a negative working capital indicates the business is unable to do so.
+- The working capital cycle/cash conversion cycle refers to the duration between the firm paying for the production costs of a product and it receiving the cash from customers buying it.
+  - A positive working capital cycle is when a firm collects payments at a faster rate than it is required to pay its bills.
+  - A negative working capital cycle is when a firm pays its operating costs first then waits to receive payments to fill the gap in available cash, which is the normal situation.
+  - The longer the working capital cycle, the more likely the business will face a cash flow/liquidity crisis, in which case and in order to survive, a business will often have to borrow money to operate whilst it waits for cash inflows to materialize.
