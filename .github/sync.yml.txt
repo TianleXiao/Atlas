@@ -1,0 +1,26 @@
+name: Sync Folder to Classmate
+
+on:
+  push:
+    branches:
+      - main  # 如果你的主仓库默认分支叫 master，请把这里改成 master
+    paths:
+      - 'Humanities/Buffett-Business/**' # 【已为你配置好】只有这个文件夹有变动时，才会触发自动搬运
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 主仓库代码
+      uses: actions/checkout@v4
+
+    - name: 自动搬运到同学的仓库
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.SYNC_TOKEN }}
+      with:
+        source-directory: 'Humanities/Buffett-Business' # 【已为你配置好】你要分享的文件夹相对路径
+        destination-github-username: 'TianleXiao' # 👈【修改点1】填你的GitHub账号名（例如: zhangsan）
+        destination-repository-name: 'obsidian-share' # 👈【修改点2】填你在第一步为同学建的新仓库名字（例如: obsidian-share）
+        user-email: 'xiaotlinus@gmail.com' # 👈【修改点3】填你的GitHub绑定邮箱（例如: zs@qq.com）
+        target-branch: main
