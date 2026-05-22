@@ -28,9 +28,20 @@ $$
 - A negative net cash flow/liquidity problem exists if the total outflows exceed the total inflows for a particular time period.  
 
 → Knowing in advance when the business is likely to face a period of cash shortages (or a liquidity problem) can help it to plan accordingly so that it can continue to operate.
-
----
-
 ![[a9f8a7669739dd13ad4c069a95482a86.jpg]]
+## Cash inflows
+Cash inflows are simply the money going into a business from earnings and other sources of finance. Examples of cash inflows include:
+- Cash used by customers to pay for goods and services
+- Interest received on savings in a business bank account
+- Capital injections from the owners of the business
+- Payments made to the business from its debtors
+- Bank loans
+- Bank overdrafts
+- Business angels
+- Crowdfunding sources
+- Cash injection from sponsor
+- Tax refunds from the government*
+- Government grants and subsidies
+*Note: for external assessment purposes, only "cash sales revenue" and "tax refunds" will appear as cash inflows in the prescribed format of the cash flow forecast.*
 ## Vocabulary
 + Collateral
