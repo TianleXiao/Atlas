@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.5.3.md",
+                "file": "Humanities/Buffett-Business/Business 4.2.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.5.3"
+              "title": "Business 4.2.1"
             }
           }
         ]
@@ -195,16 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf527d22d962ba2f",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 3.5.4.md",
+    "Humanities/Buffett-Business/Business 3.5.3.md",
     "Humanities/Buffett-Business/Business 3.5.2.md",
+    "Humanities/Buffett-Business/Business 3.5.1.md",
+    "Humanities/Buffett-Business/Assets/~2277c3ebd50191aa94e1b571a0efd43.tmp",
+    "Humanities/Buffett-Business/Assets/02277c3ebd50191aa94e1b571a0efd43.jpg.~tmp",
     "Humanities/Buffett-Business/Business 3.4.5.md",
     "Humanities/Buffett-Business/Business 3.4.3.md",
     "Humanities/Buffett-Business/Business 3.3.4.md",
     "Humanities/Buffett-Business/Assets/02277c3ebd50191aa94e1b571a0efd43.jpg",
-    "Humanities/Buffett-Business/Business 3.5.3.md",
-    "Humanities/Buffett-Business/Business 3.5.1.md",
     "Humanities/Buffett-Business/Business 3.3.1.md",
     "Humanities/Buffett-Business/Business 3.2.2.md",
     "Humanities/Buffett-Business/Business 1.5.6.md",
@@ -225,7 +227,6 @@
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Business 3.2.6.md",
     "Humanities/Buffett-Business/Business 3.2.3.md",
-    "Humanities/Buffett-Business/Business 1.4.3.md",
     "Humanities/Buffett-Business/Assets/11f28815db3ea3d77a2fc7df1ab5a230.jpg",
     "Humanities/Buffett-Business/Assets/Pasted image 20260309094620.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260309102023.png",
@@ -242,8 +243,6 @@
     "Untitled.base",
     "Sciences/Einstein-Physics/Assets",
     "Sciences/Einstein-Physics/New folder",
-    "Guide",
-    "Humanities/Buffett-Business/Assets",
     "未命名.canvas"
   ]
 }
