@@ -30,4 +30,9 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 - Hence, roce must be high enough to create an incentive for investors to part with their money.
 - Many people regard the roce as the single most important financial ratio as it measures how well a firm is able to generate profit from its sources of funds.
 - Some sources refer to a 20% roce as being a target benchmark, although this needs to be put into the context of the business and the industry in which it operates.
-![[adfe8f67950b976b3aa161c3f36e968d.jpg]]
+# Strategies to improve the gross profit margin
+
+A firm can improve its GPM ratio by reducing its direct costs. Such methods include:
+- **Cutting direct material costs**, perhaps by using cheaper suppliers and/or cheaper materials. However, cost-cutting can have a negative effect on the perceived quality of the good or service.
+- **Cutting direct labour costs**, i.e. reduce staffing costs by cutting the number of staff or by getting staff to do more (for the same pay). However, this method can cause resentment and demotivation.
+- **Outsourcing production or other operations to third-party suppliers**. This helps the firm to benefit from using external providers that can offer specialized services in a more cost-effective way.
