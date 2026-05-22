@@ -16,4 +16,21 @@ However, in recent years many businesses have operated successfully with acid-te
   - Retailers may operate with a figure as low as 0.4:1 because they trade mainly in cash and have close relationships with suppliers.
   - A manufacturing business might operate with a ratio nearer to the standard 1:1.
 - Firms should not operate over long periods with high acid-test ratios, as holding assets in the form of cash is not efficient, since profits could have been increased by investing these liquid assets into productive activities.
-A more typical figure of an acid-test ratio might now be 0.7:1.![[c408ba2d86a3b82229b4b97723bc0cdd.jpg]]![[02277c3ebd50191aa94e1b571a0efd43.jpg]]
+A more typical figure of an acid-test ratio might now be 0.7:1.
+# Ratio analysis
+- Table 3.5.1 The profits and sales figures for two companies
+
+|    | Company X | Company Y |
+|---|---|---|
+| Profit   | $20 million | $2 million |
+| Sales    | $240 million | $10 million |
+
+Which company makes more profit?  
+## Now which one is more **profitable**?
+Let's calculate ratios to express profits as a percentage of sales:  
+Company X: $20 million/$240 million × 100 = 8.3%  
+Company Y: $2 million/$10 million × 100 = 20.0%  
+→ Company Y is therefore more profitable.
+### Ratio analysis
+A method of quantifying a company's liquidity, operational efficiency, and profitability to evaluate its performance over time and relative to its peers.
+- **Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.**![[02277c3ebd50191aa94e1b571a0efd43.jpg]]
