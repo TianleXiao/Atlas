@@ -30,4 +30,5 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 - Hence, roce must be high enough to create an incentive for investors to part with their money.
 - Many people regard the roce as the single most important financial ratio as it measures how well a firm is able to generate profit from its sources of funds.
 - Some sources refer to a 20% roce as being a target benchmark, although this needs to be put into the context of the business and the industry in which it operates.
+- 1
 ![[adfe8f67950b976b3aa161c3f36e968d.jpg]]
