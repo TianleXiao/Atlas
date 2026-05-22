@@ -10,4 +10,24 @@ $$
 $$
 ### What's the preferable current ratio for a business?
 For example, if a firm’s current assets are valued at $25$ million and its current liabilities equal $15$ million, then the current ratio = $\frac{25}{15} = 1.67$ (or sometimes expressed as $1.67:1$). This figure means that for every $1$ of current liabilities that the firm owes to its creditors, it has $1.67$ in highly liquid current assets.
-![[322763f2d9058599681ddd013d840fc6.jpg]]![[867a6d4a1808a82c81c7bc09427bb482.jpg]]![[e16ea135b230211c6a30370814b1db93.jpg]]
+![[322763f2d9058599681ddd013d840fc6.jpg]]
+# Acid-test (quick) ratio
+
+- The Acid-test ratio (or quick ratio) measures the extent to which a business's liquid assets will be sufficient to cover its short-term debts (within the next twelve months of the balance sheet date). It measures the very short-term liquidity of a business. It is a more accurate indicator of liquidity, as stocks can take time to sell for some businesses.
+
+- The formula for calculating the acid-test ratio is therefore:
+
+$$
+\text{Acid-test (quick) ratio} = \frac{\text{Current assets} - \text{stock}}{\text{Current liabilities}}
+$$
+
+Quick Ratio =
+
+$$
+\frac{\text{Current assets} - \text{Inventory}}{\text{Current liabilities}}
+$$
+
+What's the preferable quick ratio for a business?
+
+For example, if a business has current assets equal to $18$ million, current liabilities equal $12$ million and stock equals $2$ million, then the firm's acid test ratio = ($18$ million – $2$ million) ÷ $12$ million = $16$m / $12$m = $1.33$ (or sometimes expressed as $1.33:1$). This figure means the business has $1.33$ worth of liquid assets (without having to sell any of its inventory) for every $1$ of current liabilities that the organization incurs.
+![[867a6d4a1808a82c81c7bc09427bb482.jpg]]![[e16ea135b230211c6a30370814b1db93.jpg]]
