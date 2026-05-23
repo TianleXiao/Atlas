@@ -29,11 +29,4 @@ strategies to reduce cash outflows, strategies to increase cash inflows, and str
   This shortens the working capital cycle.
 - Improved marketing strategies to attract customers, raise brand awareness, boost sales and develop customer loyalty.
 - Use a debt factoring service where banks/financiers provide up to 80% of the value of a business's debts in cash immediately, then deal directly with outstanding debtors.
-### Diagram text:
-1. Business supplies customer with goods and services.
-2. Business 'sells' debts to factor.
-3. Factor initially pays business approximately 80% of value of debts.
-4. Customer pays factor full value of debts when due.
-5. Factor pays business remainder of debt when collected from customer; charges fees of approximately 5%.
-6. Organisation providing factoring services.
-7. Financial organisations such as banks provide debt factoring services.
+
