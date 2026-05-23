@@ -19,4 +19,8 @@ The essential questions that managers need to ask regarding any investment are:
 - What are the opportunity costs of this investment?
 **Investment appraisal is the formal process of quantifying the financial risks of an investment decision. It helps to determine if a capital investment project is worthwhile, by examining the costs of the investment and the expected return on investment.**
 ![[26cdc3d25d096a918d705444d1a439b9.jpg]]
-
+## Investment opportunities
+**Investment opportunities can exist in a variety of situations:**
+- **When contemplating introducing new products:** A business may assess the likely costs and returns from investing in one or more new products.
+- **Expansion:** This may entail evaluating whether or not to invest in new non-current assets as part of a planned programme of growth to gain market share.
+- E.g. Tottenham Hotspur Football Club in London has recently invested $1 billion in developing a new stadium, built in part on its existing ground at White Hart Lane. The club hopes to increase its sales revenue by attracting larger crowds into the new stadium which now has a capacity of 62,303 spectators.
