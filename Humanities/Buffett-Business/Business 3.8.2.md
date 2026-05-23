@@ -16,5 +16,16 @@ There are two major types of risk:
 - Techniques of investment appraisal can incorporate an allowance for risk (perhaps by reducing cash inflows or increasing costs) to assist managers in investment decisions.
 - More sophisticated techniques use the theory of probability to attempt to arrive at more accurate and less risky predictions.
 ![[5c0ee6da51d9f933cc132f47e378ce1a.jpg]]
+## Assumptions & considerations for investment appraisal
+These financial techniques are valuable but do depend upon a number of assumptions:
+- that all costs and revenues can be forecast easily and accurately for some years into the future.
+- that key variables (for example, interest rates and taxes) will not change unexpectedly.
+- that the business in question is seeking maximum profits, instead of any corporate objective.
+There are two major considerations for managers when deciding whether or not to invest in a non-current asset or another business:
+- The total profits earned by the investment over the foreseeable future.
+- How quickly the investment will recover its cost. This occurs only when the earnings from the investment exceed the cost of the investment.
 
+**Payback period**  
+*(p&b - bai 'pi' - e-ad)*  
+The amount of time it takes to recover the cost of an investment.
 ![[596bb475cd3a779f3faa8d4717557cc3.jpg]]
