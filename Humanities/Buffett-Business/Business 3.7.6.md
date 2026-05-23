@@ -10,13 +10,9 @@
 - Sale of fixed assets: In the worst-case scenario, an organization could sell its fixed assets to raise additional finance. For example, the business could sell off its underused or outdated assets. In June 2020, British Airways decided to sell some of its multi-million-dollar art collection in order to raise cash to help it get through the crisis caused by the coronavirus pandemic.
 ![[pic_20260413105139_0.jpg]]
 ## Strategies to seek additional sources of finance
-
 ### Possible strategies to seek additional sources of finance include:
-
 - **Sale and leaseback**: It entails a business selling a major fixed asset – such as a building or an airplane – and then renting it from the new owner. This provides a significant inflow of cash, but commits the firm to regular payments to lease the asset.
-
 - **Leasing**: A method of renting a range of assets that firms need. Using leasing, a business simply leases (or rents) an asset rather than buying and owning it, thereby conserving precious reserves of cash. Trucks and excavators are great examples.
-
 - **Hire purchase**: A business purchasing an expensive asset pays a percentage of the price as a deposit and the remainder in (usually monthly) instalments over an agreed period. It only becomes the owner of the asset once the final payment is made, which delays the outflow of the bulk of the payment.
 ![[Pasted image 20260420093536.png]]
 ## Vocabulary
