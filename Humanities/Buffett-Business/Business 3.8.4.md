@@ -42,3 +42,8 @@ Which investment project is more attractive?
 **Fast & easy**
 - **Illustration**: A person standing on a mountain peak, looking out over a vast landscape.
 ![[dbdda2cd77f229e333668fe776efa7de.jpg]]
+## The pbp method drawbacks
+- It does not take into account the timing of receipts/inflows – the reality is that money received in the future is worth less than money received today.
+- It is not usually suitable for determining long-term projects with a long PBP, as it is showing higher risks for these types of projects.
+- For most businesses, profit is the main goal. The PBP does not reveal the profitability of an investment, but focuses instead on the length of time needed to recoup the project costs. Hence, a potentially highly profitable investment project could be overlooked as it has a longer PBP.
+- There is no consideration for the potential net benefits after the payback period. For example, the useful life of the investment project is not considered by the PBP.
