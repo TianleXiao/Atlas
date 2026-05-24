@@ -5,7 +5,6 @@ Changes in a business's circumstances can have a substantial effect on a busines
 - Outflows are different from the forecast: It is common for a business to experience higher outflows than forecast or for outflows to take place earlier than expected.
 ---
 ![[Pasted image 20260410111553.png]]
-
 ![[5040bf1b2c0d4de0b1fd579537362396.jpg|691]]
 ## Investment, profit and cash flow
 - **Investment** refers to the purchase of fixed assets (such as equipment and machinery), with the intention of creating a financial return (profit) in the future. It is therefore often referred to as **capital expenditure**.

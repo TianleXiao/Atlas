@@ -20,9 +20,8 @@ $$
   Supreme Computing Inc. is considering spending $71,500 on new 3D printers. The annual contribution from this investment is forecast to be $33,000.  
   → The payback period will be:  
 $$
-\text{Payback period} = \frac{\$71,500}{\$33,000 / 12} = \frac{\$71,500 \times 12}{\$33,000} = 26 \text{ months}
+\text{Payback period} = \frac{\$71,500}{\$33,000 / 12} = \frac{\$71,500 \times 12}{\$33,000} = 26 \text{ months} \ (which \ amounts \ to \ 2 \ years \ and \ 2 \ months)
 $$
-										    (which amounts to 2 years and 2 months)
 - If the net cash flows (NCF) from an investment project are not the same for each time period, then the above PBP formula cannot be used. Instead, it is necessary to calculate the cumulative net cash flows to calculate the payback period.
 - The cumulative net cash flow for a particular year is the net cash flow in the previous year plus the net cash flow of the current year.
 ---
