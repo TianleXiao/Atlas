@@ -11,10 +11,14 @@
             "id": "b23cd20da929e746",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.2.2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 4.2.2"
             }
           }
         ]
@@ -191,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "b23cd20da929e746",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 4.1.4.md",
     "Humanities/Buffett-Business/Business 4.1.5.md",
