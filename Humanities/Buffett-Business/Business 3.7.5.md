@@ -2,14 +2,16 @@
 ## Dealing with cash flow problems
 There are three general ways for an organization to improve its cash flow position:  
 strategies to reduce cash outflows, strategies to increase cash inflows, and strategies that seek additional sources of finance.
+
+---
 ![[6958874896b72e3a63e5b74173dbedee.jpg]]
 ## Strategies to reduce cash outflows
-
 - **Possible strategies to reduce cash outflows include:**
   - Negotiate with creditors and suppliers to improve trade credit terms. Securing a longer credit period helps to delay cash outflows.
   - Pay for purchases of goods and services on trade credit, rather than using cash/immediate payments.
   - Opt for leasing capital equipment instead of purchasing such assets. Although this reduces the organization's net assets on its balance sheet, it can provide much needed liquidity for the firm.
   - Reducing stock levels (inventories), as this can reduce cash outflows needed to pay for purchasing stocks. This is particularly important for organizations with a long working capital cycle.
+---
 ![[pic_20260413102401_0.jpg]]
 ## Strategies to increase cash inflows
 
@@ -22,6 +24,7 @@ strategies to reduce cash outflows, strategies to increase cash inflows, and str
 - **Top right**: A cartoon character climbing a ladder labeled "10% OFF" and "25% OFF".
 - **Bottom right**: A group of people standing around a table with a large bag of money, indicating savings or financial gain.
 - **Bottom center**: A circular diagram with arrows pointing in different directions, possibly representing various strategies or concepts related to cash inflows.
+---
 ![[pic_20260413103443_0.jpg]]
 ## Strategies to increase cash inflows
 **Possible strategies to increase cash inflows include:**

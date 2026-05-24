@@ -16,8 +16,11 @@ Examples of cash outflows include payments for:
 - Insurance premiums
 **Make it rain**
 *Note: for external assessment purposes, the following items appear as cash outflows in the prescribed format of the cash flow forecast: rent, packaging, salaries and wages, cost of sales, heating and lighting, as well as delivery.*
+
+---
 ![[6aa931b72bd3faae5ff92f9e4d64dfe6.jpg]]
 $$ Net \ cash \ flow = Cash \ inflows - Cash \ outflows $$
+---
 ![[12ba48e58bf0f2e132ee456cb7ba4002.jpg]]
 ## Cash flow forecasting
 The opening balance in a cash flow forecast refers to the value of cash held by a business at the start of a trading period (usually the beginning of the month).
@@ -39,6 +42,8 @@ $$
 \text{Closing balance in previous month}
 $$
 **Note:** these formulae are not provided in the final examinations.
+
+---
 ![[499c072ec896629ddd12a7f62ef67513.jpg]]
 ## The uncertainty of cash flow forecasts
 Although the use of cash-flow forecasts can help businesses to plan and manage their finances, the process does involve a degree of uncertainty in certain situations:

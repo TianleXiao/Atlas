@@ -13,12 +13,14 @@ Or use the 3-in-1 formula:
 
 $$
 \frac{(\text{total returns} - \text{capital cost}) \div \text{years of use}}{\text{capital cost}} \times 100$$
+---
 ![[pic_20260427104254_0.jpg]]
 ## The arr method benefits
 - It is relatively straightforward to calculate, and easy for people to understand.
 - Unlike the PBP (payback period), the ARR focuses on the profits of a particular project, rather than the length of time it takes for a project to pay for itself.
 - The ARR can be used by managers and decision-makers to judge or evaluate the firm's financial performance.
 - The method can be useful to help managers, shareholders and other decision-makers to compare the relative attractiveness of different investment projects that cost different amounts of money (as the ARR figure is expressed as a percentage of the initial costs).
+---
 ![[pic_20260427105223_0.jpg]]
 ## The arr method drawbacks
 - The **ARR** ignores the timings of future net cash flows, so money received in the future is worth less than it would be if received today. This means the **ARR** may overestimate the real or true value of the financial returns on an investment.

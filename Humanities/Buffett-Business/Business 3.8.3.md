@@ -12,6 +12,7 @@ $$
 \text{Payback period} = \frac{\text{Initial investment or original cost of the asset}}{\text{Cash inflows}}
 $$
 - A shorter payback period is preferred to a longer one, as it minimizes the risks of an investment project and earns profit for the business at an earlier date. The larger the contribution (or net cash flow) per month, the shorter the payback period.
+---
 ![[0bbcafa6f226b96db921961b605c1c0b.jpg]]
 ## Calculating the pbp (1)
 
@@ -24,6 +25,7 @@ $$
 										    (which amounts to 2 years and 2 months)
 - If the net cash flows (NCF) from an investment project are not the same for each time period, then the above PBP formula cannot be used. Instead, it is necessary to calculate the cumulative net cash flows to calculate the payback period.
 - The cumulative net cash flow for a particular year is the net cash flow in the previous year plus the net cash flow of the current year.
+---
 ![[4db15aa830d320adf38f9226122f68c1.jpg]]
 ## Calculating the pbp (2)
 ### Example 2: Changing net cash flow (contribution)
@@ -34,4 +36,5 @@ To calculate the PBP (when the net cash flow or contribution is not a fixed amou
 3. Calculate the monthly NCF in that year, so in Year 4, \( \$24,000 \div 12 = \$2,000 \) per month.
 4. Find the shortfall to reach payback in the previous year (\( \$78,000 - \$74,000 \)), i.e. the initial amount spent on the investment minus the cumulative NCF in the previous year before reaching payback.
 5. Divide the difference found in Step 4 by the answer in Step 3, i.e. \( \$4,000 \div \$2,000 = 2 \) months. Hence, the PBP for Thornton Inc. is 3 years and 2 months.
+---
 ![[fbc3af46b5cdf503a4d142015f17db11.jpg]]

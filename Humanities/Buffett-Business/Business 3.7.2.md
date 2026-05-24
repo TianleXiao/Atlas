@@ -5,6 +5,7 @@ For some businesses, the working capital cycle is very short (quick) as they rec
 For other businesses, the working capital cycle is much longer (slow) due to the long production process and/or the high price of their products.
 - For example, customers are likely to pay in instalments and/or purchase using credit terms for expensive products such as Lamborghini super sports cars, aged diamond rings.
 They are also likely to wait longer for air Airbus aircraft to be delivered, due to the high demand and the more complicated, longer manufacturing process.
+---
 ![[2bba0c8eb22e709113d74782547e2497.jpg]]
 ## Liquidity/cash flow position
 The liquidity/cash flow position of an organization indicates the extent to which it has sufficient liquidity to continue its business activities.
@@ -14,6 +15,7 @@ Liquidity ratios examine an organization's ability to pay its short-term liabili
 - **Current ratio**  
 - **Acid test ratio** (also known as the quick ratio).
 → A liquidity problem (or cash flow problem) occurs when there is a lack of cash in the organization because its cash inflows are less than its cash outflows, i.e., it experiences negative net cash flow.
+---
 ![[b3f0f8a998d99e5ee75df8d9ab8201e2.jpg]]
 ## Cash flow forecasts
 
@@ -28,6 +30,8 @@ $$
 - A negative net cash flow/liquidity problem exists if the total outflows exceed the total inflows for a particular time period.  
 
 → Knowing in advance when the business is likely to face a period of cash shortages (or a liquidity problem) can help it to plan accordingly so that it can continue to operate.
+
+---
 ![[a9f8a7669739dd13ad4c069a95482a86.jpg]]
 ## Cash inflows
 Cash inflows are simply the money going into a business from earnings and other sources of finance. Examples of cash inflows include:
