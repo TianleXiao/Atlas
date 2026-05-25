@@ -1,1 +1,31 @@
-1
+name: Sync Laozi-Chinese Vault
+
+on:
+  push:
+    branches:
+      - main  # 当你往主分支 Push 时触发机器人
+    paths:
+      - '**'  # 监听该仓库下的所有文件变动
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Set up Git Configuration
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+
+    - name: Verify Content and Build Flow
+      run: |
+        echo "正在处理 C:\Users\Lenovo\OneDrive\Atlas\Humanities\Laozi-Chinese 专属同步流水线..."
+        echo "🤖 搬运机器人已成功激活！"
+
+    # 如果你需要机器人自动把内容同步/发布到其他地方，可以在下方扩展对应的部署脚本
+    # 如果只是作为同学的实时“中转站”，保持上面基础的触发逻辑，云端文件变动后，同学端即可通过 1 分钟定时拉取感知到
