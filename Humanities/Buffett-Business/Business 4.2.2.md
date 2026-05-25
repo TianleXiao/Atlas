@@ -70,3 +70,10 @@ Investigate the different categories of market segments used by marketers in the
 Think about the types of products that these market segments can be sold depending on their characteristics.
 ---
 ![[354a64baecf40c67ebd28cac33d091dd.jpg]]
+## Market segmentation
+(1) Demographic segmentation involves splitting consumers according to statistical characteristics of the population, such as age, gender, family size, religion, ethnicity and income.
+- **Age** – In many markets, people's tastes change with age, such as the food they eat, the books they read, or any other hobbies.
+- **Gender** – Females typically spend far more money on cosmetics, haircuts and personal hygiene products. By contrast, men tend to spend more on sports, gambling, investments, electronics and cars.
+- **Family size** – For example, all theme parks use some form of price discrimination, e.g. one adult and two children, two adults and two children, and so forth.
+- **Religion** – may have a major impact on firms, such as McDonald's being unable to sell beef products in India or pork products in Jewish districts and Muslim countries.
+- **Ethnicity** – for example, rice is a very popular staple food for people from China, India, Indonesia, Bangladesh and Vietnam (top 5 countries for rice consumption).
