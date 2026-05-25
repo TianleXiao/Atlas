@@ -68,3 +68,5 @@ Investigate the different categories of market segments used by marketers in the
 - [ ] WOOF: Well off older folk
 - [ ] SITCOM: Single income, two children, outrageous mortgage!
 Think about the types of products that these market segments can be sold depending on their characteristics.
+---
+![[354a64baecf40c67ebd28cac33d091dd.jpg]]
