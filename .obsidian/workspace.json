@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.3.md",
+                "file": "Humanities/Laozi-Chinese/Chinese 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.3"
+              "title": "Chinese 1.1"
             }
           }
         ],
@@ -210,13 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "52f6a301f21447c4",
   "lastOpenFiles": [
+    "Humanities/Laozi-Chinese/Chinese 1.2.md",
+    "Humanities/Laozi-Chinese/Chinese P1.md",
+    "Humanities/Laozi-Chinese/Chinese P1 模板.md",
+    "Humanities/Laozi-Chinese/Chinese P2.md",
+    "Humanities/Laozi-Chinese/Chinese P2 (2).md",
+    "Humanities/Laozi-Chinese/Chinese 1.1.md",
+    "Humanities/Buffett-Business/Business 4.2.3.md",
     "Humanities/Buffett-Business/Assets/1a2335c79a1fe60f23a31e6f76525738.jpg",
     "Humanities/Buffett-Business/Assets/654b041848946255be742f0185814ed5.jpg",
     "Humanities/Buffett-Business/Assets/e46aa0e2a1dfe275108b6826c853aef9.jpg",
     "Humanities/Buffett-Business/Business 4.2.2.md",
-    "Humanities/Buffett-Business/Business 4.2.3.md",
     "Humanities/Buffett-Business/Assets/dc82871a7b48cef87515cb9188b7ad95.jpg",
     "Humanities/Buffett-Business/Assets/354a64baecf40c67ebd28cac33d091dd.jpg",
     "Humanities/Buffett-Business/Assets/9a414cce1004dbd865c02fce2b5658bd.jpg",
@@ -238,18 +244,12 @@
     "Humanities/Buffett-Business/Business 3.8.3.md",
     "Humanities/Buffett-Business/Business 3.7.4.md",
     "Humanities/Buffett-Business/Business 1.2.8.md",
-    "Humanities/Buffett-Business/Business 1.2.6.md",
-    "Humanities/Buffett-Business/Business 1.3.5.md",
-    "Humanities/Buffett-Business/Business 1.3.3.md",
-    "Humanities/Buffett-Business/Business 3.8.2.md",
-    "Humanities/Buffett-Business/Business 3.8.5.md",
     "Humanities/Buffett-Business/Assets/4b322cb45a182a08acbb346eb7dce971.jpg",
     "Humanities/Buffett-Business/Assets/5048c7bc432b271331e2b59c90651843.jpg",
     "Humanities/Buffett-Business/Assets/~2277c3ebd50191aa94e1b571a0efd43.tmp",
     "Humanities/Buffett-Business/Assets/02277c3ebd50191aa94e1b571a0efd43.jpg.~tmp",
     "Humanities/Buffett-Business/Assets/02277c3ebd50191aa94e1b571a0efd43.jpg",
     "Humanities/Buffett-Business/Assets/434685e39d46b08dac90f3ac5f952410.jpg",
-    "Humanities/Buffett-Business/Assets/4c20ec18a967899ab76b8fd9a93093ef.jpg",
     "Humanities/Buffett-Business/Assets/f9ff2e0f4055a2839a2c92bd710fc668.jpg.~tmp",
     "Sciences/Euclid-Mathematics/Assets",
     "Arts/Sakamoto-Music/Magnolia.mp3",
