@@ -55,3 +55,16 @@ Market segmentation describes the process of dividing a market for a product int
   - User status
   - Life cycle stage
   - Engagement
+---
+![[9a414cce1004dbd865c02fce2b5658bd.jpg]]
+## Atl activity: segmentation acronyms
+Investigate the different categories of market segments used by marketers in the real corporate world. As a starter, consider these examples that are based on family structures or characteristics and lifestyles:
+- [ ] DINKY: Double income, no kids yet
+- [ ] DINKER: Double income, no kids, early retirement
+- [ ] DITCHED: Double income, two children, extortionate debts
+- [ ] NILK: No income, lots of kids
+- [ ] OINKY: One income, no kids yet
+- [ ] ORCHID: One recent child, hugely in debt
+- [ ] WOOF: Well off older folk
+- [ ] SITCOM: Single income, two children, outrageous mortgage!
+Think about the types of products that these market segments can be sold depending on their characteristics.
