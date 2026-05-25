@@ -8,3 +8,10 @@ However, it should be noted that the needs and preferences of all customers of a
 → Globalization has led to a convergence of tastes across the world.
 
 ---
+![[e46aa0e2a1dfe275108b6826c853aef9.jpg]]
+## Market segmentation
+(3) **Psychographic segmentation**  
+   Psychographic segmentation splits the market according to people's lifestyle choices and personal values:
+- Lifestyle choices include people's personal interests, such as their hobbies and other pursuits. For example, publishers of consumer magazines use psychographic segmentation to cater for a range of interests, such as sports, motoring, home improvement, fashion, consumer electronics, health and beauty, cinema, and weddings.
+- Personal values are the moral beliefs held by particular market segments. Examples include vegans, vegetarians and environmental activists. It can also include people's views or beliefs regarding animal testing, fair trade, and sustainability (such as reducing, recycling and reusing of products).
+---
