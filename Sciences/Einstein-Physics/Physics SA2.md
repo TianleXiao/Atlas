@@ -1,8 +1,4 @@
-## Difference between velocity and speed 
-![[2.png]]
-![[3.png]]
-## Acceleration
-![[4.png]]
+
 ## Mind Map
 ![alt text](A.0.jpg)
 ![alt text](A.1.jpg)
