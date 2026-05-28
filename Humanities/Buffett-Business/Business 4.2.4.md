@@ -13,3 +13,4 @@ For a market segment to be attractive for a business to target, it must be:
 - Professor Philip Kotler (b. 1931)
 A product position map (sometimes referred to as a perception map) is a graphical illustration of customer perception of a business, its products or brands in comparison to other firms in the industry. The contrast is based on two pre-determined criteria, such as price and quality. It shows the perception of customers by positioning the organization, product or brand relative to the positions of rivals in the same market.
 ---
+![[2d78810ea85f52e740573c7cc81d5db3.jpg]]
