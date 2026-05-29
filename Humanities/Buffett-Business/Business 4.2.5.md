@@ -7,3 +7,9 @@ Several categories of products can be identified from a typical position map tha
 - Cowboy products are those perceived by customers to be of low quality but high price. This strategy is not sustainable, as customers regard these as 'rip off' products. However, it may be used by firms to maximize sales in the short term.
 ---
 ![[9da62d6c0dd2b7429a792b819f0c8080.jpg]]
+## Mass markets vs niche markets
+Niche and mass markets are alternative approaches to marketing.
+Niche marketing is an approach that involves businesses focusing on a relatively small segment or a specific segment of the market. An example is minority sports (such as snowboarding or curling) within the larger sports market.
+Mass marketing, by contrast, is an approach that involves businesses targeting all customers (all segments) in the market for a particular product. It focuses on selling standardized (homogeneous) products to the general public or a large group of customers.
+
+---
