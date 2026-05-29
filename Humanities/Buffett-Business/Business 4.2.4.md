@@ -1,4 +1,4 @@
-![[7d21158e7b4552896b30cd141e50eba9.jpg]]
+ ![[7d21158e7b4552896b30cd141e50eba9.jpg]]
 ## Market targeting
 The target market can apply to both existing and potential customers.
 For a market segment to be attractive for a business to target, it must be:
