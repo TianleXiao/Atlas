@@ -1,1 +1,4 @@
 .obsidian/plugins/remotely-save/main.js 
+.obsidian/plugins/**/*.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
