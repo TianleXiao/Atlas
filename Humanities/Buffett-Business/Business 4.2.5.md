@@ -6,3 +6,4 @@ Several categories of products can be identified from a typical position map tha
 - Premium products are those perceived by customers to be of high quality and high price. Examples include the iPhone, Bugatti Veyron, Rolex watches, and Hermes handbags.
 - Cowboy products are those perceived by customers to be of low quality but high price. This strategy is not sustainable, as customers regard these as 'rip off' products. However, it may be used by firms to maximize sales in the short term.
 ---
+![[9da62d6c0dd2b7429a792b819f0c8080.jpg]]
