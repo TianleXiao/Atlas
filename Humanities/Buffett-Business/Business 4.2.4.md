@@ -23,7 +23,5 @@ The price of a new Porsche can range from $46,475 to over $200,000 – so it is 
 ---
 ![[4e770a7b0f5ad817dc61550eb100f632.jpg]]
 ## Position map
-
 Position maps enables marketing managers to improve their product portfolio management. Having a better picture of the way customers perceive a particular organization, product or brand helps a business to adjust its marketing mix. A reposition strategy is required if the business does not like how it is currently positioned(perceived) by customers. It can do this by creating an improved marketing mix, possibly targeting different market segments.
 
----
