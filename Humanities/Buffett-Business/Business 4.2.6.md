@@ -11,3 +11,12 @@
 - Due to their large size and global presence, large firms operating in mass markets are likely to use above-the-line promotion, such as television advertising. Coca-Cola is a major sponsor of major sporting events such as the Olympic Games, NASCAR, the NBA, and the FIFA World Cup.
 - Quite often, niche market products become so popular that they evolve into mass market products. Examples of formerly niche market products that are now mass market products include mobile phones, flatscreen televisions, and electric cars. However, the size of mass markets often means there is intense competition, which can harm sales, market share, and profit margins unless the business is able to establish brand loyalty and a unique selling point.
 ---
+![[5f08fb68814c4930993ec40021497915.jpg]]
+## Unique selling point (usp)
+- A unique selling point (USP) refers to any exclusive feature or aspect of a business, its products or brands that make it distinct from others in the same industry. Having a USP means a business, product, or brand has a distinctive factor that makes it one-of-a-kind and stand out/differentiate it in a positive way from the competition.
+- A business can have a USP in any aspect of its marketing mix. Examples include price, memorable slogan, high-quality product, convenience, value for money, business location, distribution networks, and customer experience.
+- Having a USP can go a long way in establishing market share and customer loyalty.
+- It is the ultimate purpose of product differentiation.
+- Product differentiation refers to the process by which firms attempt to make their goods and services different from those provided by other firms in the market in order to increase their own sales revenue. Examples of product differentiation strategies include product quality, design, branding, colours, packaging, and after-sales services.
+- For example, Apple's USP has been its intuitive and innovative products. Tesla's USP is its visually appealing, high-performance electric cars.
+---
