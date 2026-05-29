@@ -13,3 +13,9 @@ Niche marketing is an approach that involves businesses focusing on a relatively
 Mass marketing, by contrast, is an approach that involves businesses targeting all customers (all segments) in the market for a particular product. It focuses on selling standardized (homogeneous) products to the general public or a large group of customers.
 
 ---
+![[2af0e698041c5f0f76a26fa5a6461058.jpg]]
+## Niche marketing
+
+Niche marketing is a specific marketing strategy or marketing approach that focuses on identifying and meeting the needs and wants of a small market segment. For example, the following are examples of niche market sports: Cliff diving, Curling, Drag racing, Horse riding, Snowboarding, Synchronised swimming, Ultimate frisbee, and Wakeboarding. Businesses operating in niche markets supply highly-specialized products to cater for a small and select target market. It is a clearly identifiable group of customers who have unique needs, tastes and preferences. It is usually a subset of a larger market. For example, the IB offers some niche subjects at Standard Level within the overall IBDP.
+
+---
