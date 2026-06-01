@@ -11,14 +11,10 @@
             "id": "0f68ad682cd488e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f68ad682cd488e9",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Untitled.md",
     "Humanities/Buffett-Business/Abbreviation.md",
