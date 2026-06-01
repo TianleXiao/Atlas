@@ -21,3 +21,10 @@
 - For example, Apple's USP has been its intuitive and innovative products. Tesla's USP is its visually appealing, high-performance electric cars.
 ---
 ![[39c2330b6f55f6128b72272425d9eb70.png]]
+## Unique selling point (usp)
+### A usp has several interrelated basic components:
+- **Benefits** - what attracts customers to the organization, its products, or its brands
+- **Emotions** - what attracts people to the organization, its products, or its brands on an emotional level.
+- **Key selling point(s)** - what makes the organization, its products, or its brands better than others.
+- **Key difference(s)** from competitors - what makes the products or brand stand out from the competition.
+- **Competitive advantage** - what makes the organization attractive to customers, such as its reputation or area of expertise in a particular market.

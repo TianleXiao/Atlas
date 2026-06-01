@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "acd92fcda347ec48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.2.7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 4.2.7"
+            }
+          },
+          {
             "id": "950bcb7d1f580593",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Abbreviation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,13 +225,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bee21ea2ec8c81",
+  "active": "acd92fcda347ec48",
   "lastOpenFiles": [
-    "39c2330b6f55f6128b72272425d9eb70.png",
+    "5cde58091ef5eaa682efdcf97a12e535.png",
+    "Humanities/Buffett-Business/Business 4.2.6.md",
+    "Humanities/Buffett-Business/Business 4.2.7.md",
+    "Humanities/Buffett-Business/Assets/39c2330b6f55f6128b72272425d9eb70.png",
     "Humanities/Buffett-Business/Business 4.2.5.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 4.1.3.md",
-    "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Assets/5f08fb68814c4930993ec40021497915.jpg",
     "Humanities/Buffett-Business/Assets/175342165be26cc4013d6b2de1d47b01.jpg",
     "Humanities/Buffett-Business/Business 4.2.3.md",
@@ -238,7 +255,6 @@
     "Humanities/Buffett-Business/Business 4.2.1.md",
     "Humanities/Buffett-Business/Business 4.1.5.md",
     "Humanities/Buffett-Business/Business 4.2.2.md",
-    "Humanities/Buffett-Business/Assets/0a4b9d82dcc3799d48e516e90420cde1.jpg",
     "Humanities/Laozi-Chinese/Paper 2.md",
     "Humanities/Laozi-Chinese/Chinese P2 (2).md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
@@ -247,7 +263,6 @@
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
-    "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_3230.pdf",
