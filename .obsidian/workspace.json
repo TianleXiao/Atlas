@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Humanities/Buffett-Business/Business 4.2.7.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "4ps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,11 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "acd92fcda347ec48",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Assets/5cde58091ef5eaa682efdcf97a12e535.png",
     "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Business 4.2.7.md",
+    "Humanities/Buffett-Business/Business Toolkit.md",
+    "Humanities/Buffett-Business/Business 4.2.4.md",
+    "Humanities/Buffett-Business/Business 4.2.1.md",
+    "Humanities/Buffett-Business/Assets/5cde58091ef5eaa682efdcf97a12e535.png",
     "Humanities/Buffett-Business/Assets/39c2330b6f55f6128b72272425d9eb70.png",
     "Humanities/Buffett-Business/Business 4.2.5.md",
     "Humanities/Buffett-Business/Abbreviation.md",
@@ -245,14 +248,11 @@
     "Humanities/Buffett-Business/Assets/2af0e698041c5f0f76a26fa5a6461058.jpg",
     "Humanities/Buffett-Business/Assets/9da62d6c0dd2b7429a792b819f0c8080.jpg",
     "Humanities/Buffett-Business/Assets/1faa835890c06ea26b810007b15f435b.jpg",
-    "Humanities/Buffett-Business/Business 4.2.4.md",
     "Humanities/Buffett-Business/Assets/4e770a7b0f5ad817dc61550eb100f632.jpg",
-    "Humanities/Buffett-Business/Assets/2d78810ea85f52e740573c7cc81d5db3.jpg",
     "Sciences/Einstein-Physics/Physics SA2.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 4.1.2.md",
     "Humanities/Buffett-Business/Business 4.1.4.md",
-    "Humanities/Buffett-Business/Business 4.2.1.md",
     "Humanities/Buffett-Business/Business 4.1.5.md",
     "Humanities/Buffett-Business/Business 4.2.2.md",
     "Humanities/Laozi-Chinese/Paper 2.md",
