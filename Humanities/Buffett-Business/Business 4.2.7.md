@@ -4,3 +4,4 @@
 - **Domino's Pizza** - "You get fresh, hot pizza delivered to your door in 30 minutes or less or it's free." This slogan makes the company's USP clear as it spells out a guarantee with absolute clarity for customers.
 - **Patagonia's USP** isn't a product, a quality, or feature, but their reason for existing (its mission) - "We're In Business To Save Our Home Planet." This mission establishes the company as more than just a clothing brand, with 1% of its sales revenues being pledged to the preservation and restoration of the planet.
 ---
+![[49a9057c61f9dd6b755d11f3dc040781.jpg]]

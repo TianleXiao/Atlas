@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.4.md",
-                "mode": "preview",
+                "file": "Humanities/Buffett-Business/Business 4.2.7.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.4"
+              "title": "Business 4.2.7"
             }
           },
           {
@@ -225,13 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd92fcda347ec48",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 4.2.5.md",
+    "Humanities/Buffett-Business/Assets/49a9057c61f9dd6b755d11f3dc040781.jpg",
     "Humanities/Buffett-Business/Business 4.2.6.md",
+    "Humanities/Buffett-Business/Business 4.2.4.md",
+    "Humanities/Buffett-Business/Business 4.2.5.md",
     "Humanities/Buffett-Business/Business 4.2.7.md",
     "Humanities/Buffett-Business/Business Toolkit.md",
-    "Humanities/Buffett-Business/Business 4.2.4.md",
     "Humanities/Buffett-Business/Business 4.2.1.md",
     "Humanities/Buffett-Business/Assets/5cde58091ef5eaa682efdcf97a12e535.png",
     "Humanities/Buffett-Business/Assets/39c2330b6f55f6128b72272425d9eb70.png",
@@ -262,7 +263,6 @@
     "Humanities/Laozi-Chinese/契诃夫.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Humanities/Laozi-Chinese/Chinese P1.md",
-    "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_3230.pdf",
