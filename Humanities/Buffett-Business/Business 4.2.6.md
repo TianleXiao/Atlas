@@ -20,3 +20,4 @@
 - Product differentiation refers to the process by which firms attempt to make their goods and services different from those provided by other firms in the market in order to increase their own sales revenue. Examples of product differentiation strategies include product quality, design, branding, colours, packaging, and after-sales services.
 - For example, Apple's USP has been its intuitive and innovative products. Tesla's USP is its visually appealing, high-performance electric cars.
 ---
+![[39c2330b6f55f6128b72272425d9eb70.png]]

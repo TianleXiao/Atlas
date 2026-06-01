@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.5.md",
+                "file": "Humanities/Buffett-Business/Business 4.2.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.5"
+              "title": "Business 4.2.6"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.6.md",
+                "file": "Humanities/Buffett-Business/Abbreviation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.6"
+              "title": "Abbreviation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pbp",
+                "query": "usp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,16 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "67bee21ea2ec8c81",
   "lastOpenFiles": [
+    "39c2330b6f55f6128b72272425d9eb70.png",
+    "Humanities/Buffett-Business/Business 4.2.5.md",
+    "Humanities/Buffett-Business/Abbreviation.md",
+    "Humanities/Buffett-Business/Business 4.1.3.md",
+    "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Assets/5f08fb68814c4930993ec40021497915.jpg",
     "Humanities/Buffett-Business/Assets/175342165be26cc4013d6b2de1d47b01.jpg",
-    "Humanities/Buffett-Business/Business 4.2.5.md",
     "Humanities/Buffett-Business/Business 4.2.3.md",
     "Humanities/Buffett-Business/Business 3.8.5.md",
     "Humanities/Buffett-Business/Business 3.8.4.md",
     "Humanities/Buffett-Business/Business 3.8.3.md",
-    "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Assets/08dd588117afdc14c0da1496cc521cbd.jpg",
     "Humanities/Buffett-Business/Assets/7194dbe835cc8f6619e670e175b8a981.jpg",
     "Humanities/Buffett-Business/Assets/2af0e698041c5f0f76a26fa5a6461058.jpg",
@@ -237,7 +239,6 @@
     "Humanities/Buffett-Business/Business 4.1.5.md",
     "Humanities/Buffett-Business/Business 4.2.2.md",
     "Humanities/Buffett-Business/Assets/0a4b9d82dcc3799d48e516e90420cde1.jpg",
-    "Humanities/Buffett-Business/Assets/7d21158e7b4552896b30cd141e50eba9.jpg",
     "Humanities/Laozi-Chinese/Paper 2.md",
     "Humanities/Laozi-Chinese/Chinese P2 (2).md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
@@ -257,8 +258,6 @@
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0129.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_09_0946.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_5140.pdf",
-    "Humanities/Buffett-Business/Business 4.1.1.md",
-    "Humanities/Buffett-Business/Business 4.1.3.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
