@@ -11,10 +11,14 @@
             "id": "0f68ad682cd488e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.2.7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 4.2.7"
             }
           }
         ]
@@ -192,15 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "0f68ad682cd488e9",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.2.6.md",
+    "Humanities/Buffett-Business/Business 4.2.7.md",
+    "Humanities/Buffett-Business/Business SA1.md",
     "Untitled.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Laozi-Chinese/Paper 2.md",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260601135312.png",
-    "Humanities/Buffett-Business/Business 4.2.7.md",
     "Humanities/Buffett-Business/Assets/49a9057c61f9dd6b755d11f3dc040781.jpg",
-    "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Business 4.2.4.md",
     "Humanities/Buffett-Business/Business 4.2.5.md",
     "Humanities/Buffett-Business/Business Toolkit.md",
@@ -219,7 +224,6 @@
     "Humanities/Buffett-Business/Assets/2af0e698041c5f0f76a26fa5a6461058.jpg",
     "Humanities/Buffett-Business/Assets/9da62d6c0dd2b7429a792b819f0c8080.jpg",
     "Sciences/Einstein-Physics/Physics SA2.md",
-    "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 4.1.2.md",
     "Humanities/Buffett-Business/Business 4.1.4.md",
     "Humanities/Buffett-Business/Business 4.1.5.md",
