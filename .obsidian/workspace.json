@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,9 +225,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd92fcda347ec48",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "5cde58091ef5eaa682efdcf97a12e535.png",
+    "Humanities/Buffett-Business/Assets/5cde58091ef5eaa682efdcf97a12e535.png",
     "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Business 4.2.7.md",
     "Humanities/Buffett-Business/Assets/39c2330b6f55f6128b72272425d9eb70.png",
