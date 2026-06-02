@@ -5,3 +5,11 @@
 - **Patagonia's USP** isn't a product, a quality, or feature, but their reason for existing (its mission) - "We're In Business To Save Our Home Planet." This mission establishes the company as more than just a clothing brand, with 1% of its sales revenues being pledged to the preservation and restoration of the planet.
 ---
 ![[49a9057c61f9dd6b755d11f3dc040781.jpg]]
+## Advantages of differentiation
+- Differentiation enables businesses to charge higher prices due to the distinctive features or aspects of the products they sell.
+- It creates brand awareness and develops customer loyalty.
+- It improves product placement (distribution channels) as more distributors (such as retailers) choose to sell the product.
+- It creates better value for money from the perspective of customers, which increases sales and customer loyalty.
+- It helps to hinder or prevent new entrants in the market, thereby maintaining the business's market share.
+- Ultimately, successful differentiation creates competitive advantages for a business, such as market leadership and dominance.
+---
