@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.8.md",
+                "file": "Humanities/Buffett-Business/Business 4.2.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.8"
+              "title": "Business 4.2.7"
             }
           }
         ],
@@ -211,11 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "d3e1d0ceaa440dec",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.2.8.md",
     "Humanities/Buffett-Business/Assets/f0a2f530de67db3796da39ff96fd10f3.jpg",
     "Humanities/Buffett-Business/Business 4.2.7.md",
-    "Humanities/Buffett-Business/Business 4.2.8.md",
     "Humanities/Buffett-Business/Assets/d1f45bfef132c8e62c5391b54b0c3161.jpg",
     "Humanities/Buffett-Business/Assets/951a31186e7fa03e8c6755c453542437.jpg",
     "Sciences/Einstein-Physics/Physics SA2.md",
@@ -226,7 +226,6 @@
     "Sciences/Einstein-Physics/Assets/103213c622170d0630a04ec22c7439c7.jpg",
     "Sciences/Einstein-Physics/Assets/df0850a2d2a04a7d5953d7c0beb07d13.jpg",
     "Sciences/Einstein-Physics/Assets/646e9a36f103ef4d232664e2efc92e57.jpg",
-    "Sciences/Einstein-Physics/Assets/fab9dfa871cd828b78c7f986a8d2a18d.jpg",
     "Sciences/Einstein-Physics/Physics 1.2.md",
     "Sciences/Einstein-Physics/Physics 2.1.md",
     "Sciences/Einstein-Physics/Physics 2.2.md",
