@@ -13,3 +13,7 @@
 - It helps to hinder or prevent new entrants in the market, thereby maintaining the business's market share.
 - Ultimately, successful differentiation creates competitive advantages for a business, such as market leadership and dominance.
 ---
+![[951a31186e7fa03e8c6755c453542437.jpg]]
+
+---
+![[d1f45bfef132c8e62c5391b54b0c3161.jpg]]
