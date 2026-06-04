@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.8.md",
+                "file": "Humanities/Buffett-Business/Business 4.2.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.8"
+              "title": "Business 4.2.6"
             }
           }
         ]
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "d3e1d0ceaa440dec",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 4.2.7.md",
     "Humanities/Buffett-Business/Business 4.2.8.md",
