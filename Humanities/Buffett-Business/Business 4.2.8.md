@@ -11,3 +11,7 @@ Involves applying results of previously completed studies to your situation
 - ✅ Free or low cost
 - ✅ Results are not specific to your business
 ---
+![[768ec363b850f03f482443b3cee6f742.jpg]]
+
+---
+![[585034167192714d40e4505da9dd803b.jpg]]
