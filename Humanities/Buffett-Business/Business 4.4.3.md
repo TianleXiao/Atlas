@@ -7,3 +7,11 @@
 - Answer choices (options) used in closed questions on a survey may not represent how the survey participants actually feel.
 - Even with well-designed surveys and questions, participants may not be entirely truthful due to strategic reasons.
 ---
+![[bf2955b551436c4be4603d1593e537aa.jpg]]
+## Interviews
+Interviews involve dialogue between the interviewer (the market researcher) and the interviewees (respondents to the market research).
+The interviewer asks the interviewees a set of questions in order to gain feedback and opinions of the respondents.
+They are similar to surveys but tend to be much more detailed.
+Interviews are usually conducted face-to-face, using online technologies (such as Skype or Zoom) or using the telephone.
+
+---
