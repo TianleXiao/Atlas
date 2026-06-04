@@ -15,3 +15,6 @@ Involves applying results of previously completed studies to your situation
 
 ---
 ![[585034167192714d40e4505da9dd803b.jpg]]
+
+---
+![[b8e2e5a5faa4e6bc8177255b200461fa.jpg]]
