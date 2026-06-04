@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.2.6.md",
+                "file": "Humanities/Buffett-Business/Business 4.4.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.2.6"
+              "title": "Business 4.4.2"
+            }
+          },
+          {
+            "id": "0f29b00fab3f84af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.4.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 4.4.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,14 +211,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3e1d0ceaa440dec",
+  "active": "0f29b00fab3f84af",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 4.2.7.md",
-    "Humanities/Buffett-Business/Business 4.2.8.md",
-    "b8e2e5a5faa4e6bc8177255b200461fa.jpg",
+    "Humanities/Buffett-Business/Business 4.4.2.md",
+    "Humanities/Buffett-Business/Business 4.4.3.md",
+    "Humanities/Buffett-Business/Business 4.4.1.md",
+    "Humanities/Buffett-Business/Business 4.2.6.md",
+    "Humanities/Buffett-Business/Assets/b8e2e5a5faa4e6bc8177255b200461fa.jpg",
     "Humanities/Buffett-Business/Assets/585034167192714d40e4505da9dd803b.jpg",
     "Humanities/Buffett-Business/Assets/768ec363b850f03f482443b3cee6f742.jpg",
-    "Humanities/Buffett-Business/Business 4.2.6.md",
     "Humanities/Buffett-Business/Assets/f0a2f530de67db3796da39ff96fd10f3.jpg",
     "Humanities/Buffett-Business/Assets/d1f45bfef132c8e62c5391b54b0c3161.jpg",
     "Humanities/Buffett-Business/Assets/951a31186e7fa03e8c6755c453542437.jpg",
