@@ -5,3 +5,4 @@ The focus group members are assembled together so that researchers can ask and d
 A consumer panel refers to a **focus group** comprised of people who belong to the firm's target segment(s). For example, a motorcycle manufacturer is likely to include (loyal) motorcycle riders and enthusiasts in the group, to provide expert feedback. Typically, the researcher will observe, record and analyse the behaviour or responses of the members of the focus group.
 
 ---
+![[pic_20260605104414_0.jpg]]
