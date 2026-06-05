@@ -6,3 +6,6 @@ A consumer panel refers to a **focus group** comprised of people who belong to t
 
 ---
 ![[pic_20260605104414_0.jpg]]
+
+---
+![[pic_20260605104930_0.jpg]]
