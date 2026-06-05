@@ -16,3 +16,8 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 
 ---
 ![[dd1fdd875261f66372274b734840acb1.jpg]]
+## Interviews advantages
+- Interviews are specifically designed to meet the needs of the individual organization.
+- They can help the business to gain large amounts of qualitative data.
+- Clarification of questions or responses can take place as the researcher can ask follow-up questions. This helps to resolve potential biases in the answers.
+---
