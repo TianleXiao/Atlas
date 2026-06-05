@@ -22,3 +22,12 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 - Clarification of questions or responses can take place as the researcher can ask follow-up questions. This helps to resolve potential biases in the answers.
 ---
 ![[pic_20260605102320_0.jpg]]
+## Interviews disadvantages
+- As only a small number of respondents are involved, the findings might not be representative of the opinions of the market.
+- Potential interviewer bias might occur, thereby distorting the findings or analysis of the responses.
+- Interviews can be very time-consuming and are therefore a costly method of market research. Interviews may take a large amount of time to complete, so interviewees may be offered a financial incentive to take part.
+### Examples of confirmation bias
+- Not seeking out decisive facts
+- Interpreting information to support your existing belief
+- Only remembering details that uphold your belief
+- Ignoring information that challenges your belief
