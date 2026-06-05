@@ -21,3 +21,4 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 - They can help the business to gain large amounts of qualitative data.
 - Clarification of questions or responses can take place as the researcher can ask follow-up questions. This helps to resolve potential biases in the answers.
 ---
+![[pic_20260605102320_0.jpg]]
