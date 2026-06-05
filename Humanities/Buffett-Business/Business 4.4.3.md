@@ -15,3 +15,4 @@ They are similar to surveys but tend to be much more detailed.
 Interviews are usually conducted face-to-face, using online technologies (such as Skype or Zoom) or using the telephone.
 
 ---
+![[dd1fdd875261f66372274b734840acb1.jpg]]
