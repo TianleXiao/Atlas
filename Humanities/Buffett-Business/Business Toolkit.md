@@ -18,3 +18,4 @@ The Ansoff matrix was developed by Igor Ansoff (1918–2002). It examines strate
 + Place
 + Promotion
 ---
+![[Pasted image 20260608102120.png]]
