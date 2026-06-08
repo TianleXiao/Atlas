@@ -19,3 +19,7 @@ Information available on the internet
 - Public libraries
 - Educational institutions
 ---
+![[e95865e3b8fbf2213372ee18912aed1c.jpg]]
+
+---
+![[bca38b6a4651adc162aa4bf8110e4fe2.jpg]]
