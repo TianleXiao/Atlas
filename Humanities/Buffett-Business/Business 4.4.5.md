@@ -20,6 +20,13 @@ Information available on the internet
 - Educational institutions
 ---
 ![[e95865e3b8fbf2213372ee18912aed1c.jpg]]
+## Market analyses
+A market analysis report contains data and information about a particular product, market or industry. The market research information might include up-to-date data such as market size, market growth, and information on competitors.
+Examples of such sources include: Business Insider, Statista, Euromonitor, Eurostat, Datamonitor and Nielsen.
+**Market research report**
+The report covers market growth drivers and restraints, key market regulations, information analysis of new products.
+The market leaders and key market trends, market share analysis for major players.
+➔ Businesses often use market analyses to help prepare their business plans and corporate strategies.
 
 ---
 ![[bca38b6a4651adc162aa4bf8110e4fe2.jpg]]
