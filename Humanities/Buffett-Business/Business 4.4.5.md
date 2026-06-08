@@ -30,3 +30,45 @@ The market leaders and key market trends, market share analysis for major player
 
 ---
 ![[bca38b6a4651adc162aa4bf8110e4fe2.jpg]]
+## Market analyses advantages
+
+**Beeronomics: The price of a pint around Europe**  
+*Average beer price in selected European countries*
+
+1. **China**  
+   - 10.10  
+2. **Zurich**  
+   - 9.70  
+3. **Paris**  
+   - 9.30  
+4. **Stockholm**  
+   - 9.30  
+5. **London**  
+   - 9.20  
+6. **Dublin**  
+   - 9.10  
+7. **Amsterdam**  
+   - 9.10  
+8. **Madrid**  
+   - 9.10  
+9. **Athens**  
+   - 9.10  
+10. **Moscow**  
+    - 9.10  
+11. **Vienna**  
+    - 9.10  
+12. **Brussels**  
+    - 9.10  
+13. **Berlin**  
+    - 9.10  
+14. **Istanbul**  
+    - 9.10  
+15. **Prague**  
+    - 9.10  
+
+**Global leading 10 countries in beer production in 2020 (in million hectolitres)**  
+*Production in million hectolitres*
+
+- **Market analyses are generally cheaper, and less time-consuming to gather, than primary market research as an alternative.**
+- **In addition, as a form of secondary research, the information has already been gathered and is available. This helps firms to quickly access up-to-date detailed market data and trends, about various aspects of a product, market or industry.**
+- **Market research/consulting agencies specialize in producing market analyses, providing detailed market intelligence reports. Most organizations do not have such expertise to gather data to produce such detailed and constantly updated market analyses reports.**
