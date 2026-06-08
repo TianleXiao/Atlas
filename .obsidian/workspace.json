@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "survey",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d39a0a557874522",
+  "active": "e1c3bc49e54783d1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 4.4.5.md",
     "Humanities/Buffett-Business/Business 4.4.4.md",
