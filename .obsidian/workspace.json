@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
+                "file": "Humanities/Buffett-Business/Business 4.4.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics 2.2"
+              "title": "Business 4.4.5"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,22 +196,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 4.4.5.md",
+    "Humanities/Buffett-Business/Business 4.4.2.md",
+    "Humanities/Buffett-Business/Business 4.4.1.md",
+    "Humanities/Buffett-Business/Business 4.4.3.md",
     "Humanities/Buffett-Business/Business 4.4.4.md",
+    "Humanities/Buffett-Business/Business 4.4.5.md",
+    "Humanities/Buffett-Business/Business SA1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
     "Humanities/Buffett-Business/Assets/pic_20260605113357_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260605111514_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260605111116_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260605104930_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260605104414_0.jpg",
-    "Humanities/Buffett-Business/Business 4.4.3.md",
     "Humanities/Buffett-Business/Assets/pic_20260605102751_0.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260605102320_0.jpg",
-    "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 4.2.4.md",
-    "Humanities/Buffett-Business/Business 4.4.1.md",
-    "Humanities/Buffett-Business/Business 4.4.2.md",
     "Humanities/Buffett-Business/Assets/dd1fdd875261f66372274b734840acb1.jpg",
     "Humanities/Buffett-Business/Assets/bf2955b551436c4be4603d1593e537aa.jpg",
     "Humanities/Buffett-Business/Assets/7ada8a543eaf727427d39049df20a3c0.jpg",
