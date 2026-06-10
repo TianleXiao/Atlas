@@ -10,3 +10,8 @@
 - There is potential bias from the journalists and authors, especially op-eds, opinions and editorials, which are usually subjective commentaries on the zeitgeist.
 - Articles can become out of date (and hence irrelevant) quite quickly.
 - Many magazines, such as IB Review, require a paid subscription in order for users to access the resource.
+---
+![[92f64742e9c1382ff1e0e560432d83ff.jpg]]
+
+---
+![[8d771aa29393db534240e28b3ceddfdd.jpg]]
