@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.4.4.md",
+                "file": "Humanities/Buffett-Business/Business 4.4.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.4.4"
+              "title": "Business 4.4.9"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primary",
+                "query": "color",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,8 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "0398d16eaf00a5fe",
   "lastOpenFiles": [
+    "849dbe5c8305f10b4cecc06164f119ac.jpg",
+    "Humanities/Buffett-Business/Business SA1.md",
+    "Humanities/Buffett-Business/Business 1.4.2.md",
+    "Humanities/Buffett-Business/Business 4.4.4.md",
     "Humanities/Buffett-Business/Business 4.4.5.md",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
     "Humanities/Buffett-Business/Business 4.4.8.md",
@@ -228,7 +232,6 @@
     "Humanities/Buffett-Business/Assets/92f64742e9c1382ff1e0e560432d83ff.jpg",
     "Humanities/Buffett-Business/Business 4.4.2.md",
     "Humanities/Buffett-Business/Business 4.4.3.md",
-    "Humanities/Buffett-Business/Business 4.4.4.md",
     "Humanities/Buffett-Business/Business 4.4.7.md",
     "Humanities/Buffett-Business/Business 4.4.6.md",
     "Humanities/Buffett-Business/Assets/acb90def6d55db6b34ed4dcf20724810.jpg",
@@ -240,15 +243,12 @@
     "Humanities/Buffett-Business/Assets/29faf7b6fa19712fc7581ce700b6bc7c.jpg",
     "Humanities/Buffett-Business/Business Toolkit.md",
     "Humanities/Buffett-Business/Business 4.4.1.md",
-    "Humanities/Buffett-Business/Business SA1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
     "Humanities/Buffett-Business/Business 4.2.4.md",
     "Humanities/Buffett-Business/Business 1.2.4.md",
     "Humanities/Buffett-Business/Business 1.2.6.md",
     "Humanities/Buffett-Business/Business 1.3.1.md",
     "Humanities/Buffett-Business/Business 1.3.2.md",
-    "Humanities/Buffett-Business/Business 1.3.4.md",
-    "Humanities/Buffett-Business/Business 1.4.1.md",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_3230.pdf",
