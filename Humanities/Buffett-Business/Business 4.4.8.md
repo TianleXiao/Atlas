@@ -21,3 +21,7 @@ However, given the vast volume of information available online, market researche
 
 ---
 ![[8d771aa29393db534240e28b3ceddfdd.jpg]]
+## Online content advantages
+- Online content can provide market researchers with access to a large and broad range of data and information.
+- Information is generally available quickly and at relatively low cost. A lot of online content is readily available free of charge.
+- Official company websites provide up-to-date news and information about current matters related to the organization and the market(s) in which it operates.
