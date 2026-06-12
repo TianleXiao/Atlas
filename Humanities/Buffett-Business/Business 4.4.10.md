@@ -12,11 +12,8 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 - It is a quick and simple method of sampling, particularly if research participants are freely available.
 ---
 ![[5b2e923b97cce27bef1c001a5693f19f.jpg]]
-
 ## Random sampling disadvantages
-
 - Random sampling only tends to work well if members of a population are likely to have similar views or characteristics.
-
 - The sample, being just random, could be very skewed, so is not necessarily representative of the population.
-
 - The sample needs to be large enough to generate results consistent with the opinions and views of the target population, but this can be time consuming and costly to implement.
+---
