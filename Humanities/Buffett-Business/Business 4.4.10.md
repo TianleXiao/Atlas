@@ -17,3 +17,4 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 - The sample, being just random, could be very skewed, so is not necessarily representative of the population.
 - The sample needs to be large enough to generate results consistent with the opinions and views of the target population, but this can be time consuming and costly to implement.
 ---
+![[a0048765c7380cec509f775ae1b31f0d.jpg]]
