@@ -26,6 +26,10 @@ There are three sampling methods that can be used:
 > If the sample size is too small, the results are unlikely to be statistically valid (representative of the population). However, very large sample sizes increase the costs and complexities of market research.
 ---
 ![[a94f2bf7021da30b55382cc250c50bc5.jpg]]
-
+## Quota sampling advantages
+- It is suitable when researchers want to detect possible relationships between sub-groups.
+- It enables researchers to investigate particular traits (characteristics) of a certain sub-group in order to improve its marketing strategies.
+- The researcher has control of who is included in the sample.
+- The findings are usually more reliable than those collected from random sampling, especially where the proportions of the different sub-groups of the population are known in advance.
 ---
 ![[a510886c7b354494d84ee7318cd5f4ab.jpg]]
