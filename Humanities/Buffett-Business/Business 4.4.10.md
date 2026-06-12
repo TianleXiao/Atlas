@@ -18,3 +18,8 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 - The sample needs to be large enough to generate results consistent with the opinions and views of the target population, but this can be time consuming and costly to implement.
 ---
 ![[a0048765c7380cec509f775ae1b31f0d.jpg]]
+## Convenience sampling
+Convenience sampling refers to the practice of using people that are within easy reach, in an unplanned way, to conduct market research. The sample is simply made up of whoever is willing to participate in the research.
+Therefore, it is the least representative method of sampling. Unless very large sample sizes are used, convenience sampling is of limited use. However, as the name suggests, convenience sampling makes it simple for market researchers to carry out the study.
+
+---
