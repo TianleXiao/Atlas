@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expenditure",
+                "query": "3.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "e1c3bc49e54783d1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 3.8.1.md",
     "Humanities/Buffett-Business/Business 3.7.4.md",
