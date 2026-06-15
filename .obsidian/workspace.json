@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "20ce6906a4e0b1de",
+        "id": "0eca5adfcaeabf4d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ecf52bf9bcb99b0",
+            "id": "152255db0c48ddfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.7.1.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Business 3.7.1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -74,8 +77,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "152255db0c48ddfd",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-06-15.md",
+    "Sciences/Einstein-Physics/Physics SA2.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
+    "Humanities/Buffett-Business/Business 3.7.1.md",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
     "Humanities/Buffett-Business/Business 3.8.1.md",
     "Humanities/Buffett-Business/Business 3.7.4.md",
@@ -219,12 +227,6 @@
     "Humanities/Buffett-Business/Business 4.4.10.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
     "Humanities/Buffett-Business/Business 4.2.1.md",
-    "Humanities/Buffett-Business/Business 4.1.3.md",
-    "Humanities/Buffett-Business/Abbreviation.md",
-    "Humanities/Buffett-Business/Business 1.5.2.md",
-    "Humanities/Buffett-Business/Business 1.2.3.md",
-    "Humanities/Buffett-Business/Business 4.2.2.md",
-    "Humanities/Buffett-Business/Business Toolkit.md",
     "Humanities/Buffett-Business/Assets/98438409774515a1e14ab12d0aa9a784 1.jpg",
     "Humanities/Buffett-Business/Assets/98438409774515a1e14ab12d0aa9a784.jpg",
     "Humanities/Buffett-Business/Assets/c6055d9e83a228c3671524f57541f2a9.jpg",
@@ -245,7 +247,6 @@
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_2328.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0129.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_09_0946.pdf",
-    "Untitled.canvas",
     "未命名.canvas"
   ]
 }
