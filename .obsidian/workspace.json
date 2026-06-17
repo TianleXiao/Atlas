@@ -11,10 +11,14 @@
             "id": "3908c33de803fe10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business IA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business IA"
             }
           }
         ]
@@ -194,8 +198,12 @@
   },
   "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Humanities/Buffett-Business/Assets/763db542180ebba85d0ca970373332fc.jpg",
+    "Humanities/Buffett-Business/Assets/d0c1d3306154a2c152f1c5e010204f5b.jpg",
+    "Humanities/Buffett-Business/Assets/b72638c835ccd089f443e8aa79a850dc.jpg",
     "2026-06-15.md",
+    "Humanities/Buffett-Business/Business IA.md",
+    "Untitled.canvas",
     "Sciences/Einstein-Physics/Physics SA2.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
@@ -219,7 +227,6 @@
     "Humanities/Buffett-Business/Business 4.4.9.md",
     "Humanities/Buffett-Business/Business 4.4.10.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
-    "Humanities/Buffett-Business/Business 4.2.1.md",
     "Humanities/Buffett-Business/Assets/98438409774515a1e14ab12d0aa9a784 1.jpg",
     "Humanities/Buffett-Business/Assets/98438409774515a1e14ab12d0aa9a784.jpg",
     "Humanities/Buffett-Business/Assets/c6055d9e83a228c3671524f57541f2a9.jpg",
@@ -228,9 +235,7 @@
     "Humanities/Buffett-Business/Assets/5b2e923b97cce27bef1c001a5693f19f.jpg",
     "Humanities/Buffett-Business/Assets/ee4210321f3f8fc323b9435842ed4013.jpg",
     "Humanities/Buffett-Business/Assets/a22d9bbe77edd7ba8f55362fcbe46a02.jpg",
-    "Humanities/Buffett-Business/Assets/a510886c7b354494d84ee7318cd5f4ab.jpg",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
-    "Humanities/Buffett-Business/Assets/a94f2bf7021da30b55382cc250c50bc5.jpg",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_3230.pdf",
