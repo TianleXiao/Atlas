@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0eca5adfcaeabf4d",
+        "id": "ca3c556fc5d3b881",
         "type": "tabs",
         "children": [
           {
-            "id": "152255db0c48ddfd",
+            "id": "3908c33de803fe10",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -14,
-                  "y": -133,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "152255db0c48ddfd",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2026-06-15.md",
