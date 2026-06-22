@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3908c33de803fe10",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 3.7.3.md",
     "Humanities/Buffett-Business/Business 3.7.2.md",
