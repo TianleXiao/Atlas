@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business Toolkit.md",
-                "mode": "preview",
+                "file": "Humanities/Buffett-Business/Statement.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Toolkit"
+              "title": "Statement"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "divid",
+                "query": "dividends",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,13 +196,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
+    "Humanities/Buffett-Business/Assets/Screenshot 2026-06-29 195100.png",
+    "Humanities/Buffett-Business/Business 3.3.2.md",
+    "Humanities/Buffett-Business/Business 3.3.3.md",
+    "Humanities/Buffett-Business/Business 3.3.4.md",
+    "Humanities/Buffett-Business/Business 3.4.1.md",
+    "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Statement.md",
-    "Humanities/Buffett-Business/Business IA.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business Toolkit.md",
+    "Humanities/Buffett-Business/Business IA.md",
+    "Humanities/Buffett-Business/Business 1.3.3.md",
+    "Humanities/Buffett-Business/Business 1.4.1.md",
+    "Humanities/Buffett-Business/Business 3.2.1.md",
+    "Humanities/Buffett-Business/Business 3.3.5.md",
+    "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
+    "Humanities/Buffett-Business/Business 3.4.4.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 4.4.2.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
@@ -219,18 +229,7 @@
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
     "Humanities/Laozi-Chinese/Chinese P2 (2).md",
-    "Humanities/Laozi-Chinese/Paper 2.md",
-    "Humanities/Laozi-Chinese/台北人.md",
-    "Humanities/Laozi-Chinese/契诃夫.md",
-    "Humanities/Buffett-Business/Business 3.4.3.md",
-    "Humanities/Buffett-Business/Business 3.2.2.md",
-    "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093441.png",
-    "Humanities/Buffett-Business/Business 3.7.2.md",
-    "Humanities/Buffett-Business/Business 3.7.1.md",
-    "Humanities/Buffett-Business/Business 1.3.4.md",
-    "Humanities/Buffett-Business/Business 1.3.3.md",
-    "Humanities/Buffett-Business/Business 3.5.3.md",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093027.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093013.png",
     "Sciences/Mendeleev-Chemistry/Chemistry R 3.1.jpg",
