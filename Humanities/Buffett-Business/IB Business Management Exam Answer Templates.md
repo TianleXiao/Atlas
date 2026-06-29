@@ -36,12 +36,12 @@
 
 ### Structure:
 
-| Section               | Content Requirements                                                                               |
-| :-------------------- | :------------------------------------------------------------------------------------------------- |
-| **Introduction**      | Define the main term and state its relevance to the specific business in the case.                 |
-| **Arguments FOR**     | 2 Points. Explain the benefits. **Must link to Case:** e.g., WE's "brand identity".                |
-| **Arguments AGAINST** | 2 Points. Explain the drawbacks/risks. **Must link to Case:** e.g., WE's "falling profit margins". |
-| **Conclusion**        | Use the **SLOT** method to provide a final recommendation.                                         |
+| Section          | Content Requirements                                                               |
+| :--------------- | :--------------------------------------------------------------------------------- |
+| **Introduction** | Define the main term and state its relevance to the specific business in the case. |
+| **Option 1**     | True/False. **Must link to Case:** e.g., WE's "brand identity".                    |
+| **Option 2**     | True/False. **Must link to Case:** e.g., WE's "falling profit margins".            |
+| **Conclusion**   | Use the **SLOT** method to provide a final recommendation.                         |
 
 ### Evaluation Technique (SLOT):
 * **S**hort vs. Long term: How does the impact change over time?
