@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Statement.md",
+                "file": "Humanities/Buffett-Business/Business 3.5.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statement"
+              "title": "Business 3.5.1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "146b9c344c71c2ac",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Statement.md",
     "Pasted image 20260630142734.png",
     "Humanities/Buffett-Business/Business 4.4.11.md",
     "Humanities/Buffett-Business/Business 4.4.10.md",
@@ -233,7 +234,6 @@
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093441.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093027.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093013.png",
-    "Sciences/Mendeleev-Chemistry/Chemistry R 3.1.jpg",
     "Untitled.canvas",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
