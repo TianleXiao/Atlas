@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e5e66f3697b66b",
+        "id": "1a1363b9c4a40e36",
         "type": "tabs",
         "children": [
           {
-            "id": "146b9c344c71c2ac",
+            "id": "8d688331a944d0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.5.1.md",
+                "file": "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.5.1"
+              "title": "Mathematics 2.2"
             }
           }
         ]
@@ -196,8 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "8d688331a944d0f6",
   "lastOpenFiles": [
+    "Sciences/Euclid-Mathematics/Mathematics SA1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.4.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
+    "Humanities/Buffett-Business/Business 3.5.1.md",
     "Humanities/Buffett-Business/Statement.md",
     "Pasted image 20260630142734.png",
     "Humanities/Buffett-Business/Business 4.4.11.md",
@@ -216,15 +225,6 @@
     "Humanities/Buffett-Business/Business 4.2.4.md",
     "Humanities/Buffett-Business/Business 4.2.3.md",
     "Humanities/Buffett-Business/Business 4.2.2.md",
-    "Humanities/Buffett-Business/Business 4.2.1.md",
-    "Humanities/Buffett-Business/Business 4.1.5.md",
-    "Humanities/Buffett-Business/Business 4.1.4.md",
-    "Humanities/Buffett-Business/Business 4.1.3.md",
-    "Humanities/Buffett-Business/Business 4.1.2.md",
-    "Humanities/Buffett-Business/Business 4.1.1.md",
-    "Humanities/Buffett-Business/Business 3.8.5.md",
-    "Humanities/Buffett-Business/Business 3.8.4.md",
-    "Humanities/Buffett-Business/Business 3.8.3.md",
     "Humanities/Buffett-Business/Assets/Screenshot 2026-06-29 195100.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260306142926.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090000.png",
