@@ -4,4 +4,9 @@
 **Distance:** length of path travelled.
 ### Same in 2D
 ![[Pasted image 20260712142850.png]] 
-   
+$$
+Speed=\frac{Distance}{Time}
+$$
+$$
+Velocity=\frac{Displacement}{Time}
+$$
