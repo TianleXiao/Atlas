@@ -10,4 +10,4 @@ $$
 $$
 Velocity=\frac{Displacement}{Time}
 $$
- 
+  
