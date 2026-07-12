@@ -10,4 +10,3 @@ $$
 $$
 Velocity=\frac{Displacement}{Time}
 $$
-n  
