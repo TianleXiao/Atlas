@@ -4,4 +4,4 @@
 **Distance:** length of path travelled.
 ### Same in 2D
 ![[Pasted image 20260712142850.png]] 
-### Position, Distance, Displacement in 
+   
