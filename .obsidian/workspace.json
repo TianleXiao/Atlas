@@ -11,12 +11,14 @@
             "id": "8d688331a944d0f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Assets/Pasted image 20260630142734.png"
+                "file": "Humanities/Hemingway-English/English SA1.2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260630142734"
+              "icon": "lucide-file",
+              "title": "English SA1.2"
             }
           }
         ]
@@ -196,6 +198,21 @@
   },
   "active": "8d688331a944d0f6",
   "lastOpenFiles": [
+    "Humanities/Hemingway-English/English SA1.1.md",
+    "Humanities/Hemingway-English/English SA1.2.md",
+    "Humanities/Hemingway-English/Timeline.md",
+    "Sciences/Einstein-Physics/Physics 1.1.md",
+    "Sciences/Einstein-Physics/Physics 2.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 5.3.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry R 3.1.jpg",
+    "Sciences/Mendeleev-Chemistry/Chemistry SA1.md",
+    "Sciences/Einstein-Physics/Physics SA2.md",
+    "Humanities/Buffett-Business/Business SA1.md",
+    "Humanities/Buffett-Business/Business Toolkit.md",
+    "Humanities/Buffett-Business/Business 4.4.6.md",
+    "Humanities/Buffett-Business/Business 4.4.2.md",
+    "Humanities/Buffett-Business/Business 1.1.4.md",
+    "Humanities/Buffett-Business/Assets/Pasted image 20260630142734.png",
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
@@ -207,22 +224,8 @@
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Humanities/Buffett-Business/Business 3.5.1.md",
     "Humanities/Buffett-Business/Statement.md",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260630142734.png",
     "Humanities/Buffett-Business/Business 4.4.11.md",
     "Humanities/Buffett-Business/Business 4.4.10.md",
-    "Humanities/Buffett-Business/Business 4.4.9.md",
-    "Humanities/Buffett-Business/Business 4.4.8.md",
-    "Humanities/Buffett-Business/Business 4.4.7.md",
-    "Humanities/Buffett-Business/Business 4.4.6.md",
-    "Humanities/Buffett-Business/Business 4.4.5.md",
-    "Humanities/Buffett-Business/Business 4.4.4.md",
-    "Humanities/Buffett-Business/Business 4.4.3.md",
-    "Humanities/Buffett-Business/Business 4.4.2.md",
-    "Humanities/Buffett-Business/Business 4.4.1.md",
-    "Humanities/Buffett-Business/Business 4.2.6.md",
-    "Humanities/Buffett-Business/Business 4.2.5.md",
-    "Humanities/Buffett-Business/Business 4.2.4.md",
-    "Humanities/Buffett-Business/Business 4.2.3.md",
     "Humanities/Buffett-Business/Assets/Screenshot 2026-06-29 195100.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260306142926.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090000.png",
@@ -231,7 +234,6 @@
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107081400.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093441.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20260624093027.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20260624093013.png",
     "Untitled.canvas",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
