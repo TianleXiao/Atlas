@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caculus.md",
+                "file": "Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caculus"
+              "title": "Calculus"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -214,7 +215,7 @@
   "active": "f2a5795dd5c6b20a",
   "lastOpenFiles": [
     "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
-    "Caculus.md",
+    "Calculus.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
     "Sciences/Einstein-Physics/Physics A.1.2.md",
