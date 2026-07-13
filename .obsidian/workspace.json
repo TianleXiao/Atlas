@@ -11,10 +11,14 @@
             "id": "46363e5647a3a9c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Einstein-Physics/Physics A.1.2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics A.1.2"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
