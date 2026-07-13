@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Mathematics 1.1"
             }
-          },
-          {
-            "id": "f2a5795dd5c6b20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calculus"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a5795dd5c6b20a",
+  "active": "ab839d51ef467725",
   "lastOpenFiles": [
-    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
     "Calculus.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
     "Sciences/Einstein-Physics/Physics A.1.2.md",
