@@ -18,7 +18,7 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
 
 ## Joint Venture Vs Strategic Alliance
-![alt text](4.png)
+![alt text](Humanities/Buffett-Business/Assets/4.png)
 ## Benefits of Joint Ventures
 
 - **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
