@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "314ff82b96aea63c",
+            "id": "52dd0df39d1c4a7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Einstein-Physics/Physics A.1.2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics A.1.2"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -194,8 +197,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "314ff82b96aea63c",
+  "active": "52dd0df39d1c4a7e",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Physics A.0.md",
     "Untitled.canvas",
     "Sciences/Mendeleev-Chemistry/Chemistry S.1.1.md",
     "Sciences/Mendeleev-Chemistry/Arts/Pasted image 20260713162916.png",
@@ -223,7 +227,6 @@
     "Sciences/Einstein-Physics/Physics A.1.1.md",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260712142850.png",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260712142830.png",
-    "Sciences/Einstein-Physics/Physics A.0.md",
     "Sciences/Einstein-Physics/Physics SA2.md",
     "List.md",
     "Humanities/Hemingway-English/English SA1.2.md",
