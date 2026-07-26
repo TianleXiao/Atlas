@@ -10,3 +10,4 @@
 # Tension
 
 ![[Pasted image 20260726150328.png]]
+# Normal Force
