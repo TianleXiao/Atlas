@@ -7,3 +7,6 @@
 # Classifying Force
 
 ![[Pasted image 20260726142411.png]]
+# Tension
+
+![[Pasted image 20260726150328.png]]
