@@ -11,3 +11,7 @@
 
 ![[Pasted image 20260726150328.png]]
 # Normal Force
+
+![[Pasted image 20260726154731.png]]
+
+# Frictional Force
