@@ -15,3 +15,6 @@
 ![[Pasted image 20260726154731.png]]
 
 # Frictional Force
+
+![[Pasted image 20260726155210.png]]
+
