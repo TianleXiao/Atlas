@@ -5,3 +5,5 @@
 
 ![[Pasted image 20260726140450.png]]
 # Classifying Force
+
+![[Pasted image 20260726142411.png]]
