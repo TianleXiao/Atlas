@@ -35,8 +35,7 @@
               "title": "Chemistry S.1.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -213,8 +211,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2acb65d61e5f61bd",
+  "active": "52dd0df39d1c4a7e",
   "lastOpenFiles": [
+    "Sciences/Mendeleev-Chemistry/Chemistry S.1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
     "Sciences/Einstein-Physics/Physics A.2.1.md",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260726155210.png",
@@ -229,7 +228,6 @@
     "Sciences/Einstein-Physics/Physics A.1.2.md",
     "Sciences/Einstein-Physics/Physics A.0.md",
     "Untitled.canvas",
-    "Sciences/Mendeleev-Chemistry/Chemistry S.1.1.md",
     "Sciences/Mendeleev-Chemistry/Arts/Pasted image 20260713162916.png",
     "Assets",
     "Sciences/Mendeleev-Chemistry/Arts/Pasted image 20260713163430.png",
