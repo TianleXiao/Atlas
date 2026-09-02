@@ -11,10 +11,14 @@
             "id": "96371b3d1ba08312",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.4.11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 4.4.11"
             }
           }
         ]
@@ -197,6 +201,9 @@
   },
   "active": "96371b3d1ba08312",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.4.10.md",
+    "Humanities/Buffett-Business/Business 4.4.9.md",
+    "Humanities/Buffett-Business/Business 4.4.11.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.2.md",
     "Sciences/Euclid-Mathematics/Assets/Pasted image 20260727152511.png",
@@ -232,8 +239,6 @@
     "Humanities/Buffett-Business/Business 3.5.4.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.1.md",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260713151127.png",
-    "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
