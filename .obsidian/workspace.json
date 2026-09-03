@@ -11,13 +11,32 @@
             "id": "4faae882386057e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TOK/破题之法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "破题之法"
+            }
+          },
+          {
+            "id": "cda28b9d294bac7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK/TOK-G12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOK-G12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,13 +214,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4faae882386057e3",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "TOK/Assets",
+    "TOK/TOK-G12.md",
+    "Untitled.md",
+    "TOK/Assets/ce8ccbdd3ee74f09cf53b65ff83bf048.jpg",
+    "TOK/破题之法.md",
+    "TOK/TOK.md",
     "TOK/TOK-Notes-Obsidian/TOK_Notes/Knowledge-Framework.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
-    "TOK/破题之法.md",
     "TOK/TOK笔记-Obsidian.zip",
-    "TOK/TOK.md",
     "TOK/TOK-Notes-Obsidian.zip",
     "TOK",
     "方法与工具.md",
@@ -231,13 +254,9 @@
     "Humanities/Buffett-Business/Business 3.2.7.md",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260726142411.png",
     "Sciences/Einstein-Physics/Assets/Pasted image 20260726140450.png",
-    "Sciences/Einstein-Physics/Physics A.1.3.md",
-    "Sciences/Einstein-Physics/Physics A.1.2.md",
-    "Sciences/Einstein-Physics/Physics A.0.md",
     "Untitled.canvas",
     "Sciences/Mendeleev-Chemistry/Arts/Pasted image 20260713162916.png",
     "Assets",
-    "Sciences/Mendeleev-Chemistry/Arts/Pasted image 20260713163430.png",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
