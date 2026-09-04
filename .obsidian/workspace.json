@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK/TOK-G12.md",
+                "file": "TOK/TOK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOK-G12"
+              "title": "TOK"
             }
           }
         ],
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 305.5
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -214,14 +214,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "cda28b9d294bac7f",
   "lastOpenFiles": [
-    "TOK/Assets",
     "TOK/TOK-G12.md",
-    "Untitled.md",
-    "TOK/Assets/ce8ccbdd3ee74f09cf53b65ff83bf048.jpg",
     "TOK/破题之法.md",
     "TOK/TOK.md",
+    "Untitled.md",
+    "TOK/Assets",
+    "TOK/Assets/ce8ccbdd3ee74f09cf53b65ff83bf048.jpg",
     "TOK/TOK-Notes-Obsidian/TOK_Notes/Knowledge-Framework.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
     "TOK/TOK笔记-Obsidian.zip",
@@ -262,7 +262,6 @@
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_3230.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_2016.pdf",
-    "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_1242.pdf",
     "未命名.canvas"
   ]
 }
