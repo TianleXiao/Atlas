@@ -21,3 +21,12 @@
 - Extension strategies may be required in order to lengthen the product's life cycle. Examples include adding new features to the product or launching a limited edition to spark renewed interest.
 - Investment costs will be low as the product becomes well-established and mature, profit will peak, and cash flow will remain positive.
 ---
+![[32ff61287709ed5cd8dd96cdcf0e18fc.jpg]]
+## The relationship between the plc and the marketing mix
+### Decline
+- Customers have lost interest in the product at this stage of its life cycle with products eventually becoming dogs (products with low market share in declining markets).
+- Prices need to be lowered in order to sell such products, especially those that are obsolete (outdated) and are soon to be replaced with newer models.
+- Businesses need to decide whether (and for how long) to continue marketing the product or to withdraw it from the market.
+- Profits drop at this stage, and financial losses might be incurred.
+- Divestment is likely to occur at some point during this stage as profits drop (even financial losses). Cash flow is likely to become negative.
+---
