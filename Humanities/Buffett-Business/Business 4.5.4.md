@@ -22,3 +22,4 @@
 | Decline | Minimal, if any (extension strategies) | Falling | Less favourable |
 
 ---
+![[7d1076691e8da23af2fa45b7e911dd02.jpg]]
