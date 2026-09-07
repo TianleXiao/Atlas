@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.5.4.md",
+                "file": "Humanities/Buffett-Business/Business 1.4.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.5.4"
+              "title": "Business 1.4.2"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "colo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,11 +215,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "73fdc77db1299775",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.5.4.md",
+    "Humanities/Buffett-Business/Assets/00621f6a4092ddd16562e21185502744.jpg",
     "Humanities/Buffett-Business/Assets/32970625ce548ece31c305e71962f529.jpg",
     "Humanities/Buffett-Business/Business 4.5.3.md",
-    "Humanities/Buffett-Business/Business 4.5.4.md",
     "Humanities/Buffett-Business/Business 4.5.2.md",
     "Humanities/Buffett-Business/Business 4.5.1.md",
     "Humanities/Buffett-Business/Business 4.4.11.md",
@@ -231,8 +233,6 @@
     "Humanities/Buffett-Business/Assets/319dda0b70a94492f0f5680f2fe57d57.jpg",
     "Humanities/Buffett-Business/Assets/23d5da843d06aea81a471ebdfb442a21.jpg",
     "Humanities/Buffett-Business/Assets/ee09d142760703ef0f88c9d9d4863912.jpg",
-    "Humanities/Buffett-Business/Assets/3f4616846debc6ffc770949164a8a4bf.jpg",
-    "Humanities/Buffett-Business/Assets/85e94833de664facce1b7b893f4c5ebc.jpg",
     "TOK/TOK.md",
     "TOK/TOK-G12.md",
     "TOK/破题之法.md",

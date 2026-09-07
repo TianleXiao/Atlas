@@ -10,3 +10,15 @@
 - **Maturity**
 - **Decline**
 ---
+![[00621f6a4092ddd16562e21185502744.jpg]]
+## The relationship between the plc, investment, profit, and cash flow
+
+| Stage in the PLC | Level of investment expenditure | Level of profits | Cash flow position |
+|---|---|---|---|
+| Research & development | Extremely high (R&D costs) | Loss | Highly negative |
+| Launch | Relatively high (marketing costs) | Minimal, if any | Negative |
+| Growth | Moderate (promotional costs) | Rising profits | Positive |
+| Maturity | Low (mainly promotions) | High (peak) | Highly positive |
+| Decline | Minimal, if any (extension strategies) | Falling | Less favourable |
+
+---
