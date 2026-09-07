@@ -65,7 +65,7 @@ This is the largest section of the IB Business Management syllabus, focusing on 
 > Some marketers argue that product is the most important of the 7Ps in the marketing mix – after all, without a product, there is nothing to promote (promotion), distribute (place), or sell (price).
 ---
 ![[3f4616846debc6ffc770949164a8a4bf.jpg]]
-## Market growth
+## The BCG Matrix
 - High
   - Low
     - Relative market share
