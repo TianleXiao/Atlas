@@ -30,3 +30,20 @@
 - Profits drop at this stage, and financial losses might be incurred.
 - Divestment is likely to occur at some point during this stage as profits drop (even financial losses). Cash flow is likely to become negative.
 ---
+![[5bd34a896fece4e4ac5ce90ea971b52f.jpg]]
+## Extension strategies
+Extension strategies are marketing approaches used to lengthen the product life cycle.  
+They are used as a product enters or is in the decline stage because the market is saturated. Essentially, extending a mature product's life cycle can be more financially rewarding than allowing it to enter the decline stage.
+### Examples of interrelated extension strategies include:
+
+- **Reducing the price to encourage more customers to buy the product**  
+  *(assuming the price elasticity of demand for the product is elastic, i.e., responsive to changes in price).*
+- **New promotional strategies to reinvigorate interest and purchases of the product.**
+### Graph annotations:
+- **Product extension**
+- **Growth**
+- **Maturity**
+- **Decline**
+### Axes:
+- **Vertical axis:** Sales/Volume
+- **Horizontal axis:** Time
