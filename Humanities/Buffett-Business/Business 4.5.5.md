@@ -13,3 +13,6 @@ Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
 - **brand value.**
 ---
 ![[3d596bcef03292753af457a5317db661.jpg]]
+
+---
+![[95119650fb648fd9d329e91be535ed9e.jpg]]
