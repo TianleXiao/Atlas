@@ -16,3 +16,6 @@ Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
 
 ---
 ![[95119650fb648fd9d329e91be535ed9e.jpg]]
+
+---
+![[1297d2e10aecaa6b9cb0015ff8873674.jpg]]
