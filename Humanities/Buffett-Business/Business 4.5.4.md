@@ -23,3 +23,7 @@
 
 ---
 ![[7d1076691e8da23af2fa45b7e911dd02.jpg]]
+## The plc limitations
++ The product life cycle model is somewhat simplistic. Whilst many products do follow the pattern shown in the model, it is not inevitable that this will happen to a firm's sales revenue. For example, Coca-Cola (as the market leader in the carbonated drinks market) has been in the maturity phase for a very long time!
++ Not all products can have their life cycle extended as it would not be financially viable to spend money on extending the life cycle of products such as paper maps, public pay phones, VHS video recorders, cassette tapes, dot matrix printers, typewriters, and movie rental stores.
++ Another limitation of the product life cycle model is that it only examines the sales revenues of a single product over time. This is of limited use to a multi-product business which might prefer to use models such as the Boston Consulting Group matrix to support its product portfolio management.
