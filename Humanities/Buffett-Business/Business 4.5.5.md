@@ -12,3 +12,4 @@ Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
 - **brand loyalty, and**
 - **brand value.**
 ---
+![[3d596bcef03292753af457a5317db661.jpg]]
