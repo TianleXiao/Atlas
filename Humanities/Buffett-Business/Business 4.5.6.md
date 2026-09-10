@@ -8,6 +8,33 @@ Brand value is an intangible fixed asset which can be enhanced by brand awarenes
 
 ---
 ![[67c7a6b39c3eb69da2fb888df454611e.jpg]]
-
+## P For Price
+"Why are beautiful products only made for a few buyers? It must be possible to offer good design and function at low prices."
+- Ingvar Kamprad (1926 - 2018), Founder of IKEA
+"Price is what you pay. Value is what you get."
+- Warren Buffett (b. 1930), US business magnate/investor
+Price refers to the value of a good or service that is paid by the customer. Price will usually cover the costs of production, allowing the business to earn profit.
+The syllabus requires students to understand the appropriateness of the following nine pricing methods (AO3):
+1. Cost-plus (mark-up)
+2. Penetration
+3. Loss leader
+4. Predatory
+5. Premium pricing
+6. Dynamic pricing (HL only)
+7. Competitive pricing (HL only)
+8. Contribution pricing (HL only)
+9. Price elasticity of demand (HL only)
 ---
 ![[e9ecb086ab4070b042b2a23300a39fa2 1.jpg]]
+## Cost-Plus (Mark-Up) Pricing
+Cost-plus pricing (or mark-up pricing) adds a profit margin to the costs of production in order to determine the selling price of a good or service. This ensures that each unit sold adds contribution. The difference between the price and the cost is called the mark-up (or the profit margin), which is usually expressed as a percentage figure, such as 50% above the cost per unit.
+For example, if a toy costs \(\$10\) per unit to make and the firm wanted to earn a \(80\%\) profit margin, then the selling price would be: \(\$10 x 1.8 = \$18\).
+
+---
+![[54fcd32178f2980449e4478cb700ce0d.jpg]]
+## Cost-Plus Pricing Advs
+- It is simple to understand and calculate.
+- It makes sure the selling price is above the average total cost of production, thus ensuring each sale earns a positive contribution.
+- It is suitable for almost all goods and services.
+- It is particularly important and relevant in markets where raw material costs are rising.
+- It is also a valid pricing strategy if customers are prepared to pay a high price for specialist/unique products, in order to maximize profit.
