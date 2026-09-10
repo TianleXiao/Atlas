@@ -7,3 +7,7 @@ For example, customers buy a Rolex for more than just the ability to tell the ti
 Brand value is an intangible fixed asset which can be enhanced by brand awareness, brand development, and brand loyalty. Although it is difficult and somewhat subjective to measure the value of a brand, many businesses will report their brand value on their balance sheets.
 
 ---
+![[67c7a6b39c3eb69da2fb888df454611e.jpg]]
+
+---
+![[e9ecb086ab4070b042b2a23300a39fa2 1.jpg]]
