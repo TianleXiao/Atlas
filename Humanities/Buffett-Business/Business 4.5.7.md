@@ -18,3 +18,8 @@ Netflix, when it first started out as a DVD rental service, used penetration pri
 - Lower prices can also encourage word-of-mouth promotion, thus leading to even higher sales volume.
 - Low prices (and hence lower profit margins) can force businesses to concentrate on improved cost control and higher levels of productivity.
 ---
+![[0054b8c1ef5a558387b29aa31c8cf550.jpg]]
+## Penetration Pricing Disadvs
+- Penetration pricing is not a sustainable (long-term) pricing strategy as low prices can lead to losses or very low profit margins.
+- If costs rise suddenly due to external factors, the business could find the low prices are no longer a profitable option.
+- Low prices can backfire as customers associate the organization and its products as being of 'cheap' or low quality (inferior). This will make it difficult for the business to raise prices at a later date.

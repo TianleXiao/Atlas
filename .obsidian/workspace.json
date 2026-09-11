@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Business 4.5.7"
             }
+          },
+          {
+            "id": "bab5c8892859c561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.5.8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 4.5.8"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +214,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "bab5c8892859c561",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Assets/36749e52fe77b24145f6278c50881c57.jpg",
-    "Humanities/Buffett-Business/Business IA.md",
     "Humanities/Buffett-Business/Business 4.5.7.md",
+    "Humanities/Buffett-Business/Business 4.5.8.md",
+    "Humanities/Buffett-Business/Business IA.md",
+    "Humanities/Buffett-Business/Assets/0054b8c1ef5a558387b29aa31c8cf550.jpg",
+    "Humanities/Buffett-Business/Assets/36749e52fe77b24145f6278c50881c57.jpg",
     "Humanities/Buffett-Business/Assets/b25b17d6ac620663cffbdaf27abd12e5.jpg",
     "Humanities/Buffett-Business/Business 4.5.6.md",
     "Humanities/Buffett-Business/Assets/5ef22f46cb9d78eb5b69c74dd20829b5.jpg",
@@ -226,8 +243,6 @@
     "Humanities/Hemingway-English/Writing.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry SA1.md",
-    "Humanities/Buffett-Business/Assets/1297d2e10aecaa6b9cb0015ff8873674.jpg",
-    "Humanities/Buffett-Business/Assets/95119650fb648fd9d329e91be535ed9e.jpg",
     "Humanities/Buffett-Business/Business 4.5.4.md",
     "TOK/TOK-G12.md",
     "Humanities/Buffett-Business/Business 4.5.3.md",
