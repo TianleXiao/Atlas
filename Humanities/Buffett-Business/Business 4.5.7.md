@@ -5,3 +5,4 @@
 - It does not directly consider the needs of customers when the price is set.
 - Rather than focusing on the possible level of demand for a firm's products, it only concentrates on calculating the price instead.
 ---
+![[b25b17d6ac620663cffbdaf27abd12e5.jpg]]
