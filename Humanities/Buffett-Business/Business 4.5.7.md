@@ -10,3 +10,11 @@ Penetration pricing is setting a low price in order to enter an industry. It all
 Netflix, when it first started out as a DVD rental service, used penetration pricing ($1 monthly subscription!) to encourage customers to try their service which helped it create a large customer base.
 
 ---
+![[36749e52fe77b24145f6278c50881c57.jpg]]
+## Penetration Pricing Advs
+- Allows a business to enter a market and/or to launch a new product into an existing market, acquiring brand recognition rapidly.
+- It can discourage other firms from entering the industry due to the low prices and low profit margins.
+- Lower prices can give the business a price advantage over its competitors, thus leading to high sales and gaining market share.
+- Lower prices can also encourage word-of-mouth promotion, thus leading to even higher sales volume.
+- Low prices (and hence lower profit margins) can force businesses to concentrate on improved cost control and higher levels of productivity.
+---
