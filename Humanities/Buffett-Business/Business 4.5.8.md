@@ -4,3 +4,11 @@ Of course, some customers might go into the store to only buy multiple quantitie
 An example is hand-held shavers being sold relatively cheaply, but the razor blades sell at a price with significantly higher profit margins. Perhaps the best real-world example of a loss leader is Costco's hotdog meal, outselling most hot dog chains throughout the USA.
 
 ---
+![[1e2a93f771f9667918777c0b672c0445.jpg]]
+## Loss Leader Pricing Advs
+- Loss leaders can help a business to attract customers as most people tend to like getting a bargain.
+- The business can benefit from higher sales revenue from customers who buy other products in addition to the loss leader.
+- Loss leader pricing can be used by businesses as a quick and effective way to clear out older stock or merchandise.
+- Loss leading is a common method used by businesses to enter or penetrate a market.
+- Some firms use loss leaders as a brand switching strategy, i.e. the low price attracts customers away from rival brands.
+---
