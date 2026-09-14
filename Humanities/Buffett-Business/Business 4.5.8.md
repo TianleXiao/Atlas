@@ -19,3 +19,4 @@ An example is hand-held shavers being sold relatively cheaply, but the razor bla
 - The business must have enough inventory of the loss leader product otherwise it will cause customer dissatisfaction. However, stockpiling can be expensive and harm the organization's liquidity position.
 - Loss leader pricing can be anti-competitive and deemed to be unethical. It is often regarded as a controversial pricing method in the same way as predatory pricing.
 ---
+![[62e6561aead256b64151d4297626aa3f.jpg]]
