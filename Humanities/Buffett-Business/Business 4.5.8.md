@@ -12,3 +12,10 @@ An example is hand-held shavers being sold relatively cheaply, but the razor bla
 - Loss leading is a common method used by businesses to enter or penetrate a market.
 - Some firms use loss leaders as a brand switching strategy, i.e. the low price attracts customers away from rival brands.
 ---
+![[8ba524586df887b2104a47fb45ecc3c2.jpg]]
+## Loss Leader Pricing Disadvs
+- Customers may get used to and expect the business to continue offering loss leader products. This can be expensive for the business to sustain.
+- The business makes a loss on using this pricing method (hence its name), yet there is no guarantee that customers will buy other products with positive profit margins.
+- The business must have enough inventory of the loss leader product otherwise it will cause customer dissatisfaction. However, stockpiling can be expensive and harm the organization's liquidity position.
+- Loss leader pricing can be anti-competitive and deemed to be unethical. It is often regarded as a controversial pricing method in the same way as predatory pricing.
+---
