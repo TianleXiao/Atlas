@@ -11,3 +11,10 @@
 - Predatory pricing is likely to cause rival firms to retaliate by reducing their own prices. This can therefore lead to a price war, with no obvious winner in the long term.
 - It is not a sustainable pricing strategy as firms cannot afford to keep reducing prices.
 ---
+![[252b9e80164d00658a37f10320bb156b.jpg]]
+## Premium Pricing
+Premium pricing involves a business permanently setting a high price for its products because of the associated image, reputation, or status associated with its high-quality products. For example, Apple and Ferrari use premium pricing (their products are generally more expensive than those from similar competitors). Other examples include:
+- Premium economy air travel (more expensive than an economy class ticket but with premium add-ons such as extra leg room and baggage allowance).
+- Tailor-made clothing - Tailors will charge premium prices for bespoke products, such as shirts, suits, wedding dresses, and shoes, due to the uniqueness of the items.
+- Organic produce and drinks - An organic version of a fruit, vegetable, or coffee will have a premium price than regular versions of these products.
+---
