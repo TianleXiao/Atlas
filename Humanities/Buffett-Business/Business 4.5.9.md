@@ -18,3 +18,8 @@ Premium pricing involves a business permanently setting a high price for its pro
 - Tailor-made clothing - Tailors will charge premium prices for bespoke products, such as shirts, suits, wedding dresses, and shoes, due to the uniqueness of the items.
 - Organic produce and drinks - An organic version of a fruit, vegetable, or coffee will have a premium price than regular versions of these products.
 ---
+![[14fc237bc5a8619a07f5d130577aee01.jpg]]
+## Premium Pricing
+Premium pricing is also used in the case of ostentatious consumption and conspicuous consumption.
+Ostentatious consumption is the purchase of expensive products which impress and make customers feel good about themselves. A large part of the satisfaction comes from knowing the premium price paid for the product itself. Examples include Christian Dior perfumes, Rolex watches, Chanel handbags, Armani suits, and Vera Wang wedding dresses.
+Conspicuous consumption is the lavish spending of some (very rich) customers for the purpose of upholding their social status, rather than to serve their real needs. Examples include highly expensive luxury cars (such as Rolls Royce, Bentley, and Maybach) and collector items (such as original paintings from Picasso and Van Gogh). Another example is Paul Newman's Rolex Daytona that was sold for a record ($17.8) million (October 2017).
