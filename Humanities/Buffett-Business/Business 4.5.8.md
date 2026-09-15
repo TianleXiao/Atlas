@@ -20,3 +20,7 @@ An example is hand-held shavers being sold relatively cheaply, but the razor bla
 - Loss leader pricing can be anti-competitive and deemed to be unethical. It is often regarded as a controversial pricing method in the same way as predatory pricing.
 ---
 ![[62e6561aead256b64151d4297626aa3f.jpg]]
+## Predatory Pricing
+Predatory pricing is a pricing method that involves charging a low price, sometimes even below the cost, so as to damage the sales of rivals. It is also used by established market leaders to restrict new entrants, thereby limiting competition.
+It can be a risky strategy to use, as many governments impose anti-competitive laws, so firms can be fined for using predatory pricing with the intent to restrict competition. In some cases, destruction pricing can lead to a price war, whereby existing firms repeatedly cut prices in an attempt to destroy the sales of their rivals. E.g. India's Reliance Jio, a telecom company, was accused of predatory pricing during its initial launch years.
+This can be good for consumers, at least in the short term, as they benefit from lower prices. However, price wars are unsustainable in the long term. Quite often, price wars will result in some (smaller) firms leaving the industry as there is mounting pressure to reduce costs.
