@@ -7,3 +7,9 @@ For example, all major airlines use dynamic pricing to set ticket prices. When c
 - how far in advance customers book their flight (the earlier customers book, the cheaper the price tends to be).
 ---
 ![[9ee54ea162e2ec459d0cfbfcdcdc42c6.jpg]]
+## Dynamic Pricing Advs
+- Businesses that use dynamic (surge) pricing can increase sales revenue by capturing the willingness of customers to pay more during peak periods.
+- Without dynamic pricing, it may be harder to incentivize business to supply their services, such as trying to catch a taxi during off-peak times when taxi drivers are less willing to work.
+- Dynamic pricing enables customers to avoid queues (caused by excess demand) and surpluses (caused by excess supply).
+- Dynamic price changes are automated (based on computer software, data, and the use of mathematical algorithms) in order to adjust pricing accordingly.
+---
