@@ -13,3 +13,10 @@ For example, all major airlines use dynamic pricing to set ticket prices. When c
 - Dynamic pricing enables customers to avoid queues (caused by excess demand) and surpluses (caused by excess supply).
 - Dynamic price changes are automated (based on computer software, data, and the use of mathematical algorithms) in order to adjust pricing accordingly.
 ---
+![[b059d79b5875fe1ceab1f52dc4388c6a.jpg]]
+## Dynamic Pricing Disadvs
+- Consumers who are charged higher prices may feel disgruntled (ripped off or cheated).
+- Surge pricing is often associated with being unethical as it is perceived to exploit customers, such as pharmaceutical companies charging higher prices during a major pandemic.
+- It can be time-consuming for customers to have to spend time finding the best deals/prices.
+- There is also the potentially high cost for the business to monitor and evaluate the data needed for dynamic pricing.
+---

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Business 4.5.10"
             }
+          },
+          {
+            "id": "a827c70e22f2608f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.5.11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 4.5.11"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,12 +228,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "95ec4efe85733bdf",
+  "active": "a827c70e22f2608f",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.5.10.md",
+    "Humanities/Buffett-Business/Business 4.5.11.md",
+    "Humanities/Buffett-Business/Assets/b059d79b5875fe1ceab1f52dc4388c6a.jpg",
     "Humanities/Buffett-Business/Assets/9ee54ea162e2ec459d0cfbfcdcdc42c6.jpg",
     "Humanities/Buffett-Business/Assets/44a42b5299a31e2c64dcd6aec616becd.jpg",
     "Humanities/Buffett-Business/Business 4.5.9.md",
-    "Humanities/Buffett-Business/Business 4.5.10.md",
     "Humanities/Buffett-Business/Business IA.md",
     "Humanities/Buffett-Business/Business 4.5.8.md",
     "Humanities/Buffett-Business/Assets/14fc237bc5a8619a07f5d130577aee01.jpg",
@@ -231,12 +247,10 @@
     "Humanities/Buffett-Business/Assets/62e6561aead256b64151d4297626aa3f.jpg",
     "Humanities/Buffett-Business/Assets/8ba524586df887b2104a47fb45ecc3c2.jpg",
     "Humanities/Buffett-Business/Assets/1e2a93f771f9667918777c0b672c0445.jpg",
-    "Humanities/Buffett-Business/Assets/f5d953c7389d385cd543789b1f4b3b49.jpg",
     "Humanities/Buffett-Business/Business 4.5.7.md",
     "Humanities/Buffett-Business/Business 4.5.6.md",
     "Humanities/Buffett-Business/Business 4.5.2.md",
     "Humanities/Buffett-Business/Business 4.5.1.md",
-    "Humanities/Buffett-Business/Assets/0054b8c1ef5a558387b29aa31c8cf550.jpg",
     "Humanities/Buffett-Business/Business 4.5.5.md",
     "Humanities/Hemingway-English/English 9.10.md",
     "Humanities/Hemingway-English/English 1.1.md",
