@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.5.11.md",
+                "file": "Humanities/Buffett-Business/Business Toolkit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.5.11"
+              "title": "Business Toolkit"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fixed cost",
+                "query": "7ps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +231,11 @@
   },
   "active": "a827c70e22f2608f",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 4.5.10.md",
     "Humanities/Buffett-Business/Business 4.5.11.md",
+    "Humanities/Buffett-Business/Assets/3a9c41b87b96bc9faa7d6b48f4e5e080.jpg",
+    "Humanities/Buffett-Business/Business 4.5.10.md",
+    "Humanities/Buffett-Business/Assets/b9c883317cf294b14ac28c6cacc36152 1.jpg",
+    "Humanities/Buffett-Business/Assets/b9c883317cf294b14ac28c6cacc36152.jpg",
     "Humanities/Buffett-Business/Assets/b059d79b5875fe1ceab1f52dc4388c6a.jpg",
     "Humanities/Buffett-Business/Assets/9ee54ea162e2ec459d0cfbfcdcdc42c6.jpg",
     "Humanities/Buffett-Business/Assets/44a42b5299a31e2c64dcd6aec616becd.jpg",
@@ -244,9 +248,6 @@
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
     "Humanities/Buffett-Business/Assets/d5f8451c20f3b89dc2d670563ab2f3e9.jpg",
     "Humanities/Buffett-Business/Business 3.3.1.md",
-    "Humanities/Buffett-Business/Assets/62e6561aead256b64151d4297626aa3f.jpg",
-    "Humanities/Buffett-Business/Assets/8ba524586df887b2104a47fb45ecc3c2.jpg",
-    "Humanities/Buffett-Business/Assets/1e2a93f771f9667918777c0b672c0445.jpg",
     "Humanities/Buffett-Business/Business 4.5.7.md",
     "Humanities/Buffett-Business/Business 4.5.6.md",
     "Humanities/Buffett-Business/Business 4.5.2.md",
@@ -266,7 +267,6 @@
     "Humanities/Buffett-Business/Business 4.5.4.md",
     "TOK/TOK-G12.md",
     "Humanities/Buffett-Business/Business 4.5.3.md",
-    "Humanities/Buffett-Business/Business 1.4.2.md",
     "TOK/Assets",
     "TOK/TOK笔记-Obsidian.zip",
     "TOK/TOK-Notes-Obsidian.zip",
