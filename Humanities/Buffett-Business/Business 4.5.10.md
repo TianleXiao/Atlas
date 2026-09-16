@@ -6,3 +6,4 @@ For example, all major airlines use dynamic pricing to set ticket prices. When c
 - whether customers want extra leg room or an exit seat
 - how far in advance customers book their flight (the earlier customers book, the cheaper the price tends to be).
 ---
+![[9ee54ea162e2ec459d0cfbfcdcdc42c6.jpg]]
