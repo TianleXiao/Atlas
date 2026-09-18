@@ -20,3 +20,7 @@ But if the selling price is \(\$12\), then:
 - Break-even = Fixed costs / Unit contribution = \(\$600 / \$8 = 75\) units (hotdogs).
 ---
 ![[ba65ba52d9be534b4f126fa6f2f9c0a8.jpg]]
+## Contribution Pricing (Cont.)
+It can be seen that a higher contribution per unit leads to a quicker break-even. In the previous case, by raising the price by \(20\%\), the firm can break even at a much lower number of hotdogs. However, a higher price could mean fewer customers, so knowledge of price elasticity of demand (see next pricing method) can be beneficial prior to determining which price to set.
+Contribution pricing can be used by businesses to decide whether to accept special or additional orders. This is because the additional order contributes to the firm's fixed costs.
+For example, a hotel with vacancies (empty rooms) or a flight with spare capacity (empty seats) can be sold at a discounted price, so long as there is a positive contribution (price exceeds variable unit cost).
