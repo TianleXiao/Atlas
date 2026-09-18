@@ -15,3 +15,10 @@
 - Contribution pricing enables managers to know how much profit the business will earn on each unit sold after the firm has reached its break-even level of sales.
 - It is a useful pricing method to decide on the price to charge customers for a special or additional order.
 ---
+![[c6bc2f9c95fff1b4cb082639419f071d.jpg]]
+## Contribution Pricing Disadvs
+- Contribution pricing assumes that the selling price of a product is constant, but customers are often given price discounts.
+- Despite what might appear to be an ideal price based on contribution analysis, a business cannot ignore prices being charged by its closest competitors in the market.
+- Allocating fixed costs appropriately between the many products sold by a large business can prove to be extremely difficult, so this would lead to inaccurate prices being set.
+- Contribution analysis assumes that manufacturers produce and sell exactly the same number of units. In reality, producers often make more than they can sell, and there are often spoilages (damage) to stocks (inventories) which can therefore not be sold to customers.
+---
