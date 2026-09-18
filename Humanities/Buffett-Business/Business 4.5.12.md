@@ -16,20 +16,13 @@
 - It is a useful pricing method to decide on the price to charge customers for a special or additional order.
 ---
 ![[c6bc2f9c95fff1b4cb082639419f071d.jpg]]
-## Contribution Pricing Disadvs
+## Contribution Pricing Disadvs (HL)
 - Contribution pricing assumes that the selling price of a product is constant, but customers are often given price discounts.
 - Despite what might appear to be an ideal price based on contribution analysis, a business cannot ignore prices being charged by its closest competitors in the market.
 - Allocating fixed costs appropriately between the many products sold by a large business can prove to be extremely difficult, so this would lead to inaccurate prices being set.
 - Contribution analysis assumes that manufacturers produce and sell exactly the same number of units. In reality, producers often make more than they can sell, and there are often spoilages (damage) to stocks (inventories) which can therefore not be sold to customers.
 ---
 ![[e3655bd24e7f8cecac496c929530e33f.jpg]]
-## Price Elasticity Of Demand (Ped)
+## Price Elasticity Of Demand (Ped) (HL)
 Price elasticity of demand (PED) measures the extent to which the demand for a product changes due to a change in its price. For example, the demand for fresh flowers during Valentine's Day and Mothers' Day is less price-sensitive than during off-peak periods. Hence, florists know they are able to charge higher prices during these times of the year.
 - Knowledge of PED is not only about being able to set higher prices to customers who can afford to pay. Statistically, restaurants and cinemas throughout the world face their quietest trading day of the week on a Tuesday, which is why many of these businesses offer discounted prices to diners and cinema-goers on Tuesdays.
-Price Elasticity of Demand
-Definition: the effect of change in price on the quantity of demand
-\(PED = \frac{\% \text{ change in quantity demanded}}{\% \text{ change in price}}\)
-Price
-Quantity
-Highly Elastic
-Relatively Inelastic
