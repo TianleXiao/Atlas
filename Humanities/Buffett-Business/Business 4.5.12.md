@@ -7,3 +7,4 @@
 | Purpose (use) | To ensure that a firm covers all its costs and makes a predetermined profit. | To ensure that each sale contributes enough to cover variable costs and towards covering fixed costs so as to generate a profit. |
 
 ---
+![[04dc3e8b213243fed49f8805cea000a5.jpg]]
