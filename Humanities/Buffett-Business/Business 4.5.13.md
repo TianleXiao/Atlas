@@ -17,6 +17,10 @@ Promotion refers to the various marketing processes used to inform customers abo
 Promotion is about getting the right message to the right customers on the right time at the right place in the right way.
 ---
 ![[00b7abd41ba4c88a89cc59f4d81cc70c.jpg]]
-
+## Objectives Of Promotion
+The objectives of promotion in the marketing mix can be summed as information, persuasion and devotion:
+1. Informative promotion aims to alert the market about a firm's products, especially new or updated products. E.g. facts and figures about a business or its latest products.
+2. Persuasive promotion aims to encourage customers to make a purchase, to switch from rival products. Successful persuasion can generate impulse buying - when customers make a purchase without having planned to do so, i.e. a subconscious urge to buy the product., e.g. bubble gums.
+3. Reminder promotion is used to retain customer awareness of, and interest in, an established product (maturity stage in the PLC), as well as building customer loyalty. E.g. Leading brands such as McDonald's & Coca-Cola often use minimal messaging ads just to remind their customers.
 ---
 ![[84bf05b1d3cad0a94358d84799703d14.jpg]]
