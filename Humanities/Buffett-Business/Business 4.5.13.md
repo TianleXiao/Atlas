@@ -17,3 +17,6 @@ Promotion refers to the various marketing processes used to inform customers abo
 Promotion is about getting the right message to the right customers on the right time at the right place in the right way.
 ---
 ![[00b7abd41ba4c88a89cc59f4d81cc70c.jpg]]
+
+---
+![[84bf05b1d3cad0a94358d84799703d14.jpg]]
