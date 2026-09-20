@@ -56,4 +56,7 @@
 
 **PBP:** Payback period
 
+**PLC:** Product Life Cycle
+
+**ATL:** Above the line
 

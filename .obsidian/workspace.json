@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 4.5.13.md",
+                "file": "Humanities/Buffett-Business/Abbreviation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 4.5.13"
+              "title": "Abbreviation"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "7ps",
+                "query": "plc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,12 +228,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "da911ef654658c96",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.5.13.md",
+    "00b7abd41ba4c88a89cc59f4d81cc70c.jpg",
+    "Humanities/Buffett-Business/Business 4.5.3.md",
+    "Humanities/Buffett-Business/Business 4.5.2.md",
     "Humanities/Buffett-Business/Assets/a1948d326a62ff75d7b35170dcf029ef.jpg",
     "Humanities/Buffett-Business/Assets/388254930226a549a519dcfe885716c5.jpg",
     "Humanities/Buffett-Business/Business 4.5.12.md",
-    "Humanities/Buffett-Business/Business 4.5.13.md",
     "Humanities/Buffett-Business/Assets/e3655bd24e7f8cecac496c929530e33f.jpg",
     "Humanities/Buffett-Business/Assets/pic_20260918154059_0.jpg",
     "Humanities/Buffett-Business/Assets/c6bc2f9c95fff1b4cb082639419f071d.jpg",
@@ -256,16 +259,12 @@
     "Humanities/Hemingway-English/English SA1.2.md",
     "Humanities/Hemingway-English/Vocabulary.md",
     "Humanities/Buffett-Business/Assets/fa529e1950d8ccbc7a318ab407b9fd5e 1.jpg",
-    "Humanities/Buffett-Business/Assets/fa529e1950d8ccbc7a318ab407b9fd5e.jpg",
-    "Humanities/Buffett-Business/Assets/488fb8245666382a4018de51a2f1db11.jpg",
     "Humanities/Buffett-Business/Business IA.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business Toolkit.md",
     "Humanities/Buffett-Business/Business 4.5.1.md",
     "Humanities/Buffett-Business/Business 4.5.9.md",
     "Humanities/Buffett-Business/Business 4.5.8.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
-    "Humanities/Buffett-Business/Business 3.3.1.md",
     "Humanities/Hemingway-English/Assets",
     "TOK/Assets",
     "TOK/TOK笔记-Obsidian.zip",
