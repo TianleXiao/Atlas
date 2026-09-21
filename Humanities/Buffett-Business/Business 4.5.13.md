@@ -24,3 +24,15 @@ The objectives of promotion in the marketing mix can be summed as information, p
 3. Reminder promotion is used to retain customer awareness of, and interest in, an established product (maturity stage in the PLC), as well as building customer loyalty. E.g. Leading brands such as McDonald's & Coca-Cola often use minimal messaging ads just to remind their customers.
 ---
 ![[84bf05b1d3cad0a94358d84799703d14.jpg]]
+## Above-The-Line (Atl) Promotion
+Above the line (ATL) promotion is any form of paid-for promotional method through independent mass-media sources to promote a business, its brands or its products to a general untargeted audience.
+The main methods of ATL promotion include:
+- Television advertising
+- Radio advertising
+- Cinema
+- Newspaper advertising
+- Magazines
+- Outdoor advertising
+- Celebrity endorsements
+- The main advantage of using ATL promotion is the potential to reach a very large audience of potential customers. For example, the Super Bowl in the US is watched by over 100 million people, with ticket prices going up to around \(\$7,000\).
+- However, ATL promotion is very expensive (Super Bowl ads may cost millions of dollars) and is largely untargeted (as some adverts are irrelevant to many viewers).
