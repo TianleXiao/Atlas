@@ -28,4 +28,4 @@ Marketers have a captured audience/viewers that can hardly ignore or switch off 
 The main drawback is its limited audience size compared with that of radio listeners and television viewers.
 
 ---
-
+![[6cb21386f57348b4acfb387af5929c9a.jpg]]
