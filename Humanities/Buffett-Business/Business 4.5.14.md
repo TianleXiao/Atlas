@@ -9,10 +9,11 @@
 ---
 ![[183fbf3e9e5e53b792392353de3c964e.jpg]]
 ## Radio Advertising
-dvantages—
+**Advantages—**
 Radio advertising is able to reach a very large audience yet it is significantly cheaper than TV advertising.
 Radio listeners are exposed to promotional campaigns whilst they continue to do other things, such as driving, eating a meal, working, etc.
-advantages—
+**Disadvantages—**
 Radio advertising can only communicate audio messages, i.e. there is no visual impact.
 Audiences have lower attention levels compared with TV advertisements.
-120
+
+---
