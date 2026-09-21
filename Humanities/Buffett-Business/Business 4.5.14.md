@@ -17,3 +17,15 @@ Radio advertising can only communicate audio messages, i.e. there is no visual i
 Audiences have lower attention levels compared with TV advertisements.
 
 ---
+![[d104416fcca540c528a4431bf6e937ae.jpg]]
+## Cinemas
+**Advantages—**
+Statistics show growing visitor numbers at cinemas around the world.
+Audiences can be directly targeted. Promotion can be tailored to the specific market segments.
+The size of cinema screens can exert more impact compared to other forms of promotion.
+Marketers have a captured audience/viewers that can hardly ignore or switch off the advertisements.
+**Disadvantages—**
+The main drawback is its limited audience size compared with that of radio listeners and television viewers.
+
+---
+
