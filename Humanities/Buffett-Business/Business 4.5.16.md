@@ -32,3 +32,4 @@ Sponsorship deals can be very expensive (E.g. in football)
 Negative behaviour of the sponsor could harm the organization's reputation. E.g. Volkswagen's heavy investment in football sponsorship deals became questionable after its emissions scandal in late 2015.
 
 ---
+![[4aa3e29849a6535d8451e4fd878d804e.jpg]]
