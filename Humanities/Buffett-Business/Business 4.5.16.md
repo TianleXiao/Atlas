@@ -33,3 +33,11 @@ Negative behaviour of the sponsor could harm the organization's reputation. E.g.
 
 ---
 ![[4aa3e29849a6535d8451e4fd878d804e.jpg]]
+## Point Of Sale (Pos)
+Point of sale (POS) is the promotion of goods in retail outlets where customers can buy the goods. For example, supermarkets use highly visible promotional materials in their supermarket aisles to attract customers with special offers. They also place snacks, batteries, candy and other small items at the checkouts as a last attempt/impulse buy to make more sales whilst customers queue to pay for the items in their baskets or trolleys.
+**Advantages—**
+It is used as a means of boosting sales in the short-term.
+Promotional materials are positioned to provide convenience and easy access for customers thus encouraging customers to make impulse purchases.
+**Disadvantages—**
+Customers may come expecting sales promotions and get disappointed if none are offered.
+Some customers have learned to ignore and avoid the point of sale in many supermarkets and retail stores.
