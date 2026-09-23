@@ -29,3 +29,10 @@ The main drawback is its limited audience size compared with that of radio liste
 
 ---
 ![[6cb21386f57348b4acfb387af5929c9a.jpg]]
+## Magazines
+**Advantages—**
+Promotion in magazines has the advantage of being able to use high definition/resolution images to attract the attention of readers.
+Targeting the right market segment is possible through the use of specialist magazines such as Car, Brides, PC Gamer and Vogue.
+**Disadvantages—**
+There can be a long lead-time between submitting an advertisement and the actual publication in a magazine.
+Readers are bombarded with advertisements so may unintentionally miss, or deliberately ignore, the advertisements.
