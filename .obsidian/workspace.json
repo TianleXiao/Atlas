@@ -11,10 +11,14 @@
             "id": "327475cbe1965b7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.5.17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 4.5.17"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "327475cbe1965b7f",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Assets/7e3ced22b362926ec378fbf274aeadde.jpg",
     "Humanities/Buffett-Business/Business 4.5.15.md",
     "Humanities/Buffett-Business/Business 4.5.16.md",
     "Humanities/Buffett-Business/Business 4.5.17.md",
