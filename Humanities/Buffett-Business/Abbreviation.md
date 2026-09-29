@@ -60,3 +60,4 @@
 
 **ATL:** Above the line
 
+**SMM:** Social Media Marketing
