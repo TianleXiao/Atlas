@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Business 4.5.18"
             }
+          },
+          {
+            "id": "cd31742480fdf3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 4.5.19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 4.5.19"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,14 +228,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "cd31742480fdf3fa",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Assets/Pasted image 20260929093143.png",
+    "Humanities/Buffett-Business/Business 4.5.18.md",
+    "Humanities/Buffett-Business/Business 4.5.19.md",
     "Humanities/Buffett-Business/Assets/67fb681b39e9b23e9e5d314c27e34077.jpg",
     "Humanities/Buffett-Business/Assets/dd842d6ad9c6d554ce3154fe7c707e39.jpg",
     "Humanities/Buffett-Business/Assets/1f35709d9c19c218185ff200c478bcd5.jpg",
     "Humanities/Buffett-Business/Assets/0b9cca7b965d2047d4cfe4165dca571b.jpg",
     "Humanities/Buffett-Business/Business 4.5.17.md",
-    "Humanities/Buffett-Business/Business 4.5.18.md",
     "Humanities/Buffett-Business/Assets/7e3ced22b362926ec378fbf274aeadde.jpg",
     "Humanities/Buffett-Business/Business 4.5.15.md",
     "Humanities/Buffett-Business/Business 4.5.16.md",
@@ -231,7 +247,6 @@
     "Humanities/Buffett-Business/Assets/4aa3e29849a6535d8451e4fd878d804e.jpg",
     "Humanities/Buffett-Business/Assets/7b430200eff3ba7f4520e815a688cfc1.jpg",
     "Humanities/Buffett-Business/Business 4.5.14.md",
-    "Humanities/Buffett-Business/Assets/f7e78fc6a9da466e81c0859b8c75def4.jpg",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 4.5.13.md",
     "Humanities/Buffett-Business/Business 4.5.3.md",
@@ -251,7 +266,6 @@
     "Humanities/Hemingway-English/English 9.10.md",
     "Humanities/Hemingway-English/English SA1.1.md",
     "Humanities/Hemingway-English/English SA1.2.md",
-    "Humanities/Hemingway-English/Vocabulary.md",
     "Humanities/Hemingway-English/Assets",
     "TOK/Assets",
     "TOK/TOK笔记-Obsidian.zip",
