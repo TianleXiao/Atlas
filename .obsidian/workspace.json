@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Business 2.1.6"
             }
+          },
+          {
+            "id": "888ee583fad4f37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 2.2.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 2.2.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,14 +228,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c91f465a6a1aec21",
+  "active": "888ee583fad4f37a",
   "lastOpenFiles": [
+    "5d7101f64e1297706cac670fad180230.jpg",
+    "Humanities/Buffett-Business/Business 2.1.6.md",
+    "fecb282b917a5fb3b711de33547f03b8.jpg",
+    "Humanities/Buffett-Business/Business 2.2.1.md",
+    "f11c67f42afd7b82a22a97b09c3bff18 1.jpg",
+    "f11c67f42afd7b82a22a97b09c3bff18.jpg",
     "7024a63a0d2540731be79c52e7b46893.jpg",
     "47dcb1b19b38a6c4b1086072bb3dd94d.jpg",
     "Humanities/Buffett-Business/Business 4.5.25.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
-    "Humanities/Buffett-Business/Business 2.1.6.md",
     "Humanities/Buffett-Business/Assets/8c42563db1c819021d7db7dddee18756.jpg",
     "Humanities/Buffett-Business/Business 2.1.5.md",
     "Humanities/Buffett-Business/Business 4.5.17.md",
@@ -234,10 +253,6 @@
     "Humanities/Buffett-Business/Assets/Pasted image 20261020093617.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20261020093601.png",
     "Humanities/Buffett-Business/Assets/Pasted image 20261020093540.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20261020093507.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20261020093444.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20261020093428.png",
-    "Humanities/Buffett-Business/Assets/Pasted image 20261020093413.png",
     "Business 2.1.5.md",
     "Humanities/Buffett-Business/Business 2.1.3.md",
     "Humanities/Buffett-Business/Business 2.1.2.md",
@@ -251,7 +266,6 @@
     "Humanities/Buffett-Business/Business 4.5.23.md",
     "Humanities/Buffett-Business/Business 4.5.19.md",
     "Humanities/Laozi-Chinese/Chinese P2 (2).md",
-    "Humanities/Laozi-Chinese/台北人.md",
     "Humanities/Hemingway-English/Assets",
     "TOK/Assets",
     "TOK/TOK笔记-Obsidian.zip",
