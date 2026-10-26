@@ -11,13 +11,32 @@
             "id": "b896b37a43f3eb45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 2.2.3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 2.2.3"
+            }
+          },
+          {
+            "id": "0d13df83e11910b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 2.2.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 2.2.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,23 +214,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b896b37a43f3eb45",
+  "active": "0d13df83e11910b3",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 2.2.3.md",
+    "Humanities/Buffett-Business/Business 2.2.4.md",
+    "Humanities/Buffett-Business/Assets/0ff01b8b397d7302e111da30da5ed422.jpg",
+    "Humanities/Buffett-Business/Assets/da2f22ac9c3c61fbd0309c0ee4d1b24a.jpg",
+    "Humanities/Buffett-Business/Business 2.2.2.md",
     "Humanities/Buffett-Business/Assets/a2d974c5605dce2ffa6f4d3fe55184ab.jpg",
     "Humanities/Buffett-Business/Assets/ec11185d32627d6d518f500caf468a1e.jpg",
-    "Humanities/Buffett-Business/Business 2.2.2.md",
     "Humanities/Buffett-Business/Business 2.2.1.md",
     "Humanities/Buffett-Business/Business 2.1.6.md",
-    "Humanities/Buffett-Business/Business 2.2.3.md",
     "Humanities/Buffett-Business/Assets/d4dc65a0112355de91943e035e5242bc.jpg",
     "Humanities/Buffett-Business/Assets/6248aef9a4e9a5c5ebb40a992ad3b206.jpg",
     "Humanities/Buffett-Business/Assets/fecb282b917a5fb3b711de33547f03b8.jpg",
     "Humanities/Buffett-Business/Assets/f970b14073e7a3a9e350133e2d25e410.jpg",
     "Humanities/Buffett-Business/Assets/f11c67f42afd7b82a22a97b09c3bff18.jpg",
     "Humanities/Buffett-Business/Assets/f11c67f42afd7b82a22a97b09c3bff18 1.jpg",
-    "Humanities/Buffett-Business/Assets/7024a63a0d2540731be79c52e7b46893.jpg",
-    "Humanities/Buffett-Business/Assets/47dcb1b19b38a6c4b1086072bb3dd94d.jpg",
-    "Humanities/Buffett-Business/Assets/5d7101f64e1297706cac670fad180230.jpg",
     "Humanities/Buffett-Business/Business 4.5.25.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry S.2.1.1.md",
