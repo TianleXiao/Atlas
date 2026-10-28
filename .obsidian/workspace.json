@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "626a5f4abafd8e5d",
+        "id": "f0e8effb241864fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b896b37a43f3eb45",
+            "id": "5b6c67f8a177936b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 2.2.3.md",
+                "file": "Humanities/Buffett-Business/Business 2.2.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 2.2.3"
-            }
-          },
-          {
-            "id": "0d13df83e11910b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Laozi-Chinese/契诃夫.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "契诃夫"
+              "title": "Business 2.2.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +199,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d13df83e11910b3",
+  "active": "5b6c67f8a177936b",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 2.2.4.md",
+    "Humanities/Buffett-Business/Business 2.2.5.md",
+    "Humanities/Laozi-Chinese/契诃夫.md",
     "Humanities/Laozi-Chinese/台北人.md",
     "Humanities/Laozi-Chinese/Chinese P2.md",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_2016.pdf",
-    "Humanities/Buffett-Business/Business 2.2.4.md",
     "Humanities/Buffett-Business/Assets/9ede8b8327266b01c1382c5c184cdd02.jpg",
     "Humanities/Buffett-Business/Assets/5feb0d2f606d8ce350c9255284854888.jpg",
     "9ede8b8327266b01c1382c5c184cdd02.jpg",
@@ -252,8 +239,6 @@
     "Business 2.1.3.md",
     "Business 2.1.2.md",
     "Humanities/Buffett-Business/Business 4.6.1.md",
-    "Humanities/Buffett-Business/Business 4.5.20.md",
-    "Humanities/Buffett-Business/Business 4.5.21.md",
     "Humanities/Hemingway-English/Assets",
     "TOK/Assets",
     "TOK/TOK笔记-Obsidian.zip",
