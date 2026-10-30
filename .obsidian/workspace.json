@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -214,8 +215,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "49ae7daf9e9b154a",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Assets/28893a79966d30228f02ba52d3b77d7d.jpg",
     "Humanities/Buffett-Business/Assets/28a39fadbfe4b11cb8aa6680bb3724d6.jpg",
     "Humanities/Buffett-Business/Business 2.2.5.md",
     "Humanities/Buffett-Business/Business 2.3.1.md",
@@ -234,7 +236,6 @@
     "Humanities/Buffett-Business/Assets/f47ffb80f1a02c7b90c879b5feb94207 5.jpg",
     "Humanities/Buffett-Business/Assets/f47ffb80f1a02c7b90c879b5feb94207 4.jpg",
     "Humanities/Buffett-Business/Assets/f47ffb80f1a02c7b90c879b5feb94207 3.jpg",
-    "Humanities/Buffett-Business/Assets/f47ffb80f1a02c7b90c879b5feb94207 2.jpg",
     "Humanities/Buffett-Business/Business 2.2.3.md",
     "Humanities/Buffett-Business/Business 2.2.2.md",
     "Humanities/Buffett-Business/Business 2.2.1.md",
