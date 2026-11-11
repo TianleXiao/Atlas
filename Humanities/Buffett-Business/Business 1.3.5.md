@@ -1,6 +1,5 @@
 ## Elkington's Triple Bottom Line
 ![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
-
 ---
 ## CSR
 Of course, all businesses should have an obligation of acting legally, behaving in certain ways as set out by the law. 
@@ -51,4 +50,3 @@ It can be used to assess the current situation of a business by considering both
 + Steeple
 + State of the art (technology)
 + Spy
-

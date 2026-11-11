@@ -24,7 +24,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 ---
 ## Joint Venture Vs Strategic Alliance
 ![alt text](Humanities/Buffett-Business/Assets/4.png)
-
 ---
 ## Benefits of Joint Ventures
 
@@ -48,4 +47,3 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 + Lay Off
 + Clause
 + Dissolution
-
