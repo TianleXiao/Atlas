@@ -8,7 +8,6 @@ The key advantage is that it can provide a huge amount of finance.
 The key disadvantage is that it can lead to a loss of control and ownership, and a hostile takeover is very much possible.
 
 ---
-
 ## Share Capital (IPO)
 Many businesses decide to ‘go public’ by floating their shares on a stock exchange for the first time. This is known as an initial public offering (IPO).
 - Popular IPOs are heavily oversubscribed, which pushes up the share price.
@@ -17,7 +16,6 @@ Many businesses decide to ‘go public’ by floating their shares on a stock ex
 **IPO:** The process of offering shares of a private corporation to the public in a new stock issuance of publicly listed firms.
 
 ---
-
 ## Stock Exchange
 A stock exchange is a well-organized and highly regulated marketplace where individuals and businesses can freely buy and sell shares of public limited companies.
 **The main functions of a stock exchange are to:**
@@ -26,7 +24,6 @@ A stock exchange is a well-organized and highly regulated marketplace where indi
 - provide a marketplace for trading second-hand shares/stock and other financial instruments such as securities, futures, derivatives, etc...
 
 ---
-
 ## Vocabulary
 + Subprime mortgage
 

@@ -1,7 +1,6 @@
 ## Transfer Pricing $\rightarrow$ Tax Issues
 
 ---
-
 ## Governments around the world face problems in ensuring MNCs pay their due taxes mainly due to transfer pricing:
 
 - Setting up offices in countries with low tax rates and claiming their profits are earned there.
@@ -10,7 +9,6 @@
 - Meanwhile, MNCs rely on public services such as transport and energy links, which are often paid for by the taxes of other organizations and individuals.
 
 ---
-
 ## Governments taking part-ownership of MNCs
 - Governments of home countries have taken significant shareholdings in some of their MNCs in recent years.
 - Governments earn a share of profits and gain some influence over the economies of other countries, which is a way of generating funds to replace the 'lost' tax revenues.

@@ -1,11 +1,9 @@
 ![[ab000281bd5e39b443f523bef22e430a.jpg]]
 
 ---
-
 ## Qualitative vs quantitative research
 
 ---
-
 ## Qualitative research
 - Addresses the "why" (open-ended) questions
 - Uses in-depth investigations to discover the reasons behind consumer behavior, preferences and choices.
@@ -15,7 +13,6 @@
 - Often reliant on primary research to gather viewpoints and opinions.
 
 ---
-
 ## Quantitative research
 - Addresses the "what" (closed and quantifiable) questions
 - Generally easier to collect, collate and interpret quantitative research results
@@ -26,7 +23,6 @@
 ![[849dbe5c8305f10b4cecc06164f119ac.jpg]]
 
 ---
-
 ## Sampling
 A sample refers to the proportion or subgroup of the population selected for market research purposes.  
 There are three sampling methods that can be used:
@@ -38,7 +34,6 @@ There are three sampling methods that can be used:
 ![[a94f2bf7021da30b55382cc250c50bc5.jpg]]
 
 ---
-
 ## Quota sampling advantages
 - It is suitable when researchers want to detect possible relationships between sub-groups.
 - It enables researchers to investigate particular traits (characteristics) of a certain sub-group in order to improve its marketing strategies.
@@ -47,7 +42,6 @@ There are three sampling methods that can be used:
 ![[a510886c7b354494d84ee7318cd5f4ab.jpg]]
 
 ---
-
 ## Quota sampling disadvantages
 - Researchers need time to determine the characteristics on which they will base the quota sample in order to generate representative results.
 - Selection is not random, so can be subject to researcher bias and sampling errors. This means that results might not be statistically representative.

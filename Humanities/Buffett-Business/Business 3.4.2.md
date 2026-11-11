@@ -1,7 +1,6 @@
 ## What's in It for Stakeholders?
 
 ---
-
 ## Financial Questions and Affected Stakeholders
 
 | **Question**                                                                                     | **Groups Affected**                            |
@@ -13,7 +12,6 @@
 | What is the value of the profit after all expenses, which is available for payment of dividends? | Managers and shareholders                      |
 
 ---
-
 ## The Purpose of Final Accounts
 
 | **Stakeholder**         | **Purpose / Interest**                                                                                      |
@@ -27,12 +25,10 @@
 | **Potential investors** | Will use the accounts to assess whether an investment would be financially worthwhile.                      |
 
 ---
-
 ## Statement of profit or loss
 ![[lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png]]
 
 ---
-
 ## Vocabulary
 + After sale
 + Warranty

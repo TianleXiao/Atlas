@@ -1,7 +1,6 @@
 ![[pic_20260605111514_0.jpg]]
 
 ---
-
 ## Observations advantages
 - Observations are not reliant on the willingness of people to participate in market research, unlike with surveys and interviews.
 - Observations can obtain information that people are unwilling or unable to provide.
@@ -9,7 +8,6 @@
 ![[pic_20260605113357_0.jpg]]
 
 ---
-
 ## Secondary market research
 Secondary market research, also known as desk research, refers to the collection of data and information that was previously collected by another source, i.e. the data or information already exists about a product, business, or market.
 Examples include gathering sources from:
@@ -21,7 +19,6 @@ Examples include gathering sources from:
 Information available on the internet
 
 ---
-
 ## Methods of secondary research
 - Government & non-government agencies
 - Public libraries
@@ -29,7 +26,6 @@ Information available on the internet
 ![[e95865e3b8fbf2213372ee18912aed1c.jpg]]
 
 ---
-
 ## Market analyses
 A market analysis report contains data and information about a particular product, market or industry. The market research information might include up-to-date data such as market size, market growth, and information on competitors.
 Examples of such sources include: Business Insider, Statista, Euromonitor, Eurostat, Datamonitor and Nielsen.
@@ -41,7 +37,6 @@ The market leaders and key market trends, market share analysis for major player
 ![[bca38b6a4651adc162aa4bf8110e4fe2.jpg]]
 
 ---
-
 ## Market analyses advantages
 - **Market analyses are generally cheaper, and less time-consuming to gather, than primary market research as an alternative.**
 - **In addition, as a form of secondary research, the information has already been gathered and is available. This helps firms to quickly access up-to-date detailed market data and trends, about various aspects of a product, market or industry.**

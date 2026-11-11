@@ -1,7 +1,6 @@
 ![[dc82871a7b48cef87515cb9188b7ad95.jpg]]
 
 ---
-
 ## Market segmentation
 (2) Geographic segmentation splits consumers according to different geographical factors.  
 Geographical factors include population density, climate (weather), and geographical locations. For instance, customers in rural areas of a country may have slightly different needs and wants from those in urban areas, while the climatic conditions vary in many countries/regions.
@@ -13,7 +12,6 @@ However, it should be noted that the needs and preferences of all customers of a
 ![[e46aa0e2a1dfe275108b6826c853aef9.jpg]]
 
 ---
-
 ## Market segmentation
 (3) **Psychographic segmentation**  
    Psychographic segmentation splits the market according to people's lifestyle choices and personal values:
@@ -22,7 +20,6 @@ However, it should be noted that the needs and preferences of all customers of a
 ![[654b041848946255be742f0185814ed5.jpg]]
 
 ---
-
 ## Market segmentation
 (4) Socio-economic segmentation  
 Socio-economic segmentation splits the market according to consumer or household income levels.
@@ -33,7 +30,6 @@ However, it should be noted that market segmentation often creates a limited num
 ![[1a2335c79a1fe60f23a31e6f76525738.jpg]]
 
 ---
-
 ## Market targeting
 A target market is a clearly identifiable group of customers that an organization focuses its marketing efforts on, i.e. it is the segment(s) of the market that the business aims its marketing strategy at. Customers in the same target market have unique needs, tastes and preferences. **Targeting** is the systematic process of marketing to a specific target segment. So **market segmentation** is a prerequisite to targeting.
 Once a particular target market is identified, marketers can create and use a suitable marketing mix and appropriate marketing strategies to achieve the organization's marketing objectives. Segmentation enables businesses to have greater knowledge about their customers in order to have more focused marketing.

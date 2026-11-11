@@ -1,7 +1,6 @@
 ![[051460bea5ebc6b54743ad44c33ab972.jpg]]
 
 ---
-
 ## Investment appraisal
 The learning outcomes (or assessment objectives) for this section are:
 - Investment opportunities using payback period
@@ -11,7 +10,6 @@ The learning outcomes (or assessment objectives) for this section are:
 ![[9b0ae277bb793e5dc279fa0eed84e41e.jpg]]
 
 ---
-
 ## The importance of investment decisions
 - Along with Steve Wozniak and Steve Jobs, Ronald Wayne co-founded Apple. Ronald Wayne sold his shares for only $800 after just 12 days with the company. He had a 10% stake in the company, which would be worth over $200 billion today (with Apple's valuation being around $2 trillion). This could have made Wayne one of the top 5 richest people on the planet.
 - In 1999, a web portal company called Excite passed on the offer to buy Google for $1 million. According to Forbes, Google now has a market valuation of around $1 trillion.
@@ -19,7 +17,6 @@ The learning outcomes (or assessment objectives) for this section are:
 ![[03b65d43d00c947c4852cd6923061b59.jpg]]
 
 ---
-
 ## Investing or not investing?
 **Investment refers to the capital expenditure of a business (i.e. the purchase of fixed assets or a business venture by acquisition/takeover) with the intention of a financial return on the investment in the future.**
 The essential questions that managers need to ask regarding any investment are:
@@ -30,7 +27,6 @@ The essential questions that managers need to ask regarding any investment are:
 ![[26cdc3d25d096a918d705444d1a439b9.jpg]]
 
 ---
-
 ## Investment opportunities
 **Investment opportunities can exist in a variety of situations:**
 - **When contemplating introducing new products:** A business may assess the likely costs and returns from investing in one or more new products.

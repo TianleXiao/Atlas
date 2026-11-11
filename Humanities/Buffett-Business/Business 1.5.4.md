@@ -2,7 +2,6 @@
 A Strategic Alliance (SA) is similar to a joint venture in that two or more businesses cooperate in a business venture for mutual benefit. Thus, as in the SA share the costs of product development, operations and marketing. However, unlike JVs, forming a strategic alliance means that the affiliated businesses remain independent organizations.
 
 ---
-
 ## 4 Key Stages to Form a Strategic Alliance
 1. **Feasibility study:
    + Investigate and establish the rationale, objectives and feasibility of the SA.
@@ -14,7 +13,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
    + Operations are initiated with commitment to the contract from all parties.
 
 ---
-
 ## Benefits of Joint Ventures
 
 - **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
@@ -24,12 +22,10 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
 
 ---
-
 ## Joint Venture Vs Strategic Alliance
 ![alt text](Humanities/Buffett-Business/Assets/4.png)
 
 ---
-
 ## Benefits of Joint Ventures
 
 - **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
@@ -39,7 +35,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
 
 ---
-
 ## Difficulties of JVs and SAs
 
 **There may still be difficulties, such as:**
@@ -49,7 +44,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - Different views on whether and how to end the venture.
 
 ---
-
 ## Vocabulary
 + Lay Off
 + Clause

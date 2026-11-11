@@ -1,7 +1,6 @@
 ![[bd38fa3e5e1ad45201a8982f62f6e16d.jpg]]
 
 ---
-
 ## Amending cash flow forecasts
 Changes in a business's circumstances can have a substantial effect on a business's cash-flow forecast and it may have to be amended as a consequence. A cash-flow forecast may need amending for two main reasons:
 - Inflows differ from the forecast: This will be a concern if inflows are lower than forecast, perhaps because sales are lower than was expected or because payments are received later than anticipated.
@@ -10,7 +9,6 @@ Changes in a business's circumstances can have a substantial effect on a busines
 ![[5040bf1b2c0d4de0b1fd579537362396.jpg|691]]
 
 ---
-
 ## Investment, profit and cash flow
 - **Investment** refers to the purchase of fixed assets (such as equipment and machinery), with the intention of creating a financial return (profit) in the future. It is therefore often referred to as **capital expenditure**.
 - Investment often requires a large initial amount of cash, so this can have a negative impact on the organization's net cash flow. Despite the risks, investment expenditure is important for an organization's survival and sustainability. By contrast, the lack of investment can negatively affect businesses as they fail to adapt to changing needs and wants in the marketplace.
@@ -19,7 +17,6 @@ Changes in a business's circumstances can have a substantial effect on a busines
 ![[c07249bbe914e4bc7affea6d8cdd9317.jpg]]
 
 ---
-
 ## Causes of cash flow problems
 Cash flow problems arise when an organization has insufficient funds to run its business, i.e. when net cash flow is negative. Examples of causes of cash flow problems include:
 - A lack of financial planning and market foresight resulting in sales revenue being lower than expected.

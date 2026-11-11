@@ -6,14 +6,12 @@ Cash flow refers to the movement of a business organization's cash inflows (cash
 Cash flow forecasting and cash flow statements are often used to measure the financial health of a business. This is because the comparison of cash inflows and cash outflows enables managers to determine whether the organization is able to pay its costs in order to maintain its business operations.
 
 ---
-
 ## Cash flow statement
 A financial statement that aggregates a company's cash inflows and outflows from operations, investing, and financing over a set period of time.
 
 ![[21bdd1418efd3a3f5162964cd1acd563.jpg]]
 
 ---
-
 ## Profit vs cash flow
 Cash flow is the movement of cash into and out of a business over a period of time.  
 Profit is the value of sales revenue after all costs have been accounted for.  
@@ -29,7 +27,6 @@ Remember the good old formula: Profit = Sales revenue - Total costs
 ![[28dd225811155f7eaaf7f58e35fea984.jpg]]
 
 ---
-
 ## Tesla’s race towards profitability
 
 **Example: Tesla**
@@ -41,7 +38,6 @@ For example, both Amazon and Netflix took about 7 years of operation before beco
 ![[38b5b510d557c464d618c7d55237033e.jpg]]
 
 ---
-
 ## Working capital cycle / cash conversion cycle
 - Working capital (sometimes called **net current assets or circulating capital**) refers to cash or other liquid assets available to a business for its daily operations.
   - Positive working capital shows that a business is able to pay off its short-term liabilities very quickly, while a negative working capital indicates the business is unable to do so.

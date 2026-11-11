@@ -1,7 +1,6 @@
 ![[24cb1c9bcc981ff8559bfcec5728e7e4.jpg]]
 
 ---
-
 ## Television Advertising
 **Advantages—**
 - It exploits the power of combining sound and moving images to convey very powerful messages to viewers.
@@ -12,7 +11,6 @@
 ![[183fbf3e9e5e53b792392353de3c964e.jpg]]
 
 ---
-
 ## Radio Advertising
 **Advantages—**
 Radio advertising is able to reach a very large audience yet it is significantly cheaper than TV advertising.
@@ -24,7 +22,6 @@ Audiences have lower attention levels compared with TV advertisements.
 ![[d104416fcca540c528a4431bf6e937ae.jpg]]
 
 ---
-
 ## Cinemas
 **Advantages—**
 Statistics show growing visitor numbers at cinemas around the world.
@@ -37,7 +34,6 @@ The main drawback is its limited audience size compared with that of radio liste
 ![[6cb21386f57348b4acfb387af5929c9a.jpg]]
 
 ---
-
 ## Magazines
 **Advantages—**
 Promotion in magazines has the advantage of being able to use high definition/resolution images to attract the attention of readers.

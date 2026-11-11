@@ -5,7 +5,6 @@ A firm can improve its GPM ratio by increasing sales revenue. Such methods could
 - Reducing the prices of products sold in highly competitive markets in order to attract more customers.
 
 ---
-
 ## Gross profit margin
 - Gross profit margin: This ratio compares gross profit with revenue.
 **What might be the reasons of Port Louis Press Ltd having much lower gross profit margin?**
@@ -17,7 +16,6 @@ The gross profit margin is the percentage of the business’s revenue which is g
 $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 
 ---
-
 ## Roce: return on capital employed
 - The return on capital employed (roce) ratio measures a firm’s efficiency and profitability in relation to its size (as measured by the value of capital employed).
 - Capital employed is the value of all long-term sources of finance available for a business at a point in time, whether internal or external sources finance.
@@ -31,7 +29,6 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 - The higher the roce figure, the better it is for the business.
 
 ---
-
 ## Roce: a key ratio
 - As a general rule, the roce should at least exceed the interest rate offered at banks; otherwise it would be better to simply deposit the funds/capital in an interest-bearing/saving bank account.
 - Especially since bank deposits would probably carry less (to no) risk compared with other investment projects.

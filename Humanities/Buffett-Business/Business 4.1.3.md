@@ -1,7 +1,6 @@
 ![[pic_20260514152153_0.jpg]]
 
 ---
-
 ## Market orientation disadvantages
 The disadvantages of market orientation as an approach to marketing include:
 - Gathering meaningful and representative market research information and data can be very expensive for the organization, so have a negative impact on its finances.
@@ -10,7 +9,6 @@ The disadvantages of market orientation as an approach to marketing include:
 ![[1256c1705ae446c7d8038d20d8a760e9.jpg]]
 
 ---
-
 ## Product orientation advantages
 The advantages of product orientation as an approach to marketing include:
 - By being **innovative**, product orientation can give firms a competitive advantage or unique selling proposition (USP). E.g., Toyota gained a USP for its Prius, which went on to become the world's best-selling hybrid car.
@@ -19,7 +17,6 @@ The advantages of product orientation as an approach to marketing include:
 ![[82c5a99e74640ba0be65791ffde5986a.jpg]]
 
 ---
-
 ## Product orientation disadvantages
 However, the disadvantages of product orientation as an approach to marketing include:
 - It requires highly skilled and costly staff (such as product designers) to come up with new and innovative ideas.
@@ -28,7 +25,6 @@ However, the disadvantages of product orientation as an approach to marketing in
 ![[0afc5696054cd99aec10640011c85d5d.jpg]]
 
 ---
-
 ## Market share
 Market share refers to the sales revenue that an organization accounts for within a given market or industry. It is measured by expressing the firm's sales revenue as a percentage of the whole industry's sales revenue.
 Market share is expressed as a percentage figure to show the firm's sales as a proportion of the total sales in the market, which is more meaningful than just showing the absolute value of the firm's sales revenue. It allows a firm to compare its size with that of its closest rivals.

@@ -12,7 +12,6 @@ Shortages occur when producers cannot offer enough products at current prices.
 *3.The sales*
 
 ---
-
 ## Vocabulary
 + Cruel 
 + Cosmetics

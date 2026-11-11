@@ -1,7 +1,6 @@
 ![[5cde58091ef5eaa682efdcf97a12e535.png]]
 
 ---
-
 ## Usp examples
 - **DeBeers** - "A diamond is forever." This famous slogan has been used by DeBeers since 1948, and was named by Advertising Age magazine as the best corporate slogan of the 20th century. The association of diamonds (from DeBeers) lasting forever made its products the perfect symbol for eternal love and the most popular choice for engagement rings.
 - **Domino's Pizza** - "You get fresh, hot pizza delivered to your door in 30 minutes or less or it's free." This slogan makes the company's USP clear as it spells out a guarantee with absolute clarity for customers.
@@ -9,7 +8,6 @@
 ![[49a9057c61f9dd6b755d11f3dc040781.jpg]]
 
 ---
-
 ## Advantages of differentiation
 - Differentiation enables businesses to charge higher prices due to the distinctive features or aspects of the products they sell.
 - It creates brand awareness and develops customer loyalty.
@@ -20,7 +18,6 @@
 ![[951a31186e7fa03e8c6755c453542437.jpg]]
 
 ---
-
 ## Market research
 + Market research is the process of gathering, analyzing and producing data relevant to the marketing activities of a business.
 + These marketing activities are designed to determine the opinions, beliefs and feelings of existing and potential customers.
@@ -29,11 +26,9 @@
 ![[d1f45bfef132c8e62c5391b54b0c3161.jpg]]
 
 ---
-
 ## Why market research?
 
 ---
-
 ## Reasons why organizations carry out market research include the need to:
 - Gather information regarding customer tastes and preferences, such as product design.
 - Determine the likelihood of customers buying certain products (particularly important for product innovation).

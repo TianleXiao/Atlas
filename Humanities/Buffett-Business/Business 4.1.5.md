@@ -1,7 +1,6 @@
 ![[Pasted image 20260520093758.png]]
 
 ---
-
 ## The importance of market share and market leadership
 Market share is the single most important measure used by marketers to judge the effectiveness of their marketing campaigns and marketing strategies. Hence, market leadership or a greater market share is highly desirable because:
 - It puts the firm in a position where it can shape and set the industry's future trends whilst competitors merely follow.
@@ -10,7 +9,6 @@ Market share is the single most important measure used by marketers to judge the
 ![[Pasted image 20260520094711.png]]
 
 ---
-
 ## The importance of market share and market leadership
 Market leadership or a greater market share is highly desirable because:
 - For firms that rely on other businesses to sell their products, such as Coca-Cola or Heinz, retailers and other distributors are more likely to hold the products of market leaders as part of their inventory (in order to improve their own sales and profits).
@@ -19,7 +17,6 @@ Market leadership or a greater market share is highly desirable because:
 ![[Pasted image 20260520095432.png]]
 
 ---
-
 ## The significance of market share and market growth
 - **Market share is highly dependent on total sales or market size.**
   - If a market remains the same size or is growing, then an increasing market share means higher sales.

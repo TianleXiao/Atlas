@@ -1,7 +1,6 @@
 ![[fe0b5ce6edf55f946b9b13974fea1900.jpg]]
 
 ---
-
 ## The payback period method
 - The payback period (PBP) is a method of investment appraisal that considers the time it takes for the initial amount of money invested to be repaid using the gains from the original investment. This means the PBP calculates how long it will take a business to break-even on (or "pay back") its investment, usually measured in terms of months.
 - The original amount of the investment is known as the capital outlay or principal.
@@ -11,7 +10,6 @@ PBP = \frac{\text{Cost of investment}}{\text{Contribution per month}}
 $$
 
 ---
-
 ## Payback period formula
 
 $$
@@ -21,7 +19,6 @@ $$
 ![[0bbcafa6f226b96db921961b605c1c0b.jpg]]
 
 ---
-
 ## Calculating the pbp (1)
 
 - Example 1: Constant net cash flow contribution  
@@ -35,11 +32,9 @@ $$
 ![[4db15aa830d320adf38f9226122f68c1.jpg]]
 
 ---
-
 ## Calculating the pbp (2)
 
 ---
-
 ## Example 2: Changing net cash flow (contribution)
 Suppose that Thornton Inc. is deciding whether to spend $78,000 on a new machine that is expected to generate net cash flows over 5 years.
 To calculate the PBP (when the net cash flow or contribution is not a fixed amount per time period), there are several important steps:

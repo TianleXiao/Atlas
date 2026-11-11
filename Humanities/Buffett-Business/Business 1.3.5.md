@@ -2,7 +2,6 @@
 ![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
 
 ---
-
 ## CSR
 Of course, all businesses should have an obligation of acting legally, behaving in certain ways as set out by the law. 
 
@@ -12,14 +11,12 @@ Of course, all businesses should have an obligation of acting legally, behaving 
 + make the world more sustainable and abettor place than when it started up. 
 
 ---
-
 ## Ethical Vs Legal
 volk wagon
 folk car
 people car
 
 ---
-
 ## Objectives And Business Decisions
 **Decision-making involves:**
 1. **Setting the objectives:** These should be S.M.A.R.T.
@@ -29,19 +26,16 @@ people car
 5. **Reviewing:** Considering whether the objectives are still appropriate, due to internal or external factors; a firm may need to set higher or different targets as a result.
 
 ---
-
 ## Business Objectives at Different Stages of Business Development
 A firm’s objectives don’t remain the same forever. As market situations change (external factors) and as the business itself develops (internal factors), its objectives will change to reflect its current market and economic position. For example, a firm facing serious economic recession could change its objective from profit maximization to short term survival.
 
 ---
-
 ## SWOT Analysis
 SWOT analysis is a situational decision-making tool. It's an acronym for Strengths, Weaknesses, Opportunities, and Threats.
 ![enter image description here](https://www.wordstream.com/wp-content/uploads/2021/07/swot-analysis-header1.png)
 It can be used to assess the current situation of a business by considering both internal and relevant external factors.
 
 ---
-
 ## SWOT Analysis-Internal Factor
 + Strengths are the internal factors that are favorable compared with competitors. It needs to be protected and developed. E.g.
   + Strong brand loyaity
@@ -51,7 +45,6 @@ It can be used to assess the current situation of a business by considering both
   + Products less well known to the new generation.
 
 ---
-
 ## Vocabulary
 + Resigned
 + Implementing

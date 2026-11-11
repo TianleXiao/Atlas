@@ -1,7 +1,6 @@
 ![[d5f8451c20f3b89dc2d670563ab2f3e9.jpg]]
 
 ---
-
 ## Predatory Pricing Advs
 - Low prices tempt customers to buy more of the product and for non-customers to switch to buying the product (ditching the rival product in the process).
 - Low prices can be a barrier to entry, preventing potential rivals from competing in the industry.
@@ -9,7 +8,6 @@
 ![[de40a0299398b920a0ad33c9b79a693d.jpg]]
 
 ---
-
 ## Predatory Pricing Disadvs
 - Predatory pricing is anti-competitive, so is illegal in many countries and violates competition laws. For example, in the European Union (EU), it is illegal for a business to sell its products at a loss in order to eliminate competition.
 - Lower prices can cause some customers to question or doubt the quality of the product.
@@ -18,7 +16,6 @@
 ![[252b9e80164d00658a37f10320bb156b.jpg]]
 
 ---
-
 ## Premium Pricing
 Premium pricing involves a business permanently setting a high price for its products because of the associated image, reputation, or status associated with its high-quality products. For example, Apple and Ferrari use premium pricing (their products are generally more expensive than those from similar competitors). Other examples include:
 - Premium economy air travel (more expensive than an economy class ticket but with premium add-ons such as extra leg room and baggage allowance).
@@ -27,7 +24,6 @@ Premium pricing involves a business permanently setting a high price for its pro
 ![[14fc237bc5a8619a07f5d130577aee01.jpg]]
 
 ---
-
 ## Premium Pricing
 Premium pricing is also used in the case of ostentatious consumption and conspicuous consumption.
 Ostentatious consumption is the purchase of expensive products which impress and make customers feel good about themselves. A large part of the satisfaction comes from knowing the premium price paid for the product itself. Examples include Christian Dior perfumes, Rolex watches, Chanel handbags, Armani suits, and Vera Wang wedding dresses.

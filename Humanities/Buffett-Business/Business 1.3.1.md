@@ -8,14 +8,12 @@
   + A mission statement is a simple declaration of the underlying purpose of a business/organization (i.e., what it does, who it serves, and how it serves them).
 
 ---
-
 ## Mission VS Vision
 Is to inform the employees | Is to motivate the employees
 
 Is usually bigger than the vision | Is usually smaller.
 
 ---
-
 ## From Mission to Targets
 + Aims are general, long-term, vague and unquantifiable statements of a business.
 + Objectives are statements of a specific target to be achieved by a business. Targets should be measurable and ought to have a given timescale.
@@ -23,7 +21,6 @@ Is usually bigger than the vision | Is usually smaller.
 + Tactics are short-term plans to achieve the short-term objectives/targets.
 
 ---
-
 ## Vocabulary
 + Endorsement
 + Groundbreaking

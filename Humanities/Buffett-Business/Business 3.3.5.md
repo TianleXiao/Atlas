@@ -3,7 +3,6 @@
 - For example, Arsenal Football Club received a €132 million ($178.4 million) sponsorship deal in 2006, lasting 15 years with Emirates Airlines.
 
 ---
-
 ## Revenue Streams — Subscription Fees
 - **These charges are imposed on customers who use or access a good or service, based on a formal agreement.**
     E.g.
@@ -13,25 +12,21 @@
     - Cable and satellite television providers charge monthly fees.
 
 ---
-
 ## Revenue Streams — Merchandise
 + Service providers in the entertainment industry (such as cinemas, concerts, theatres and theme parks) rely on selling merchandise (such as popcorn, beverages, souvenirs and memorabilia) in addition to admissions charges.
 
 ---
-
 ## Revenue Streams — Dividends
 - Being a shareholder of other companies entitles a business to payments of any declared dividends.
     E.g.
     - Europe's largest car maker Volkswagen holds shares in Porsche, Suzuki, and Scania (the Swedish maker of heavy trucks and buses).
 
 ---
-
 ## Revenue Streams — Donations
 - These are financial gifts from individuals or other organizations to a business.
 - Charities and non-profit organizations such as schools, hospitals and universities rely heavily on donations as a regular revenue stream.
 
 ---
-
 ## Revenue Streams — Interest Earnings
 - Businesses can earn interest on their cash deposits at the bank.
 - For highly cash-rich businesses this can be an important revenue stream.
@@ -39,7 +34,6 @@
 - Depositing $1 billion in a bank account that pays just 1% interest per year still yields $27,397 per day! At an interest rate of 3%, the daily revenue stream would be $82,192!
 
 ---
-
 ## Revenue Streams — Subventions
 - These are subsidies offered from the government to certain businesses to help reduce their costs of production.
 - They are usually given to organizations that generate benefits to society, such as private schools and hospitals.

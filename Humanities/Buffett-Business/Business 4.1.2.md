@@ -1,7 +1,6 @@
 ![[pic_20260513093242_0.jpg]]
 
 ---
-
 ## The size of a market
 Businesses are interested in knowing the market size of a good or service before launching a new product in the market.  
 The size of a market can be defined as the total number of individual customers or the total value of sales revenue in a certain market. Alternatively, it can also refer to the number of potential buyers in the market.  
@@ -14,7 +13,6 @@ The most common methods of measuring the size of a market are:
 ![[pic_20260513095637_0.jpg]]
 
 ---
-
 ## Market orientation
 “Producing a hit without listening to customers is inefficient.”  
 - Ryoji Chubachi (b. 1947), former Vice Chairman and President of Sony Corp.
@@ -25,7 +23,6 @@ Market-oriented firms use promotional strategies, such as television advertising
 ![[pic_20260514151209_0.jpg]]
 
 ---
-
 ## Product orientation
 “A lot of times, people don’t know what they want until you show it to them.”  
 - Steve Jobs (1955–2011), Co-founder of Apple  
@@ -37,12 +34,10 @@ Such businesses prioritize research and development (R&D) over market research. 
 ![[pic_20260514151804_0.jpg]]
 
 ---
-
 ## Market orientation advice
 If you're a competitor, please pay attention to what your competitor is doing. Being customer-focused allows you to be more pioneering. – Jeff Bezos, founder of Amazon, Inc.
 
 ---
-
 ## The advantages of market orientation as an approach to marketing include:
 - New product launches are more likely to be successful as they are based on market research, so are more likely to be accepted by the target market.
 - It helps to reduce the financial risks involved in product development by focusing on the changing needs and wants of customers and potential customers.

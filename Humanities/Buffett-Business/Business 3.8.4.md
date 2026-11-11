@@ -1,7 +1,6 @@
 ![[42d5fec620fbdd98167e37944e5f6c74.jpg]]
 
 ---
-
 ## PBP exam practice
 Rowlands Printing Co. is considering an investment of $380,000 on new printing machines.  
 The project is expected to generate the following net cash flows in the five years that the machines are expected to last, before they need replacing and upgrading. Rowlands Printing Co. has suffered from liquidity problems recently, although remains profitable. The management team would therefore prefer a shorter payback period for any investment project.
@@ -24,7 +23,6 @@ The project is expected to generate the following net cash flows in the five yea
 ![[d932fbe04c4de0095030b0a263010c06.jpg]]
 
 ---
-
 ## Comparing investment returns
 
 Two investment projects, A and B, each require an investment of $1 million.  
@@ -43,7 +41,6 @@ Which investment project is more attractive?
 ![[1a043687e7e40e49c34f9c0e07c0d265.jpg]]
 
 ---
-
 ## The pbp method benefits
 - It is the easiest and fastest method to appraise investment. The results are also easy to understand and interpret/comment.
 - It is useful for businesses that suffer from cash flow problems, such as small sole traders, or small businesses trying to survive a recession.
@@ -54,7 +51,6 @@ Which investment project is more attractive?
 ![[dbdda2cd77f229e333668fe776efa7de.jpg]]
 
 ---
-
 ## The pbp method drawbacks
 - It does not take into account the timing of receipts/inflows – the reality is that money received in the future is worth less than money received today.
 - It is not usually suitable for determining long-term projects with a long PBP, as it is showing higher risks for these types of projects.

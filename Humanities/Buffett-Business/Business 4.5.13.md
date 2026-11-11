@@ -1,7 +1,6 @@
 ![[388254930226a549a519dcfe885716c5.jpg]]
 
 ---
-
 ## Factors Influencing Ped (HL)
 - No. of substitutes: if a product has many substitute products it will have an elastic demand. For example, Coca-Cola has many substitutes such as Pepsi and Mountain Dew. Thus, if price rises, consumers will quickly move to the substitutes and if price lowers, more consumers will buy Coca-Cola.
 - Time period: demand for a product is more likely to be elastic in the long run, when the price rises, consumers will search for cheaper substitutes, the longer time they have, the more likely they are to find one. In the short run, if the price falls, new customers will not have time to notice it to switch away from expensive rival products, and if the price rises, customers won't have time to find alternatives.
@@ -9,7 +8,6 @@
 ![[a1948d326a62ff75d7b35170dcf029ef.jpg]]
 
 ---
-
 ## P For Promotion
 "Doing business without advertising is like winking at a girl in the dark. You know what you are doing, but nobody else does."
 - Stuart Henderson Britt, Advertising consultant (1970)
@@ -23,7 +21,6 @@ Promotion is about getting the right message to the right customers on the right
 ![[00b7abd41ba4c88a89cc59f4d81cc70c.jpg]]
 
 ---
-
 ## Objectives Of Promotion
 The objectives of promotion in the marketing mix can be summed as information, persuasion and devotion:
 1. Informative promotion aims to alert the market about a firm's products, especially new or updated products. E.g. facts and figures about a business or its latest products.
@@ -32,7 +29,6 @@ The objectives of promotion in the marketing mix can be summed as information, p
 ![[84bf05b1d3cad0a94358d84799703d14.jpg]]
 
 ---
-
 ## Above-The-Line (Atl) Promotion
 Above the line (ATL) promotion is any form of paid-for promotional method through independent mass-media sources to promote a business, its brands or its products to a general untargeted audience.
 The main methods of ATL promotion include:

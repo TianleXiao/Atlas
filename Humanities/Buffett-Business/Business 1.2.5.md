@@ -4,14 +4,12 @@
   + Owners have limited liability for business debt.
 
 ---
-
 ## The death of an owner does not lead to its break-up.
 + There are two types of limited companies:
   + Private limited companies
   + Public limited companies (1 share = ?￥)
 
 ---
-
 ## Features of Limited Companies
 The main features of limited companies are:
 + Legal documents must be completed when setting up the business.
@@ -21,7 +19,6 @@ The main features of limited companies are:
 + Financial statements must be produced and submitted to the correct authorities at the end of the year.
 
 ---
-
 ## Private LTD CO Going Public
 + **IPO:** initial public offering, makes the company listed on a stock exchange.
 + Flotation occurs when a business first sells all or part of its business to external investors in the process of IPO. It helps to generate additional source of finance/funds.
@@ -31,7 +28,6 @@ The main features of limited companies are:
 + 3. approving the financial statements.
 
 ---
-
 ## Vocabulary 
 + Invoice
 + Flattery
