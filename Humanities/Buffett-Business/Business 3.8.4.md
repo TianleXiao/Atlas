@@ -3,6 +3,7 @@
 ![[d932fbe04c4de0095030b0a263010c06.jpg]]
 Rowlands Printing Co. is considering an investment of $380,000 on new printing machines.
 The project is expected to generate the following net cash flows in the five years that the machines are expected to last, before they need replacing and upgrading. Rowlands Printing Co. has suffered from liquidity problems recently, although remains profitable. The management team would therefore prefer a shorter payback period for any investment project.
+
 | Year | Net cash flow |
 |------|---------------|
 | 1    | $120,000      |
@@ -24,6 +25,7 @@ The project is expected to generate the following net cash flows in the five yea
 Two investment projects, A and B, each require an investment of $1 million.
 Their expected earnings are shown in the table below.
 Which investment project is more attractive?
+
 | Year | Project A cash inflow ($) | Project B cash inflow ($) |
 |------|---------------------------|---------------------------|
 | 1    | 500,000                   | 100,000                   |
