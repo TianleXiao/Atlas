@@ -2,7 +2,6 @@
 ![[593c71fa0587523122119194c5f981ff.jpg]]
 - To get workers to increase their efforts they had to be rewarded with more money. This is known as the theory of the economic man.
 - The piece-rate method of paying production workers is developed from Taylor's theory.
-
 homo oeconomicus?
 
 ---
@@ -26,12 +25,10 @@ How to improve output per worker—
 - Quality may be sacrificed in the search for quantity.
 - Workers may be discouraged from accepting changes at work in case they lose some pay.
 - In most of modern industry, especially service industries, it has become very difficult to identify the output of individual workers.
-
 uneingeschränkt rationales Handeln
 Vollständige Marktinformation
 Nutzen-maximierung
 festgelegte Präferenzen
-
 QUALITY HAS MOVED ACROSS THE STREET
 
 ---
@@ -44,7 +41,6 @@ Self-esteem
 Social needs
 Security needs
 Survival needs
-
 Self-actualization (reaching full potential)
 Esteem needs (respect from others, recognition for well done job, status)
 Social needs (friendship accepted, belonging to a group)

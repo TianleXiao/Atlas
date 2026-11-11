@@ -40,7 +40,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 
 ## Difficulties of JVs and SAs
 **There may still be difficulties, such as:**
-
 - Disagreements over the relative contribution of each business, and therefore how profits should be divided.
 - Different views on how decisions should be made and what the priorities are.
 - Different views on whether and how to end the venture.

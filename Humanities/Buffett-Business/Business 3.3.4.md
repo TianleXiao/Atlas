@@ -6,7 +6,6 @@
 
 ## Total Revenue Formula
 **Total Revenue = Number of Units Sold × Price Per Unit**
-
 $$
 TR = Q \times P
 $$
@@ -19,7 +18,6 @@ $$
 
 ## Average Revenue Formula
 **Average Revenue = Total Revenue ÷ Number of Units Sold**
-
 $$
 AR = \frac{TR}{Q} = \frac{Q \times P}{Q} = P
 $$

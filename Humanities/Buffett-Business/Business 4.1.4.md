@@ -1,11 +1,7 @@
-![[2d17288f6d32c3d8a5fee2c3f4418830.jpg]]
-
----
-
 ## Market orientation vs product orientation
+![[2d17288f6d32c3d8a5fee2c3f4418830.jpg]]
 ![[caa70c51d07666110f56bd3dfcc70ccd.jpg]]
 - Table 4.1.1 Comparison of market orientation and product orientation
-
 | Market orientation                             | Product orientation                                                                               |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Outward looking                                | Inward looking                                                                                    |
@@ -28,7 +24,6 @@ The chart hereby shows the number of final year candidates that took the DP Busi
 | Year         | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 | ------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Sales ($ tr) | 0.32 | 0.35 | 0.36 | 0.39 | 0.4  | 0.42 | 0.45 | 0.42 | 0.48 |
-
 An example of an industry with positive market growth is smartphones, as shown in the table below (sales expressed in trillions of USD).
 Although the smartphone market is dominated by Samsung and Apple, the positive market growth has attracted many more manufacturers to the industry, such as Xiaomi, Oppo, Vivo, Huawei, LG, ZTE, and Lenovo.
 By contrast, some markets have seen a decline in the size of the market (negative market growth), such as the markets for CDs and digital cameras.
@@ -42,7 +37,7 @@ If the market growth rate is positive, it means the market size is growing. An e
 
 ## Worked examples
 ![[2ac7f6d40de5013fa8bf9fc85fcd1182.jpg]]
-1. Calculate the market growth in the market for candidates studying IB Diploma Business Management based on the following figures. [2 marks]  
+1. Calculate the market growth in the market for candidates studying IB Diploma Business Management based on the following figures. [2 marks]
 $$
 32,773 - 3,622 = 27,239
 $$
@@ -50,13 +45,11 @@ $$
 (27,239 / 3,622) \times 100 = 804.83\%
 $$
 Hence, the growth in the market is **804.83%**.
-
 | Year | Candidates |
 |------|------------|
 | 2005 | 3,622      |
 | 2022 | 32,773     |
-
-2. The data below shows the number of IB World Schools that offer Business Management as a subject. Calculate the market growth based on the given data. [2 marks]  
+2. The data below shows the number of IB World Schools that offer Business Management as a subject. Calculate the market growth based on the given data. [2 marks]
 $$
 1,468 - 497 = 870
 $$
@@ -64,13 +57,11 @@ $$
 (870 / 497) \times 100 = 195.37\%
 $$
 Hence, the growth in the market is **195.37%**.
-
 | Year | IB World Schools |
 |------|------------------|
 | 2013 | 497              |
 | 2022 | 1,468            |
-
-A key problem with calculating market size and therefore market growth is how to define a particular market. For example, does the "public transport market" include all forms of transportation taken by the general public? What about private taxis and share rides?  
+A key problem with calculating market size and therefore market growth is how to define a particular market. For example, does the "public transport market" include all forms of transportation taken by the general public? What about private taxis and share rides?
 It is not always easy to clearly define the market that a business operates in, especially for large multinational companies that have operations in multiple countries across the world.
 
 ---
@@ -81,11 +72,9 @@ It is not always easy to clearly define the market that a business operates in, 
 
 ## Worked example
 If the market sales last year were $200,000 and are now $220,000, then:
-
 $$
 \text{Market growth} = \frac{\$220,000 - \$200,000}{\$200,000} \times 100 = 10\%
 $$
-
 If the growth rate one year is 5% and the next year is 2%, is the market shrinking or growing?
 - A common mistake is to assume that because the number is lower, the market is shrinking.
 - It's actually not. The market is still growing, just at a slower rate.

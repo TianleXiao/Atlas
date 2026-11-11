@@ -6,9 +6,7 @@
 ## Business Objectives & Functional Objectives
 + A corporate objective is a target set for the business as a whole.
 + A functional objective is a target for one of the functions of the business, such as marketing, finance, operations or human resources.
-
 $$Corporate \ objectives \rightarrow Departmental \ objectives \rightarrow Individual \ objectives$$
-
 + For example, if the overall business objective is to increase profits by 30% over the next five years, then during that time, functional objectives would be that:
 + the marketing department may increase sales by 40%.
 + the operations department may reduce costs by 20%.
@@ -64,13 +62,13 @@ Managers can protect shareholder value in one of two ways:
 
 ## Public Sector Objectives: Diversification
 + Diversification occurs when a business offers new products and services in new markets, usually in order to benefit from risk-bearing economies of scale.
-+ If one becomes obsolete or one market becomes significantly more compete, then the alternative products or markets will provide a secure source of revenue for the business.  
++ If one becomes obsolete or one market becomes significantly more compete, then the alternative products or markets will provide a secure source of revenue for the business.
 
 ---
 
 ## Vocabulary
 + Promotion
 + Sales agent
-+ Recruitment 
++ Recruitment
 + Deface
 + Acquire

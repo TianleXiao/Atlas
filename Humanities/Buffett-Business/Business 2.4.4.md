@@ -18,7 +18,6 @@ Herzberg's research identified two groups of factors that motivated people at wo
 | Salary or wage: enough | Advancement (opportunity of promotion) |
 | Supervision (leadership style) | Achievement (reach challenging goals) |
 | Company policy and administration (rules and procedures): rules and procedures | Recognition of achievement |
-
 - Factors surrounding the job (Hygiene factors)
 - Factors about the job itself (Motivators)
 
@@ -34,7 +33,6 @@ Herzberg's motivators – these satisfiers relate to the job itself and can crea
 - Growth and advancement
 MOST IMPORTANT (left) → LEAST IMPORTANT (right)
 - Potential to satisfy (upward axis)
-
 Herzberg's hygiene factors – these relate to the job environment and have the potential to dissatisfy
 - Company policy and administration
 - Supervision
@@ -51,5 +49,4 @@ Herzberg's hygiene factors – these relate to the job environment and have the 
 - Money gets people to do a job but does not motivate them to do well/ better.
 - Motivators need to be put in place for workers to be prepared to work willingly and to always do their best.
 - The work itself needs to be interesting, rewarding and challenging to motivate workers to offer their full potential.
-
 Diagram: Motivators → GREAT JOB!

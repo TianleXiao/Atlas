@@ -7,7 +7,7 @@ $$ Cost \ of \ sales = Opening \ stock + Purchases - Closing \ stock$$
 ## Cash outflows
 ![[6aa931b72bd3faae5ff92f9e4d64dfe6.jpg]]
 ![[12ba48e58bf0f2e132ee456cb7ba4002.jpg]]
-Cash outflows are simply the money going out of a business to pay for its spending.  
+Cash outflows are simply the money going out of a business to pay for its spending.
 Examples of cash outflows include payments for:
 - Utility bills, e.g. gas, water, electricity, and phone/internet
 - Heating and lighting costs*
@@ -21,7 +21,6 @@ Examples of cash outflows include payments for:
 - Insurance premiums
 **Make it rain**
 *Note: for external assessment purposes, the following items appear as cash outflows in the prescribed format of the cash flow forecast: rent, packaging, salaries and wages, cost of sales, heating and lighting, as well as delivery.*
-
 $$ Net \ cash \ flow = Cash \ inflows - Cash \ outflows $$
 
 ---
@@ -31,18 +30,15 @@ $$ Net \ cash \ flow = Cash \ inflows - Cash \ outflows $$
 The opening balance in a cash flow forecast refers to the value of cash held by a business at the start of a trading period (usually the beginning of the month).
 - **Net cash flow (NCF)** refers to an organization's estimated difference between its cash inflows and cash outflows for a particular time period.
 The closing balance in a cash flow forecast refers to the value of cash held by a business at the end of a trading period (usually the final day of the month), which therefore becomes the opening balance for the next time period.
-
-**Net cash flow** =  
+**Net cash flow** =
 $$
 \text{Total cash inflow} - \text{Total cash outflow}
 $$
-
-**Closing balance** =  
+**Closing balance** =
 $$
 \text{Opening balance} + \text{Net cash flow}
 $$
-
-**Opening balance** =  
+**Opening balance** =
 $$
 \text{Closing balance in previous month}
 $$

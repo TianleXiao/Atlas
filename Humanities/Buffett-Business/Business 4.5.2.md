@@ -1,25 +1,22 @@
+## The product lifecycle: example
 ![[ee09d142760703ef0f88c9d9d4863912.jpg]]
 ![[23d5da843d06aea81a471ebdfb442a21.jpg]]
+Take a look at this visual stimulus of the product life cycle for Apple's iconic iPod, which was launched on 23rd October 2001 and officially withdrawn on 10th May 2022.
+To remain successful:
+- Apple would need to have other products in its portfolio, knowing the sales of the iPod went into decline from around 2006.
+- Apple would also need to ensure an appropriate marketing mix (the 7 Ps) is devised and implemented.
 
 ---
 
-## The product lifecycle: example
-Take a look at this visual stimulus of the product life cycle for Apple's iconic iPod, which was launched on 23rd October 2001 and officially withdrawn on 10th May 2022.  
-To remain successful:  
-- Apple would need to have other products in its portfolio, knowing the sales of the iPod went into decline from around 2006.  
-- Apple would also need to ensure an appropriate marketing mix (the 7 Ps) is devised and implemented.  
+## Farewell iPod:
 
 ---
 
-## Farewell iPod:  
-
----
-
-## The rise and fall of an icon  
+## The rise and fall of an icon
 ![[319dda0b70a94492f0f5680f2fe57d57.jpg]]
-iPod sales in units and as a percentage of Apple's total revenue*  
-- **Units sold**  
-- **Share of Apple's revenue**  
+iPod sales in units and as a percentage of Apple's total revenue*
+- **Units sold**
+- **Share of Apple's revenue**
 (Chart data ranges from 0m to over 495m units with corresponding revenue share percentages over time.)
 
 ---

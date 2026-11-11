@@ -18,7 +18,6 @@ $$Working \ Capital = Current \ assets - Current \ liabilities$$
 - Total assets are simply the sum of non-current assets and current assets, i.e. the sum of all what is owned by the business.
 - Total liabilities are simply the sum of current liabilities and non-current liabilities, i.e. the sum of all what is owed by the business.
 - Net assets, sometimes called net assets employed, refers to the overall value of an organization's assets after all its liabilities are deducted. Hence, net assets is calculated by using the formula:
-
 $$Net \ assets=Total \ assets−Total \ liabilities$$
 $$Net \ assets=(Non-current \ assets+Current \ assets)−(Current \ liabilities+Non-current \ liabilities)$$
 **Net Asset Formula:**

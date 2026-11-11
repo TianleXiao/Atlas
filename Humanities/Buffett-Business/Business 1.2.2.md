@@ -14,9 +14,9 @@
 + Reducing administration costs and quick adaptation to the market needs and changing conditions.
 + Less-risk of under-investment due to private funds.
 **They also have few disadvantages such as:**
-+ Some private firms may become monopolies or oligopolies, may charge higher prices on low quality products, which hurts the consumers. 
++ Some private firms may become monopolies or oligopolies, may charge higher prices on low quality products, which hurts the consumers.
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Variety

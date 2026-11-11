@@ -1,8 +1,5 @@
-![[1faa835890c06ea26b810007b15f435b.jpg]]
-
----
-
 ## Position maps: categories of products
+![[1faa835890c06ea26b810007b15f435b.jpg]]
 ![[9da62d6c0dd2b7429a792b819f0c8080.jpg]]
 Several categories of products can be identified from a typical position map that uses price and quality as the axes labels:
 - Bargain products are those perceived by customers to be of high quality but sold at a low price. Again, this strategy is unlikely to be sustainable due to the low profit margins, but can be a method to increase sales and brand awareness in the short term.
@@ -27,7 +24,7 @@ Niche marketing is a specific marketing strategy or marketing approach that focu
 ---
 
 ## Niche markets
-Niche markets often create business opportunities for small firms to compete with larger companies that may have an established customer base and larger market share.  
+Niche markets often create business opportunities for small firms to compete with larger companies that may have an established customer base and larger market share.
 Prices in niche markets tend to be relatively high because:
 - Limited, if any competition means that customer loyalty is likely to be high.
 - The lack of substitutes mean that premium prices can be charged in order to gain high profit margins.

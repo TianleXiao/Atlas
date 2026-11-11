@@ -1,8 +1,5 @@
-![[17da45a53af046abee8bcbeea4869165.jpg]]
-
----
-
 ## Brand Value
+![[17da45a53af046abee8bcbeea4869165.jpg]]
 ![[67c7a6b39c3eb69da2fb888df454611e.jpg]]
 "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected."
 - Steve Jobs (1955 - 2011), Co-founder and former CEO of Apple Inc.

@@ -29,20 +29,20 @@
 ---
 
 ## Symbols
-**-%** tax rebate 
+**-%** tax rebate
 **O** tax exemption
 **+%** subsidies
 
 ---
 
 ## For Profit Social Enterprises-Microfinance
-+ Microfinance is a type of financial service aimed at entrepreneurs of small businesses, especially females and those on low incomes. 
++ Microfinance is a type of financial service aimed at entrepreneurs of small businesses, especially females and those on low incomes.
 + Microfinance providers enable the disadvantaged members of society to gain access to essential financial services to help eradicate poverty.
-+ The funds are approved for microenterprise development since access to banking and insurance services maybe very limited for small businesses.  
++ The funds are approved for microenterprise development since access to banking and insurance services maybe very limited for small businesses.
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Cooperate
 + Corporate
 + Corporation

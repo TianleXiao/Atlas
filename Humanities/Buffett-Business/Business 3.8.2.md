@@ -1,8 +1,5 @@
-![[3815cff2c0b6fdad4e2af5725420a746.jpg]]
-
----
-
 ## Why do businesses invest?
+![[3815cff2c0b6fdad4e2af5725420a746.jpg]]
 ![[ddb79e9ee4f9f84b53608981fbb21f6e.jpg]]
 There are a number of reasons why businesses may undertake investment:
 - **Spending**: Businesses may use techniques of investment appraisal before spending on promotional campaigns, developing new products or retraining the workforce.
@@ -15,8 +12,8 @@ There are a number of reasons why businesses may undertake investment:
 
 ## Risk & investment appraisal
 ![[5c0ee6da51d9f933cc132f47e378ce1a.jpg]]
-Risk can be defined as uncertainty that is quantifiable, or that can be measured.  
-Risk is an important factor within investment decision-making.  
+Risk can be defined as uncertainty that is quantifiable, or that can be measured.
+Risk is an important factor within investment decision-making.
 There are two major types of risk:
 - **Systematic risk** relates to the environment in which a project will operate. This type of risk could include a loss of sales and cash inflow due to, say, an adverse movement in the exchange rate.
 - **Specific risk** is associated with a particular project. For example, launching a product that is entirely new and of which the firm has little experience.
@@ -34,7 +31,7 @@ These financial techniques are valuable but do depend upon a number of assumptio
 There are two major considerations for managers when deciding whether or not to invest in a non-current asset or another business:
 - The total profits earned by the investment over the foreseeable future.
 - How quickly the investment will recover its cost. This occurs only when the earnings from the investment exceed the cost of the investment.
-**Payback period**  
+**Payback period**
 The amount of time it takes to recover the cost of an investment.
 
 ---

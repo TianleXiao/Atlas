@@ -1,8 +1,5 @@
-![[f0a2f530de67db3796da39ff96fd10f3.jpg]]
-
----
-
 ## 2 types of market research
+![[f0a2f530de67db3796da39ff96fd10f3.jpg]]
 
 ---
 
@@ -25,7 +22,7 @@ Involves applying results of previously completed studies to your situation
 
 ## Primary market research
 ![[585034167192714d40e4505da9dd803b.jpg]]
-Primary market research (or field research) is the gathering of first-hand new data, custom-made to an organization's specific needs.  
+Primary market research (or field research) is the gathering of first-hand new data, custom-made to an organization's specific needs.
 Organizations are increasingly using online tools (e.g. SurveyMonkey and Zoomerang) and social media (e.g. Facebook, Instagram, Twitter, LinkedIn, and WhatsApp) to collect and collate data faster, cheaper, and more frequently.
 Primary market research involves fieldwork and may be carried out using any of these methods:
 - Surveys (questionnaires)

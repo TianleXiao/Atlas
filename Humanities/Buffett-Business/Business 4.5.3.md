@@ -1,21 +1,14 @@
-![[799f25326c71278a6c990d4ed5c7a7c0.jpg]]
-
----
-
 ## The relationship between the plc and the marketing mix
+![[799f25326c71278a6c990d4ed5c7a7c0.jpg]]
 
 ---
 
 ## Growth
 ![[1a8dc2781f504eeac2ec4d557fb50b52.jpg]]
 - Sales revenue increases as marketing efforts make the product and brand known to the market. The rising star is likely to be earning profit.
-
 - The larger customer base warrants a larger number of distribution channels.
-
 - The marketing mix focuses on improving the product, brand preference and recognition (with the aim of getting potential customers to switch from competing brands) and customer loyalty.
-
 - Pricing strategy may need to change due to competition in the market and to facilitate continued growth.
-
 - Investment costs will be high (especially for marketing), profit will materialize, and cash flow will be positive as sales grow steadily.
 
 ---
@@ -49,13 +42,13 @@
 ---
 
 ## Extension strategies
-Extension strategies are marketing approaches used to lengthen the product life cycle.  
+Extension strategies are marketing approaches used to lengthen the product life cycle.
 They are used as a product enters or is in the decline stage because the market is saturated. Essentially, extending a mature product's life cycle can be more financially rewarding than allowing it to enter the decline stage.
 
 ---
 
 ## Examples of interrelated extension strategies include:
-- **Reducing the price to encourage more customers to buy the product**  
+- **Reducing the price to encourage more customers to buy the product**
   *(assuming the price elasticity of demand for the product is elastic, i.e., responsive to changes in price).*
 - **New promotional strategies to reinvigorate interest and purchases of the product.**
 

@@ -1,8 +1,5 @@
-![[5048c7bc432b271331e2b59c90651843.jpg]]
-
----
-
 ## Market segmentation
+![[5048c7bc432b271331e2b59c90651843.jpg]]
 ![[4b322cb45a182a08acbb346eb7dce971.jpg]]
 Market segmentation describes the process of dividing a market for a product into smaller distinct groups of customers in an effort to meet their specific desired needs and wants. Understanding the different needs of these customer sub-groups within a market enables marketers to target their customers better. Examples of market segments include:
 - **Age**
@@ -34,7 +31,6 @@ Market segmentation describes the process of dividing a market for a product int
   - Climate
   - Area
   - Population
-
 - **Demographics**
   - Age
   - Gender
@@ -44,7 +40,6 @@ Market segmentation describes the process of dividing a market for a product int
   - Family
   - Life stage
   - Occupation
-
 - **Psychographics**
   - Lifestyle
   - AIO: activity, interest, opinion
@@ -52,7 +47,6 @@ Market segmentation describes the process of dividing a market for a product int
   - Personality
   - Values
   - Attitudes
-
 - **Behavioral**
   - Benefits/sought
   - Purchase

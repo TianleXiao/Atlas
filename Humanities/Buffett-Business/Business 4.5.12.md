@@ -1,8 +1,5 @@
-![[7a02f7baa8506905d49174a98351b935.jpg]]
-
----
-
 ## Contribution Pricing Vs Cost-Plus Pricing (HL)
+![[7a02f7baa8506905d49174a98351b935.jpg]]
 ![[04dc3e8b213243fed49f8805cea000a5.jpg]]
 | | Cost-plus pricing (SL and HL) | Contribution pricing (HL only) |
 | --- | --- | --- |

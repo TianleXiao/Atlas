@@ -26,11 +26,11 @@ $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  
 ---
 
 ## Cost Centre (TC) VS Profit Centre (TC+TR)
-+ **Cost only:**  Minimize cost  
-   + Ex: Production division  
++ **Cost only:**  Minimize cost
+   + Ex: Production division
    + Add in cost control
 + **Cost and revenue:** Maximize profit
-   + Ex: Sales division  
+   + Ex: Sales division
    + Add in overall profitability
 **e.g.**
 + IT C

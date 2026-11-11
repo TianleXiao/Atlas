@@ -1,8 +1,5 @@
-![[08dd588117afdc14c0da1496cc521cbd.jpg]]
-
----
-
 ## Mass markets
+![[08dd588117afdc14c0da1496cc521cbd.jpg]]
 ![[175342165be26cc4013d6b2de1d47b01.jpg]]
 - Businesses operating in mass markets supply goods and services to cater for large and undifferentiated target markets. Hence, mass marketing is the marketing strategy aimed at all customers in a market, without having to split them into separate market segments as the business provides products that appeal to wide-ranging groups of customers.
 - Mass markets products are standardized products, usually made using mass production techniques, to cater for large consumer markets. Hence, there are opportunities to have economies of scale, but the profit margin of each unit of output may be relatively low.

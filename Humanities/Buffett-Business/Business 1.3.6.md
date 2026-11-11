@@ -2,7 +2,6 @@
 + Opportunities are external factors that bring forth possibilities/ prospects for future development. E.g.
    + The rising income of Chinese household brings lots of opportunities to business cities around the world.
    + Few competitors in a field of business.
-
 + Threats are external factors that hinder the possibilities/ prospects for an organization. They cause problems for the business. E.g.
    + Change in fashion
    + Price wars
@@ -24,11 +23,8 @@
 ## Conceptualization
 **Conceptual understandings:**
 + **Change** is essential for businesses to achieve their desired aims. For example, it may be appropriate to set more environmental objectives these days.
-
 + **Creative** business planning can lead to organizational success. For example, a clear vision may inspire people to achieve things that were not thought possible just a few years ago; think of commercial space flights.
-
 + **Ethical** business behavior improves a business’s image as well as customer loyalty. For example, a decision to contribute some of the business profits to charities may be well received by customers.
-
 + **Sustainable** business practices can enhance a business’s existence. For example, finding ways of people sharing resources can create new markets such as ride-hailing apps.
 
 ---

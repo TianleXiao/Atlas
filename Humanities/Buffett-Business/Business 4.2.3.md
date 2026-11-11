@@ -1,10 +1,7 @@
-![[dc82871a7b48cef87515cb9188b7ad95.jpg]]
-
----
-
 ## Market segmentation
+![[dc82871a7b48cef87515cb9188b7ad95.jpg]]
 ![[e46aa0e2a1dfe275108b6826c853aef9.jpg]]
-(2) Geographic segmentation splits consumers according to different geographical factors.  
+(2) Geographic segmentation splits consumers according to different geographical factors.
 Geographical factors include population density, climate (weather), and geographical locations. For instance, customers in rural areas of a country may have slightly different needs and wants from those in urban areas, while the climatic conditions vary in many countries/regions.
 - Clothes retailers such as GAP and H&M can divide (segment) their markets based on climate or cultural preferences of customers.
 - McDonald's, which incorporates local food preferences in their menus served at different locations. McDonald's serves beer in Germany, youtiao/soy milk in China, fish products in Portugal, banana pies in Brazil and McVeggie burgers (without meat) in India.
@@ -15,7 +12,7 @@ However, it should be noted that the needs and preferences of all customers of a
 
 ## Market segmentation
 ![[654b041848946255be742f0185814ed5.jpg]]
-(3) **Psychographic segmentation**  
+(3) **Psychographic segmentation**
    Psychographic segmentation splits the market according to people's lifestyle choices and personal values:
 - Lifestyle choices include people's personal interests, such as their hobbies and other pursuits. For example, publishers of consumer magazines use psychographic segmentation to cater for a range of interests, such as sports, motoring, home improvement, fashion, consumer electronics, health and beauty, cinema, and weddings.
 - Personal values are the moral beliefs held by particular market segments. Examples include vegans, vegetarians and environmental activists. It can also include people's views or beliefs regarding animal testing, fair trade, and sustainability (such as reducing, recycling and reusing of products).
@@ -24,7 +21,7 @@ However, it should be noted that the needs and preferences of all customers of a
 
 ## Market segmentation
 ![[1a2335c79a1fe60f23a31e6f76525738.jpg]]
-(4) Socio-economic segmentation  
+(4) Socio-economic segmentation
 Socio-economic segmentation splits the market according to consumer or household income levels.
 This is often linked to their type of profession and/or their level of educational attainment. Businesses then devise focused marketing mixes, targeted at each market segment based on their income level or social status.
 For instance, airline carriers offer different ticket prices for their airline services, such as economy class, premium-economy class, business class, and first class air travel.

@@ -1,6 +1,6 @@
 ## Stakeholders
 **Jack Ma, co-founder of Alibaba Group:**
-**"If the customer is happy, the business is happy, and the shareholders are happy."** 
+**"If the customer is happy, the business is happy, and the shareholders are happy."**
 
 ---
 

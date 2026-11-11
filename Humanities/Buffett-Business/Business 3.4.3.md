@@ -22,7 +22,6 @@ $$Equity = Share \ Capital + Retained \ Profit$$
 **Liabilities:** Includes total current liabilities and all other liabilities.
 - Shareholders' Equity: Generally includes preferred stock values, common stock values, total equity values, par values (if the company issues bonds), and retained earnings.
 Statement of financial position date: 31 March 2021 ($m)
-
 | Item | $m | Note |
 | --- | --- | --- |
 | **Non-current assets** | | Assets are listed in liquidity order with the most difficult to sell (illiquid) first. |
@@ -50,13 +49,12 @@ Statement of financial position date: 31 March 2021 ($m)
 | Share capital | 180 | |
 | Retained profits | 190 | |
 | **Total equity** | **270** | These two figures must be equal (or balanced) - hence the name 'balance sheet', although it is now mainly known as a statement of financial position. |
-
 Figure 3.4.5 The format of a statement of financial position
 
 ---
 
 ## Non-Current Assets
-Non-current assets (also known as fixed assets) are the long-term assets or possessions of an organization with a monetary value but are not intended for resale within the next 12 months of the balance sheet date.  
+Non-current assets (also known as fixed assets) are the long-term assets or possessions of an organization with a monetary value but are not intended for resale within the next 12 months of the balance sheet date.
 Non-current assets are generally highly illiquid assets. These items of value, owned by the business, cannot be sold quickly/easily, and are difficult to sell without incurring a significant loss in value.
 - Typical non-current assets include buildings, plant (production facilities), machinery, and vehicles.
 - Most non-current assets falls in value over time due to depreciation. Hence, the balance sheet includes "accumulated depreciation" to calculate the net value of non-current assets at the point of constructing the balance sheet.

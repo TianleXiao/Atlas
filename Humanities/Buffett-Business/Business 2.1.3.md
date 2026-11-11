@@ -3,7 +3,6 @@
 - Demographic change
 - Demographic trends have led to an ageing population which has several impacts on human resource planning. For example, the retirement age in many countries has increased, as shown in the table hereby. Labour mobility and labour productivity may both fall, as younger workers tend to be more mobile whilst elderly workers may be less productive.
 - Another demographic change in many societies is better employment opportunities for women. In high-income countries, women are typically more career-orientated so have children at an older age. They are also having fewer children, partly due to the higher costs of raising children.
-
 Country | Men | Women
 - Australia | 65 | 65
 - Brazil | 65 | 60

@@ -15,7 +15,6 @@
 ## The Benefits and Drawbacks of the Major Sources of Finance.
 ![[7.png]]
 Table 3.2.3 Advantages and disadvantages of the major sources of finance
-
 | Source of finance | Advantages | Disadvantages |
 | --- | --- | --- |
 | Personal funds | Avoids interest payments.; Use of this source may help to attract funds from others. | Funds available are likely to be limited.; May result in personal assets (such as property) being put at risk. |
@@ -40,11 +39,11 @@ Table 3.2.3 Advantages and disadvantages of the major sources of finance
 
 ---
 
-## Homework 
-**ATL: Financing A Business**  
-+ Come up with a business idea that you believe will solve a problem.  
-+ Formulate a suitable business plan where you mention:  
-1) How much finance will you need to implement it? To finance what exactly? Show your calculations.  
+## Homework
+**ATL: Financing A Business**
++ Come up with a business idea that you believe will solve a problem.
++ Formulate a suitable business plan where you mention:
+1) How much finance will you need to implement it? To finance what exactly? Show your calculations.
 2) What sources of finances are you going to use? Justify your choices.
 (In around 300 words)
 - [ ] Finish

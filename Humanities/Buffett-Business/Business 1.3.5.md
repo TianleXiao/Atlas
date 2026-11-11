@@ -4,12 +4,11 @@
 ---
 
 ## CSR
-Of course, all businesses should have an obligation of acting legally, behaving in certain ways as set out by the law. 
-
+Of course, all businesses should have an obligation of acting legally, behaving in certain ways as set out by the law.
 **However, a socially responsible business wants to:**
 + do more for society than it is obliged to by law.
 + accept obligations to society over and above the legal minimum.
-+ make the world more sustainable and abettor place than when it started up. 
++ make the world more sustainable and abettor place than when it started up.
 
 ---
 

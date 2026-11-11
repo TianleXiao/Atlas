@@ -24,7 +24,6 @@ $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 The formula for calculating capital employed is therefore:
 $$Capital \ employed = Non-current \ liabilities + Share \ capital + Retained \ earnings$$
 $$Capital \ employed = Non-current \ liabilities + Equity$$
-
 $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax}}{\text{Capital employed}} \times 100\%$$
 **Is this a profitability or efficiency ratio?**
 - The roce is a ratio that shows profit as a percentage of the capital used to generate it.

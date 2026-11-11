@@ -1,8 +1,5 @@
-![[7ada8a543eaf727427d39049df20a3c0.jpg]]
-
----
-
 ## Surveys disadvantages
+![[7ada8a543eaf727427d39049df20a3c0.jpg]]
 ![[bf2955b551436c4be4603d1593e537aa.jpg]]
 - Surveys conducted face-to-face can be expensive and time consuming, especially when trying to obtain a large sample (not representative of a target market).
 - They can suffer from selection or interviewer bias and/or poorly worded questions, thus generating unrepresentative results.

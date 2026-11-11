@@ -3,7 +3,6 @@
 - Fewer layers helps with cost control as there are less managerial positions in the firm.
 - The flatter structure also means that communications between the different levels of the hierarchy should be more effective (in terms of speed and accuracy).
 - However, larger teams tend to suffer from communication problems which may cause tension and conflict within the team.
-
 Diagram: one manager node above eight subordinate nodes
 Wide span of control
 
@@ -14,7 +13,6 @@ Wide span of control
 - Levels of hierarchy refers to the number of layers of formal authority.
 - Those at the top of the hierarchy include the CEO, Chairperson and the Board of Directors.
   - Each hierarchical level refers to a different rank with its associated degree of authority and responsibility.
-
 Pyramid: CEO → Board of Directors → Middle Management → Supervisors and Team Leaders → Other Employees
 Organisational chart showing one head figure, two second-level figures, and multiple lower-level branches
 
@@ -34,5 +32,4 @@ Organisational chart showing one head figure, two second-level figures, and mult
 - Rules and regulations - Business activity is conducted in accordance with the official policies of the organization.
 - Hierarchical structures - Authority and responsibilities are part of a formal hierarchical structure with line managers carrying out their tasks in an impersonal way.
 - Accountability - Business activity is conducted with written evidence of compliance with the firm's policies. Formality makes every worker accountable for their own actions.
-
 Binders labelled: Rules, Regulations, Policies

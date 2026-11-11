@@ -1,8 +1,5 @@
-![[051460bea5ebc6b54743ad44c33ab972.jpg]]
-
----
-
 ## Investment appraisal
+![[051460bea5ebc6b54743ad44c33ab972.jpg]]
 ![[9b0ae277bb793e5dc279fa0eed84e41e.jpg]]
 The learning outcomes (or assessment objectives) for this section are:
 - Investment opportunities using payback period

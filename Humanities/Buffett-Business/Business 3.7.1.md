@@ -15,16 +15,16 @@ A financial statement that aggregates a company's cash inflows and outflows from
 
 ## Profit vs cash flow
 ![[28dd225811155f7eaaf7f58e35fea984.jpg]]
-Cash flow is the movement of cash into and out of a business over a period of time.  
-Profit is the value of sales revenue after all costs have been accounted for.  
-Remember the good old formula: Profit = Sales revenue - Total costs  
-- Businesses may experience negative cash flow even when they earn a profit:  
-  - When a profitable business tries to expand too quickly, it runs out of cash.  
-  - Although profit is earned when a sale is made, customers do not necessarily pay by cash as some opt for trade credit instead.  
-  - Seasonal variations in demand (peak periods) can mean that there are certain times in the year when the firm might experience short-term liquidity problems.  
-- Similarly, businesses with a positive cash flow may still experience a financial loss:  
-  - A large cash inflow will occur from internal or external sources of finance.  
-  - A company may sell an asset or a portion of the company to survive in times of economic crisis, so it could suffer a net loss while recording positive cash flow.  
+Cash flow is the movement of cash into and out of a business over a period of time.
+Profit is the value of sales revenue after all costs have been accounted for.
+Remember the good old formula: Profit = Sales revenue - Total costs
+- Businesses may experience negative cash flow even when they earn a profit:
+  - When a profitable business tries to expand too quickly, it runs out of cash.
+  - Although profit is earned when a sale is made, customers do not necessarily pay by cash as some opt for trade credit instead.
+  - Seasonal variations in demand (peak periods) can mean that there are certain times in the year when the firm might experience short-term liquidity problems.
+- Similarly, businesses with a positive cash flow may still experience a financial loss:
+  - A large cash inflow will occur from internal or external sources of finance.
+  - A company may sell an asset or a portion of the company to survive in times of economic crisis, so it could suffer a net loss while recording positive cash flow.
   - The initial hype for a new product may bring in plenty of cash, but unless the firm is able to control its costs (e.g. marketing costs), it will not be profitable.
 
 ---
@@ -32,9 +32,7 @@ Remember the good old formula: Profit = Sales revenue - Total costs
 ## Tesla’s race towards profitability
 ![[38b5b510d557c464d618c7d55237033e.jpg]]
 **Example: Tesla**
-
 For example, both Amazon and Netflix took about 7 years of operation before becoming profitable. Tesla took just a little longer and did not reach break-even until 2020.
-
 → It is therefore more important to pay attention to the firm’s cash flow than to profit in the early stages. Ultimately, a business must have sufficient cash flow to continue operating, whether it is profitable or not.
 
 ---

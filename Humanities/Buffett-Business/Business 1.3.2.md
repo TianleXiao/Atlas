@@ -34,7 +34,7 @@ Clear business objectives help to direct, control and review the success (or not
 ---
 
 ## S.M.A.R.T Objectives Example
-+ **Specific:** Who and what? 
++ **Specific:** Who and what?
   + A sweet shop may set sales targets for a specific bar of chocolate.
 + **Measurable:** By how much?
   + Increase chocolate bar sales by 20% by Dec. 31, 2024.

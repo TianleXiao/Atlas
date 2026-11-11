@@ -1,8 +1,5 @@
-![[pic_20260413104221_0.jpg]]
-
----
-
 ## Strategies to seek additional sources of finance
+![[pic_20260413104221_0.jpg]]
 ![[ea6d9175d729fd6b90ee32b911b4c7d4.jpg]]
 **Possible strategies to seek additional sources of finance include:**
 - **Bank loans and overdrafts**: These external sources of finance can help the business during times of negative net cash flow, or when it experiences a negative closing balance. However, external finance incurs interest repayments, which can harm cash outflows.

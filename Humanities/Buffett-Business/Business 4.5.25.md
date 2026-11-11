@@ -39,9 +39,7 @@
 ## Appropriate Marketing Mixes
 ![[Pasted image 20261016152508.png]]
 An effective marketing mix, be it the traditional 4 Ps for the marketing of goods or the 7 Ps for the marketing of services, helps to ensure that a business meets the needs of its customers. Getting the marketing mix right requires an integrated approach, i.e., all elements of the 7 Ps are complementary (work together) and consistent (reinforce each other).
-
 This means the business produces the right product, sells it for the right price, informatively and persuasively communicates the product through the right methods of promotion, and has the product conveniently available at the right place for customers. In addition, the people are appropriately trained in delivering a service, with the right processes to provide quality service, and tangible physical evidence to ensure customer satisfaction.
-
 - Customer
 - People
   - Customers

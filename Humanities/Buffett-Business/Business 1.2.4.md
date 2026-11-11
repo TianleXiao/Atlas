@@ -19,7 +19,7 @@
 ## The Deed of Partnership
 + Most partnerships formulate a legal agreement between each of the partners called the deed of partnership.
 + It is likely to include:
-   + The amount of finance 
+   + The amount of finance
    + The roles, obligations and responsibilities of each partner, including silent partners.
    + How profits or losses will be shared among the partners.
    + clauses for the withdrawal of a partner.
@@ -27,5 +27,5 @@
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Dissolution

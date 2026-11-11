@@ -33,7 +33,6 @@ $$ATC=\frac{TC}{Output}$$
 ## Average Fixed Cost
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaXEAmecDzRusV_mM5YjnBhwfaesj2FG5KA&s)
 - Average Fixed Cost (AFC) is the fixed cost per unit of output.
-
 | Output | Total fixed cost ($) | Average fixed cost ($) |
 | ------ | -------------------- | ---------------------- |
 | 0      | 10                   | -                      |
@@ -61,7 +60,6 @@ $$Average \ Fixed \ Cost \ (AFC) = \frac{Total \ Fixed \ Cost \ (TFC)}{Total \ O
 
 ## Average Variable Cost
 Variable Cost (AVC) is the variable cost per unit of output.
-
 | Total variable cost ($) | Average variable cost ($) |
 |---|---|
 | 40    | 40    |
@@ -69,7 +67,6 @@ Variable Cost (AVC) is the variable cost per unit of output.
 | 90    | 30    |
 | 120    | 30    |
 | 175    | 35    |
-
 $$ATC = AVC + AFC$$
 
 ---

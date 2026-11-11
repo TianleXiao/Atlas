@@ -39,7 +39,6 @@ Internal sources of finance come from **within** the business using its own reso
 External sources of finance come from outside the business via external stakeholders, and are more likely to be used when:
 - A large sum of finance is required
 - The level of risk is low
-
 **Examples include:**
 - Share capital
 - Loan capital

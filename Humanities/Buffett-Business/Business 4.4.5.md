@@ -1,8 +1,5 @@
-![[pic_20260605111514_0.jpg]]
-
----
-
 ## Observations advantages
+![[pic_20260605111514_0.jpg]]
 ![[pic_20260605113357_0.jpg]]
 - Observations are not reliant on the willingness of people to participate in market research, unlike with surveys and interviews.
 - Observations can obtain information that people are unwilling or unable to provide.

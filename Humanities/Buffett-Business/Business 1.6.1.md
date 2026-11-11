@@ -13,7 +13,7 @@
 ## Advantages of MNCs to host country
 - **Employment and Training:** Provides significant **employment** and **training** to the labor force in the host country.
 - **Skill Transfer:** Transfers of **skills** and **expertise**, helping to develop the quality of the host country's labor force.
-- **GDP Growth:** MNCs add to the host country's **GDP growth** through their spending, for example, buying from local suppliers and through **Foreign Direct Investments (FDIs)**. 
+- **GDP Growth:** MNCs add to the host country's **GDP growth** through their spending, for example, buying from local suppliers and through **Foreign Direct Investments (FDIs)**.
 - ***Incentive for Domestic Firms:** Competition from MNCs acts as an **incentive** for domestic firms in the host country to improve their **competitiveness** and **efficiency**, e.g., Tesla Giga Factory in Shanghai.
 
 ---

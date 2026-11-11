@@ -1,4 +1,4 @@
-**Tertiary:** intangible goods and services to the consumers. 
+**Tertiary:** intangible goods and services to the consumers.
 **Firms:** the type of operations undertaken by them or the stages of production they are in.
 
 ---
@@ -24,19 +24,17 @@ Businesses do not operate in isolation
 ---
 
 ## Internal Factors
-These come from **within the business** and are usually **controllable** by the business.  
-
-**Examples:**  
-- **Management & Leadership** → decision-making, leadership style  
-- **Employees** → skills, motivation, productivity  
+These come from **within the business** and are usually **controllable** by the business.
+**Examples:**
+- **Management & Leadership** → decision-making, leadership style
+- **Employees** → skills, motivation, productivity
 
 ---
 
 ## External Factors
-These come from **outside the business** and are usually **uncontrollable**. Businesses must adapt to them.  
-
-**Examples:**  
-- **Political** → government policies, taxation, regulations  
+These come from **outside the business** and are usually **uncontrollable**. Businesses must adapt to them.
+**Examples:**
+- **Political** → government policies, taxation, regulations
 - **Economic** → inflation, interest rates, exchange rates, economic growth
 
 ---
@@ -52,7 +50,7 @@ Changes in the external environment will create opportunities as well as challen
 ---
 
 ## Vocabulary
-+ **Safari** 
++ **Safari**
 + **Scandal**
 + **Political**
 + **Legal**

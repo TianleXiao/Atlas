@@ -1,8 +1,5 @@
-![[5cde58091ef5eaa682efdcf97a12e535.png]]
-
----
-
 ## Usp examples
+![[5cde58091ef5eaa682efdcf97a12e535.png]]
 ![[49a9057c61f9dd6b755d11f3dc040781.jpg]]
 - **DeBeers** - "A diamond is forever." This famous slogan has been used by DeBeers since 1948, and was named by Advertising Age magazine as the best corporate slogan of the 20th century. The association of diamonds (from DeBeers) lasting forever made its products the perfect symbol for eternal love and the most popular choice for engagement rings.
 - **Domino's Pizza** - "You get fresh, hot pizza delivered to your door in 30 minutes or less or it's free." This slogan makes the company's USP clear as it spells out a guarantee with absolute clarity for customers.

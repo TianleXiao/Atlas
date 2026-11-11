@@ -1,9 +1,6 @@
-![[32970625ce548ece31c305e71962f529.jpg]]
-
----
-
 ## Extension strategies
-- Product enhancements or modification in order to attract more customers, such as:  
+![[32970625ce548ece31c305e71962f529.jpg]]
+- Product enhancements or modification in order to attract more customers, such as:
   special features, limited editions, repacking, repositioning strategies, or improved versions of the existing product to reinvigorate appeal.
 - Expansion into new markets, such as exporting the product to international markets or entering new markets overseas.
 - Product differentiation strategies help to make a product stand out from its competitors in the market, such as establishing a clear unique selling point (USP).
@@ -42,5 +39,5 @@
 ## Tangible vs intangible aspects
 Tangible attributes of a product refer to its physical aspects, such as how it looks and feels.
 Intangible aspects of a product refer to aspects that cannot be touched but can still be important to customers, such as the **brand** and its core values.
-> "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently."  
+> "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently."
 > - Warren Buffett (b. 1930), CEO of Berkshire Hathaway

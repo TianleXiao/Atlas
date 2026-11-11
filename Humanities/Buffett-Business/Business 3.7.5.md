@@ -1,10 +1,7 @@
-![[00c896fc349b9b723bf1fc8bb696c198.jpg]]
-
----
-
 ## Dealing with cash flow problems
+![[00c896fc349b9b723bf1fc8bb696c198.jpg]]
 ![[6958874896b72e3a63e5b74173dbedee.jpg]]
-There are three general ways for an organization to improve its cash flow position:  
+There are three general ways for an organization to improve its cash flow position:
 strategies to reduce cash outflows, strategies to increase cash inflows, and strategies that seek additional sources of finance.
 
 ---
@@ -41,7 +38,7 @@ strategies to reduce cash outflows, strategies to increase cash inflows, and str
 
 ## Strategies to increase cash inflows
 **Possible strategies to increase cash inflows include:**
-- Encourage debtors to pay their invoices early by offering discounts.  
+- Encourage debtors to pay their invoices early by offering discounts.
   This shortens the working capital cycle.
 - Improved marketing strategies to attract customers, raise brand awareness, boost sales and develop customer loyalty.
 - Use a debt factoring service where banks/financiers provide up to 80% of the value of a business's debts in cash immediately, then deal directly with outstanding debtors.

@@ -2,7 +2,6 @@
 + ### Vision
   + Having a vision means to have an image of an ideal situation in the future.
   + A vision statement outlines a business/organization's aspirations (i.e., where it wants to be) in the future.
-
 + ### Mission
   + Having a mission means to have a clear purpose.
   + A mission statement is a simple declaration of the underlying purpose of a business/organization (i.e., what it does, who it serves, and how it serves them).
@@ -11,7 +10,6 @@
 
 ## Mission VS Vision
 Is to inform the employees | Is to motivate the employees
-
 Is usually bigger than the vision | Is usually smaller.
 
 ---

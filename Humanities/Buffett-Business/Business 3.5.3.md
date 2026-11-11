@@ -16,7 +16,7 @@ The learning outcomes (or assessment objectives) for this section of the syllabu
 - Acid-test / quick ratio
 → Possible strategies to improve these liquidity ratios
 Note: There are four additional ratios that HL students need to learn (see Unit 3.6).# Preferred quick ratios
-- **The past, a 'normal' figure for the acid-test ratio was around 1:1, giving a balance of liquid assets and current liabilities.**  
+- **The past, a 'normal' figure for the acid-test ratio was around 1:1, giving a balance of liquid assets and current liabilities.**
 However, in recent years many businesses have operated successfully with acid-test figures near to 0.7:1.
 - The value of the acid-test ratio considered acceptable by stakeholders will vary according to the type of business.
   - Retailers may operate with a figure as low as 0.4:1 because they trade mainly in cash and have close relationships with suppliers.
@@ -25,20 +25,18 @@ However, in recent years many businesses have operated successfully with acid-te
 A more typical figure of an acid-test ratio might now be 0.7:1.
 # Ratio analysis
 - Table 3.5.1 The profits and sales figures for two companies
-
 |    | Company X | Company Y |
 |---|---|---|
 | Profit   | $20 million | $2 million |
 | Sales    | $240 million | $10 million |
-
-Which company makes more profit?  
+Which company makes more profit?
 
 ---
 
 ## Now which one is more **profitable**?
-Let's calculate ratios to express profits as a percentage of sales:  
-Company X: $20 million/$240 million × 100 = 8.3%  
-Company Y: $2 million/$10 million × 100 = 20.0%  
+Let's calculate ratios to express profits as a percentage of sales:
+Company X: $20 million/$240 million × 100 = 8.3%
+Company Y: $2 million/$10 million × 100 = 20.0%
 → Company Y is therefore more profitable.
 
 ---

@@ -1,8 +1,5 @@
- ![[7d21158e7b4552896b30cd141e50eba9.jpg]]
-
----
-
 ## Market targeting
+ ![[7d21158e7b4552896b30cd141e50eba9.jpg]]
 ![[0a4b9d82dcc3799d48e516e90420cde1.jpg]]
 The target market can apply to both existing and potential customers.
 For a market segment to be attractive for a business to target, it must be:
@@ -15,7 +12,7 @@ For a market segment to be attractive for a business to target, it must be:
 
 ## Market positioning
 ![[2d78810ea85f52e740573c7cc81d5db3.jpg]]
-"Positioning is a revolutionary idea precisely because it cuts across the other 4Ps. It informs each of the Ps and adds consistency to them."  
+"Positioning is a revolutionary idea precisely because it cuts across the other 4Ps. It informs each of the Ps and adds consistency to them."
 - Professor Philip Kotler (b. 1931)
 A product position map (sometimes referred to as a perception map) is a graphical illustration of customer perception of a business, its products or brands in comparison to other firms in the industry. The contrast is based on two pre-determined criteria, such as price and quality. It shows the perception of customers by positioning the organization, product or brand relative to the positions of rivals in the same market.
 

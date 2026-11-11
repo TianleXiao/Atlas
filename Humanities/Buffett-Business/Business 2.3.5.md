@@ -49,7 +49,6 @@ Management
 - Give instructions and orders
 - Follow predetermined rules and policies set by the organization → focus on accomplishing tasks
 - Abide by the procedures and culture of an organization
-
 Leadership
 - Deal with strategic decisions (strategic direction of the organisation)
 - Deal with what and why questions

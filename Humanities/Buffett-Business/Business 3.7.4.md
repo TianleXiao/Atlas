@@ -1,8 +1,5 @@
-![[bd38fa3e5e1ad45201a8982f62f6e16d.jpg]]
-
----
-
 ## Amending cash flow forecasts
+![[bd38fa3e5e1ad45201a8982f62f6e16d.jpg]]
 ![[Pasted image 20260410111553.png]]
 ![[5040bf1b2c0d4de0b1fd579537362396.jpg|691]]
 Changes in a business's circumstances can have a substantial effect on a business's cash-flow forecast and it may have to be amended as a consequence. A cash-flow forecast may need amending for two main reasons:

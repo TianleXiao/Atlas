@@ -1,8 +1,5 @@
-![[Pasted image 20260520093758.png]]
-
----
-
 ## The importance of market share and market leadership
+![[Pasted image 20260520093758.png]]
 ![[Pasted image 20260520094711.png]]
 Market share is the single most important measure used by marketers to judge the effectiveness of their marketing campaigns and marketing strategies. Hence, market leadership or a greater market share is highly desirable because:
 - It puts the firm in a position where it can shape and set the industry's future trends whilst competitors merely follow.

@@ -1,8 +1,5 @@
-![[9f39409072df0be5c6a74750e89f7fd7.jpg]]
-
----
-
 ## Intro to marketing
+![[9f39409072df0be5c6a74750e89f7fd7.jpg]]
 ![[19659ef56a35d2f18a32767410f67f1c.jpg]]
 Marketing is the management task that links the business to the customer by identifying and meeting the needs and wants of customers in a profitable manner.
 

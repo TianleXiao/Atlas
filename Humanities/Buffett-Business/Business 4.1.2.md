@@ -1,23 +1,20 @@
-![[pic_20260513093242_0.jpg]]
-
----
-
 ## The size of a market
+![[pic_20260513093242_0.jpg]]
 ![[pic_20260513095637_0.jpg]]
-Businesses are interested in knowing the market size of a good or service before launching a new product in the market.  
-The size of a market can be defined as the total number of individual customers or the total value of sales revenue in a certain market. Alternatively, it can also refer to the number of potential buyers in the market.  
-- **E.g.,** the market for smartphones is significantly larger than the market for lawnmowers.  
-The most common methods of measuring the size of a market are:  
-- The potential number of customers in a market for a particular good or service.  
-- Sales volume, i.e. the quantity of products sold to clients.  
-- Sales value (or sales revenue), i.e. the amount spent by customers on the product sold by firms in the market.  
+Businesses are interested in knowing the market size of a good or service before launching a new product in the market.
+The size of a market can be defined as the total number of individual customers or the total value of sales revenue in a certain market. Alternatively, it can also refer to the number of potential buyers in the market.
+- **E.g.,** the market for smartphones is significantly larger than the market for lawnmowers.
+The most common methods of measuring the size of a market are:
+- The potential number of customers in a market for a particular good or service.
+- Sales volume, i.e. the quantity of products sold to clients.
+- Sales value (or sales revenue), i.e. the amount spent by customers on the product sold by firms in the market.
 - The number of competitors (rivals) in the market, because the greater the barriers of entry into the market, the fewer the rivals will exist in a particular market.
 
 ---
 
 ## Market orientation
 ![[pic_20260514151209_0.jpg]]
-“Producing a hit without listening to customers is inefficient.”  
+“Producing a hit without listening to customers is inefficient.”
 - Ryoji Chubachi (b. 1947), former Vice Chairman and President of Sony Corp.
 Market orientation is an approach to marketing that focuses on meeting the specific demands (desires and needs) of existing customers and potential customers. Hence, businesses focus on making products that they can sell, rather than selling products that they can make, i.e., they prioritize their customers’ needs above everything else.
 Such information can be gathered from market research, rather than from research and development (R&D), in order to formulate decision-making. E.g., firms design, develop and improve their products based on customer feedback.
@@ -27,11 +24,11 @@ Market-oriented firms use promotional strategies, such as television advertising
 
 ## Product orientation
 ![[pic_20260514151804_0.jpg]]
-“A lot of times, people don’t know what they want until you show it to them.”  
-- Steve Jobs (1955–2011), Co-founder of Apple  
-“If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’”  
-- Henry Ford (1863 - 1947), Founder of Ford Motor Company  
-**Product orientation is an approach to marketing that focuses on making products the business knows how to make well, rather than primarily concentrating on the needs and desires of potential customers.**  
+“A lot of times, people don’t know what they want until you show it to them.”
+- Steve Jobs (1955–2011), Co-founder of Apple
+“If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’”
+- Henry Ford (1863 - 1947), Founder of Ford Motor Company
+**Product orientation is an approach to marketing that focuses on making products the business knows how to make well, rather than primarily concentrating on the needs and desires of potential customers.**
 Such businesses prioritize research and development (R&D) over market research. Product orientation tends to be used by highly innovative and tech-savvy manufacturers. Examples include Apple, Boeing, Gillette, Google, and Tesla.
 
 ---

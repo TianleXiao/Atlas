@@ -2,14 +2,14 @@
 + State-owned enterprises (SOEs) are instructed by the government to provide services beneficial to the whole population, even when it's not profitable.
 + Private sector businesses may not make not make the colossal investments necessary to develop infrastructure needed to supply utilities such as gas, water and electricity.
    + The Beijing Subway Company charged a symbolic price (2 yuan for almost a decade) for using the metro system to make sure it is affordable to all.
-+ Many countries operate public sector business in rural regions with low incomes.    
++ Many countries operate public sector business in rural regions with low incomes.
 
 ---
 
 ## Private Sector Objectives: Financial Objective
 + State-owned enterprises (SOEs) are expected to at least cover their operating costs to avoid becoming a drain on government funds.
 + SOEs may want to generate a financial surplus which is mainly reinvested to improve the services offered.
-**For example:** 
+**For example:**
 + The Beijing Subway Company.
 
 ---

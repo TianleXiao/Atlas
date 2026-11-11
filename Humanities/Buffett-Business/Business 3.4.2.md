@@ -29,13 +29,9 @@
 ## Statement of profit or loss
 ![[lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png]]
 STATEMENT OF PROFIT OR LOSS - the contents of a statement of profit and loss for XYZ Ltd, a profit-making entity.
-
 The statement of profit or loss, commonly known as the profit and loss account, shows a firm's profit (or loss) after all production costs have been subtracted from the organization's revenues, each year.
-
 A profit and loss (P&L) statement is a financial statement that outlines a company's revenue, costs, and expenses over a specified period of time.
-
 Figure 3.4.2 The format of a statement of profit or loss (with annotations)
-
 | Item | Note |
 | --- | --- |
 | Business revenue from sales |

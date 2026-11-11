@@ -1,8 +1,5 @@
-![[pic_20260514152153_0.jpg]]
-
----
-
 ## Market orientation disadvantages
+![[pic_20260514152153_0.jpg]]
 ![[1256c1705ae446c7d8038d20d8a760e9.jpg]]
 The disadvantages of market orientation as an approach to marketing include:
 - Gathering meaningful and representative market research information and data can be very expensive for the organization, so have a negative impact on its finances.

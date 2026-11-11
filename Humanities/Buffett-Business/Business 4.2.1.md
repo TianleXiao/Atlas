@@ -1,11 +1,8 @@
-![[a0c08c937ad15d205f47268715c249c4.jpg]]
-
----
-
 ## The role of marketing planning
+![[a0c08c937ad15d205f47268715c249c4.jpg]]
 ![[11f28815db3ea3d77a2fc7df1ab5a230.jpg]]
-Marketing planning refers to the structured process of formulating marketing objectives and appropriate marketing strategies to achieve these goals.  
-The role of marketing planning for a business is to identify the needs and desires of its customers and devise approaches to meet these. Hence, it helps to improve the firm's overall marketing and its chances of success.  
+Marketing planning refers to the structured process of formulating marketing objectives and appropriate marketing strategies to achieve these goals.
+The role of marketing planning for a business is to identify the needs and desires of its customers and devise approaches to meet these. Hence, it helps to improve the firm's overall marketing and its chances of success.
 A marketing plan shows the marketing objectives and marketing strategy of a particular business. Marketing objectives are goals that help to give marketing teams a sense of purpose and direction, and holds them accountable towards the objectives.
 - **Marketing audit** → **Marketing objectives** → **Marketing strategies** → **Marketing mix**
 *Figure 4.2.2 The marketing planning process*

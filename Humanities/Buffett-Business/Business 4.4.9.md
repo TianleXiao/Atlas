@@ -1,8 +1,5 @@
-![[ab000281bd5e39b443f523bef22e430a.jpg]]
-
----
-
 ## Qualitative vs quantitative research
+![[ab000281bd5e39b443f523bef22e430a.jpg]]
 
 ---
 
@@ -29,12 +26,12 @@
 
 ## Sampling
 ![[a94f2bf7021da30b55382cc250c50bc5.jpg]]
-A sample refers to the proportion or subgroup of the population selected for market research purposes.  
+A sample refers to the proportion or subgroup of the population selected for market research purposes.
 There are three sampling methods that can be used:
 - **Quota**
 - **Random, and**
 - **Convenience**
-> An issue with any sampling method is that the sample size, and hence the results, may not be representative of the entire population.  
+> An issue with any sampling method is that the sample size, and hence the results, may not be representative of the entire population.
 > If the sample size is too small, the results are unlikely to be statistically valid (representative of the population). However, very large sample sizes increase the costs and complexities of market research.
 
 ---

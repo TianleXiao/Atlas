@@ -1,8 +1,5 @@
-![[18dfd8239d6bd7b32cf9b3bc7f257952.jpg]]
-
----
-
 ## Government publications
+![[18dfd8239d6bd7b32cf9b3bc7f257952.jpg]]
 ![[eae77f46eb540f0f6cbc75fc759edd14.jpg]]
 Government publications are official documents released by governments and government agencies. Unlike academic journals, and more like market analyses, there is no standardized format in the presentation of government publications. Governments publish data and statistics that cover a wide range of topics, such as:
 - **Economic forecasts, e.g. economic growth, unemployment, inflation, and interest rates**

@@ -32,7 +32,7 @@ The main features of limited companies are:
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Invoice
 + Flattery
 + Collateral

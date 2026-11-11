@@ -12,7 +12,6 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + State-owned businesses (Public)
 + Social enterprises(Private)
 + Co-operatives and Partnerships
-
 **Public:** 1.People 2.Government
 
 ---
@@ -30,12 +29,11 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + A sole trader/sole proprietorship is a business owned and managed by one person.
 + It is run as an unincorporated business, i.e., there is no legal separation between the owner and the business itself.
 + A sole trader has unlimited liability and is responsible (liable) for any debt of the business which may be paid from the sole trader's personal assets.
-
 **Corporation:** in the body
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Go to public
 + Bankrupt
 + Sue

@@ -7,8 +7,7 @@
 ## Disadvantages of LTD CO.
 **The main disadvantage of private limited companies are:**
 + Financial capital cannot be raised by sale of shares to the general public.
-+ Shares can only be sold with agreement of other shareholders. 
-
++ Shares can only be sold with agreement of other shareholders.
 **The main disadvantages of public limited companies are:**
 + There is often the concern of 'divorce between ownership and control' as directors' decision-making may conflict with shareholders.
 + The company is always at risk of a takeover by another company.
@@ -36,7 +35,7 @@ There are two types of social enterprises, for-profit and non-profit/not for-pro
 ---
 
 ## For-profit Social Enterprise
-For profit social enterprises are businesses run in a commercial-like manner towards the social goals. 
+For profit social enterprises are businesses run in a commercial-like manner towards the social goals.
 + cooperatives
 + microfinance providers
 + public-private partnerships (PPP).
@@ -48,7 +47,7 @@ For profit social enterprises are businesses run in a commercial-like manner tow
 
 ---
 
-## Vocabulary 
+## Vocabulary
 + Borrow
 + Asset
 + Collateral

@@ -38,12 +38,10 @@ Project Z
 Advantages:
 - Project-based organizational structure enhances responsiveness to market demand changes and can be adapted by businesses of any type as a temporary and flexible approach.
 - Utilizing experts from various departments, as in a matrix structure, promotes creativity and productivity, with the project manager playing a pivotal role in team dynamics.
-
 Disadvantages:
 - Project-based structures, like matrix structures, can lead to isolation of members from their usual functional areas, and cultural differences among team members may arise.
 - Handling diverse tasks and deadlines for different project managers can cause uncertainty and potential conflicts, unsettling some project team members.
 - Increased workload and pressures in project-based structures, especially when involved in multiple simultaneous projects, may demotivate certain team members.
-
 Organization by function — Functional managers
 Matrix organization — Multiple managers
 Project-based organization — Project managers
@@ -53,11 +51,8 @@ Project-based organization — Project managers
 ## Shamrock Organization: Outsourced Vendors
 ![[9ede8b8327266b01c1382c5c184cdd02.jpg]]
 Outsourced vendors, also known as outsourced workers or contractual fringe, are individuals or organizations hired on a contract basis for specific non-core roles like security, catering, accounting, or marketing.
-
 Characteristics:
 - Typically self-employed professionals or contractors, they work flexibly and project-based, enjoying greater autonomy and performance-based pay rather than fixed time commitments.
-
 Challenges:
 - While outsourcing provides expertise, it can be costly, and workers in such roles often lack job security and therefore lower morale may lead to lower productivity due to the temporary and project-based nature of their positions.
-
 hire → outsource

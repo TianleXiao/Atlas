@@ -9,12 +9,10 @@
 ![[166c3f04aae8659372c9ebc38b3cd370.jpg]]
 "We work to become, not to acquire."
 - Elbert Hubbard (1856 - 1915), American philosopher
-
 The IB syllabus specifies the following motivation theories :
 1. Taylor (Scientific management)
 2. Maslow (Hierarchy of needs)
 3. Herzberg (Motivation-hygiene theory)
-
 - The key role of a manager involves motivating employees to achieve organizational goals.
 - Motivation is characterized by employees willingly engaging in tasks because they genuinely desire to do so, influencing their behavior and productivity positively.
 - In contrast, demotivation can lead to decreased productivity, inefficiencies, workplace dissatisfaction, absenteeism, and potential staff turnover.

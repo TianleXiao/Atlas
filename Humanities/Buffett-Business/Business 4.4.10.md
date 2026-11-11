@@ -1,8 +1,5 @@
-![[a22d9bbe77edd7ba8f55362fcbe46a02.jpg]]
-
----
-
 ## Random sampling
+![[a22d9bbe77edd7ba8f55362fcbe46a02.jpg]]
 ![[ee4210321f3f8fc323b9435842ed4013.jpg]]
 As the name suggests, researchers using random sampling select anyone in the population for market research. It is based on an arbitrary method, allowing all respondents the same equal chance of being selected.
 To avoid or minimise potential bias, a variation is to use a systematic method, such as sampling every nth person from a list. This can improve the randomizing in order to get a good mix of participants, and therefore more representative views.

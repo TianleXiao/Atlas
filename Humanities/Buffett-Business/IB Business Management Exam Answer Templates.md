@@ -82,15 +82,11 @@
 > **Arguments Against:** However, WE is facing "falling profit margins," and as Milton Friedman argues, the primary responsibility of a business is to "increase its profits." CSR activities increase "one-off expenses" and might be unsustainable if profitability continues to decline due to "diseconomies of scale."
 >
 > **Conclusion:** In the **short term**, cutting CSR might improve margins. However, in the **long term**, WE's competitive advantage is built entirely on its ethical reputation. **Therefore**, WE should retain the programme but must optimize its operational costs to address the efficiency issues mentioned by the CEO.
-
 In the actual exam, it should be written as a long paragraph.
-
 10 Point:
 Intro : EI is a Ltd sellng high quality ice-creams, it has a strong USP and is looking at 2strategic growth options, one is internal growth and the other one is franchise which is external growth.
-
 Option 1 advs : easy to control the rate/pace of growth so it can prevent diseconomies of scale.
 Option 1 disadv : but it is quite slow to grow organically, which may lead to lost opportunities to gain more market share, especially if the market is growing faster
-
-Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI, 
+Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI,
 option 2 adv: helps EI to diversify revenue streams such as franchising fees as well as royalties
 option 2  disadv: there's a high risk of hurting the brand image of EI, if some franchisees make a blunder in terms of product quality or customer service, also, f some franchisees become greedy and start cutting costs therefore reducing the ice cream quality
