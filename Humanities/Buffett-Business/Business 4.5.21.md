@@ -1,5 +1,4 @@
----
-### Top 10 People Followed on Instagram
+## Top 10 People Followed on Instagram
 ![[Pasted image 20261016151751.png]]
 
 - Name — Number of Followers

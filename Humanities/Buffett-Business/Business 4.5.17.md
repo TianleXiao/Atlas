@@ -1,5 +1,4 @@
----
-### E-Mail
+## E-Mail
 ![[79bb10214ab5d0de89d862a76abd2efd.jpg]]
 
 Electronic mail (e-mail) is the use of Internet technologies used to send and receive electronic messages and attachments. It is still a popular form of below-the-line promotion.
@@ -13,8 +12,7 @@ Disadvantages—
 - In many countries, there may also be legal issues surrounding the use and storage of private data.
 
 ---
-
-### Customer Loyalty Schemes
+## Customer Loyalty Schemes
 ![[5c378e67d77ea8b962c17793a1a04a58.jpg]]
 
 Customer loyalty schemes reward those who make repurchases. Customers who are members of the loyalty programme can accumulate points to qualify for price discounts and free gifts.
