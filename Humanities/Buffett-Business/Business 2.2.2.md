@@ -1,4 +1,4 @@
-### Wide Span Of Control
+## Wide Span Of Control
 ![[3da16e94f407d502cc9bcf9fc86e8288 1.jpg]]
 
 - Fewer layers helps with cost control as there are less managerial positions in the firm.
@@ -9,7 +9,7 @@ Diagram: one manager node above eight subordinate nodes
 Wide span of control
 
 
-### Levels Of Hierarchy
+## Levels Of Hierarchy
 ![[1e58fea3d629e92fcbb49ab2c74d7639.jpg]]
 
 - Levels of hierarchy refers to the number of layers of formal authority.
@@ -20,7 +20,7 @@ Pyramid: CEO → Board of Directors → Middle Management → Supervisors and Te
 Organisational chart showing one head figure, two second-level figures, and multiple lower-level branches
 
 
-### Bureaucracy
+## Bureaucracy
 ![[6248aef9a4e9a5c5ebb40a992ad3b206.jpg]]
 
 - Bureaucracy is the execution of tasks that are governed by official administrative and formal rules of an organization.
@@ -28,7 +28,7 @@ Organisational chart showing one head figure, two second-level figures, and mult
 - Bureaucracy is often associated with excessive administration, paperwork and formalities.
 
 
-### Principles In A Bureaucratic Organization
+## Principles In A Bureaucratic Organization
 ![[d4dc65a0112355de91943e035e5242bc.jpg]]
 
 - Continuity - risks that could jeopardize its survival and continuity are avoided.

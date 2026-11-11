@@ -1,4 +1,4 @@
-### Activity - Leadership Style
+## Activity - Leadership Style
 ![[32356dd702195c750401a46df3364dd7.jpg]]
 
 - 4. A business that operates in a market where competitors are constantly changing their marketing decisions.
@@ -9,7 +9,7 @@
   - Democratic
 
 
-### Managers vs Leaders
+## Managers vs Leaders
 ![[8618c552d2121bf7d07ea5eab2f7dc23.jpg]]
 
 | Manager | Leaders |
@@ -30,7 +30,7 @@
 | Learned skills | Natural instincts |
 
 
-### Effective Leadership Style
+## Effective Leadership Style
 ![[c2070723b29cdf793afab7aaa7474d39.jpg]]
 
 Whether a leadership style will be effective will depend on several factors such as:
@@ -41,7 +41,7 @@ Whether a leadership style will be effective will depend on several factors such
 - The degree of importance of the decision, e.g. tactical or strategic decision-making.
 
 
-### Management vs Leadership
+## Management vs Leadership
 ![[9ff67bbde8858764fe6c5e4924325279.jpg]]
 
 Management

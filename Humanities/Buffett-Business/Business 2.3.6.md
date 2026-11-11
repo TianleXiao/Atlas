@@ -1,4 +1,4 @@
-### Tannenbaum-Schmidt Continuum
+## Tannenbaum-Schmidt Continuum
 ![[5cfffd30612e06b4149aaf4456e71d0f.jpg]]
 
 TANNENBAUM-SCHMIDT CONTINUUM

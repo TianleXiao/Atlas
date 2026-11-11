@@ -1,4 +1,4 @@
-### Frederick Herzberg — Two Factor Theory (1959)
+## Frederick Herzberg — Two Factor Theory (1959)
 ![[c4d04f32eabc4d65b0465d76fc1062cc.jpg]]
 
 Herzberg's research identified two groups of factors that motivated people at work:
@@ -9,7 +9,7 @@ Herzberg's research identified two groups of factors that motivated people at wo
 - Motivating factors (motivators): aspects of a worker's job that can lead to positive job satisfaction, such as achievement, recognition, meaningful and interesting work and advancement at work.
 
 ---
-### Frederick Herzberg — Two Factor Theory: Hygiene Factors and Motivators
+## Frederick Herzberg — Two Factor Theory: Hygiene Factors and Motivators
 ![[0b753e88ce491f1aac5b69d95c89e27f.jpg]]
 
 | Hygiene factors | Motivators |
@@ -24,7 +24,7 @@ Herzberg's research identified two groups of factors that motivated people at wo
 - Factors about the job itself (Motivators)
 
 ---
-### Herzberg's Two Factor Theory — Motivators and Hygiene Factors Scale
+## Herzberg's Two Factor Theory — Motivators and Hygiene Factors Scale
 ![[73e2a175fa951135b1a72ba0d62b0d98.jpg]]
 
 Herzberg's motivators – these satisfiers relate to the job itself and can create positive motivation
@@ -45,7 +45,7 @@ Herzberg's hygiene factors – these relate to the job environment and have the 
 - Potential to dissatisfy (downward axis)
 
 ---
-### Herzberg's Two Factor Theory — Consequences for Today's Business
+## Herzberg's Two Factor Theory — Consequences for Today's Business
 ![[b1c23cd2a37ce8525bfaad1c1b119b3d.jpg]]
 
 - Pay and working conditions can be improved and these will help to remove dissatisfaction about the work.

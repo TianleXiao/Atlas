@@ -1,4 +1,4 @@
-### Through-the-Line (TTL) Promotion
+## Through-the-Line (TTL) Promotion
 ![[0b9cca7b965d2047d4cfe4165dca571b.jpg]]
 
 Through-the-line promotion is an aspect of promotion that relies on the use of combining both above the line and below the line promotional strategies. For example, a movie production company might choose to supplement television advertisements with trailers of the latest blockbuster film with point of sales promotions at the cinema as well as selling merchandise related to the movie.
@@ -13,7 +13,7 @@ Through-the-line promotion is an aspect of promotion that relies on the use of c
 TTL Through the Line
 
 
-### TTL Promotion (Digital & 360)
+## TTL Promotion (Digital & 360)
 ![[1f35709d9c19c218185ff200c478bcd5.jpg]]
 
 Digital marketing is a TTL promotional technique used to promote and sell goods or services on the Internet. It involves using different online marketing channels, such as search engines, social media platforms, and emails to reach the desired target markets. Examples include the use of online banners, pop-up adverts, social media posts/stories/reels, blogs & vlogs, etc.
@@ -41,7 +41,7 @@ SEM
 360
 
 
-### 360 Digital Marketing
+## 360 Digital Marketing
 ![[dd842d6ad9c6d554ce3154fe7c707e39.jpg]]
 
 - More detailed information can be communicated via online advertisements, as marketers can also use embedded video clips, audio and photos to promote their goods or services on different web platforms in a unified homogeneous way.
@@ -51,7 +51,7 @@ Home Furniture — 40% OFF
 18 Standard Size
 
 
-### 360 Digital Marketing
+## 360 Digital Marketing
 ![[67fb681b39e9b23e9e5d314c27e34077.jpg]]
 
 - Many organizations have set up a 'frequently asked questions' (FAQs) section on their website to pass on important information to clients.
