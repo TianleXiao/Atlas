@@ -1,6 +1,7 @@
 ![[a22d9bbe77edd7ba8f55362fcbe46a02.jpg]]
 
 ---
+
 ## Random sampling
 As the name suggests, researchers using random sampling select anyone in the population for market research. It is based on an arbitrary method, allowing all respondents the same equal chance of being selected.
 To avoid or minimise potential bias, a variation is to use a systematic method, such as sampling every nth person from a list. This can improve the randomizing in order to get a good mix of participants, and therefore more representative views.
@@ -9,6 +10,7 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 ![[ee4210321f3f8fc323b9435842ed4013.jpg]]
 
 ---
+
 ## Random sampling advantages
 - Results are, in theory, random as everyone in the population has an equal chance of being selected for research.
 - Results are therefore (in theory) free from researcher bias and sampling errors, so are more likely to be accurate and representative.
@@ -16,6 +18,7 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 ![[5b2e923b97cce27bef1c001a5693f19f.jpg]]
 
 ---
+
 ## Random sampling disadvantages
 - Random sampling only tends to work well if members of a population are likely to have similar views or characteristics.
 - The sample, being just random, could be very skewed, so is not necessarily representative of the population.
@@ -23,6 +26,7 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 ![[a0048765c7380cec509f775ae1b31f0d.jpg]]
 
 ---
+
 ## Convenience sampling
 Convenience sampling refers to the practice of using people that are within easy reach, in an unplanned way, to conduct market research. The sample is simply made up of whoever is willing to participate in the research.
 Therefore, it is the least representative method of sampling. Unless very large sample sizes are used, convenience sampling is of limited use. However, as the name suggests, convenience sampling makes it simple for market researchers to carry out the study.
