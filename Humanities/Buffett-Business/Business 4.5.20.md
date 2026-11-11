@@ -53,7 +53,6 @@ Online Advertising
 
 Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid Traffic, Affiliates, Social
 
----
 
 ## Social Media Marketing (Smm)
 ![[Pasted image 20261016151702.png]]
@@ -63,7 +62,6 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
 - SMM has encouraged many individuals and businesses to share online content, often in a persuasive way (including their views, suggestions, reactions, images and videos).
   - The changing technologies have therefore provided people and businesses with a potentially wide-reaching yet cost-effective method of promotion.
 
----
 
 ## Smm Viral Marketing
 ![[Pasted image 20261016151723.png]]

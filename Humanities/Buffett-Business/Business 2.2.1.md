@@ -1,4 +1,4 @@
-## Sl/Hl Content
+### Sl/Hl Content
 ![[5d7101f64e1297706cac670fad180230.jpg]]
 
 - The following terminology to facilitate understanding of different types of organisational structures:
@@ -19,7 +19,7 @@
 - Changes in organizational structures (for example, project-based organization, Charles Handy's "Shamrock Organization") (HL only)
 
 
-## Job Roles Within an Organization
+### Job Roles Within an Organization
 ![[f11c67f42afd7b82a22a97b09c3bff18 1.jpg]]
 
 - Chief Executive Officer (CEO) or Managing Director (MD)
@@ -32,7 +32,7 @@
 - Collectively, they advise and support the CEO.
 
 
-## Benefits & Drawbacks of Delegation
+### Benefits & Drawbacks of Delegation
 ![[f970b14073e7a3a9e350133e2d25e410.jpg]]
 
 Effective delegation has major benefits for both managers and employees:
@@ -54,7 +54,7 @@ Delegation process:
 - Evaluate or review
 
 
-## Wide Span of Control
+### Wide Span of Control
 ![[3da16e94f407d502cc9bcf9fc86e8288.jpg]]
 
 - Fewer layers helps with cost control as there are less managerial positions in the firm.

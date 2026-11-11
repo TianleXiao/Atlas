@@ -1,4 +1,4 @@
-## P For Processes
+### P For Processes
 ![[Pasted image 20261016152424.png]]
 
 - Processes – the importance of delivery processes in the marketing of a service.
@@ -12,8 +12,8 @@
 - After-sales care, including insurance, product warranties and guarantees
 - Queueing systems and waiting times.
 
----
-## P For Physical Evidence
+
+### P For Physical Evidence
 ![[Pasted image 20261016152440.png]]
 
 - Physical evidence – the importance of tangible physical evidence in marketing a service.
@@ -26,8 +26,8 @@
 - Cleanliness
 - Presentation of staff, such as uniforms and business attire
 
----
-## P For Physical Evidence (Examples)
+
+### P For Physical Evidence (Examples)
 ![[Pasted image 20261016152454.png]]
 
 - Students choosing a university for higher education will be interested in the physical environment as well as the quality of the courses on offer. For example, students (the customers) will be concerned about the quality of their accommodation and learning environment (such as learning spaces on campus and other on-site facilities).
@@ -35,11 +35,59 @@
 - Employees are also directly affected by the physical environment of the workplace.
 - This can have a direct impact on their level of productivity and motivation.
 
----
-## Appropriate Marketing Mixes
+
+### Appropriate Marketing Mixes
 ![[Pasted image 20261016152508.png]]
 
 An effective marketing mix, be it the traditional 4 Ps for the marketing of goods or the 7 Ps for the marketing of services, helps to ensure that a business meets the needs of its customers. Getting the marketing mix right requires an integrated approach, i.e., all elements of the 7 Ps are complementary (work together) and consistent (reinforce each other).
 
 This means the business produces the right product, sells it for the right price, informatively and persuasively communicates the product through the right methods of promotion, and has the product conveniently available at the right place for customers. In addition, the people are appropriately trained in delivering a service, with the right processes to provide quality service, and tangible physical evidence to ensure customer satisfaction.
 
+- Customer
+- People
+  - Customers
+  - Employees
+  - Social interactions
+  - Roles & Scripts
+  - Relationships
+- Physical evidence
+  - Facilities, equipment
+  - Uniforms
+  - Livery & artefacts
+  - Signage
+  - Symbols
+- Process
+  - Service design
+  - Standardization
+  - Customization
+  - Operational efficiency
+- Promotion
+  - Internal marketing
+  - Direct marketing
+  - Advertising
+  - Other promotional methods
+- Product
+  - Total service product
+  - Core product
+  - Supplementary services
+  - Facilitating services
+  - Supporting services
+- Price
+  - Cost-based
+  - Demand-based
+  - Operations-based
+  - Competition-based
+  - Relationship-based
+- Place
+  - Access
+  - Location
+  - Delivery services
+  - Electronic delivery
+- The 7Ps Extended Marketing Mix
+- Product
+- Price
+- Place
+- Promotion
+- People
+- Process
+- Physical evidence

@@ -1,4 +1,4 @@
-## Maslow's Hierarchy & Business Application (1)
+### Maslow's Hierarchy & Business Application (1)
 
 ![[b6e79adc280f125f53fbe8000c9bc0ea.jpg]]
 
@@ -7,7 +7,7 @@
 - Social needs (or love and belonging needs)--Business applications of social needs include opportunities to work in teams, and compliance with antidiscrimination laws (which help to promote a sense of worth and belonging at work).
 
 
-## Maslow's Hierarchy & Business Application (2)
+### Maslow's Hierarchy & Business Application (2)
 
 ![[69b126ab7d748267344697dc31aa1f90.jpg]]
 
@@ -20,7 +20,7 @@ Internal esteem needs indicate that people need to feel good about themselves. E
 - Training and development opportunities suggest that the organization values its people.
 
 
-## Maslow's Hierarchy & Business Application (3)
+### Maslow's Hierarchy & Business Application (3)
 
 ![[5f9ad3d2856aef54cd426d0557556aa3.jpg]]
 
@@ -30,7 +30,7 @@ Self-actualization refers to the forces that drive people to become the best tha
 - Maslow argued that people who achieve self-actualization are democratic in their outlook because to reach self-fulfillment, a person must have the freedom over what they do to exploit their talents and in a way that only they know best.
 
 
-## Limitations of Maslow's Theory of Motivation
+### Limitations of Maslow's Theory of Motivation
 
 ![[6a7dcc21ea774700b77184411df9605d.jpg]]
 

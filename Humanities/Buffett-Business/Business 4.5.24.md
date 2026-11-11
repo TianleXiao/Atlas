@@ -1,11 +1,11 @@
-## The Importance of Different Distribution Channels
+### The Importance of Different Distribution Channels
 ![[Pasted image 20261016152253.png]]
 
 - The price of the product – An expensive luxury product, such as a Ferrari car or Tiffany & Co jewelry, will be distributed in a very limited number of retail outlets. This helps to keep the products exclusive and maintains the high prices being charged. By contrast, mass-market goods sold at relatively low prices, such as bottled water, lightbulbs and batteries, are sold in a wide range of distribution channels.
 - The frequency of purchases – Some products are bought on a regular or even daily basis, such as fruits, milk, shampoo and soft drinks. These need to be readily available, using distribution channels such as retailers. By contrast, some products are bought less frequently, such as horse saddles, window frames, home cinema entertainment systems, and grand pianos. Hence, specialist distributors and agents may be a more effective choice of distribution channel.
 
----
-## P for People
+
+### P for People
 ![[Pasted image 20261016152312.png]]
 
 "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
@@ -21,8 +21,8 @@ An organization's employees are a vital aspect of the marketing mix because they
 
 In the context of a high school, for example, the calibre of the teaching staff in terms of their qualifications, skills, and experience (as teachers, examiners, paper setters, principal examiners, deputy chief examiners, authors, teacher trainers, and so forth).
 
----
-## P for People
+
+### P for People
 ![[Pasted image 20261016152333.png]]
 
 "A rude waiter at your restaurant will spoil even the best of meals. Unhappy customers can destroy your reputation."
@@ -39,8 +39,8 @@ However, is there ever a case for rude service to be part of a successful busine
 
 - Karen's Diner, a Tasmanian restaurant chain with outlets in in Australia, New Zealand, the USA, and the UK that thrives on providing customers with rude service.
 
----
-## P for Processes
+
+### P for Processes
 ![[Pasted image 20261016152404.png]]
 
 - Processes – the importance of delivery processes in the marketing of a service.

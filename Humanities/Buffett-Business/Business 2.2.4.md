@@ -47,7 +47,6 @@ Organization by function — Functional managers
 Matrix organization — Multiple managers
 Project-based organization — Project managers
 
----
 
 ## Shamrock Organization: Outsourced Vendors
 ![[9ede8b8327266b01c1382c5c184cdd02.jpg]]

@@ -23,7 +23,6 @@ Drawbacks—
 - It relies on the producer to do the marketing to sell the products. This can be time-consuming and costly for the producer, especially if it lacks marketing expertise.
 - The producer also has to be responsible for storage costs and delivery costs.
 
----
 
 ## Agents
 ![[Pasted image 20261016152036.png]]
@@ -38,7 +37,6 @@ Drawbacks—
 - Manufacturers are reliant on a third-party to sell their products.
 - The reputation of the producer could be hindered if an agent delivers poor customer service.
 
----
 
 ## Retailers Advs
 ![[Pasted image 20261016152053.png]]

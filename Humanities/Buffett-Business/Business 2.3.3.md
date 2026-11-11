@@ -1,4 +1,4 @@
-## Leadership Styles: Autocratic
+### Leadership Styles: Autocratic
 ![[b2998ef8e9576c0f489de135d501964d.jpg]]
 
 Autocratic leadership style is suitable –
@@ -8,14 +8,14 @@ Autocratic leadership style is suitable –
 - when the workers are unskilled so depend on the directions and instructions of leaders.
 
 
-## Leadership Styles: Paternalistic
+### Leadership Styles: Paternalistic
 ![[610831cfadabc411583caac38b2b6da4.jpg]]
 
 - Paternalistic leadership is a leadership style where the manager or leader makes decisions on behalf of his/her team in the belief that these are in the best interest of the workers.
 - Some consultation might take place, but final decisions are taken by managers.
 
 
-## Leadership Styles: Paternalistic
+### Leadership Styles: Paternalistic
 ![[c6c029c59ad402a2ba8af6de486719eb.jpg]]
 
 Paternalistic leaders see employees as family members, and do what they think is the best for the workers.
@@ -35,7 +35,7 @@ Disadvantages:
 - Paternalistic leaders may not always make the best decisions → can lead to conflict and disagreement.
 
 
-## Leadership Styles: Democratic
+### Leadership Styles: Democratic
 ![[ed32a5bfa114d381f548eb0c4bee73c6.jpg]]
 
 - A democratic leader is one who is willing to delegate authority and consult subordinates in decision-making.

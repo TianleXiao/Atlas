@@ -1,4 +1,4 @@
-## Herzberg's Two Factor Theory – Consequences for Today's Business
+### Herzberg's Two Factor Theory – Consequences for Today's Business
 ![[9f88e6096c6cf37ec4d17fd0c1559207.jpg]]
 
 Herzberg suggested that managers could achieve worker motivation by using a relatively democratic leadership style in three key areas:
@@ -14,7 +14,7 @@ Empowerment
 Self-directed Teams
 
 
-## Evaluation of Hertzberg's Work
+### Evaluation of Hertzberg's Work
 ![[ce24eec2f8629fa720ddacf86b268d3e.jpg]]
 
 - The existence of hygiene factors meant it might be better for managers to ensure that workers are not demotivated first, rather than hypothesizing what might motivate them.

@@ -1,4 +1,4 @@
-## Tannenbaum-Schmidt Continuum
+### Tannenbaum-Schmidt Continuum
 ![[5cfffd30612e06b4149aaf4456e71d0f.jpg]]
 
 TANNENBAUM-SCHMIDT CONTINUUM
@@ -16,3 +16,4 @@ Range of behaviour
 - Manager presents problem, gets suggestions and makes decision
 - Manager defines limits and asks group to make decision
 - Manager permits group to function independently within defined limits
+---

@@ -1,4 +1,4 @@
-## External Factors That Influence HR Planning — Demographic Change
+### External Factors That Influence HR Planning — Demographic Change
 ![[Pasted image 20261020093247.png]]
 
 - Demographic change
@@ -19,7 +19,7 @@ Country | Men | Women
 - United States | 66 | 66
 
 
-## External Factors That Influence HR Planning — Change in Labour Mobility
+### External Factors That Influence HR Planning — Change in Labour Mobility
 ![[Pasted image 20261020093304.png]]
 
 - Change in labour mobility
@@ -30,7 +30,7 @@ Country | Men | Women
   - Some workers are immobile because they are highly specialized in their area of expertise, as they find it difficult to seek employment opportunities in other industries.
 
 
-## External Factors That Influence HR Planning — Geographical Mobility
+### External Factors That Influence HR Planning — Geographical Mobility
 ![[Pasted image 20261020093320.png]]
 
 - Change in labour mobility
@@ -41,7 +41,7 @@ Country | Men | Women
   - Language and cultural differences tend to limit international mobility.
 
 
-## External Factors That Influence HR Planning — Immigration
+### External Factors That Influence HR Planning — Immigration
 ![[Pasted image 20261020093342.png]]
 
 - Immigration

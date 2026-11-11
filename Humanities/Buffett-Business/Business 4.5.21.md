@@ -1,4 +1,4 @@
-## Top 10 People Followed on Instagram
+### Top 10 People Followed on Instagram
 ![[Pasted image 20261016151751.png]]
 
 - Name — Number of Followers
@@ -14,7 +14,7 @@
 - Justin Bieber — 287 million
 
 
-## Top 10 Most Followed People on Twitter
+### Top 10 Most Followed People on Twitter
 ![[Pasted image 20261016151809.png]]
 
 X (formerly Twitter) accounts with the most followers worldwide as of August 2023 (in millions)
@@ -31,7 +31,7 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - x-axis: Number of followers in millions — 0, 20, 40, 60, 80, 100, 120, 140, 160
 
 
-## P for Place
+### P for Place
 ![[Pasted image 20261016151840.png]]
 
 - Place (also referred to as distribution) in the marketing mix refers to the plans and processes of getting the right products (goods and services) to the right customers in the most convenient and most cost-effective way at the right time.
@@ -43,7 +43,7 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - Examples include the use of retailers or vending machines.
 
 
-## Distribution Networks
+### Distribution Networks
 ![[Pasted image 20261016151908.png]]
 
 - A distribution network is an intermediary in the supply chain that gets products from the manufacturer to the consumer (the end customer).

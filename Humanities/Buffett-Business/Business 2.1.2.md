@@ -1,4 +1,4 @@
-## HR Planning
+### HR Planning
 ![[Pasted image 20261020093119.png]]
 
 Human resources/Workforce planning involves anticipating and addressing the organization's current and future human resource needs, through recruitment, training, financial and non-financial rewards, and organizational structures. This can be short-term or long-term, depending on the needs of the organization.
@@ -7,7 +7,7 @@ Human resources/Workforce planning involves anticipating and addressing the orga
 - Long-term workforce planning is used to support the strategic plan of the organization, e.g. the expansion of the business in new locations and different countries.
 
 
-## Internal Factors That Influence HR Planning
+### Internal Factors That Influence HR Planning
 ![[Pasted image 20261020093137.png]]
 
 Internal factors are those within the control of the organization. They include:
@@ -17,7 +17,7 @@ Internal factors are those within the control of the organization. They include:
 - Finances of the organization – Effective workforce planning cannot happen without sufficient funding being available. Growth enables the firm to gain more revenue, which will provide it with the finances to hire and pay for more workers. Training and professional development opportunities for workers also require finance.
 
 
-## Internal Factors That Influence HR Planning (Continued)
+### Internal Factors That Influence HR Planning (Continued)
 ![[Pasted image 20261020093159.png]]
 
 - Strategic direction of the organization – E.g., if growth is a priority, the organization will plan to recruit more workers and internally promote some employees to senior positions.
@@ -25,7 +25,7 @@ Internal factors are those within the control of the organization. They include:
 - Corporate culture of the organization – The culture of the organization affects how the HR department operates. In turn, this influences its approach to HR matters such as working hours, flexi-time, teamworking, appraisals, job sharing (where two employees share a single job), training and professional development opportunities, dismissal and redundancies, outsourcing, and the internal promotion of staff.
 
 
-## External Factors That Influence HR Planning
+### External Factors That Influence HR Planning
 ![[Pasted image 20261020093221.png]]
 
 External factors are those that are beyond the control of the organization, such as the legal minimum wage or other employment legislation.
