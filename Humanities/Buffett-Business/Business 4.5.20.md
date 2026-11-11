@@ -21,6 +21,7 @@
 - Uses less conventional method than the usual ATL channels of advertising, typically focusing on direct mean of communication
 - The effect on sales can be measured immediately
 
+---
 ## Social Media Marketing (Smm)
 ![[Pasted image 20261016151645.png]]
 
@@ -54,6 +55,7 @@ Online Advertising
 Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid Traffic, Affiliates, Social
 
 
+---
 ## Social Media Marketing (Smm)
 ![[Pasted image 20261016151702.png]]
 
@@ -63,6 +65,7 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
   - The changing technologies have therefore provided people and businesses with a potentially wide-reaching yet cost-effective method of promotion.
 
 
+---
 ## Smm Viral Marketing
 ![[Pasted image 20261016151723.png]]
 

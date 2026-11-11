@@ -1,5 +1,7 @@
 ![[ab000281bd5e39b443f523bef22e430a.jpg]]
+---
 ## Qualitative vs quantitative research
+---
 ---
 ---
 ---
@@ -13,6 +15,7 @@
 ---
 ---
 ---
+---
 ## Quantitative research
 - Addresses the "what" (closed and quantifiable) questions
 - Generally easier to collect, collate and interpret quantitative research results
@@ -21,6 +24,7 @@
 - Requires a large number of participants in order to gather representative and quantifiable results
 - Numbers alone do not reveal all the information to make rational decisions.
 ![[849dbe5c8305f10b4cecc06164f119ac.jpg]]
+---
 ---
 ---
 ---
@@ -36,12 +40,14 @@ There are three sampling methods that can be used:
 ---
 ---
 ---
+---
 ## Quota sampling advantages
 - It is suitable when researchers want to detect possible relationships between sub-groups.
 - It enables researchers to investigate particular traits (characteristics) of a certain sub-group in order to improve its marketing strategies.
 - The researcher has control of who is included in the sample.
 - The findings are usually more reliable than those collected from random sampling, especially where the proportions of the different sub-groups of the population are known in advance.
 ![[a510886c7b354494d84ee7318cd5f4ab.jpg]]
+---
 ---
 ---
 ---

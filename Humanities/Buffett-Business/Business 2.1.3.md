@@ -19,6 +19,7 @@ Country | Men | Women
 - United States | 66 | 66
 
 
+---
 ## External Factors That Influence HR Planning — Change in Labour Mobility
 ![[Pasted image 20261020093304.png]]
 
@@ -30,6 +31,7 @@ Country | Men | Women
   - Some workers are immobile because they are highly specialized in their area of expertise, as they find it difficult to seek employment opportunities in other industries.
 
 
+---
 ## External Factors That Influence HR Planning — Geographical Mobility
 ![[Pasted image 20261020093320.png]]
 
@@ -41,6 +43,7 @@ Country | Men | Women
   - Language and cultural differences tend to limit international mobility.
 
 
+---
 ## External Factors That Influence HR Planning — Immigration
 ![[Pasted image 20261020093342.png]]
 

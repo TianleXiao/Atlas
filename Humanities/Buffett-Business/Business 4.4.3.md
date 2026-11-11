@@ -1,4 +1,5 @@
 ![[7ada8a543eaf727427d39049df20a3c0.jpg]]
+---
 ## Surveys disadvantages
 - Surveys conducted face-to-face can be expensive and time consuming, especially when trying to obtain a large sample (not representative of a target market).
 - They can suffer from selection or interviewer bias and/or poorly worded questions, thus generating unrepresentative results.
@@ -7,6 +8,7 @@
 - Answer choices (options) used in closed questions on a survey may not represent how the survey participants actually feel.
 - Even with well-designed surveys and questions, participants may not be entirely truthful due to strategic reasons.
 ![[bf2955b551436c4be4603d1593e537aa.jpg]]
+---
 ---
 ---
 ---
@@ -20,6 +22,7 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 ---
 ---
 ---
+---
 ## Interviews advantages
 - Interviews are specifically designed to meet the needs of the individual organization.
 - They can help the business to gain large amounts of qualitative data.
@@ -28,10 +31,12 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 ---
 ---
 ---
+---
 ## Interviews disadvantages
 - As only a small number of respondents are involved, the findings might not be representative of the opinions of the market.
 - Potential interviewer bias might occur, thereby distorting the findings or analysis of the responses.
 - Interviews can be very time-consuming and are therefore a costly method of market research. Interviews may take a large amount of time to complete, so interviewees may be offered a financial incentive to take part.
+---
 ---
 ---
 ---

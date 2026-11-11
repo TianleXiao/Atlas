@@ -1,4 +1,5 @@
 ![[5048c7bc432b271331e2b59c90651843.jpg]]
+---
 ## Market segmentation
 Market segmentation describes the process of dividing a market for a product into smaller distinct groups of customers in an effort to meet their specific desired needs and wants. Understanding the different needs of these customer sub-groups within a market enables marketers to target their customers better. Examples of market segments include:
 - **Age**
@@ -17,8 +18,10 @@ Market segmentation describes the process of dividing a market for a product int
 ---
 ---
 ---
+---
 ## Market segmentation
 
+---
 ## Types of market segmentation
 - **Geography**
   - Country
@@ -61,6 +64,7 @@ Market segmentation describes the process of dividing a market for a product int
 ---
 ---
 ---
+---
 ## Atl activity: segmentation acronyms
 Investigate the different categories of market segments used by marketers in the real corporate world. As a starter, consider these examples that are based on family structures or characteristics and lifestyles:
 - [ ] DINKY: Double income, no kids yet
@@ -73,6 +77,7 @@ Investigate the different categories of market segments used by marketers in the
 - [ ] SITCOM: Single income, two children, outrageous mortgage!
 Think about the types of products that these market segments can be sold depending on their characteristics.
 ![[354a64baecf40c67ebd28cac33d091dd.jpg]]
+---
 ---
 ---
 ---

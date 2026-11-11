@@ -8,6 +8,7 @@
 - Technology enables better support for managerial decisions.
 - Access to information influences organizational responses to external factors.
 
+---
 ## Project-Based Organization: Example
 ![[ee7565979a2d2d5f9a2ee8f9a7bbdede.jpg]]
 
@@ -31,6 +32,7 @@ Project Z
   - Department D, × 1 staff
   - Department E, × 1 staff
 
+---
 ## Project-Based Organization: Advs/Disadvs
 ![[5feb0d2f606d8ce350c9255284854888.jpg]]
 
@@ -48,6 +50,7 @@ Matrix organization — Multiple managers
 Project-based organization — Project managers
 
 
+---
 ## Shamrock Organization: Outsourced Vendors
 ![[9ede8b8327266b01c1382c5c184cdd02.jpg]]
 

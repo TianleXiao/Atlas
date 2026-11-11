@@ -1,4 +1,5 @@
 ![[17da45a53af046abee8bcbeea4869165.jpg]]
+---
 ## Brand Value
 "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected."
 - Steve Jobs (1955 - 2011), Co-founder and former CEO of Apple Inc.
@@ -7,6 +8,7 @@ For example, customers buy a Rolex for more than just the ability to tell the ti
 Brand value is an intangible fixed asset which can be enhanced by brand awareness, brand development, and brand loyalty. Although it is difficult and somewhat subjective to measure the value of a brand, many businesses will report their brand value on their balance sheets.
 
 ![[67c7a6b39c3eb69da2fb888df454611e.jpg]]
+---
 ---
 ---
 ---
@@ -30,11 +32,13 @@ The syllabus requires students to understand the appropriateness of the followin
 ---
 ---
 ---
+---
 ## Cost-Plus (Mark-Up) Pricing
 Cost-plus pricing (or mark-up pricing) adds a profit margin to the costs of production in order to determine the selling price of a good or service. This ensures that each unit sold adds contribution. The difference between the price and the cost is called the mark-up (or the profit margin), which is usually expressed as a percentage figure, such as 50% above the cost per unit.
 For example, if a toy costs \(\$10\) per unit to make and the firm wanted to earn a \(80\%\) profit margin, then the selling price would be: \(\$10 x 1.8 = \$18\).
 
 ![[54fcd32178f2980449e4478cb700ce0d.jpg]]
+---
 ---
 ---
 ---

@@ -1,8 +1,10 @@
 ![[9f39409072df0be5c6a74750e89f7fd7.jpg]]
+---
 ## Intro to marketing
 Marketing is the management task that links the business to the customer by identifying and meeting the needs and wants of customers in a profitable manner.
 
 ![[19659ef56a35d2f18a32767410f67f1c.jpg]]
+---
 ---
 ---
 ---
@@ -18,6 +20,7 @@ Marketing is the art of determining the goods and services required to meet the 
 ---
 ---
 ---
+---
 ## The marketing function
 Marketing is the process of planning and undertaking the perception, pricing, promotion and distribution of goods and services to create and maintain relationships that will satisfy individual and organizational objectives.
 The marketing function of an organization strives to provide the market with:
@@ -26,6 +29,7 @@ The marketing function of an organization strives to provide the market with:
 - to the right place (convenient and efficient) to facilitate the purchase of products.
 - and with the right promotion (effective and adequate) to entice customers to buy the products.
 ![[pic_20260513092453_0.jpg]]
+---
 ---
 ---
 ---

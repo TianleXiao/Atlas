@@ -1,4 +1,5 @@
 ![[24cb1c9bcc981ff8559bfcec5728e7e4.jpg]]
+---
 ## Television Advertising
 **Advantages—**
 - It exploits the power of combining sound and moving images to convey very powerful messages to viewers.
@@ -7,6 +8,7 @@
 - Television companies sell advertising slots' to businesses based on the level of demand (peak time slots will obviously sell for a higher price)
 - therefore, marketers must try to get their message across in a very short timeframe, usually within 30 seconds.
 ![[183fbf3e9e5e53b792392353de3c964e.jpg]]
+---
 ---
 ---
 ---
@@ -22,6 +24,7 @@ Audiences have lower attention levels compared with TV advertisements.
 ---
 ---
 ---
+---
 ## Cinemas
 **Advantages—**
 Statistics show growing visitor numbers at cinemas around the world.
@@ -32,6 +35,7 @@ Marketers have a captured audience/viewers that can hardly ignore or switch off 
 The main drawback is its limited audience size compared with that of radio listeners and television viewers.
 
 ![[6cb21386f57348b4acfb387af5929c9a.jpg]]
+---
 ---
 ---
 ---

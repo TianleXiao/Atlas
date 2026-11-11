@@ -13,6 +13,7 @@
 - Queueing systems and waiting times.
 
 
+---
 ## P For Physical Evidence
 ![[Pasted image 20261016152440.png]]
 
@@ -27,6 +28,7 @@
 - Presentation of staff, such as uniforms and business attire
 
 
+---
 ## P For Physical Evidence (Examples)
 ![[Pasted image 20261016152454.png]]
 
@@ -36,6 +38,7 @@
 - This can have a direct impact on their level of productivity and motivation.
 
 
+---
 ## Appropriate Marketing Mixes
 ![[Pasted image 20261016152508.png]]
 

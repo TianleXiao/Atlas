@@ -1,4 +1,5 @@
 ![[50d5bf654f82babd9b35ab5e2dcbbd19.jpg]]
+---
 ## The average rate of return (arr) method
 
 - The average rate of return (**ARR**) is a method of investment appraisal that calculates the average annual profit of an investment project expressed as a percentage of the initial amount of money invested in the project.
@@ -17,12 +18,14 @@ $$
 ---
 ---
 ---
+---
 ## The arr method benefits
 - It is relatively straightforward to calculate, and easy for people to understand.
 - Unlike the PBP (payback period), the ARR focuses on the profits of a particular project, rather than the length of time it takes for a project to pay for itself.
 - The ARR can be used by managers and decision-makers to judge or evaluate the firm's financial performance.
 - The method can be useful to help managers, shareholders and other decision-makers to compare the relative attractiveness of different investment projects that cost different amounts of money (as the ARR figure is expressed as a percentage of the initial costs).
 ![[pic_20260427105223_0.jpg]]
+---
 ---
 ---
 ---

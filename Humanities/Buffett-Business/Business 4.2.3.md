@@ -1,4 +1,5 @@
 ![[dc82871a7b48cef87515cb9188b7ad95.jpg]]
+---
 ## Market segmentation
 (2) Geographic segmentation splits consumers according to different geographical factors.  
 Geographical factors include population density, climate (weather), and geographical locations. For instance, customers in rural areas of a country may have slightly different needs and wants from those in urban areas, while the climatic conditions vary in many countries/regions.
@@ -11,12 +12,14 @@ However, it should be noted that the needs and preferences of all customers of a
 ---
 ---
 ---
+---
 ## Market segmentation
 (3) **Psychographic segmentation**  
    Psychographic segmentation splits the market according to people's lifestyle choices and personal values:
 - Lifestyle choices include people's personal interests, such as their hobbies and other pursuits. For example, publishers of consumer magazines use psychographic segmentation to cater for a range of interests, such as sports, motoring, home improvement, fashion, consumer electronics, health and beauty, cinema, and weddings.
 - Personal values are the moral beliefs held by particular market segments. Examples include vegans, vegetarians and environmental activists. It can also include people's views or beliefs regarding animal testing, fair trade, and sustainability (such as reducing, recycling and reusing of products).
 ![[654b041848946255be742f0185814ed5.jpg]]
+---
 ---
 ---
 ---
@@ -28,6 +31,7 @@ For instance, airline carriers offer different ticket prices for their airline s
 However, it should be noted that market segmentation often creates a limited number of customer groupings, which potentially contain bias, generalisations and/or stereotypes. Many customers may not fit neatly into these market segments. In addition, limited marketing budgets may not enable identified market segments to be specifically targeted.
 
 ![[1a2335c79a1fe60f23a31e6f76525738.jpg]]
+---
 ---
 ---
 ---

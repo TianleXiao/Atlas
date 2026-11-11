@@ -1,4 +1,5 @@
 ![[2d17288f6d32c3d8a5fee2c3f4418830.jpg]]
+---
 ## Market orientation vs product orientation
 - Table 4.1.1 Comparison of market orientation and product orientation
 
@@ -13,12 +14,14 @@
 ---
 ---
 ---
+---
 ## Market growth
 Market growth refers to an increase in the size of a market, usually measured by the rise in total sales revenue of the market or industry. Market growth is also a business objective.
 Growth is generally beneficial for a business (such as the IBO) as it gains from an increase in sales revenue and profits. However, an increase in the demand for a particular good or service also attracts new suppliers (such as publishers of IB textbooks and digital resources) due to the potential to earn a share of the higher sales revenue and profits.
 The chart hereby shows the number of final year candidates that took the DP Business Management examinations from 2005 to 2021 (May and November centres). The numbers represent outstanding market growth of 752% during the period shown.
 
 ![[da3ef7902acd197dfd2422860ac5fd04.jpg]]
+---
 ---
 ---
 ---
@@ -38,6 +41,7 @@ $$
 If the market growth rate is positive, it means the market size is growing. An example is the global market for electric cars. However, if the market growth rate is negative, it means the market size has shrunk, such as the market for sugary carbonated drinks.
 
 ![[aea4cc6b56f79ff46483b23a09c73087.jpg]]
+---
 ---
 ---
 ---
@@ -77,7 +81,9 @@ It is not always easy to clearly define the market that a business operates in, 
 ---
 ---
 ---
+---
 ## Market growth trend
+---
 ---
 ---
 ---

@@ -11,6 +11,7 @@ Producer → Agent → Wholesaler → Retailer → Consumers — Three-channel n
 
 Common distribution channels include: direct distribution, agents, retailers, and wholesalers.
 
+---
 ## Direct Distribution
 ![[Pasted image 20261016152019.png]]
 
@@ -24,6 +25,7 @@ Drawbacks—
 - The producer also has to be responsible for storage costs and delivery costs.
 
 
+---
 ## Agents
 ![[Pasted image 20261016152036.png]]
 
@@ -38,6 +40,7 @@ Drawbacks—
 - The reputation of the producer could be hindered if an agent delivers poor customer service.
 
 
+---
 ## Retailers Advs
 ![[Pasted image 20261016152053.png]]
 

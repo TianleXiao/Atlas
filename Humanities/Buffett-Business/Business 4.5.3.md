@@ -1,6 +1,8 @@
 ![[799f25326c71278a6c990d4ed5c7a7c0.jpg]]
+---
 ## The relationship between the plc and the marketing mix
 
+---
 ## Growth
 - Sales revenue increases as marketing efforts make the product and brand known to the market. The rising star is likely to be earning profit.
 
@@ -15,7 +17,9 @@
 ---
 ---
 ---
+---
 ## The relationship between the plc and the marketing mix
+---
 ---
 ---
 ---
@@ -29,7 +33,9 @@
 ---
 ---
 ---
+---
 ## The relationship between the plc and the marketing mix
+---
 ---
 ---
 ---
@@ -43,9 +49,11 @@
 ---
 ---
 ---
+---
 ## Extension strategies
 Extension strategies are marketing approaches used to lengthen the product life cycle.  
 They are used as a product enters or is in the decline stage because the market is saturated. Essentially, extending a mature product's life cycle can be more financially rewarding than allowing it to enter the decline stage.
+---
 ---
 ---
 ---
@@ -57,11 +65,13 @@ They are used as a product enters or is in the decline stage because the market 
 ---
 ---
 ---
+---
 ## Graph annotations:
 - **Product extension**
 - **Growth**
 - **Maturity**
 - **Decline**
+---
 ---
 ---
 ---

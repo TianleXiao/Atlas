@@ -1,4 +1,5 @@
 ![[pic_20260413104221_0.jpg]]
+---
 ## Strategies to seek additional sources of finance
 **Possible strategies to seek additional sources of finance include:**
 - **Bank loans and overdrafts**: These external sources of finance can help the business during times of negative net cash flow, or when it experiences a negative closing balance. However, external finance incurs interest repayments, which can harm cash outflows.
@@ -7,7 +8,9 @@
 ---
 ---
 ---
+---
 ## Strategies to seek additional source of finance
+---
 ---
 ---
 ---
@@ -18,7 +21,9 @@
 ---
 ---
 ---
+---
 ## Strategies to seek additional sources of finance
+---
 ---
 ---
 ---
@@ -27,6 +32,7 @@
 - **Leasing**: A method of renting a range of assets that firms need. Using leasing, a business simply leases (or rents) an asset rather than buying and owning it, thereby conserving precious reserves of cash. Trucks and excavators are great examples.
 - **Hire purchase**: A business purchasing an expensive asset pays a percentage of the price as a deposit and the remainder in (usually monthly) instalments over an agreed period. It only becomes the owner of the asset once the final payment is made, which delays the outflow of the bulk of the payment.
 ![[Pasted image 20260420093536.png]]
+---
 ---
 ---
 ---

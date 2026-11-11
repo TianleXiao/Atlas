@@ -9,6 +9,7 @@
   - Democratic
 
 
+---
 ## Managers vs Leaders
 ![[8618c552d2121bf7d07ea5eab2f7dc23.jpg]]
 
@@ -30,6 +31,7 @@
 | Learned skills | Natural instincts |
 
 
+---
 ## Effective Leadership Style
 ![[c2070723b29cdf793afab7aaa7474d39.jpg]]
 
@@ -41,6 +43,7 @@ Whether a leadership style will be effective will depend on several factors such
 - The degree of importance of the decision, e.g. tactical or strategic decision-making.
 
 
+---
 ## Management vs Leadership
 ![[9ff67bbde8858764fe6c5e4924325279.jpg]]
 

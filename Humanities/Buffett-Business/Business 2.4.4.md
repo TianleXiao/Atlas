@@ -10,6 +10,7 @@ Herzberg's research identified two groups of factors that motivated people at wo
 
 ---
 ---
+---
 ## Frederick Herzberg — Two Factor Theory: Hygiene Factors and Motivators
 ![[0b753e88ce491f1aac5b69d95c89e27f.jpg]]
 
@@ -24,6 +25,7 @@ Herzberg's research identified two groups of factors that motivated people at wo
 - Factors surrounding the job (Hygiene factors)
 - Factors about the job itself (Motivators)
 
+---
 ---
 ---
 ## Herzberg's Two Factor Theory — Motivators and Hygiene Factors Scale
@@ -46,6 +48,7 @@ Herzberg's hygiene factors – these relate to the job environment and have the 
 - Relationship with fellow workers
 - Potential to dissatisfy (downward axis)
 
+---
 ---
 ---
 ## Herzberg's Two Factor Theory — Consequences for Today's Business

@@ -4,6 +4,7 @@
 $$Average \ Total \ Cost \ (ATC) = \frac{Total \ Cost \ (TC) }{Total \ Output}$$
 $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  Cost\ (AFC)$$
 ---
+---
 ## Calculations
 - **Suppose a TV manufacturer produces 1000 TVs a month. The firm’s fixed costs in rent is $900, and variable cost per unit is $500. What would its TFC, TVC, AVC, AFC, AC and TC be, in a month?**
 - No. of units of TVs produced = 1000
@@ -15,9 +16,11 @@ $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  
 - Total Costs = Total Fixed Costs + Total Variable Costs ==> $900 + $500,000 = $500,900
 - Average Costs = Total Costs / Total Output ==> $500,900 / 1000 = $500.9
 ---
+---
 ## Indirect Costs & Direct Costs
 + The terms indirect costs and direct costs are used when referring to businesses that produce or sell a range of products and therefore operate 'cost center's and 'profit centers' (see Unit 3.9).
 + These cost can be either fixed or variable costs, depending on the nature of the business.
+---
 ---
 ## Cost Centre (TC) VS Profit Centre (TC+TR)
 + **Cost only:**  Minimize cost  

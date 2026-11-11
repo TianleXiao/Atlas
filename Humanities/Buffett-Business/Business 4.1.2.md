@@ -1,4 +1,5 @@
 ![[pic_20260513093242_0.jpg]]
+---
 ## The size of a market
 Businesses are interested in knowing the market size of a good or service before launching a new product in the market.  
 The size of a market can be defined as the total number of individual customers or the total value of sales revenue in a certain market. Alternatively, it can also refer to the number of potential buyers in the market.  
@@ -12,6 +13,7 @@ The most common methods of measuring the size of a market are:
 ---
 ---
 ---
+---
 ## Market orientation
 “Producing a hit without listening to customers is inefficient.”  
 - Ryoji Chubachi (b. 1947), former Vice Chairman and President of Sony Corp.
@@ -20,6 +22,7 @@ Such information can be gathered from market research, rather than from research
 Market-oriented firms use promotional strategies, such as television advertising, to inform, remind and persuade customers to purchase the products.
 
 ![[pic_20260514151209_0.jpg]]
+---
 ---
 ---
 ---
@@ -35,8 +38,10 @@ Such businesses prioritize research and development (R&D) over market research. 
 ---
 ---
 ---
+---
 ## Market orientation advice
 If you're a competitor, please pay attention to what your competitor is doing. Being customer-focused allows you to be more pioneering. – Jeff Bezos, founder of Amazon, Inc.
+---
 ---
 ---
 ---

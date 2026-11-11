@@ -1,7 +1,9 @@
 ![[711b9f07999ec199526255f220e3c098.jpg]]
+---
 ## Branding
 **Branding is a marketing technique used to give a product or business a unique name or identity.**
 Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
+---
 ---
 ---
 ---
@@ -12,12 +14,14 @@ Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
 ---
 ---
 ---
+---
 ## Aspects of branding include:
 - **brand awareness,**
 - **brand development,**
 - **brand loyalty, and**
 - **brand value.**
 ![[3d596bcef03292753af457a5317db661.jpg]]
+---
 ---
 ---
 ---
@@ -35,6 +39,7 @@ A good brand name (good brand reputation) helps an organization to gain or susta
 ---
 ---
 ---
+---
 ## Brand Development
 "A product can be quickly outdated, but a successful brand is timeless."
 - Stephen King (b. 1947), author
@@ -47,6 +52,7 @@ Common steps in the development of a brand include:
 - Consideration of the brand in relation to the overall business strategy
 - Creating a focused marketing mix and marketing strategy for the brand.
 ![[1297d2e10aecaa6b9cb0015ff8873674.jpg]]
+---
 ---
 ---
 ---

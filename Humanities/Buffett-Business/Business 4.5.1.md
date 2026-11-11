@@ -1,4 +1,5 @@
 ![[3401a8f259c7c443a92c6637156b442d.jpg]]
+---
 ## The 7 ps of the marketing mix
 + The marketing mix is a term coined by Jerome McCarthy (1964), originally used to describe the four key components of marketing physical goods: product, price, promotion and place.
 + Bernard H. Booms and Mary J. Bitner (1981) added an extra 3 Ps to the marketing mix to cover the marketing of intangible services: people, processes and physical evidence.
@@ -12,6 +13,7 @@
 This is the largest section of the IB Business Management syllabus, focusing on the 7 Ps of the marketing mix: product, price, promotion, place, people, processes, and physical evidence.
 
 ![[405a7394adfdb1eb4a29d9e62a24a8da.png]]
+---
 ---
 ---
 ---
@@ -60,6 +62,7 @@ This is the largest section of the IB Business Management syllabus, focusing on 
 ---
 ---
 ---
+---
 ## Why is product vital in the marketing mix?
 + "The best advert is a good product" – Professor Alan H. Meyer
 + "Advertising and promotion alone will not sustain a bad product or a product that is not right for the times." – From 'Made in Japan' by Akio Morita, co-founder of Sony
@@ -68,6 +71,7 @@ This is the largest section of the IB Business Management syllabus, focusing on 
 > A product is simply a physical good or intangible service provided by a business.
 > Some marketers argue that product is the most important of the 7Ps in the marketing mix – after all, without a product, there is nothing to promote (promotion), distribute (place), or sell (price).
 ![[3f4616846debc6ffc770949164a8a4bf.jpg]]
+---
 ---
 ---
 ---

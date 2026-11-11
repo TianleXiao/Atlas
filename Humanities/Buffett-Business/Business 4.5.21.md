@@ -14,6 +14,7 @@
 - Justin Bieber — 287 million
 
 
+---
 ## Top 10 Most Followed People on Twitter
 ![[Pasted image 20261016151809.png]]
 
@@ -31,6 +32,7 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - x-axis: Number of followers in millions — 0, 20, 40, 60, 80, 100, 120, 140, 160
 
 
+---
 ## P for Place
 ![[Pasted image 20261016151840.png]]
 
@@ -43,6 +45,7 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - Examples include the use of retailers or vending machines.
 
 
+---
 ## Distribution Networks
 ![[Pasted image 20261016151908.png]]
 

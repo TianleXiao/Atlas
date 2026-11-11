@@ -1,4 +1,5 @@
 ![[7a02f7baa8506905d49174a98351b935.jpg]]
+---
 ## Contribution Pricing Vs Cost-Plus Pricing (HL)
 
 | | Cost-plus pricing (SL and HL) | Contribution pricing (HL only) |
@@ -11,6 +12,7 @@
 ---
 ---
 ---
+---
 ## Contribution Pricing Advs (HL)
 - Contribution analysis enables managers to determine which products from the firm's product portfolio generate the highest (and the least) amount of total contribution. Products with the highest total contribution are prioritized as these contribute the most towards paying the firm's fixed costs. Products that contribute the least amount may be discontinued.
 - It is straightforward to calculate, so long as managers establish the variable cost per unit, fixed costs, and a selling price.
@@ -20,12 +22,14 @@
 ---
 ---
 ---
+---
 ## Contribution Pricing Disadvs (HL)
 - Contribution pricing assumes that the selling price of a product is constant, but customers are often given price discounts.
 - Despite what might appear to be an ideal price based on contribution analysis, a business cannot ignore prices being charged by its closest competitors in the market.
 - Allocating fixed costs appropriately between the many products sold by a large business can prove to be extremely difficult, so this would lead to inaccurate prices being set.
 - Contribution analysis assumes that manufacturers produce and sell exactly the same number of units. In reality, producers often make more than they can sell, and there are often spoilages (damage) to stocks (inventories) which can therefore not be sold to customers.
 ![[e3655bd24e7f8cecac496c929530e33f.jpg]]
+---
 ---
 ---
 ---

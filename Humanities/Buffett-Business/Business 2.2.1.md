@@ -19,6 +19,7 @@
 - Changes in organizational structures (for example, project-based organization, Charles Handy's "Shamrock Organization") (HL only)
 
 
+---
 ## Job Roles Within an Organization
 ![[f11c67f42afd7b82a22a97b09c3bff18 1.jpg]]
 
@@ -32,6 +33,7 @@
 - Collectively, they advise and support the CEO.
 
 
+---
 ## Benefits & Drawbacks of Delegation
 ![[f970b14073e7a3a9e350133e2d25e410.jpg]]
 
@@ -54,6 +56,7 @@ Delegation process:
 - Evaluate or review
 
 
+---
 ## Wide Span of Control
 ![[3da16e94f407d502cc9bcf9fc86e8288.jpg]]
 

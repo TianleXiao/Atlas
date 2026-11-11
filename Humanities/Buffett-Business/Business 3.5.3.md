@@ -1,10 +1,12 @@
 # Profitability and liquidity ratios
 The learning outcomes (or assessment objectives) for this section of the syllabus are:
+---
 ## The following profitability ratios:
 - Gross profit margin (GPM)
 - Profit margin
 - Return on capital employed (ROCE)
 → Possible strategies to improve these profitability ratios
+---
 ---
 ---
 ---
@@ -32,11 +34,13 @@ Which company makes more profit?
 ---
 ---
 ---
+---
 ## Now which one is more **profitable**?
 Let's calculate ratios to express profits as a percentage of sales:  
 Company X: $20 million/$240 million × 100 = 8.3%  
 Company Y: $2 million/$10 million × 100 = 20.0%  
 → Company Y is therefore more profitable.
+---
 ---
 ---
 ---

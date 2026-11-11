@@ -1,9 +1,11 @@
 ![[pic_20260605111514_0.jpg]]
+---
 ## Observations advantages
 - Observations are not reliant on the willingness of people to participate in market research, unlike with surveys and interviews.
 - Observations can obtain information that people are unwilling or unable to provide.
 - Results are likely to be accurate, realistic and representative as behaviours are monitored. In any case, observations tend to be more objective than interviews or surveys as bias is largely removed.
 ![[pic_20260605113357_0.jpg]]
+---
 ---
 ---
 ---
@@ -19,11 +21,13 @@ Information available on the internet
 ---
 ---
 ---
+---
 ## Methods of secondary research
 - Government & non-government agencies
 - Public libraries
 - Educational institutions
 ![[e95865e3b8fbf2213372ee18912aed1c.jpg]]
+---
 ---
 ---
 ---
@@ -36,6 +40,7 @@ The market leaders and key market trends, market share analysis for major player
 ➔ Businesses often use market analyses to help prepare their business plans and corporate strategies.
 
 ![[bca38b6a4651adc162aa4bf8110e4fe2.jpg]]
+---
 ---
 ---
 ---

@@ -1,4 +1,5 @@
 ![[5ef22f46cb9d78eb5b69c74dd20829b5.jpg]]
+---
 ## Cost-Plus Pricing Disadvs
 - It ignores prices being charged by competitors, including those that charge a much lower price.
 - It can give firms very few incentives to reduce costs.
@@ -12,6 +13,7 @@ Netflix, when it first started out as a DVD rental service, used penetration pri
 ---
 ---
 ---
+---
 ## Penetration Pricing Advs
 - Allows a business to enter a market and/or to launch a new product into an existing market, acquiring brand recognition rapidly.
 - It can discourage other firms from entering the industry due to the low prices and low profit margins.
@@ -19,6 +21,7 @@ Netflix, when it first started out as a DVD rental service, used penetration pri
 - Lower prices can also encourage word-of-mouth promotion, thus leading to even higher sales volume.
 - Low prices (and hence lower profit margins) can force businesses to concentrate on improved cost control and higher levels of productivity.
 ![[0054b8c1ef5a558387b29aa31c8cf550.jpg]]
+---
 ---
 ---
 ---

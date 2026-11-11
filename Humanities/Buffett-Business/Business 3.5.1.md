@@ -10,6 +10,7 @@ The following liquidity ratios:
 - Acid-test / quick ratio
 - Possible strategies to improve these liquidity ratios
 ---
+---
 ## The profits and sales figures for two companies
 |        | Company X    | Company Y   |
 | ------ | ------------ | ----------- |
@@ -23,8 +24,10 @@ Company X: $20 million/$240 million×100=8.3%$20million/$240million×100=8.
 Company Y: $2 million/$10 million×100=20.0%$2million/$10million×100=20.0%
 ➔ Company Y is therefore more profitable.
 ---
+---
 ## Ratio Analysis
 Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.
+---
 ---
 ## Purposes Of Ratio Analysis
 The purpose of ratio analysis is to:
@@ -39,6 +42,7 @@ The purpose of ratio analysis is to:
 - Aid decision-making, e.g.
     - whether investors should risk their money by investing in the business.
 ---
+---
 ## Diagram:
 - **Liquidity & Efficiency**
 - **Solvency**
@@ -47,6 +51,7 @@ The purpose of ratio analysis is to:
 # Types Of Ratios
 1. **Profitability ratios**: These assess the amount of gross or other profit made by the business in relation to its sales revenue/turnover or the assets or capital available to it.
 2. **Liquidity ratios**: Also known as solvency ratios, these measure the ability of the business to settle its debts in the short-term.
+---
 ---
 ## Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
 
@@ -63,8 +68,10 @@ The purpose of ratio analysis is to:
 ||- Employees||
 ||- Investors|
 ---
+---
 ## Gross Profit Margin
 - **Gross profit margin:** This ratio compares gross profit with revenue.
+---
 ---
 ## What might be the reasons of
 Port Louis Press Ltd having much lower gross profit margin?
@@ -75,5 +82,6 @@ $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 The gross profit margin is the percentage of the business's revenue which is gross profit (profit before the deduction of expenses).  
 → The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
 
+---
 ## Vocabulary
 + mediocrity

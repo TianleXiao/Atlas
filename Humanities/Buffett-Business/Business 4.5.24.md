@@ -5,6 +5,7 @@
 - The frequency of purchases – Some products are bought on a regular or even daily basis, such as fruits, milk, shampoo and soft drinks. These need to be readily available, using distribution channels such as retailers. By contrast, some products are bought less frequently, such as horse saddles, window frames, home cinema entertainment systems, and grand pianos. Hence, specialist distributors and agents may be a more effective choice of distribution channel.
 
 
+---
 ## P for People
 ![[Pasted image 20261016152312.png]]
 
@@ -22,6 +23,7 @@ An organization's employees are a vital aspect of the marketing mix because they
 In the context of a high school, for example, the calibre of the teaching staff in terms of their qualifications, skills, and experience (as teachers, examiners, paper setters, principal examiners, deputy chief examiners, authors, teacher trainers, and so forth).
 
 
+---
 ## P for People
 ![[Pasted image 20261016152333.png]]
 
@@ -40,6 +42,7 @@ However, is there ever a case for rude service to be part of a successful busine
 - Karen's Diner, a Tasmanian restaurant chain with outlets in in Australia, New Zealand, the USA, and the UK that thrives on providing customers with rude service.
 
 
+---
 ## P for Processes
 ![[Pasted image 20261016152404.png]]
 

@@ -7,6 +7,7 @@
   - However, key strategic decisions are still concentrated in the hands of the CEO and the board of directors.
 
 
+---
 ## Centralization
 ![[a2d974c5605dce2ffa6f4d3fe55184ab.jpg]]
 
@@ -25,6 +26,7 @@ Disadvantages
 - Demotivation: workers may feel less valued as they lack opportunities to make decisions.
 
 
+---
 ## Organisational Chart By Function And By Product
 ![[da2f22ac9c3c61fbd0309c0ee4d1b24a.jpg]]
 
@@ -53,6 +55,7 @@ ORGANISATIONAL CHART BY PRODUCT
 Organization by product means structuring a workforce according to the goods or services sold.
 
 
+---
 ## Organisational Chart By Region
 ![[0ff01b8b397d7302e111da30da5ed422.jpg]]
 

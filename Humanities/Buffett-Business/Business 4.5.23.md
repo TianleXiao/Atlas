@@ -6,6 +6,7 @@
 - As an intermediary, retailers add a premium to the price of the final product. Higher prices can make products less competitive or attractive to customers.
 
 
+---
 ## Wholesalers Advs
 ![[Pasted image 20261016152141.png]]
 
@@ -14,6 +15,7 @@
 - Wholesalers also take care of the promotion, saving costs for the manufacturer.
 
 
+---
 ## Wholesalers Disadvs
 ![[Pasted image 20261016152158.png]]
 
@@ -21,6 +23,7 @@
 - As wholesalers buy in huge bulk, they demand a price discount from producers. This means less profit margin for the manufacturers.
 
 
+---
 ## The Importance of Different Distribution Channels
 ![[Pasted image 20261016152218.png]]
 

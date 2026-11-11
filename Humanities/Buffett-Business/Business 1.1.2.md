@@ -20,5 +20,6 @@ People who run business organizations are executive managers.
 + have willingness to take risks
 + make decision to set up and run a business
 ---
+---
 ## Vocabulary
 + Stakeholder

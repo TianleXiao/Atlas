@@ -10,6 +10,7 @@ Shortages occur when producers cannot offer enough products at current prices.
 *1.The cost of a business*
 *2. The quality of the final product*
 *3.The sales*
+---
 ## Vocabulary
 + Cruel 
 + Cosmetics

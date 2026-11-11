@@ -1,9 +1,11 @@
 ![[d5f8451c20f3b89dc2d670563ab2f3e9.jpg]]
+---
 ## Predatory Pricing Advs
 - Low prices tempt customers to buy more of the product and for non-customers to switch to buying the product (ditching the rival product in the process).
 - Low prices can be a barrier to entry, preventing potential rivals from competing in the industry.
 - A dominant firm that uses predatory pricing can inflict losses on its rivals that cannot compete by continually reducing prices.
 ![[de40a0299398b920a0ad33c9b79a693d.jpg]]
+---
 ---
 ---
 ---
@@ -16,12 +18,14 @@
 ---
 ---
 ---
+---
 ## Premium Pricing
 Premium pricing involves a business permanently setting a high price for its products because of the associated image, reputation, or status associated with its high-quality products. For example, Apple and Ferrari use premium pricing (their products are generally more expensive than those from similar competitors). Other examples include:
 - Premium economy air travel (more expensive than an economy class ticket but with premium add-ons such as extra leg room and baggage allowance).
 - Tailor-made clothing - Tailors will charge premium prices for bespoke products, such as shirts, suits, wedding dresses, and shoes, due to the uniqueness of the items.
 - Organic produce and drinks - An organic version of a fruit, vegetable, or coffee will have a premium price than regular versions of these products.
 ![[14fc237bc5a8619a07f5d130577aee01.jpg]]
+---
 ---
 ---
 ---

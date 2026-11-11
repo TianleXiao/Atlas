@@ -8,6 +8,7 @@
 - The lack of a full-time employment contract also means gig workers may miss out on employee rights and benefits, such as paid sick leave, holiday/redundancy pay and maternity leave.
 
 
+---
 ## Reasons for Resistance to Change
 ![[Pasted image 20261020093601.png]]
 
@@ -26,6 +27,7 @@ Employees are often more interested in and/or worried about the implications of 
 The reason for resistance to change may also occur from a perceived threat to a person's job security, status/rank, and financial position. It is human nature to pursue self-interest.
 
 
+---
 ## Reasons for Resistance to Change (Continued)
 ![[Pasted image 20261020093617.png]]
 
@@ -38,6 +40,7 @@ People tend to like stability and normality (or inertia) in their personal and p
 If the purpose and potential benefits of change are not clearly and effectively communicated to the workforce, a lack of understanding arises, which creates opposition to change. Misperceptions may be widespread because of informal communications (such as gossip) and workers may feel that change is unnecessary, especially if the business is not in a crisis or faced with adverse conditions.
 
 
+---
 ## Reasons for Resistance to Change (Continued)
 ![[Pasted image 20261020093633.png]]
 
