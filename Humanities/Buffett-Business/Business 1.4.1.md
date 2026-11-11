@@ -1,9 +1,11 @@
 ## Stakeholders
 **Jack Ma, co-founder of Alibaba Group:**
 **"If the customer is happy, the business is happy, and the shareholders are happy."** 
+---
 ## Internal VS External Stakeholders
 ![enter image description here](https://textimgs.s3.amazonaws.com/DE/introbus/kcn8-mubms77i)
 + Stakeholders are groups or individuals who have a vested interest in a business.
+---
 ## Stakeholders’ Interests
 
 | Stakeholder                         | Mainly interested in...                                                                                                                                                                          |

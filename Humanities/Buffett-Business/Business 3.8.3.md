@@ -6,6 +6,9 @@
 $$
 PBP = \frac{\text{Cost of investment}}{\text{Contribution per month}}
 $$
+---
+---
+---
 ## Payback period formula
 
 $$
@@ -13,6 +16,9 @@ $$
 $$
 - A shorter payback period is preferred to a longer one, as it minimizes the risks of an investment project and earns profit for the business at an earlier date. The larger the contribution (or net cash flow) per month, the shorter the payback period.
 ![[0bbcafa6f226b96db921961b605c1c0b.jpg]]
+---
+---
+---
 ## Calculating the pbp (1)
 
 - Example 1: Constant net cash flow contribution  
@@ -24,7 +30,13 @@ $$
 - If the net cash flows (NCF) from an investment project are not the same for each time period, then the above PBP formula cannot be used. Instead, it is necessary to calculate the cumulative net cash flows to calculate the payback period.
 - The cumulative net cash flow for a particular year is the net cash flow in the previous year plus the net cash flow of the current year.
 ![[4db15aa830d320adf38f9226122f68c1.jpg]]
+---
+---
+---
 ## Calculating the pbp (2)
+---
+---
+---
 ## Example 2: Changing net cash flow (contribution)
 Suppose that Thornton Inc. is deciding whether to spend $78,000 on a new machine that is expected to generate net cash flows over 5 years.
 To calculate the PBP (when the net cash flow or contribution is not a fixed amount per time period), there are several important steps:

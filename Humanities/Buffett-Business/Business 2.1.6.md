@@ -17,6 +17,7 @@ Strategies for dealing with resistance to change include the following six metho
 - Explicit and implicit coercion
 
 ---
+---
 ## HR Strategies For Dealing With Resistance 3 and 4
 ![[7024a63a0d2540731be79c52e7b46893.jpg]]
 
@@ -28,6 +29,7 @@ This approach to change management can come in numerous forms, such as retrainin
 
 This is the 'carrot' approach as it involves using incentives as a motivational tool to overcome resistance to change among employees. Managers offer benefits such as amended employment contracts or early retirement packages to encourage acceptance of new changes. Negotiations may lead to improved outcomes, different from the initial plans.
 
+---
 ---
 ## HR Strategies For Dealing With Resistance 5 and 6
 ![[fecb282b917a5fb3b711de33547f03b8.jpg]]

@@ -10,6 +10,9 @@ The Ansoff matrix was developed by Igor Ansoff (1918–2002). It examines strate
 + People
 + Process
 + Physical Evidence
+---
+---
+---
 ## 4Ps
 + Product
 + Price
