@@ -8,6 +8,7 @@
 **Shared infrastructure:** Developments in the infrastructure of an industry or an economy can benefit large firms. Examples: more roads and bridges built by the government can cut transport costs for firms; a new power station can provide cheaper electricity for firms.
 
 **Specialist markets:** Some large industries have specialist selling places and arrangements such as eyewear markets, electronics markets, factory outlets, shopping malls, etc.
+
 ---
 ## Internal Diseconomies of Scale
 **Difficulties controlling the firm:** Management becomes more complex in a large firm. Too many layers of management will increase administrative costs and make the firm slower in responding to changes in market conditions.
