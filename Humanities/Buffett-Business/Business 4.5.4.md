@@ -6,18 +6,13 @@
 - Expansion into new markets, such as exporting the product to international markets or entering new markets overseas.
 - Product differentiation strategies help to make a product stand out from its competitors in the market, such as establishing a clear unique selling point (USP).
 ---
----
----
----
 ## Graph annotations:
 - **Development**
 - **Growth**
 - **Maturity**
 - **Decline**
 ![[00621f6a4092ddd16562e21185502744.jpg]]
----
----
----
+
 ---
 ## The relationship between the plc, investment, profit, and cash flow
 
@@ -30,9 +25,7 @@
 | Decline | Minimal, if any (extension strategies) | Falling | Less favourable |
 
 ![[7d1076691e8da23af2fa45b7e911dd02.jpg]]
----
----
----
+
 ---
 ## The plc limitations
 + The product life cycle model is somewhat simplistic. Whilst many products do follow the pattern shown in the model, it is not inevitable that this will happen to a firm's sales revenue. For example, Coca-Cola (as the market leader in the carbonated drinks market) has been in the maturity phase for a very long time!
