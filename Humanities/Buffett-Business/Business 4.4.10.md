@@ -7,26 +7,17 @@ For example, if a sample of 20 employees are needed to gather some feedback, the
 
 ![[ee4210321f3f8fc323b9435842ed4013.jpg]]
 ---
----
----
----
 ## Random sampling advantages
 - Results are, in theory, random as everyone in the population has an equal chance of being selected for research.
 - Results are therefore (in theory) free from researcher bias and sampling errors, so are more likely to be accurate and representative.
 - It is a quick and simple method of sampling, particularly if research participants are freely available.
 ![[5b2e923b97cce27bef1c001a5693f19f.jpg]]
 ---
----
----
----
 ## Random sampling disadvantages
 - Random sampling only tends to work well if members of a population are likely to have similar views or characteristics.
 - The sample, being just random, could be very skewed, so is not necessarily representative of the population.
 - The sample needs to be large enough to generate results consistent with the opinions and views of the target population, but this can be time consuming and costly to implement.
 ![[a0048765c7380cec509f775ae1b31f0d.jpg]]
----
----
----
 ---
 ## Convenience sampling
 Convenience sampling refers to the practice of using people that are within easy reach, in an unplanned way, to conduct market research. The sample is simply made up of whoever is willing to participate in the research.

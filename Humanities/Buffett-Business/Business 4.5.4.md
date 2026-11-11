@@ -33,9 +33,6 @@
 + Another limitation of the product life cycle model is that it only examines the sales revenues of a single product over time. This is of limited use to a multi-product business which might prefer to use models such as the Boston Consulting Group matrix to support its product portfolio management.
 ![[544ae0da34628af51db56587f6c90eae.jpg]]
 ---
----
----
----
 ## Tangible vs intangible aspects
 Tangible attributes of a product refer to its physical aspects, such as how it looks and feels.
 Intangible aspects of a product refer to aspects that cannot be touched but can still be important to customers, such as the **brand** and its core values.

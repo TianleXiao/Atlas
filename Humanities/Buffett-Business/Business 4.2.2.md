@@ -16,9 +16,6 @@ Market segmentation describes the process of dividing a market for a product int
 - **Social status**
 ![[4b322cb45a182a08acbb346eb7dce971.jpg]]
 ---
----
----
----
 ## Market segmentation
 
 ---
@@ -62,9 +59,6 @@ Market segmentation describes the process of dividing a market for a product int
   - Engagement
 ![[9a414cce1004dbd865c02fce2b5658bd.jpg]]
 ---
----
----
----
 ## Atl activity: segmentation acronyms
 Investigate the different categories of market segments used by marketers in the real corporate world. As a starter, consider these examples that are based on family structures or characteristics and lifestyles:
 - [ ] DINKY: Double income, no kids yet
@@ -77,9 +71,6 @@ Investigate the different categories of market segments used by marketers in the
 - [ ] SITCOM: Single income, two children, outrageous mortgage!
 Think about the types of products that these market segments can be sold depending on their characteristics.
 ![[354a64baecf40c67ebd28cac33d091dd.jpg]]
----
----
----
 ---
 ## Market segmentation
 (1) Demographic segmentation involves splitting consumers according to statistical characteristics of the population, such as age, gender, family size, religion, ethnicity and income.

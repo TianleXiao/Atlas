@@ -12,18 +12,12 @@
 
 ![[caa70c51d07666110f56bd3dfcc70ccd.jpg]]
 ---
----
----
----
 ## Market growth
 Market growth refers to an increase in the size of a market, usually measured by the rise in total sales revenue of the market or industry. Market growth is also a business objective.
 Growth is generally beneficial for a business (such as the IBO) as it gains from an increase in sales revenue and profits. However, an increase in the demand for a particular good or service also attracts new suppliers (such as publishers of IB textbooks and digital resources) due to the potential to earn a share of the higher sales revenue and profits.
 The chart hereby shows the number of final year candidates that took the DP Business Management examinations from 2005 to 2021 (May and November centres). The numbers represent outstanding market growth of 752% during the period shown.
 
 ![[da3ef7902acd197dfd2422860ac5fd04.jpg]]
----
----
----
 ---
 ## Market growth
 
@@ -41,9 +35,6 @@ $$
 If the market growth rate is positive, it means the market size is growing. An example is the global market for electric cars. However, if the market growth rate is negative, it means the market size has shrunk, such as the market for sugary carbonated drinks.
 
 ![[aea4cc6b56f79ff46483b23a09c73087.jpg]]
----
----
----
 ---
 ## Worked examples
 1. Calculate the market growth in the market for candidates studying IB Diploma Business Management based on the following figures. [2 marks]  
@@ -79,13 +70,7 @@ It is not always easy to clearly define the market that a business operates in, 
 
 ![[2ac7f6d40de5013fa8bf9fc85fcd1182.jpg]]
 ---
----
----
----
 ## Market growth trend
----
----
----
 ---
 ## Worked example
 

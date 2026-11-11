@@ -9,9 +9,6 @@ There are a number of reasons why businesses may undertake investment:
 - The final decision will depend upon managers/BoD's assessment of these two factors.**
 ![[ddb79e9ee4f9f84b53608981fbb21f6e.jpg]]
 ---
----
----
----
 ## Risk & investment appraisal
 Risk can be defined as uncertainty that is quantifiable, or that can be measured.  
 Risk is an important factor within investment decision-making.  
@@ -21,9 +18,6 @@ There are two major types of risk:
 - Techniques of investment appraisal can incorporate an allowance for risk (perhaps by reducing cash inflows or increasing costs) to assist managers in investment decisions.
 - More sophisticated techniques use the theory of probability to attempt to arrive at more accurate and less risky predictions.
 ![[5c0ee6da51d9f933cc132f47e378ce1a.jpg]]
----
----
----
 ---
 ## Assumptions & considerations for investment appraisal
 These financial techniques are valuable but do depend upon a number of assumptions:
@@ -37,9 +31,6 @@ There are two major considerations for managers when deciding whether or not to 
 The amount of time it takes to recover the cost of an investment.
 
 ![[596bb475cd3a779f3faa8d4717557cc3.jpg]]
----
----
----
 ---
 ## 3 main methods of investment appraisal
 **Measured in:**

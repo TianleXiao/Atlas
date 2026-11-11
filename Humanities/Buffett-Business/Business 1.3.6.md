@@ -8,7 +8,6 @@
    + Price wars
    + Oil crisis
 ---
----
 ## SWOT Analysis Adv/ Disadv
 
 | Advantages | Disadvantages |
@@ -29,7 +28,6 @@
 + **Ethical** business behavior improves a business’s image as well as customer loyalty. For example, a decision to contribute some of the business profits to charities may be well received by customers.
 
 + **Sustainable** business practices can enhance a business’s existence. For example, finding ways of people sharing resources can create new markets such as ride-hailing apps.
----
 ---
 ## Vocabulary
 

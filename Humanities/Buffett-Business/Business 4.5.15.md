@@ -10,9 +10,6 @@ Unlike other print media, such as magazines or outdoor posters, newspapers have 
 
 ![[b8ab0b3661f641b1b92c68adca801db2.jpg]]
 ---
----
----
----
 ## Outdoor Advertising
 Outdoor advertising refers to the use of commercial billboards, banners and posters to promote a business, its brands or its products.
 **Advantages—**
@@ -24,9 +21,6 @@ Outdoor advertising media is prone to damage from vandalism or extreme weather c
 
 ![[5afafa4d5c719c410d504905255e099b.jpg]]
 ---
----
----
----
 ## Celebrity Endorsements
 Celebrity endorsement (or celebrity branding) refers to the use of celebrities (such as famous film stars, musicians, singers and sports personalities) to promote a brand or an organization. E.g. celebrities used by Pepsi to endorse its products have included: Britney Spears, David Beckham, Beyoncé, One Direction, Nicole Kidman and Michael Jackson.
 **Advantages—**
@@ -36,9 +30,6 @@ Some of the world's top athletes earn more from sponsorship contracts than they 
 Celebrity scandals can create a negative image for the brand that the celebrity is associated with, thus negatively affecting sales of the branded product.
 
 ![[9885f84161f53379e9a2d2d5082af33d.jpg]]
----
----
----
 ---
 ## Below-The-Line (Btl) Promotion
 Below the line (BTL) promotion refers to the use of non-mass media promotional activities, allowing the business to have direct control as it is mainly aimed at a targeted audience.

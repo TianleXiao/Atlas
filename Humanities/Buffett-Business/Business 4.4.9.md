@@ -2,9 +2,6 @@
 ---
 ## Qualitative vs quantitative research
 ---
----
----
----
 ## Qualitative research
 - Addresses the "why" (open-ended) questions
 - Uses in-depth investigations to discover the reasons behind consumer behavior, preferences and choices.
@@ -12,9 +9,6 @@
 - Generally more challenging and time-consuming to collect, collate, and interpret qualitative responses.
 - Can generate a lot of information, even with a low number of respondents.
 - Often reliant on primary research to gather viewpoints and opinions.
----
----
----
 ---
 ## Quantitative research
 - Addresses the "what" (closed and quantifiable) questions
@@ -24,9 +18,6 @@
 - Requires a large number of participants in order to gather representative and quantifiable results
 - Numbers alone do not reveal all the information to make rational decisions.
 ![[849dbe5c8305f10b4cecc06164f119ac.jpg]]
----
----
----
 ---
 ## Sampling
 A sample refers to the proportion or subgroup of the population selected for market research purposes.  
@@ -38,18 +29,12 @@ There are three sampling methods that can be used:
 > If the sample size is too small, the results are unlikely to be statistically valid (representative of the population). However, very large sample sizes increase the costs and complexities of market research.
 ![[a94f2bf7021da30b55382cc250c50bc5.jpg]]
 ---
----
----
----
 ## Quota sampling advantages
 - It is suitable when researchers want to detect possible relationships between sub-groups.
 - It enables researchers to investigate particular traits (characteristics) of a certain sub-group in order to improve its marketing strategies.
 - The researcher has control of who is included in the sample.
 - The findings are usually more reliable than those collected from random sampling, especially where the proportions of the different sub-groups of the population are known in advance.
 ![[a510886c7b354494d84ee7318cd5f4ab.jpg]]
----
----
----
 ---
 ## Quota sampling disadvantages
 - Researchers need time to determine the characteristics on which they will base the quota sample in order to generate representative results.

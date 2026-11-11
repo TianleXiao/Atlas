@@ -10,16 +10,10 @@ $$
 \text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
 $$
 ---
----
----
----
 ## What's the preferable current ratio for a business?
 For example, if a firm’s current assets are valued at $25$ million and its current liabilities equal $15$ million, then the current ratio = $\frac{25}{15} = 1.67$ (or sometimes expressed as $1.67:1$). This figure means that for every $1$ of current liabilities that the firm owes to its creditors, it has $1.67$ in highly liquid current assets.
 
 ![[322763f2d9058599681ddd013d840fc6.jpg]]
----
----
----
 ---
 ## Acid-test (quick) ratio
 
@@ -43,9 +37,6 @@ For example, if a business has current assets equal to $18$ million, current lia
 
 ![[867a6d4a1808a82c81c7bc09427bb482.jpg]]
 ---
----
----
----
 ## Preferred current ratios
 
 - For many years, holding current assets of twice the value (2:1) of current liabilities was recommended. This is no longer accepted, partly due to the use of computers in stock control rather than the widespread use of just-in-time systems of production.
@@ -57,9 +48,6 @@ For example, if a business has current assets equal to $18$ million, current lia
 A more typical figure of a current ratio might now be 1.6:1.
 
 ![[e16ea135b230211c6a30370814b1db93.jpg]]
----
----
----
 ---
 ## Strategies to improve the current ratio
 To improve the current ratio, a business needs to increase its current assets and/or reduce its current liabilities. Hence, it can take any combination of the following actions:

@@ -7,7 +7,6 @@ Direct costs may comprise of:
 For example, the direct costs of purchasing a commercial building may include:  
 consultancy costs, telephone bills, printing costs, mortgage fees and bank charges.
 ---
----
 ## Variable Costs vs Direct Costs (Example)
 - **Catering costs for a flight on a mainstream airline carrier, such as China Southern, would be classified as variable costs.**
     - This is because the more passengers on the airplane, the more food and drinks will be required since these are included in the ticket price.
@@ -15,13 +14,11 @@ consultancy costs, telephone bills, printing costs, mortgage fees and bank charg
     - The cost of food and drinks is directly related to the flight, but passengers do not all demand meals and drinks since these are paid for on an individual basis.
 ➔ *So direct costs, unlike variable costs, are not necessarily related to the level of output, they can be traced back to the output of a product and/or to a specific cost center.*
 ---
----
 ## Indirect Costs (Overheads)
 Indirect costs, also known as overheads, are those that cannot be clearly traced to the production or sale of any single product and relate to the business as a whole.
 - For example, rent and lighting costs can be associated with all areas of a business rather than being directly linked to the output of a particular product.
 - Other examples of overheads include: brand advertising, legal expenses, administrative staff salaries, insurance, security, stationery, shipping and delivery costs, utility bills and accounting fees.
 > Indirect costs (overheads) can be fixed or variable, but they are difficult or somewhat subjective to allocate to cost and profit centers.
----
 ---
 ## Atl: What Types Of Costs Are These?
 - Advertising Costs

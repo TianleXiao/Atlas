@@ -10,9 +10,6 @@ The more well-organized that a stakeholder group is, the more that managers need
 + An investor who owns 15% stake of the company selling off his/her shares may be detrimental to the business compared with one who owns only 1%.
 + A key supplier of a business's major component will have more influence over the business than a supplier of minor components.
 ---
----
----
----
 ## Vocabulary
 + Components
 + Utmost best

@@ -8,9 +8,6 @@ For other businesses, the working capital cycle is much longer (slow) due to the
 They are also likely to wait longer for air Airbus aircraft to be delivered, due to the high demand and the more complicated, longer manufacturing process.
 ![[2bba0c8eb22e709113d74782547e2497.jpg]]
 ---
----
----
----
 ## Liquidity/cash flow position
 The liquidity/cash flow position of an organization indicates the extent to which it has sufficient liquidity to continue its business activities.
 The liquidity/cash position of a business is important as it shows its ability to repay short-term liabilities without having to rely on external sources of finance, which could dilute ownership and control and/or incur debt interest payments.  
@@ -20,9 +17,6 @@ Liquidity ratios examine an organization's ability to pay its short-term liabili
 - **Acid test ratio** (also known as the quick ratio).
 → A liquidity problem (or cash flow problem) occurs when there is a lack of cash in the organization because its cash inflows are less than its cash outflows, i.e., it experiences negative net cash flow.
 ![[b3f0f8a998d99e5ee75df8d9ab8201e2.jpg]]
----
----
----
 ---
 ## Cash flow forecasts
 
@@ -40,9 +34,6 @@ $$
 
 ![[a9f8a7669739dd13ad4c069a95482a86.jpg]]
 ---
----
----
----
 ## Cash inflows
 Cash inflows are simply the money going into a business from earnings and other sources of finance. Examples of cash inflows include:
 - Cash used by customers to pay for goods and services
@@ -57,9 +48,6 @@ Cash inflows are simply the money going into a business from earnings and other 
 - Tax refunds from the government*
 - Government grants and subsidies
 *Note: for external assessment purposes, only "cash sales revenue" and "tax refunds" will appear as cash inflows in the prescribed format of the cash flow forecast.*
----
----
----
 ---
 ## Vocabulary
 + Collateral

@@ -3,7 +3,6 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + Public sector: this includes all firms owned and run by the government. Usually, defence, arms and nuclear industries of an economy are completey public. Public firms don't have a profit motive, but aim to provide essential services to the economy it governs.
 + Private sector: this includes all firms owned and run by private individuals. Private firms aim at making profits and so their products are those that are highly demanded in the economy.
 ---
----
 ## Firms By Type
 + Public limited companies (If no limited is SOEs)(Large)
 + Privately-owned firms(Small)
@@ -29,7 +28,6 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + A sole trader has unlimited liability and is responsible (liable) for any debt of the business which may be paid from the sole trader's personal assets.
 
 **Corporation:** in the body
----
 ---
 ## Vocabulary 
 + Go to public

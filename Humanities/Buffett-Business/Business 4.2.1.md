@@ -10,9 +10,6 @@ Marketing strategies are the different long-term actions used by an organization
 
 ![[11f28815db3ea3d77a2fc7df1ab5a230.jpg]]
 ---
----
----
----
 ## The marketing plan
 
 A marketing plan requires consideration of all elements of the marketing mix (comprised of: product, price, promotion, place, people, processes, and physical evidence) in order to meet the marketing objectives of the organization.
@@ -28,9 +25,6 @@ The main elements of a marketing plan usually include:
 - marketing budgets, including the resources required to execute the marketing plan.
 ![[4c20ec18a967899ab76b8fd9a93093ef.jpg]]
 ---
----
----
----
 ## Advantages of marketing plans
 Advantages of marketing plans (i.e. the role of marketing planning) include:
 - **Helping marketing managers to formulate more effective marketing strategies in order to meet the needs and wants of the firm's customers.**
@@ -39,9 +33,6 @@ Advantages of marketing plans (i.e. the role of marketing planning) include:
 - **It helps marketing managers to align their marketing plans and marketing strategies with the rest of the organization. This improves the firm's overall chances of success in meeting their aims and objectives.**
 - **It can inform and improve financial decision-making. Marketing budgets can be more appropriately set to ensure that resources are used in the most cost-effective way.**
 ![[434685e39d46b08dac90f3ac5f952410.jpg]]
----
----
----
 ---
 ## Disadvantages of marketing plans
 However, marketing plans also have limitations. Disadvantages of marketing plans include:

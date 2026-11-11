@@ -9,9 +9,6 @@ Brand value is an intangible fixed asset which can be enhanced by brand awarenes
 
 ![[67c7a6b39c3eb69da2fb888df454611e.jpg]]
 ---
----
----
----
 ## P For Price
 "Why are beautiful products only made for a few buyers? It must be possible to offer good design and function at low prices."
 - Ingvar Kamprad (1926 - 2018), Founder of IKEA
@@ -30,17 +27,11 @@ The syllabus requires students to understand the appropriateness of the followin
 9. Price elasticity of demand (HL only)
 ![[e9ecb086ab4070b042b2a23300a39fa2 1.jpg]]
 ---
----
----
----
 ## Cost-Plus (Mark-Up) Pricing
 Cost-plus pricing (or mark-up pricing) adds a profit margin to the costs of production in order to determine the selling price of a good or service. This ensures that each unit sold adds contribution. The difference between the price and the cost is called the mark-up (or the profit margin), which is usually expressed as a percentage figure, such as 50% above the cost per unit.
 For example, if a toy costs \(\$10\) per unit to make and the firm wanted to earn a \(80\%\) profit margin, then the selling price would be: \(\$10 x 1.8 = \$18\).
 
 ![[54fcd32178f2980449e4478cb700ce0d.jpg]]
----
----
----
 ---
 ## Cost-Plus Pricing Advs
 - It is simple to understand and calculate.
