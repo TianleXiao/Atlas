@@ -21,8 +21,6 @@
 - Uses less conventional method than the usual ATL channels of advertising, typically focusing on direct mean of communication
 - The effect on sales can be measured immediately
 
-
-
 ---
 
 ## Social Media Marketing (Smm)
@@ -57,8 +55,6 @@ Online Advertising
 
 Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid Traffic, Affiliates, Social
 
-
-
 ---
 
 ## Social Media Marketing (Smm)
@@ -69,8 +65,6 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
 - SMM has encouraged many individuals and businesses to share online content, often in a persuasive way (including their views, suggestions, reactions, images and videos).
   - The changing technologies have therefore provided people and businesses with a potentially wide-reaching yet cost-effective method of promotion.
 
-
-
 ---
 
 ## Smm Viral Marketing
@@ -79,3 +73,4 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
 Viral marketing is the creative use of social media sites to increase brand awareness or sell products.
 
 Marketing managers try to identify individuals with high social networking potential – called 'influencers' – and create viral messages that appeal to them and have a high chance of being passed on and shared to many other people who may be impressed.
+

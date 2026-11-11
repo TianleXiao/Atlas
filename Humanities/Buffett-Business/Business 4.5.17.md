@@ -11,8 +11,6 @@ Disadvantages—
 - There can be complications with the use of email for promotional purposes. For example, many customers perceive emails as unsolicited marketing messages (known as online spam).
 - In many countries, there may also be legal issues surrounding the use and storage of private data.
 
-
-
 ---
 
 ## Customer Loyalty Schemes
@@ -30,8 +28,6 @@ Disadvantages—
 Points Program
 Tier Program
 
-
-
 ---
 
 ## Merchandising
@@ -46,8 +42,6 @@ Advantages—
 Disadvantages—
 - Some retailers, such as supermarkets, use a lot of merchandising but this often leads to visual advertising clutter within the aisles or store.
 - Merchandising incurs additional costs, such as the costs of setup and adjustment of stock control systems.
-
-
 
 ---
 
@@ -66,3 +60,4 @@ Advantages—
 Disadvantages—
 - It is costly to maintain, i.e. it is only a short-term method to increase sales volume.
 - Customers may come to expect or anticipate further sales promotions (thereby delaying their purchase).
+

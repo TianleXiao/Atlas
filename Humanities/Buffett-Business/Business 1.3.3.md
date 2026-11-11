@@ -60,8 +60,6 @@ Managers can protect shareholder value in one of two ways:
 + In the worst case, a shortage of cash could result in a business having to cease trading.
  A business may have to charge less for a product if a customer pays in cash rather than a deferred payment; this means that that cash flow may improve but profits may fall.
 
-
-
 ---
 
 ## Public Sector Objectives: Diversification
@@ -76,3 +74,4 @@ Managers can protect shareholder value in one of two ways:
 + Recruitment 
 + Deface
 + Acquire
+

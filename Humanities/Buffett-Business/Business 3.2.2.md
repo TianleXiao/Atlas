@@ -30,4 +30,3 @@ A stock exchange is a well-organized and highly regulated marketplace where indi
 ## Vocabulary
 + Subprime mortgage
 
-

@@ -33,3 +33,4 @@ For example:
 - **restaurant owners** might want to observe how long it takes, on average, for diners to be served their meals.
 - **supermarkets** might want to determine which aisles or areas of the store are the most popular with their customers.
 - **companies** gather data on the number of visitors to their website, which pages they visit and how long the average customer spends on the website.
+

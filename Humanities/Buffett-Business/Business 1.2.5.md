@@ -3,16 +3,12 @@
   + Shareholders and the company have separate legal identities.
   + Owners have limited liability for business debt.
 
-
-
 ---
 
 ## The death of an owner does not lead to its break-up.
 + There are two types of limited companies:
   + Private limited companies
   + Public limited companies (1 share = ?￥)
-
-
 
 ---
 
@@ -43,5 +39,4 @@ The main features of limited companies are:
 + Dividend
 + Conflict
 + Liability
-
 

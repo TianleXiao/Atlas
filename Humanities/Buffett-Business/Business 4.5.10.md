@@ -34,3 +34,4 @@ For example, all major airlines use dynamic pricing to set ticket prices. When c
 Competitive pricing (often called competition-based pricing) is a pricing method where businesses set their prices based on what rivals are charging. Hence, competitive pricing is one of the simplest pricing methods available to businesses. It is suitable in highly competitive markets where products are homogeneous or have very similar attributes and functions.
 For example, mobile phones are often competitively priced.
 Friday
+

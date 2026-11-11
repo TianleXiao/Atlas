@@ -7,8 +7,6 @@
   + Having a mission means to have a clear purpose.
   + A mission statement is a simple declaration of the underlying purpose of a business/organization (i.e., what it does, who it serves, and how it serves them).
 
-
-
 ---
 
 ## Mission VS Vision
@@ -35,3 +33,4 @@ Is usually bigger than the vision | Is usually smaller.
 + Marathon
 + Tactics
 + Scandal
+

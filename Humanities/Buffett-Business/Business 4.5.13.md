@@ -45,3 +45,4 @@ The main methods of ATL promotion include:
 - Celebrity endorsements
 - The main advantage of using ATL promotion is the potential to reach a very large audience of potential customers. For example, the Super Bowl in the US is watched by over 100 million people, with ticket prices going up to around \(\$7,000\).
 - However, ATL promotion is very expensive (Super Bowl ads may cost millions of dollars) and is largely untargeted (as some adverts are irrelevant to many viewers).
+

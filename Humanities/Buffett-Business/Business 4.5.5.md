@@ -59,3 +59,4 @@ Common steps in the development of a brand include:
 Brand loyalty exists when customers repeatedly buy the same brand. A high degree of brand loyalty means that customers do not (like to) switch to a rival brand. It is the result of an organization's successful brand development strategy. Ultimately, brand loyalty means that customers prefer a certain brand.
 - Brand loyalty is important in literally all industries, but one particular market that stands out is technology. E.g., there is a common belief that Apple products in particular are of superior quality, but are customers buying the brand name only because of the product's quality and features?
 - Brand loyalty is less common in markets such as fast fashion because most customers just buy what they like at the time of purchase, may be because the fashion products are relatively affordable and/or indistinguishable from each other.
+

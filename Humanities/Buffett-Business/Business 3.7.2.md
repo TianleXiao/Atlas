@@ -61,3 +61,4 @@ Cash inflows are simply the money going into a business from earnings and other 
 
 ## Vocabulary
 + Collateral
+

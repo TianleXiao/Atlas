@@ -6,8 +6,6 @@
 
 homo oeconomicus?
 
-
-
 ---
 
 ## Taylor's Scientific Management Theory – How to Improve Output per Worker
@@ -20,8 +18,6 @@ How to improve output per worker—
 - Establish the best method of doing a job (method study)
 - Supervise workers to ensure that this 'best way' is being carried out
 - Pay workers on the basis of the results.
-
-
 
 ---
 
@@ -41,8 +37,6 @@ festgelegte Präferenzen
 
 QUALITY HAS MOVED ACROSS THE STREET
 
-
-
 ---
 
 ## Maslow's Hierarchy (1943)
@@ -60,3 +54,4 @@ Esteem needs (respect from others, recognition for well done job, status)
 Social needs (friendship accepted, belonging to a group)
 Safety needs (health and safety at work, job security, free from threats)
 Physical needs (water, food, shelter, clothing, and rest)
+

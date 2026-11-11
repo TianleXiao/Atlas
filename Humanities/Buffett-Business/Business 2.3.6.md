@@ -17,5 +17,3 @@ Range of behaviour
 - Manager defines limits and asks group to make decision
 - Manager permits group to function independently within defined limits
 
----
-

@@ -22,8 +22,6 @@ Management Levels
 - Project Manager
   - Does not have line responsibility for employees assigned to project
 
-
-
 ---
 
 ## Roles and Functions of Management
@@ -35,8 +33,6 @@ The roles and functions of management, as outlined by Henri Fayol, encompass the
 Planning: Managers establish specific, measurable, agreed, realistic, and time-constrained targets (SMART goals). Short-term tactical plans are set by junior management, while long-term strategic plans are devised by senior management to guide the organization.
 
 Organizing: Managers translate plans into actionable steps, organizing resources such as land, labor, and capital to meet the organization's objectives. This includes coordinating tasks in the short, medium, and long term.
-
-
 
 ---
 
@@ -52,8 +48,6 @@ Coordinating: Managers ensure a unified approach among employees in different se
 
 Controlling: Managers monitor individual employee performance to ensure it meets organizational standards. Through control mechanisms like budgetary control, managers oversee finances, ensuring the smooth operation of business activities and maintaining organizational efficiency.
 
-
-
 ---
 
 ## Who's a Leader?
@@ -67,3 +61,4 @@ A leader fosters motivation, respect, trust and loyalty from the workforce.
 There are two types of leaders:
 - Official Leader: Appointed by the organization, possesses formal authority to give orders.
 - Informal Leader: Lacks an official role but possesses natural charisma, influencing others based on personal qualities rather than formal authority.
+

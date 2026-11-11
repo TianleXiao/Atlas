@@ -34,9 +34,8 @@ Leasing involves paying for assets, such as vehicles and machinery, over a perio
 - Hence, leasing is suitable for business customers who do not have the initial finance to buy such assets.
 	$$Equity=Share \ Capital + Retained \ Profit$$
 
-
-
 ---
 
 ## Vocabulary
 + Equity
+

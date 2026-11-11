@@ -37,3 +37,4 @@ Indirect costs, also known as overheads, are those that cannot be clearly traced
 - Salaries For Managers
 - Utility Bills (Gas, Water And Electricity)
 - Wages For Employees
+

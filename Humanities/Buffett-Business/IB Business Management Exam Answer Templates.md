@@ -12,8 +12,6 @@
 ## Example (Q2b): Define *economies of scale*.
 > **Economies of scale** refer to the cost advantages that a business obtains due to its scale of operation. They are typically measured by the amount of output and usually result in a decrease in the average unit cost as the scale of production increases.
 
-
-
 ---
 
 ## 2. The "Explain" Template (4 Marks)
@@ -34,8 +32,6 @@
 2. **Retained Profit:** This is an internal source of finance where the profit kept by the company after taxes and dividends is reinvested into the business.
    * **Application:** PI is described as "highly profitable" with a forecast profit of $3,440,000 for 2019, which could be used to fund their capital equipment directly without incurring interest costs.
 
-
-
 ---
 
 ## 3. The "Distinguish" Template (4 Marks)
@@ -53,14 +49,10 @@
 ## Example (Q3c): Distinguish between *internal* and *external* growth for WE.
 > **Internal growth** occurs when a business expands using its own resources. For example, WE used its own "profits to increase production capacity" and expand its sales force. **In contrast, external growth** involves expansion through involvement with other organizations. This is seen in the text when WE decided to "diversify by taking over other regional businesses," such as a retail chain.
 
-
-
 ---
 
 ## 4. The "Discuss/Evaluate" Template (10 Marks)
 **Goal:** Provide a balanced argument (Pros vs. Cons) ending in a reasoned judgment (Evaluation).
-
-
 
 ---
 
@@ -73,8 +65,6 @@
 | **Option 2**     | True/False. **Must link to Case:** e.g., WE's "falling profit margins".            |
 | **Conclusion**   | Use the **SLOT** method to provide a final recommendation.                         |
 
-
-
 ---
 
 ## Evaluation Technique (SLOT):
@@ -82,8 +72,6 @@
 * **L**imitations: Is the data provided in the case sufficient or reliable?
 * **O**pinions of Stakeholders: How do different groups (owners vs. employees) feel?
 * **T**herefore: What is your final, justified recommendation?
-
-
 
 ---
 
@@ -107,3 +95,4 @@ Option 1 disadv : but it is quite slow to grow organically, which may lead to lo
 Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI, 
 option 2 adv: helps EI to diversify revenue streams such as franchising fees as well as royalties
 option 2  disadv: there's a high risk of hurting the brand image of EI, if some franchisees make a blunder in terms of product quality or customer service, also, f some franchisees become greedy and start cutting costs therefore reducing the ice cream quality
+

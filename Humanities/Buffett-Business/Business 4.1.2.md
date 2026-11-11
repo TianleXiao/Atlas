@@ -48,3 +48,4 @@ If you're a competitor, please pay attention to what your competitor is doing. B
 - It helps to reduce the financial risks involved in product development by focusing on the changing needs and wants of customers and potential customers.
 - Being able to predict or anticipate market changes and trends will help businesses to be in a stronger position to handle the threats of new entrants in the market and to respond to changes in the needs and wants of people.
 - Market research findings enable businesses to access the latest market information, so firms can respond quicker to changes in the market and/or enable firms to anticipate market changes.
+

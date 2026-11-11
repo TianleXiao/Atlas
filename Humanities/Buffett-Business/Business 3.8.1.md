@@ -36,3 +36,4 @@ The essential questions that managers need to ask regarding any investment are:
 - **When contemplating introducing new products:** A business may assess the likely costs and returns from investing in one or more new products.
 - **Expansion:** This may entail evaluating whether or not to invest in new non-current assets as part of a planned programme of growth to gain market share.
 - E.g. Tottenham Hotspur Football Club in London has recently invested $1 billion in developing a new stadium, built in part on its existing ground at White Hart Lane. The club hopes to increase its sales revenue by attracting larger crowds into the new stadium which now has a capacity of 62,303 spectators.
+

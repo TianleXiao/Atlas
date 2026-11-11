@@ -44,3 +44,4 @@ Current assets are possessions of an organization with a monetary value, but int
 + Raw material
 + Component
 + Finished goods
+

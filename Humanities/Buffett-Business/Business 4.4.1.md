@@ -45,3 +45,4 @@
 - Help businesses improve their marketing mix and strategies.
 - Discover a firm's strengths and opportunities, as well as weaknesses and threats.
 - Reduce risks of product failures by having better (more informed) marketing strategies.
+

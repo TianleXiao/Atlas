@@ -8,8 +8,6 @@
 - 6. A large department store with several departments selling different types of goods.
   - Democratic
 
-
-
 ---
 
 ## Managers vs Leaders
@@ -32,8 +30,6 @@
 | Analysis | Decisiveness |
 | Learned skills | Natural instincts |
 
-
-
 ---
 
 ## Effective Leadership Style
@@ -45,8 +41,6 @@ Whether a leadership style will be effective will depend on several factors such
 - The time frame, i.e. how quickly decisions need to be made.
 - The task, e.g. whether the task is routine or a response to a crisis.
 - The degree of importance of the decision, e.g. tactical or strategic decision-making.
-
-
 
 ---
 
@@ -66,3 +60,4 @@ Leadership
 - Inspire and motivate their followers through action
 - Take risks by challenging the organizational norms to move the organization forward
 - Create a culture of hope, getting people to where they haven't been before
+

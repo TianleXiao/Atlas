@@ -53,3 +53,4 @@ The main methods of BTL promotion include:
 - Sales promotions
 Unlike ATL promotion, this means that no commission has been paid to external media agencies.
 These methods tend to be relatively cheap compared to ATL methods.
+

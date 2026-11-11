@@ -17,8 +17,6 @@ Disadvantages:
 - It can be time consuming to consult everyone.
 - Some issues might be too sensitive (layoff labour) or too secret (new product development)
 
-
-
 ---
 
 ## Leadership Styles: Laissez-Faire
@@ -31,8 +29,6 @@ The term 'laissez-faire' is French for 'let go' or 'let them be' (let them be).
 
 - Laissez Faire
 - Do it anyway what you feel is right!!
-
-
 
 ---
 
@@ -54,8 +50,6 @@ Disadvantages:
 - If workers become used to a particular leadership style, they may become disheartened and disturbed if the leader changes their style.
 - Most leaders have a preferred or natural leadership style, so changing or adopting a different style can be difficult for them.
 
-
-
 ---
 
 ## Effective Leadership Style
@@ -68,3 +62,4 @@ Whether a leadership style will be effective will depend on several factors such
 - The time frame, i.e. how quickly decisions need to be made.
 - The task, e.g. whether the task is routine or a response to a crisis.
 - The degree of importance of the decision, e.g. tactical or strategic decision-making.
+

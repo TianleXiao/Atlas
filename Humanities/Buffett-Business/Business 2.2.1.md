@@ -18,8 +18,6 @@
 - Appropriateness of different organizational structures given a change in external factors
 - Changes in organizational structures (for example, project-based organization, Charles Handy's "Shamrock Organization") (HL only)
 
-
-
 ---
 
 ## Job Roles Within an Organization
@@ -33,8 +31,6 @@
 - Directors are responsible for the overall running of the business.
 - In a large firm, there is likely to be directors responsible for each key functional area: marketing, human resources, finance and operations management.
 - Collectively, they advise and support the CEO.
-
-
 
 ---
 
@@ -59,8 +55,6 @@ Delegation process:
 - Monitor
 - Evaluate or review
 
-
-
 ---
 
 ## Wide Span of Control
@@ -72,3 +66,4 @@ Delegation process:
 
 Diagram: one manager node linked to eight subordinate nodes.
 Label: Wide span of control
+

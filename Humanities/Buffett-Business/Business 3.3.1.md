@@ -84,3 +84,4 @@ $$ATC = AVC + AFC$$
 
 ## Vocabulary
 + Components
+

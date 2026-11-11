@@ -35,3 +35,4 @@
 ## Price Elasticity Of Demand (Ped) (HL)
 Price elasticity of demand (PED) measures the extent to which the demand for a product changes due to a change in its price. For example, the demand for fresh flowers during Valentine's Day and Mothers' Day is less price-sensitive than during off-peak periods. Hence, florists know they are able to charge higher prices during these times of the year.
 - Knowledge of PED is not only about being able to set higher prices to customers who can afford to pay. Statistically, restaurants and cinemas throughout the world face their quietest trading day of the week on a Tuesday, which is why many of these businesses offer discounted prices to diners and cinema-goers on Tuesdays.
+

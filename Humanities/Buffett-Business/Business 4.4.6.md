@@ -34,3 +34,4 @@ Examples of business management theories that first appeared in academic journal
 
 ## Academic journals disadvantages
 - The information is not always relevant and may not apply to some businesses, and the contents or findings are often contested, purely theoretical and may not be practical.
+

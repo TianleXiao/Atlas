@@ -1,8 +1,6 @@
 ## The Shareholder Concept
 As we have seen, businesses have certain legal responsibilities to their stakeholders. For example, there are laws controlling the ways in which businesses can promote their products and, for food manufacturers, the ingredients that can be used. Some businesses simply do what they have to by law and no more. They focus mainly on rewarding their owners. They will pay employees what they need to get the job done, but do not think they have any more responsibilities other than this. They will try to get the lowest price for supplies, perhaps by threatening to use different suppliers and bargaining hard. They will pay governments the taxes they have to but will not think they have any obligation to invest more in their region or country. This approach which regards rewarding owners as the key business objective is known as the shareholder concept.
 
-
-
 ---
 
 ## The Stakeholder Concept
@@ -38,8 +36,6 @@ The stakeholder concept fits in with corporate social responsibility in that it 
 | Introduce greater automation | Shareholders, Customers | Employees |
 | Increase selling prices | Shareholders, Management | Customers |
 
-
-
 ---
 
 ## The Meaning of Color
@@ -61,3 +57,4 @@ The stakeholder concept fits in with corporate social responsibility in that it 
 + Schemes
 + Potential
 + Dividend
+

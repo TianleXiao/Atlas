@@ -55,8 +55,4 @@ For profit social enterprises are businesses run in a commercial-like manner tow
 + Bank loan
 + Stricter
 + Divorce
- 
-  
-
-
 

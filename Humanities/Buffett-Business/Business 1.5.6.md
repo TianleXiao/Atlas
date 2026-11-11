@@ -26,3 +26,4 @@
     - $\square$ the final product maybe an expensive luxury item which only require small-scale production (**e.g.** custom-made paintings).
     - $\square$ **personalized/customized services** can only be given by small firms, unlike large firms that mostly give standardized services (**e.g.** wedding cake makers).
 - **Access to capital is limited, so owners can't grow the firm.**
+

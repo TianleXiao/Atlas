@@ -20,5 +20,3 @@ Shortages occur when producers cannot offer enough products at current prices.
 + Beneficence
 + Charity
 
-
-

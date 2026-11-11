@@ -32,3 +32,4 @@
 2) What sources of finances are you going to use? Justify your choices.
 (In around 300 words)
 - [ ] Finish
+

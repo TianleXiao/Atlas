@@ -25,9 +25,8 @@
    + clauses for the withdrawal of a partner.
    + procedures for ending the partnership.
 
-
-
 ---
 
 ## Vocabulary 
 + Dissolution
+

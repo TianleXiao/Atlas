@@ -82,3 +82,4 @@ This is the largest section of the IB Business Management syllabus, focusing on 
     - High growth, high share. Investment should be made in "question mark" products depending on their chances of becoming stars.
     - Low growth, high share. "Cash cows" should be milked so products can be reinvested in "stars" and "question marks".
     - Low growth, low share. Business should liquidate, divest, or reposition products in the "dogs" category.
+

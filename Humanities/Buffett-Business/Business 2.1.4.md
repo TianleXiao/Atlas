@@ -6,8 +6,6 @@
 - Personnel opportunities - The supply of migrant workers allows for new ideas, experiences and ways of thinking. Skilled migrants can pose a threat to less-skilled workers in the country. This form of competition can raise the standard of skills as domestic workers update their skills to retain their own jobs.
 - Net social benefits - The majority of migrants are of working age. They are likely to pay income tax (good news for the government and the general public). It also means they have income to spend on goods and services (good for marketers).
 
-
-
 ---
 
 ## External Factors That Influence HR Planning — Flexi-Time
@@ -17,8 +15,6 @@
 Flexi-time is a form of flexible work practice that enables employees to work a set number of core hours per week, often at the office during peak periods of the day and/or week. Flexi-time empowers workers as they have the autonomy to complete their work in their own time, so long as their work gets completed.
 - Many organizations encourage their employees to maintain a work-life balance (which is also beneficial to the employer in the long run) by adopting a variable work schedule, allowing parents to raise their young children, for example, which helps to improve morale and labour productivity.
 - However, flexi-time suffers from similar disadvantages to teleworking, such as the potential lack of accountability and productivity, as well as costs implications if managers have to check and approve flexi-time staff's claimed and worked hours.
-
-
 
 ---
 
@@ -42,8 +38,6 @@ In 2021, a report by the McKinsey Global Institute (MGI) suggested that more tha
 - Website designers (Fiverr)
 This gig/freelance trend was accelerated across the world following national lockdowns and safety measures introduced during the global coronavirus pandemic.
 
-
-
 ---
 
 ## External Factors That Influence HR Planning — The Gig Economy (Advantages)
@@ -55,3 +49,4 @@ This gig/freelance trend was accelerated across the world following national loc
 - The flexibility also enables some people to have a better work-life balance, such as working parents of young children.
 - Businesses can gain from reduced costs of production as they do not need to hire so many full-time workers (along with the pay and benefits associated with them) and office space.
 - The lower costs of production mean firms can provide more price-competitive products to customers.
+

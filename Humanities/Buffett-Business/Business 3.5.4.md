@@ -65,3 +65,4 @@ To improve the current ratio, a business needs to increase its current assets an
 - **Encourage customers to pay immediately**, thereby improving the firm's cash inflows.
 - **Use any available cash to pay off some current liabilities**, thereby reducing the interest (debt) burden on the business in the long run.
 - **Negotiate with suppliers for an extended trade credit period** (e.g., from 30 days to 40 days), thereby improving its own liquidity position.
+

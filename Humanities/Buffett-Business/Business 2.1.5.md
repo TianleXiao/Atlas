@@ -7,8 +7,6 @@
 - As self-employed people, gig workers have setup costs of their own, such as the need to purchase their own bicycles or motor vehicles, high-specs smartphones for delivery-related services.
 - The lack of a full-time employment contract also means gig workers may miss out on employee rights and benefits, such as paid sick leave, holiday/redundancy pay and maternity leave.
 
-
-
 ---
 
 ## Reasons for Resistance to Change
@@ -28,8 +26,6 @@ Employees are often more interested in and/or worried about the implications of 
 
 The reason for resistance to change may also occur from a perceived threat to a person's job security, status/rank, and financial position. It is human nature to pursue self-interest.
 
-
-
 ---
 
 ## Reasons for Resistance to Change (Continued)
@@ -43,8 +39,6 @@ People tend to like stability and normality (or inertia) in their personal and p
 
 If the purpose and potential benefits of change are not clearly and effectively communicated to the workforce, a lack of understanding arises, which creates opposition to change. Misperceptions may be widespread because of informal communications (such as gossip) and workers may feel that change is unnecessary, especially if the business is not in a crisis or faced with adverse conditions.
 
-
-
 ---
 
 ## Reasons for Resistance to Change (Continued)
@@ -55,3 +49,4 @@ If the purpose and potential benefits of change are not clearly and effectively 
 Different people can have different interpretations or views of a given situation. Employees and employers may disagree on the rationale for and the benefits of change. Workers may believe that senior managers do not know what they are doing or why they are doing it and they may feel that the business is not acting in their best interest. Indeed, they may feel that they have better solutions and would change things in more suitable ways.
 
 Note: This reason for the resistance to change is different from "self-interest" because the restraining force in this case is based on competing interpretations or assessments of what is best for the business and its stakeholders.
+

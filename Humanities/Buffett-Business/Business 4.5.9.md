@@ -32,3 +32,4 @@ Premium pricing involves a business permanently setting a high price for its pro
 Premium pricing is also used in the case of ostentatious consumption and conspicuous consumption.
 Ostentatious consumption is the purchase of expensive products which impress and make customers feel good about themselves. A large part of the satisfaction comes from knowing the premium price paid for the product itself. Examples include Christian Dior perfumes, Rolex watches, Chanel handbags, Armani suits, and Vera Wang wedding dresses.
 Conspicuous consumption is the lavish spending of some (very rich) customers for the purpose of upholding their social status, rather than to serve their real needs. Examples include highly expensive luxury cars (such as Rolls Royce, Bentley, and Maybach) and collector items (such as original paintings from Picasso and Van Gogh). Another example is Paul Newman's Rolex Daytona that was sold for a record ($17.8) million (October 2017).
+

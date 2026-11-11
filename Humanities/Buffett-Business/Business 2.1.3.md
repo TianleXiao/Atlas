@@ -18,8 +18,6 @@ Country | Men | Women
 - United Kingdom | 65 | 64
 - United States | 66 | 66
 
-
-
 ---
 
 ## External Factors That Influence HR Planning — Change in Labour Mobility
@@ -31,8 +29,6 @@ Country | Men | Women
   - It tends to be greater with acquired attributes of a worker (such as education, skills, experience, training, etc...)
   - Younger people tend to be more occupationally mobile as they often change careers. Mature workers may think they are 'too old' to retrain or may have more financial commitments so are less willing to risk changing careers.
   - Some workers are immobile because they are highly specialized in their area of expertise, as they find it difficult to seek employment opportunities in other industries.
-
-
 
 ---
 
@@ -46,8 +42,6 @@ Country | Men | Women
   - Fear of the unknown means that people might prefer 'home comforts' (familiarity), e.g. uprooting the family and finding a new school for the children can be daunting for many people.
   - Language and cultural differences tend to limit international mobility.
 
-
-
 ---
 
 ## External Factors That Influence HR Planning — Immigration
@@ -57,3 +51,4 @@ Country | Men | Women
 - Migrant workers are people who move to other locations or countries in search of job opportunities. The influx of migrant workers from overseas can provide many business opportunities, such as:
   - Easing of skills shortages - Hiring skilled migrants has two advantages. First, they take on jobs that cannot be filled by domestic workers, perhaps due to a lack of willingness or skills (ability). Secondly, the pool of migrant workers helps to keep wage costs down.
   - Flexible work structures - Businesses are able to open for longer hours due to workforce flexibility. Migrants add to the supply of staff willing to work part-time or shift work. This is good for businesses which have outlets that open 24-hours a day, such as 7-11 convenience stores, gas stations and hotels.
+

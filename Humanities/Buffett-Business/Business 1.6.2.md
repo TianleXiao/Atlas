@@ -15,3 +15,4 @@
 - Governments of home countries have taken significant shareholdings in some of their MNCs in recent years.
 - Governments earn a share of profits and gain some influence over the economies of other countries, which is a way of generating funds to replace the 'lost' tax revenues.
 - Governments across the world owned almost **25%** of the Fortune Global 500 (the world's largest 500 companies measured by revenue earned) in 2017. (E.g. China's Sinopec and ICSC, Russia's Gazprom, France's Renault, Saudi Arabia's Aramco, etc...)
+

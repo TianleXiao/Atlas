@@ -51,3 +51,4 @@ There are three sampling methods that can be used:
 ## Quota sampling disadvantages
 - Researchers need time to determine the characteristics on which they will base the quota sample in order to generate representative results.
 - Selection is not random, so can be subject to researcher bias and sampling errors. This means that results might not be statistically representative.
+

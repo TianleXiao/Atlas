@@ -6,8 +6,6 @@ Human resources/Workforce planning involves anticipating and addressing the orga
 - Short-term workforce planning is used to address the immediate needs of the business, such as replacing workers who will go on maternity leave, enter retirement, or have been suddenly dismissed, or covering absent employees due to sickness or other reasons.
 - Long-term workforce planning is used to support the strategic plan of the organization, e.g. the expansion of the business in new locations and different countries.
 
-
-
 ---
 
 ## Internal Factors That Influence HR Planning
@@ -19,8 +17,6 @@ Internal factors are those within the control of the organization. They include:
 - Organizational structure – A clear organizational structure helps workforce planning. For example, the HR manager can identify vacant positions and jobs that are redundant, thus can plan how best to address these gaps in the firm.
 - Finances of the organization – Effective workforce planning cannot happen without sufficient funding being available. Growth enables the firm to gain more revenue, which will provide it with the finances to hire and pay for more workers. Training and professional development opportunities for workers also require finance.
 
-
-
 ---
 
 ## Internal Factors That Influence HR Planning (Continued)
@@ -29,8 +25,6 @@ Internal factors are those within the control of the organization. They include:
 - Strategic direction of the organization – E.g., if growth is a priority, the organization will plan to recruit more workers and internally promote some employees to senior positions.
 - Motivation in the workplace – The level of motivation in an organization is an important internal factor affecting workforce planning. The higher the level of motivation, the more productive workers tend to be, and the lower the labour turnover rate. The human resources department needs to keep records and understand why people leave the organization in order to retain their employees.
 - Corporate culture of the organization – The culture of the organization affects how the HR department operates. In turn, this influences its approach to HR matters such as working hours, flexi-time, teamworking, appraisals, job sharing (where two employees share a single job), training and professional development opportunities, dismissal and redundancies, outsourcing, and the internal promotion of staff.
-
-
 
 ---
 
@@ -49,3 +43,4 @@ Demography is the study of population and population trends. Demographic change 
 - Average household income
 - Gender distribution
 - Official retirement age in the country
+

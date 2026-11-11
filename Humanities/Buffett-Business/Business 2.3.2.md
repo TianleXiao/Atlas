@@ -9,8 +9,6 @@ Leadership is the process of influencing and inspiring others to achieve organiz
 
 Leadership is Action not.. position
 
-
-
 ---
 
 ## What's a Good Leader?
@@ -30,8 +28,6 @@ The modern view of a 'good' leader
 - Welcoming advice and support from specialists.
 - Flexible and able to flourish in a changing environment.
 
-
-
 ---
 
 ## Styles of Leadership
@@ -42,8 +38,6 @@ The modern view of a 'good' leader
 - Democratic — Workers take part in decision-making.
 - Laissez-faire — Most of the decisions are left to the workers.
 - Situational — The leader is willing and able to change leadership style according to the situations being faced.
-
-
 
 ---
 
@@ -65,3 +59,4 @@ Disadvantages:
 - Higher labour turnover rate, which is costly to any organization.
 
 Autocratic — I'm in control!
+

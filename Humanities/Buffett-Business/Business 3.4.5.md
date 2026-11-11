@@ -10,3 +10,4 @@ Goodwill: reputation/ know-how/employee devotion
 Liabilities: Overdraft, loan capital
 ![[Pasted image 20260311093358.png]]
 ![[Pasted image 20260311093532.png]]
+

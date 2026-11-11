@@ -24,3 +24,4 @@ People who run business organizations are executive managers.
 
 ## Vocabulary
 + Stakeholder
+

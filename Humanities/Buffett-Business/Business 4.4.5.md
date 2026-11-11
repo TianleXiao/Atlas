@@ -46,3 +46,4 @@ The market leaders and key market trends, market share analysis for major player
 - **Market analyses are generally cheaper, and less time-consuming to gather, than primary market research as an alternative.**
 - **In addition, as a form of secondary research, the information has already been gathered and is available. This helps firms to quickly access up-to-date detailed market data and trends, about various aspects of a product, market or industry.**
 - **Market research/consulting agencies specialize in producing market analyses, providing detailed market intelligence reports. Most organizations do not have such expertise to gather data to produce such detailed and constantly updated market analyses reports.**
+

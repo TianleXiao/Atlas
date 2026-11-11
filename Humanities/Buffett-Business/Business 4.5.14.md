@@ -45,3 +45,4 @@ Targeting the right market segment is possible through the use of specialist mag
 **Disadvantages—**
 There can be a long lead-time between submitting an advertisement and the actual publication in a magazine.
 Readers are bombarded with advertisements so may unintentionally miss, or deliberately ignore, the advertisements.
+

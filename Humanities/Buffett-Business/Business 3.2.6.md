@@ -8,8 +8,6 @@
 ## The Business's Legal Structure
 ![[Humanities/Buffett-Business/Assets/6.png]]
 
-
-
 ---
 
 ## The Cost of the Source of Finance

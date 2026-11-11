@@ -8,8 +8,6 @@
 Diagram: one manager node above eight subordinate nodes
 Wide span of control
 
-
-
 ---
 
 ## Levels Of Hierarchy
@@ -22,8 +20,6 @@ Wide span of control
 Pyramid: CEO → Board of Directors → Middle Management → Supervisors and Team Leaders → Other Employees
 Organisational chart showing one head figure, two second-level figures, and multiple lower-level branches
 
-
-
 ---
 
 ## Bureaucracy
@@ -32,8 +28,6 @@ Organisational chart showing one head figure, two second-level figures, and mult
 - Bureaucracy is the execution of tasks that are governed by official administrative and formal rules of an organization.
 - Bureaucratic organizations are characterized by prescribed rules and policies, standardized procedures, and formal hierarchical structures.
 - Bureaucracy is often associated with excessive administration, paperwork and formalities.
-
-
 
 ---
 
@@ -46,3 +40,4 @@ Organisational chart showing one head figure, two second-level figures, and mult
 - Accountability - Business activity is conducted with written evidence of compliance with the firm's policies. Formality makes every worker accountable for their own actions.
 
 Binders labelled: Rules, Regulations, Policies
+

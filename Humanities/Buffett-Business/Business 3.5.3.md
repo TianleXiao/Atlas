@@ -46,3 +46,4 @@ Company Y: $2 million/$10 million × 100 = 20.0%
 ## Ratio analysis
 A method of quantifying a company's liquidity, operational efficiency, and profitability to evaluate its performance over time and relative to its peers.
 - **Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.**![[02277c3ebd50191aa94e1b571a0efd43.jpg]]
+

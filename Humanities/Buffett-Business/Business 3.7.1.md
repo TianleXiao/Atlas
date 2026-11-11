@@ -49,3 +49,4 @@ For example, both Amazon and Netflix took about 7 years of operation before beco
   - A positive working capital cycle is when a firm collects payments at a faster rate than it is required to pay its bills.
   - A negative working capital cycle is when a firm pays its operating costs first then waits to receive payments to fill the gap in available cash, which is the normal situation.
   - The longer the working capital cycle, the more likely the business will face a cash flow/liquidity crisis, in which case and in order to survive, a business will often have to borrow money to operate whilst it waits for cash inflows to materialize.
+

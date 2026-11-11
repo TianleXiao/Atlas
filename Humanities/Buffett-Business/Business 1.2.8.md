@@ -8,8 +8,6 @@
   + **Limited loan amounts**: Microfinance loans are typically small, which may not be  sufficient for larger business ventures or investments.
   + **Sustainability concerns**: Some microfinance institutions may struggle to remain financially sustainable.
 
-
-
 ---
 
 ## Public-Private Partnerships (PPP)
@@ -24,8 +22,6 @@
 + **The two types of non-profit social enterprises are:**
     + non-governmental organizations (NGOs)
     + charities
-
-
 
 ---
 
@@ -55,3 +51,4 @@
 + Aggressive
 + Lobbying
 + Collateral
+

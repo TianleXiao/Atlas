@@ -48,3 +48,4 @@ Standardized questions ensure that surveys are more reliable and so that the res
 - With online surveys, it is also relatively cheap to collect and collate data over a short period of time.
 - Surveys are less expensive and time-consuming than other methods of data collection, such as interviews and observations.
 - They can be used to collect data and information for a broad range of research purposes.
+

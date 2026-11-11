@@ -55,3 +55,4 @@ $$Bad \ publicity \ reputation \rightarrow lower sales \ revenue \rightarrow Low
 + Strike
 + Scandal
 + Loyalty
+

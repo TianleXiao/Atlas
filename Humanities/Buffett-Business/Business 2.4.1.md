@@ -4,8 +4,6 @@
 "Motivation is the art of getting people to do what you want them to do because they want to do it."
 - Dwight D. Eisenhower (1890-1969), 34th US President
 
-
-
 ---
 
 ## Motivation & Demotivation
@@ -23,8 +21,6 @@ The IB syllabus specifies the following motivation theories :
 - Motivation is characterized by employees willingly engaging in tasks because they genuinely desire to do so, influencing their behavior and productivity positively.
 - In contrast, demotivation can lead to decreased productivity, inefficiencies, workplace dissatisfaction, absenteeism, and potential staff turnover.
 
-
-
 ---
 
 ## Benefits of a Well-Motivated Staff
@@ -37,8 +33,6 @@ Benefits of a well-motivated workforce
 - Better quality goods and services
 - Low rate of labor turnover
 
-
-
 ---
 
 ## Taylor's Scientific Management Theory (1911)
@@ -49,3 +43,4 @@ Benefits of a well-motivated workforce
   by finding the quickest method of performing each task –
   and then training all workers to use this method.
 - Taylor believed that workers were motivated by money alone.
+

@@ -17,8 +17,6 @@
 - **Decline**
 ![[00621f6a4092ddd16562e21185502744.jpg]]
 
-
-
 ---
 
 ## The relationship between the plc, investment, profit, and cash flow
@@ -32,8 +30,6 @@
 | Decline | Minimal, if any (extension strategies) | Falling | Less favourable |
 
 ![[7d1076691e8da23af2fa45b7e911dd02.jpg]]
-
-
 
 ---
 
@@ -50,3 +46,4 @@ Tangible attributes of a product refer to its physical aspects, such as how it l
 Intangible aspects of a product refer to aspects that cannot be touched but can still be important to customers, such as the **brand** and its core values.
 > "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently."  
 > - Warren Buffett (b. 1930), CEO of Berkshire Hathaway
+

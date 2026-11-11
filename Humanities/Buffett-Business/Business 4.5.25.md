@@ -12,8 +12,6 @@
 - After-sales care, including insurance, product warranties and guarantees
 - Queueing systems and waiting times.
 
-
-
 ---
 
 ## P For Physical Evidence
@@ -29,8 +27,6 @@
 - Cleanliness
 - Presentation of staff, such as uniforms and business attire
 
-
-
 ---
 
 ## P For Physical Evidence (Examples)
@@ -40,8 +36,6 @@
 - Theme parks (amusement parks), such as Disneyland, are designed to create a family-friendly physical environment. Their attractions, rides and catering services are designed to make customers feel safe and comfortable with the physical environment to ensure visitors have a memorable time.
 - Employees are also directly affected by the physical environment of the workplace.
 - This can have a direct impact on their level of productivity and motivation.
-
-
 
 ---
 
@@ -100,3 +94,4 @@ This means the business produces the right product, sells it for the right price
 - People
 - Process
 - Physical evidence
+

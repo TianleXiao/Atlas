@@ -33,3 +33,4 @@ $$
 - The **ARR** ignores the timings of future net cash flows, so money received in the future is worth less than it would be if received today. This means the **ARR** may overestimate the real or true value of the financial returns on an investment.
 - The **ARR** focuses on profits (which are estimates at best, and not entirely received until the distant future), rather than on cash flow (which is the 'lifeblood' of a business). Irrespective of the forecast **ARR**, without sufficient cash flow, the business will not survive.
 - The figures used to calculate the **ARR** are only estimates, so the results or forecasts need to be treated with some caution. The longer the investment project under consideration, the less accurate the forecasts will be; i.e. we might know what we have planned to do tomorrow or next week, but less certain about it for 5 or 10 years' time.****
+

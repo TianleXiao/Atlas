@@ -31,8 +31,6 @@ LLCs (UK) must state their objectives in the Memorandum of Association. In a par
 Clear business objectives help to direct, control and review the success (or not) of business activity.
  **S.M.A.R.T:** Specific, Measurable, Achievable, Relevant, Time-bound
 
-
-
 ---
 
 ## S.M.A.R.T Objectives Example
@@ -47,8 +45,6 @@ Clear business objectives help to direct, control and review the success (or not
 + **Time-bound:** When?
   + Increase candy sales by 20% within the next 2.5 months.
 
-
-
 ---
 
 ## Vocabulary
@@ -58,3 +54,4 @@ Clear business objectives help to direct, control and review the success (or not
 + Time-bound
 + New Year's resolutions
 + Curling
+

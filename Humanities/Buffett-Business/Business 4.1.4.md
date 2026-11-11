@@ -92,7 +92,7 @@ $$
 \text{Market growth} = \frac{\$220,000 - \$200,000}{\$200,000} \times 100 = 10\%
 $$
 
-
 If the growth rate one year is 5% and the next year is 2%, is the market shrinking or growing?
 - A common mistake is to assume that because the number is lower, the market is shrinking.
 - It's actually not. The market is still growing, just at a slower rate.
+

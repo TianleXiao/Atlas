@@ -22,8 +22,6 @@ Market segmentation describes the process of dividing a market for a product int
 
 ## Market segmentation
 
-
-
 ---
 
 ## Types of market segmentation
@@ -90,3 +88,4 @@ Think about the types of products that these market segments can be sold dependi
 - **Family size** – For example, all theme parks use some form of price discrimination, e.g. one adult and two children, two adults and two children, and so forth.
 - **Religion** – may have a major impact on firms, such as McDonald's being unable to sell beef products in India or pork products in Jewish districts and Muslim countries.
 - **Ethnicity** – for example, rice is a very popular staple food for people from China, India, Indonesia, Bangladesh and Vietnam (top 5 countries for rice consumption).
+

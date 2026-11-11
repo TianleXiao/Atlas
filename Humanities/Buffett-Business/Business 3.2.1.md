@@ -33,8 +33,6 @@ Internal sources of finance come from **within** the business using its own reso
     - Choose to relocate and sell their land, factories and buildings.
     - Sell some of their fixed assets to survive a liquidity problem, and then lease them back so that their business is not disrupted.
 
-
-
 ---
 
 ## External Sources of Finance
@@ -58,3 +56,4 @@ External sources of finance come from outside the business via external stakehol
 + Bank loan
 + Mortgage
 + Debenture
+

@@ -12,3 +12,4 @@
 
 ## Cash flow forecast
 ![[Pasted image 20260624093441.png]]
+

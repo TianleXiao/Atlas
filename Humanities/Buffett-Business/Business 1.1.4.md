@@ -15,8 +15,6 @@
   Worker Safety
   Customer data collection and usage
 
-
-
 ---
 
 ## Challenges for staring up a business

@@ -47,3 +47,4 @@ For example, if a toy costs \(\$10\) per unit to make and the firm wanted to ear
 - It is suitable for almost all goods and services.
 - It is particularly important and relevant in markets where raw material costs are rising.
 - It is also a valid pricing strategy if customers are prepared to pay a high price for specialist/unique products, in order to maximize profit.
+

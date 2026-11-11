@@ -8,8 +8,6 @@
 - Technology enables better support for managerial decisions.
 - Access to information influences organizational responses to external factors.
 
-
-
 ---
 
 ## Project-Based Organization: Example
@@ -35,8 +33,6 @@ Project Z
   - Department D, × 1 staff
   - Department E, × 1 staff
 
-
-
 ---
 
 ## Project-Based Organization: Advs/Disadvs
@@ -55,8 +51,6 @@ Organization by function — Functional managers
 Matrix organization — Multiple managers
 Project-based organization — Project managers
 
-
-
 ---
 
 ## Shamrock Organization: Outsourced Vendors
@@ -71,3 +65,4 @@ Challenges:
 - While outsourcing provides expertise, it can be costly, and workers in such roles often lack job security and therefore lower morale may lead to lower productivity due to the temporary and project-based nature of their positions.
 
 hire → outsource
+

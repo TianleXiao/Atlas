@@ -6,8 +6,6 @@
 - Security needs (or safety needs)--Security needs include predictability (daily structure and routine) and order (protection from harm).
 - Social needs (or love and belonging needs)--Business applications of social needs include opportunities to work in teams, and compliance with antidiscrimination laws (which help to promote a sense of worth and belonging at work).
 
-
-
 ---
 
 ## Maslow's Hierarchy & Business Application (2)
@@ -22,8 +20,6 @@ Internal esteem needs indicate that people need to feel good about themselves. E
 - Internal promotion, rather than recruiting someone from outside the organization, can improve staff morale as this shows that employers have faith in the existing workforce.
 - Training and development opportunities suggest that the organization values its people.
 
-
-
 ---
 
 ## Maslow's Hierarchy & Business Application (3)
@@ -34,8 +30,6 @@ Self-actualization refers to the forces that drive people to become the best tha
 
 - Businesses can encourage this by providing opportunities for personal development and promotion.
 - Maslow argued that people who achieve self-actualization are democratic in their outlook because to reach self-fulfillment, a person must have the freedom over what they do to exploit their talents and in a way that only they know best.
-
-
 
 ---
 
@@ -53,3 +47,4 @@ Hierarchy diagram labels (bottom to top):
 - LOVE AND BELONGING
 - ESTEEM
 - SELF ACTUALIZATION
+

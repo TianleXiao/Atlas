@@ -39,3 +39,4 @@ The marketing function will discuss and negotiate with:
 - the human resources function over the number and skills of staff required.
 - the R&D function over what problems to solve and what products the market needs or wants.
 The other functions may also be affected by changes in marketing. For example, actions which increase demand may require more staff and capital investment to increase capacity. The functions of a business must, therefore, work together, collaborate, cooperate and coordinate their decisions for it to be successful.
+

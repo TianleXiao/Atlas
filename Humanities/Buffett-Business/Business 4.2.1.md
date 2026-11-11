@@ -47,3 +47,4 @@ However, marketing plans also have limitations. Disadvantages of marketing plans
 - Time and money are used to ensure the marketing plans are prepared in a comprehensive way. This comes at an opportunity cost, i.e. the money and resources could have been better spent on other areas of the business.
 - Marketing planning might not be realistic for smaller firms to use due to their very limited marketing budgets. Hence, the value of marketing planning is somewhat questionable for such firms.
 - Even the best prepared and most thorough of plans are used only as a guide in business decision-making. The marketing plan can become outdated very quickly, and is unlikely to be followed too rigidly, as the organization will need to adjust its strategies as unforeseen opportunities and threats in the external business environment arise.
+

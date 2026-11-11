@@ -12,3 +12,4 @@ Shamrock diagram labels:
 Professional core
 Contingent workforce
 Outsourced vendors
+

@@ -16,8 +16,6 @@ The gross profit margin is the percentage of the business’s revenue which is g
 - The gross profit margin is a good indicator of how effectively managers have ‘added value’ to the cost of sales.
 $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 
-
-
 ---
 
 ## Roce: return on capital employed
@@ -46,3 +44,4 @@ A firm can improve its GPM ratio by reducing its direct costs. Such methods incl
 - **Cutting direct material costs**, perhaps by using cheaper suppliers and/or cheaper materials. However, cost-cutting can have a negative effect on the perceived quality of the good or service.
 - **Cutting direct labour costs**, i.e. reduce staffing costs by cutting the number of staff or by getting staff to do more (for the same pay). However, this method can cause resentment and demotivation.
 - **Outsourcing production or other operations to third-party suppliers**. This helps the firm to benefit from using external providers that can offer specialized services in a more cost-effective way.
+

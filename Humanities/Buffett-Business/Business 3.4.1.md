@@ -73,9 +73,8 @@ Either cash, a cash equivalent, or anything which can be converted into cash wit
     - Historical financial performance
     - Financial security
 
-
-
 ---
 
 ## Vocabulary
 + Breakeven
+

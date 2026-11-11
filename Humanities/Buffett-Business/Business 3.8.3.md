@@ -49,3 +49,4 @@ To calculate the PBP (when the net cash flow or contribution is not a fixed amou
 4. Find the shortfall to reach payback in the previous year (\( \$78,000 - \$74,000 \)), i.e. the initial amount spent on the investment minus the cumulative NCF in the previous year before reaching payback.
 5. Divide the difference found in Step 4 by the answer in Step 3, i.e. \( \$4,000 \div \$2,000 = 2 \) months. Hence, the PBP for Thornton Inc. is 3 years and 2 months.
 ![[fbc3af46b5cdf503a4d142015f17db11.jpg]]
+

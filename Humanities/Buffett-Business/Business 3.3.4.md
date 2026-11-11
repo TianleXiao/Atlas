@@ -15,8 +15,6 @@ $$
 - \( Q \) = Quantity Sold
 - \( P \) = Price Per Unit
 
-
-
 ---
 
 ## Average Revenue Formula
@@ -80,3 +78,4 @@ Revenue does not only come from the sale of goods and services. Money can come i
 
 ## Vocabulary
 + Sponsor
+

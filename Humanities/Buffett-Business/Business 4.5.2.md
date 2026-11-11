@@ -54,3 +54,4 @@ iPod sales in units and as a percentage of Apple's total revenue*
 - A high price might be set in an attempt to recoup the costs of R&D, especially if there is very limited competition in the market. Alternatively, for some products, a low price may be suitable to establish itself in an existing market and/or to gain market share.
 - There are limited distribution channels as the product is targeted at early adopters and most customers are not aware of the product.
 - Investment costs will be high (especially for marketing purposes), profit will be negative, and cash flow will be negative but more favourable as the product generates some sales growth.
+

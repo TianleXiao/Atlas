@@ -26,8 +26,6 @@
     + Limited promotional opportunities
     + Slower decision-making
 
-
-
 ---
 
 ## Symbols
@@ -50,3 +48,4 @@
 + Corporation
 + Corporative
 + Hyphen
+

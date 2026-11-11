@@ -15,8 +15,6 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 
 **Public:** 1.People 2.Government
 
-
-
 ---
 
 ## Firms By Size (Output)
@@ -25,8 +23,6 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + Medium (50~249)
 + Large (250+)
 [Number means employees]
-
-
 
 ---
 
@@ -44,3 +40,4 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + Bankrupt
 + Sue
 + Lawsuit
+

@@ -38,3 +38,4 @@ $$
 \text{Market share \%} = \frac{\text{firm's sales}}{\text{total sales in the market}} \times 100
 $$
 A common business objective of many firms is to increase their market share, as this is an indication that their marketing strategies have been successful and they have gained a competitive edge over their rivals. The firm with the largest market share in the industry is known as the market leader.
+

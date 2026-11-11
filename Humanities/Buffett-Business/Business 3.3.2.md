@@ -40,3 +40,4 @@ $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  
 + Operations C
 + Marketing P
 + HR P
+

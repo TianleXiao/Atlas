@@ -64,3 +64,4 @@ Although the use of cash-flow forecasts can help businesses to plan and manage t
 
 ## Vocabulary
 + Salaries
+

@@ -8,8 +8,6 @@
    + Price wars
    + Oil crisis
 
-
-
 ---
 
 ## SWOT Analysis Adv/ Disadv
@@ -21,8 +19,6 @@
 | SWOT analysis helps to determine the organization’s position in the market and therefore adds the formulation of business strategy for its long-term survival. | The analysis is only useful if decision makers are open about the weaknesses and willing to act upon them, i.e. devoting time, people and money to tackling weaknesses and threats. |
 | It encourages foresight and proactive thinking in the decision-making process. | SWOT analysis is not typically used in isolation. Better decisions are made if more information is available, so other strategic tools are also used. |
 | It can help reduce the risks of decision-making by demanding objective and logical thought processes. | |
-
-
 
 ---
 
@@ -41,3 +37,4 @@
 ## Vocabulary
 
 + Criticism
+

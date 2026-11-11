@@ -12,8 +12,6 @@
     - Telephone companies charge a basic service fee on a monthly basis but extra for additional services.
     - Cable and satellite television providers charge monthly fees.
 
-
-
 ---
 
 ## Revenue Streams — Merchandise
@@ -25,8 +23,6 @@
 - Being a shareholder of other companies entitles a business to payments of any declared dividends.
     E.g.
     - Europe's largest car maker Volkswagen holds shares in Porsche, Suzuki, and Scania (the Swedish maker of heavy trucks and buses).
-
-
 
 ---
 
@@ -50,3 +46,4 @@
   E.g.
   - The Hong Kong government agreed to pay the English Schools Foundation a fixed annual subvention of HK$283 million ($36.5 million) as a revenue stream in addition to its school fees from 2003 to 2016.
 - Grants are also often given to help fund research and development.
+

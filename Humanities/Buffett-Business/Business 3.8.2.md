@@ -51,3 +51,4 @@ The amount of time it takes to recover the cost of an investment.
 - **Discounted cash flow (NPV)**
   - Net present value ("NPV") calculates the monetary value now of the project's future cash flows
   - Monetary Value ($)
+

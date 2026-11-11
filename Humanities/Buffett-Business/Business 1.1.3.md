@@ -18,8 +18,6 @@ The size of a country's different sectors of business activity often indicates i
 
 Businesses do not operate in isolation
 
-
-
 ---
 
 ## Internal vs External Factors Affecting a Business
@@ -64,7 +62,3 @@ Changes in the external environment will create opportunities as well as challen
 + **Extent**
 + **Robotization**
 
-
-
-
- 

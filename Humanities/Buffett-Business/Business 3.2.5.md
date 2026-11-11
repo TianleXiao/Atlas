@@ -48,3 +48,4 @@ Business angels look at a number of criteria before committing their capital in 
 + the need to retain control,
 + the level of existing debt,
 + the cost of the finance and the use to which the funds are to be put.
+

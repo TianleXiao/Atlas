@@ -1,8 +1,6 @@
 ## Elkington's Triple Bottom Line
 ![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
 
-
-
 ---
 
 ## CSR
@@ -52,8 +50,6 @@ It can be used to assess the current situation of a business by considering both
   + Higher cost of production
   + Products less well known to the new generation.
 
-
-
 ---
 
 ## Vocabulary
@@ -62,3 +58,4 @@ It can be used to assess the current situation of a business by considering both
 + Steeple
 + State of the art (technology)
 + Spy
+

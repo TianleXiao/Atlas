@@ -40,3 +40,4 @@
 - **Key selling point(s)** - what makes the organization, its products, or its brands better than others.
 - **Key difference(s)** from competitors - what makes the products or brand stand out from the competition.
 - **Competitive advantage** - what makes the organization attractive to customers, such as its reputation or area of expertise in a particular market.
+

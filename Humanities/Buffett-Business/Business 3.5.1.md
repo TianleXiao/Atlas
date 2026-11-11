@@ -45,8 +45,6 @@ The purpose of ratio analysis is to:
 - Aid decision-making, e.g.
     - whether investors should risk their money by investing in the business.
 
-
-
 ---
 
 ## Diagram:
@@ -91,9 +89,8 @@ $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 The gross profit margin is the percentage of the business's revenue which is gross profit (profit before the deduction of expenses).  
 → The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
 
-
-
 ---
 
 ## Vocabulary
 + mediocrity
+

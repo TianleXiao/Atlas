@@ -43,3 +43,4 @@ Interviews are usually conducted face-to-face, using online technologies (such a
 - Interpreting information to support your existing belief
 - Only remembering details that uphold your belief
 - Ignoring information that challenges your belief
+

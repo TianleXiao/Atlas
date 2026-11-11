@@ -9,8 +9,6 @@
 
 **Specialist markets:** Some large industries have specialist selling places and arrangements such as eyewear markets, electronics markets, factory outlets, shopping malls, etc.
 
-
-
 ---
 
 ## Internal Diseconomies of Scale
@@ -33,3 +31,4 @@
 
 ## Vocabulary
 + Congestion
+

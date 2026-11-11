@@ -25,3 +25,4 @@ These are long-term sources of finance obtained from commercial lenders such as 
 **Disadvantages:**
 - Issuing debentures increases a firm’s **gearing (Unit3.6)**. This means the firm has more borrowing as a percentage of its capital employed.
 - This raises interest payments to the lender and increases the firm’s exposure to risk if interest rates increase.
+

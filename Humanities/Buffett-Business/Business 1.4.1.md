@@ -22,8 +22,6 @@
 | **Government**                      | The correct collection and payment of taxes (e.g. VAT)<br>Helping the business to grow – creating jobs<br>Compliance with business legislation                                                   |
 | **Society**                         | Success of the business – particularly creating and retaining jobs<br>Compliance with local laws and regulations (e.g. noise, pollution)                                                         |
 
-
-
 ---
 
 ## Summary of stakeholders’ roles, rights and responsibilities
@@ -39,10 +37,9 @@
 | **Banks and other lenders** | To be repaid promptly and on time.<br>To charge excessive interest rates or to withdraw loans without a reasonable period of notice. | Not to charge excessive interest rates or to withdraw loans without a reasonable period of notice.|
 | **The local community** | To live in an area that is free from excessive noise or other forms of pollution.<br>To have a say in decisions which impact the local community.<br>To benefit from employment. | To cooperate with the business in its daily activities. |
 
-
-
 ---
 
 ## Vocabulary
 + Promotion
 + Pay back the loan
+

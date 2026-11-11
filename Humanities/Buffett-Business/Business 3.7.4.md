@@ -29,3 +29,4 @@ Cash flow problems arise when an organization has insufficient funds to run its 
 **Overtrading**, i.e. the firm expanding too fast, which increases cash outflows, but not necessarily cash inflows.
 - Unexpected events, such as any crisis, black swan event where unforeseen costs arise rapidly while sales decline.
 - Seasonal fluctuations in demand for the firm's products.
+

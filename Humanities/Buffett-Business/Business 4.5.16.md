@@ -50,3 +50,4 @@ Promotional materials are positioned to provide convenience and easy access for 
 **Disadvantages—**
 Customers may come expecting sales promotions and get disappointed if none are offered.
 Some customers have learned to ignore and avoid the point of sale in many supermarkets and retail stores.
+

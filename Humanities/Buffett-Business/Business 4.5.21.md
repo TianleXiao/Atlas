@@ -13,8 +13,6 @@
 - Khloé Kardashian — 304 million
 - Justin Bieber — 287 million
 
-
-
 ---
 
 ## Top 10 Most Followed People on Twitter
@@ -33,8 +31,6 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - @youtube — 78.87
 - x-axis: Number of followers in millions — 0, 20, 40, 60, 80, 100, 120, 140, 160
 
-
-
 ---
 
 ## P for Place
@@ -48,8 +44,6 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - A distribution channel refers to the path taken to get a product from the producer (or manufacturer) to the consumer.
 - Examples include the use of retailers or vending machines.
 
-
-
 ---
 
 ## Distribution Networks
@@ -61,3 +55,4 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
   - Manufacturer — Customer
 - A one-channel distribution network involves the use of a single intermediary. For example, airlines and hotels may choose to use a travel agent to help sell their flight and accommodation bookings. Coca-Cola and Kraft Foods to sell their products in supermarkets and other retail outlets.
   - Manufacturer — Retailer — Customer
+

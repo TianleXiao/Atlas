@@ -3,8 +3,6 @@
 
 Human Resources Management
 
-
-
 ---
 
 ## Intro to HRM
@@ -19,8 +17,6 @@ Human resource management (HRM) is a broad term used to describe the overall man
 - Effective HRM is vital for any organization to achieve its business objectives.
 
 HR managers play a vital role in ensuring that the right people in the right numbers are hired, at the right time, deployed in the right places, and at the right time.
-
-
 
 ---
 
@@ -38,8 +34,6 @@ Human resource management involves numerous roles or functions, which include:
 - Dismissal - letting go of no longer needed workers, often due to underperformance or misconduct in the workplace.
 - Redundancies - letting go of workers if/when their jobs are no longer needed, perhaps due to a prolonged economic recession.
 - Training & development - improving the competencies, skills and workers' productivity.
-
-
 
 ---
 
@@ -64,3 +58,4 @@ Chart labels:
 
 * includes full-time and part-time employees, excludes contractors and temporary personnel
 Source: Amazon.com
+

@@ -29,3 +29,4 @@ Market leadership or a greater market share is highly desirable because:
   - In general, businesses might prefer faster growth to slower growth because it creates more sales opportunities.
   - In well-established bigger markets, growth may be slow but the numbers involved can still be huge.
 - **E.g. A one per cent growth in the market for laptops is still a large amount of sales because the market is so big, whereas a ten per cent growth of a very small local market might only mean additional sales of a few hundred dollars.**
+

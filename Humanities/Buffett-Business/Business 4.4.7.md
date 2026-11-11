@@ -40,3 +40,4 @@ Media articles are professional documents or articles in print or online media. 
 - News magazines, such as Newsweek, TIME, Businessweek, and The Economist.
 - Business media, such as Businessweek, Fortune, Forbes, and Bloomberg magazine.
 Popular titles such as The New York Times or The Guardian provide access to their content for free. Many sites also offer alert services, whereby breaking news about a selected company or topic can be emailed directly to a user. In addition to this, their large archives are well indexed, making searching for old stories easy.
+

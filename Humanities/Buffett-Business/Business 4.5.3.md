@@ -4,8 +4,6 @@
 
 ## The relationship between the plc and the marketing mix
 
-
-
 ---
 
 ## Growth
@@ -75,3 +73,4 @@ They are used as a product enters or is in the decline stage because the market 
 ## Axes:
 - **Vertical axis:** Sales/Volume
 - **Horizontal axis:** Time
+

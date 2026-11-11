@@ -13,8 +13,6 @@ Enrichment
 Empowerment
 Self-directed Teams
 
-
-
 ---
 
 ## Evaluation of Hertzberg's Work
@@ -25,3 +23,4 @@ Self-directed Teams
 - He used professional workers and skilled engineers in his research sample, so the findings might not be representative of other workers.
 
 PEOPLE ARE DIFFERENT
+

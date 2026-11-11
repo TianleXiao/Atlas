@@ -36,3 +36,4 @@ Prices in niche markets tend to be relatively high because:
 - The lack of substitutes mean that premium prices can be charged in order to gain high profit margins.
 - As markets are small and focused, there are few opportunities for economies of scale.
 As a niche market specifically targets specific market segments, businesses can tailor-make their marketing to appeal to the intended/targeted customer audience. This helps businesses to avoid wasting time and money on marketing activities that are not relevant to this market segment.
+

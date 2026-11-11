@@ -11,8 +11,6 @@ Producer → Agent → Wholesaler → Retailer → Consumers — Three-channel n
 
 Common distribution channels include: direct distribution, agents, retailers, and wholesalers.
 
-
-
 ---
 
 ## Direct Distribution
@@ -26,8 +24,6 @@ Benefits—
 Drawbacks—
 - It relies on the producer to do the marketing to sell the products. This can be time-consuming and costly for the producer, especially if it lacks marketing expertise.
 - The producer also has to be responsible for storage costs and delivery costs.
-
-
 
 ---
 
@@ -44,8 +40,6 @@ Drawbacks—
 - Manufacturers are reliant on a third-party to sell their products.
 - The reputation of the producer could be hindered if an agent delivers poor customer service.
 
-
-
 ---
 
 ## Retailers Advs
@@ -55,3 +49,4 @@ Drawbacks—
 - They tend to attract a large customer base, so helps to increase the sales of the manufacturer.
 - The services provided by retailers allow the producer to concentrate on its core business activity.
 - They also offer convenience (such as the closer location) and customer services that a producer does not have the resources or expertise to do (such as offering a large and wide range of goods). This means customers have a convenient one-stop shopping experience, being able to purchase all their products under one roof.
+

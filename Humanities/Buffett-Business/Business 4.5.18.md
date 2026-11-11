@@ -12,8 +12,6 @@ Through-the-line promotion is an aspect of promotion that relies on the use of c
 03 Fairs & Events
 TTL Through the Line
 
-
-
 ---
 
 ## TTL Promotion (Digital & 360)
@@ -43,8 +41,6 @@ SEO
 SEM
 360
 
-
-
 ---
 
 ## 360 Digital Marketing
@@ -56,8 +52,6 @@ SEM
 Home Furniture — 40% OFF
 18 Standard Size
 
-
-
 ---
 
 ## 360 Digital Marketing
@@ -66,3 +60,4 @@ Home Furniture — 40% OFF
 - Many organizations have set up a 'frequently asked questions' (FAQs) section on their website to pass on important information to clients.
 - Mass emails can also be sent to potential and existing clients, especially as email can be a very cost-effective form of promotion.
 - However, internet technologies have meant that marketers have to be ever-more creative in their promotional campaigns in order to stand out from the mass advertising clutter on the Internet.
+

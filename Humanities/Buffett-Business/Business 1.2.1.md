@@ -6,8 +6,6 @@
  + Market
  + Mixed
 
-
-
 ---
 
 ## Market Economy Features
@@ -26,13 +24,9 @@
 | **Shortage** | $D > S$ | Market imbalance where quantity demanded exceeds quantity supplied. |
 | **Surplus** | $S > D$ | Market imbalance where quantity supplied exceeds quantity demanded. |
 
-
-
 ---
 
 ## 4 Core Market Scenarios
-
-
 
 ---
 
@@ -81,3 +75,4 @@
     * **Increased Input Costs:** Raw materials become significantly more expensive, forcing producers to cut output and raise prices.
     * **Government Regulations:** New regulations restrict production volume.
 * **Outcome:** A **Shortage** occurs. The high price may eventually incentivize more production or cause consumers to seek substitutes, slowly restoring balance.
+

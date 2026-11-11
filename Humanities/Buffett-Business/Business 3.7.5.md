@@ -22,8 +22,6 @@ strategies to reduce cash outflows, strategies to increase cash inflows, and str
 
 ## Strategies to increase cash inflows
 
-
-
 ---
 
 ## Possible strategies to increase cash inflows include:
@@ -48,3 +46,4 @@ strategies to reduce cash outflows, strategies to increase cash inflows, and str
   This shortens the working capital cycle.
 - Improved marketing strategies to attract customers, raise brand awareness, boost sales and develop customer loyalty.
 - Use a debt factoring service where banks/financiers provide up to 80% of the value of a business's debts in cash immediately, then deal directly with outstanding debtors.
+
