@@ -40,4 +40,3 @@ Demography is the study of population and population trends. Demographic change 
 - Average household income
 - Gender distribution
 - Official retirement age in the country
-
