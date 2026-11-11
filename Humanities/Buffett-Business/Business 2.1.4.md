@@ -7,7 +7,9 @@
 - Net social benefits - The majority of migrants are of working age. They are likely to pay income tax (good news for the government and the general public). It also means they have income to spend on goods and services (good for marketers).
 
 
+
 ---
+
 ## External Factors That Influence HR Planning — Flexi-Time
 ![[Pasted image 20261020093428.png]]
 
@@ -17,7 +19,9 @@ Flexi-time is a form of flexible work practice that enables employees to work a 
 - However, flexi-time suffers from similar disadvantages to teleworking, such as the potential lack of accountability and productivity, as well as costs implications if managers have to check and approve flexi-time staff's claimed and worked hours.
 
 
+
 ---
+
 ## External Factors That Influence HR Planning — The Gig Economy
 ![[Pasted image 20261020093444.png]]
 
@@ -39,7 +43,9 @@ In 2021, a report by the McKinsey Global Institute (MGI) suggested that more tha
 This gig/freelance trend was accelerated across the world following national lockdowns and safety measures introduced during the global coronavirus pandemic.
 
 
+
 ---
+
 ## External Factors That Influence HR Planning — The Gig Economy (Advantages)
 ![[Pasted image 20261020093507.png]]
 

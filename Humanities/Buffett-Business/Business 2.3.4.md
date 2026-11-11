@@ -17,7 +17,10 @@ Disadvantages:
 - It can be time consuming to consult everyone.
 - Some issues might be too sensitive (layoff labour) or too secret (new product development)
 
+
+
 ---
+
 ## Leadership Styles: Laissez-Faire
 ![[3ee53bda5d9d6c274cb989a50b34cef2.jpg]]
 
@@ -29,7 +32,10 @@ The term 'laissez-faire' is French for 'let go' or 'let them be' (let them be).
 - Laissez Faire
 - Do it anyway what you feel is right!!
 
+
+
 ---
+
 ## Leadership Styles: Situational
 ![[da27021b3a324708af047d978ae8147d.jpg]]
 
@@ -48,7 +54,10 @@ Disadvantages:
 - If workers become used to a particular leadership style, they may become disheartened and disturbed if the leader changes their style.
 - Most leaders have a preferred or natural leadership style, so changing or adopting a different style can be difficult for them.
 
+
+
 ---
+
 ## Effective Leadership Style
 ![[0d90e431894d94b39f05d8cd2a0b701b.jpg]]
 

@@ -1,11 +1,15 @@
 ## Business Objectives
 LLCs (UK) must state their objectives in the Memorandum of Association. In a partnership, partners should agree on the direction of their business.
 + Ltd (US)
+
 ---
+
 ## The Impact of Objectives
 + Having an objective can be very motivating to employees, since they know what they are doing and why, and how this fits in with the overall strategy.
 + However, objectives can be demotivating for the workforce if they are perceived as unrealistic or unattainable.
+
 ---
+
 ## Business Objectives Examples
 + Survival
 + Profit maximization
@@ -20,11 +24,17 @@ LLCs (UK) must state their objectives in the Memorandum of Association. In a par
 + Improved competitiveness
 + Improved corporate reputation
 + Diversification
+
 ---
+
 ## S.M.A.R.T Objectives
 Clear business objectives help to direct, control and review the success (or not) of business activity.
  **S.M.A.R.T:** Specific, Measurable, Achievable, Relevant, Time-bound
+
+
+
 ---
+
 ## S.M.A.R.T Objectives Example
 + **Specific:** Who and what? 
   + A sweet shop may set sales targets for a specific bar of chocolate.
@@ -36,7 +46,11 @@ Clear business objectives help to direct, control and review the success (or not
   + The objective is relevant and realistic to the marketing manager, but it may not align with the overall business strategy.
 + **Time-bound:** When?
   + Increase candy sales by 20% within the next 2.5 months.
+
+
+
 ---
+
 ## Vocabulary
 + Rare earth minerals
 + Biodegradable

@@ -14,7 +14,9 @@ Empowerment
 Self-directed Teams
 
 
+
 ---
+
 ## Evaluation of Hertzberg's Work
 ![[ce24eec2f8629fa720ddacf86b268d3e.jpg]]
 

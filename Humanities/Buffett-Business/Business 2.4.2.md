@@ -7,7 +7,9 @@
 homo oeconomicus?
 
 
+
 ---
+
 ## Taylor's Scientific Management Theory – How to Improve Output per Worker
 ![[68eda436461c467d8252f4f293845e61.jpg]]
 
@@ -20,7 +22,9 @@ How to improve output per worker—
 - Pay workers on the basis of the results.
 
 
+
 ---
+
 ## Taylor's Approach: Limitations / Relevance to Modern Industry
 ![[0aa992f478ff358ff5bc1c7286d9bf84.jpg]]
 
@@ -38,7 +42,9 @@ festgelegte Präferenzen
 QUALITY HAS MOVED ACROSS THE STREET
 
 
+
 ---
+
 ## Maslow's Hierarchy (1943)
 ![[c942d5aa41d76a8aa7f658aadb7c3cbe.jpg]]
 

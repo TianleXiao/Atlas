@@ -12,7 +12,9 @@ Disadvantages—
 - In many countries, there may also be legal issues surrounding the use and storage of private data.
 
 
+
 ---
+
 ## Customer Loyalty Schemes
 ![[5c378e67d77ea8b962c17793a1a04a58.jpg]]
 
@@ -29,7 +31,9 @@ Points Program
 Tier Program
 
 
+
 ---
+
 ## Merchandising
 ![[4e921e5ab1ca81dcb888f44a8a9c1506.jpg]]
 
@@ -44,7 +48,9 @@ Disadvantages—
 - Merchandising incurs additional costs, such as the costs of setup and adjustment of stock control systems.
 
 
+
 ---
+
 ## Sales Promotion
 ![[7e3ced22b362926ec378fbf274aeadde.jpg]]
 

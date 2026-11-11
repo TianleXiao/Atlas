@@ -10,7 +10,9 @@ Leadership is the process of influencing and inspiring others to achieve organiz
 Leadership is Action not.. position
 
 
+
 ---
+
 ## What's a Good Leader?
 ![[d8920e5edcd934e96d84a48c974ed214.jpg]]
 
@@ -29,7 +31,9 @@ The modern view of a 'good' leader
 - Flexible and able to flourish in a changing environment.
 
 
+
 ---
+
 ## Styles of Leadership
 ![[b2b9d188dc316f02cfbe00ed919b2882.jpg]]
 
@@ -40,7 +44,9 @@ The modern view of a 'good' leader
 - Situational — The leader is willing and able to change leadership style according to the situations being faced.
 
 
+
 ---
+
 ## Leadership Styles: Autocratic
 ![[b412e9bdda573cb4c0c2303480e203f7.jpg]]
 

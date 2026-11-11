@@ -9,7 +9,9 @@ Diagram: one manager node above eight subordinate nodes
 Wide span of control
 
 
+
 ---
+
 ## Levels Of Hierarchy
 ![[1e58fea3d629e92fcbb49ab2c74d7639.jpg]]
 
@@ -21,7 +23,9 @@ Pyramid: CEO → Board of Directors → Middle Management → Supervisors and Te
 Organisational chart showing one head figure, two second-level figures, and multiple lower-level branches
 
 
+
 ---
+
 ## Bureaucracy
 ![[6248aef9a4e9a5c5ebb40a992ad3b206.jpg]]
 
@@ -30,7 +34,9 @@ Organisational chart showing one head figure, two second-level figures, and mult
 - Bureaucracy is often associated with excessive administration, paperwork and formalities.
 
 
+
 ---
+
 ## Principles In A Bureaucratic Organization
 ![[d4dc65a0112355de91943e035e5242bc.jpg]]
 

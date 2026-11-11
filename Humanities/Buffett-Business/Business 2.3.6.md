@@ -16,4 +16,6 @@ Range of behaviour
 - Manager presents problem, gets suggestions and makes decision
 - Manager defines limits and asks group to make decision
 - Manager permits group to function independently within defined limits
+
 ---
+

@@ -5,11 +5,17 @@
  + Command
  + Market
  + Mixed
+
+
+
 ---
+
 ## Market Economy Features
 + All resources are owned and allocated by private individuals.
 + Government refrains from regulating markets.
+
 ---
+
 ## 🔑 Key Terminology
 
 | Term | Symbol | Definition |
@@ -20,10 +26,16 @@
 | **Shortage** | $D > S$ | Market imbalance where quantity demanded exceeds quantity supplied. |
 | **Surplus** | $S > D$ | Market imbalance where quantity supplied exceeds quantity demanded. |
 
----
-## 4 Core Market Scenarios
+
 
 ---
+
+## 4 Core Market Scenarios
+
+
+
+---
+
 ## 1. High Demand, Low Price ($D \uparrow, P \downarrow$)
 
 * **Scenario Type:** **Short-term Disequilibrium** or **Promotional Event**.
@@ -33,7 +45,9 @@
     * **Market Inflexibility:** Prices have not yet adjusted to the sudden surge in demand (lag).
     * **Government Intervention:** Price controls or subsidies keep the price artificially low.
 * **Outcome:** **Shortage** (Demand > Supply) will quickly ensue, forcing either price hikes or stock depletion.
+
 ---
+
 ## 2. Low Demand, Low Price ($D \downarrow, P \downarrow$)
 
 * **Scenario Type:** **New Equilibrium at a Lower Level** or **Market Contraction**.
@@ -43,7 +57,9 @@
     * **Recession/Economic Downturn:** Consumers' purchasing power decreases.
     * **Obsolescence:** The product loses relevance (e.g., outdated technology).
 * **Outcome:** Producers may reduce output ($S \downarrow$) or exit the market to achieve a new, lower equilibrium price and quantity.
+
 ---
+
 ## 3. High Supply, Low Price ($S \uparrow, P \downarrow$)
 
 * **Scenario Type:** **Surplus (Overproduction)**.
@@ -53,7 +69,9 @@
     * **New Entrants:** Many new competitors enter the market, collectively increasing $S$.
     * **Overestimation of Demand:** Producers anticipated higher demand than materialized.
 * **Outcome:** A **Surplus** occurs. Prices will continue to fall until the lower price point stimulates enough new demand to reach equilibrium.
+
 ---
+
 ## 4. Low Supply, High Price ($S \downarrow, P \uparrow$)
 
 * **Scenario Type:** **Shortage (Scarcity)**.

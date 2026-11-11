@@ -7,7 +7,11 @@
    + Change in fashion
    + Price wars
    + Oil crisis
+
+
+
 ---
+
 ## SWOT Analysis Adv/ Disadv
 
 | Advantages | Disadvantages |
@@ -18,7 +22,10 @@
 | It encourages foresight and proactive thinking in the decision-making process. | SWOT analysis is not typically used in isolation. Better decisions are made if more information is available, so other strategic tools are also used. |
 | It can help reduce the risks of decision-making by demanding objective and logical thought processes. | |
 
+
+
 ---
+
 ## Conceptualization
 **Conceptual understandings:**
 + **Change** is essential for businesses to achieve their desired aims. For example, it may be appropriate to set more environmental objectives these days.
@@ -28,7 +35,9 @@
 + **Ethical** business behavior improves a business’s image as well as customer loyalty. For example, a decision to contribute some of the business profits to charities may be well received by customers.
 
 + **Sustainable** business practices can enhance a business’s existence. For example, finding ways of people sharing resources can create new markets such as ride-hailing apps.
+
 ---
+
 ## Vocabulary
 
 + Criticism

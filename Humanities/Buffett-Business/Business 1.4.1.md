@@ -1,11 +1,15 @@
 ## Stakeholders
 **Jack Ma, co-founder of Alibaba Group:**
 **"If the customer is happy, the business is happy, and the shareholders are happy."** 
+
 ---
+
 ## Internal VS External Stakeholders
 ![enter image description here](https://textimgs.s3.amazonaws.com/DE/introbus/kcn8-mubms77i)
 + Stakeholders are groups or individuals who have a vested interest in a business.
+
 ---
+
 ## Stakeholders’ Interests
 
 | Stakeholder                         | Mainly interested in...                                                                                                                                                                          |
@@ -18,7 +22,10 @@
 | **Government**                      | The correct collection and payment of taxes (e.g. VAT)<br>Helping the business to grow – creating jobs<br>Compliance with business legislation                                                   |
 | **Society**                         | Success of the business – particularly creating and retaining jobs<br>Compliance with local laws and regulations (e.g. noise, pollution)                                                         |
 
+
+
 ---
+
 ## Summary of stakeholders’ roles, rights and responsibilities
 
 | Stakeholders | Possible rights include | Possible responsibilities include |
@@ -32,7 +39,10 @@
 | **Banks and other lenders** | To be repaid promptly and on time.<br>To charge excessive interest rates or to withdraw loans without a reasonable period of notice. | Not to charge excessive interest rates or to withdraw loans without a reasonable period of notice.|
 | **The local community** | To live in an area that is free from excessive noise or other forms of pollution.<br>To have a say in decisions which impact the local community.<br>To benefit from employment. | To cooperate with the business in its daily activities. |
 
+
+
 ---
+
 ## Vocabulary
 + Promotion
 + Pay back the loan
