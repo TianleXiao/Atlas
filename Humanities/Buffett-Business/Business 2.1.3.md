@@ -48,3 +48,4 @@ Country | Men | Women
 - Migrant workers are people who move to other locations or countries in search of job opportunities. The influx of migrant workers from overseas can provide many business opportunities, such as:
   - Easing of skills shortages - Hiring skilled migrants has two advantages. First, they take on jobs that cannot be filled by domestic workers, perhaps due to a lack of willingness or skills (ability). Secondly, the pool of migrant workers helps to keep wage costs down.
   - Flexible work structures - Businesses are able to open for longer hours due to workforce flexibility. Migrants add to the supply of staff willing to work part-time or shift work. This is good for businesses which have outlets that open 24-hours a day, such as 7-11 convenience stores, gas stations and hotels.
+

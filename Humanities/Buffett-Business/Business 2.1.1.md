@@ -55,3 +55,4 @@ Chart labels:
 
 * includes full-time and part-time employees, excludes contractors and temporary personnel
 Source: Amazon.com
+

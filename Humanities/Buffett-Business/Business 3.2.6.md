@@ -3,9 +3,23 @@
 - Long-term sources of finance are those that are needed over a longer period of time, usually over a year.
 ![[Humanities/Buffett-Business/Assets/5.png]]
 
+Internal sources of finance vs external sources of finance, split by timescale:
+
+| | Short-term sources of finance | Long-term sources of finance |
+| --- | --- | --- |
+| Internal sources | Retained profits | Retained profits, Sale of assets |
+| External sources | Overdrafts, Trade credit | Loan capital, Crowdfunding, Microfinance, Business angels, Share capital, Leasing |
+
 ---
 ## The Business's Legal Structure
 ![[Humanities/Buffett-Business/Assets/6.png]]
+
+| Legal form of business | Possible sources of finance | Key issues for consideration |
+| --- | --- | --- |
+| Sole trader | Personal funds, leasing, overdrafts, microfinance providers, loan capital, trade credit, crowdfunding, business angels and venture capital | Availability of collateral; Loss of control by owner; Evidence that business has potential to develop; Financial history of business/owner |
+| Partnership | Partners' personal funds, leasing, overdrafts, loan capital, microfinance providers, trade credit, crowdfunding, business angels and venture capital | Availability of collateral; Loss of control by partners; Financial history and reputation of the business |
+| Privately held company | Dependent upon the size of the privately held company: trade credit, leasing, crowdfunding, overdrafts, loan capital, business angels and venture capital, private share issues | Disagreement among existing shareholders; Difficulty finding suitable shareholders; Loss of control by existing shareholders; Lack of collateral and security for those lending funds; Element of risk in the loan |
+| Publicly held company | Trade credit, loan capital, overdrafts, leasing, venture capital, public share issues via the stock exchange | State of economy and stock market; Ability to move to area receiving government aid; Recent financial performance; Reputation of company and senior managers |
 
 ---
 ## The Cost of the Source of Finance

@@ -40,3 +40,4 @@ External economies of scale occur when firms benefit from the entire industry be
 + Optimizing
 + Logistics
 + Collateral
+

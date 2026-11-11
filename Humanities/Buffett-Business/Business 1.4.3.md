@@ -1,5 +1,6 @@
 ![alt text](1.png)
 ![alt text](Humanities/Buffett-Business/Assets/2.png)
+
 ---
 ## The Stakeholder Map
 ![alt text](Humanities/Buffett-Business/Assets/3.png)
@@ -12,3 +13,4 @@ The more well-organized that a stakeholder group is, the more that managers need
 ## Vocabulary
 + Components
 + Utmost best
+

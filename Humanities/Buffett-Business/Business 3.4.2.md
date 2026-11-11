@@ -28,6 +28,26 @@
 ## Statement of profit or loss
 ![[lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png]]
 
+STATEMENT OF PROFIT OR LOSS - the contents of a statement of profit and loss for XYZ Ltd, a profit-making entity.
+
+The statement of profit or loss, commonly known as the profit and loss account, shows a firm's profit (or loss) after all production costs have been subtracted from the organization's revenues, each year.
+
+A profit and loss (P&L) statement is a financial statement that outlines a company's revenue, costs, and expenses over a specified period of time.
+
+Figure 3.4.2 The format of a statement of profit or loss (with annotations)
+
+| Item | Note |
+| --- | --- |
+| Business revenue from sales |
+| minus Cost of sales such as fuel and raw materials | Cost of sales is often referred to as 'direct costs'. |
+| gives Gross profit | Gross profit is a broad measure of profit that ignores some costs. |
+| minus Expenses such as rent and managers' salaries | Other examples include wages for administration and security staff. |
+| gives Profit before interest and tax |
+| minus net interest |
+| gives Profit before tax | Businesses in most countries pay tax on profits made. |
+| minus tax |
+| gives Profit for period | This can be retained in the business or paid to shareholders. |
+
 ---
 ## Vocabulary
 + After sale
