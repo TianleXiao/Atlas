@@ -1,5 +1,4 @@
----
-### Distribution Networks
+## Distribution Networks
 ![[Pasted image 20261016151958.png]]
 
 - A two-channel distribution network involves the use of two intermediaries, usually wholesalers and retailers. This method is appropriate for products that are mass-produced, such as fast-moving consumer goods (FMCGs) found in supermarkets, and when goods need to be distributed over long geographical distances. For example, supermarkets in the cities and small convenience stores in remote areas of a country.
@@ -12,9 +11,7 @@ Producer → Agent → Wholesaler → Retailer → Consumers — Three-channel n
 
 Common distribution channels include: direct distribution, agents, retailers, and wholesalers.
 
----
-
-### Direct Distribution
+## Direct Distribution
 ![[Pasted image 20261016152019.png]]
 
 Benefits—
@@ -28,7 +25,7 @@ Drawbacks—
 
 ---
 
-### Agents
+## Agents
 ![[Pasted image 20261016152036.png]]
 
 Benefits—
@@ -43,7 +40,7 @@ Drawbacks—
 
 ---
 
-### Retailers Advs
+## Retailers Advs
 ![[Pasted image 20261016152053.png]]
 
 - Retailers take responsibility for marketing the manufacturer's products.

@@ -1,5 +1,4 @@
----
-### Impact of External Factors
+## Impact of External Factors
 ![[f47ffb80f1a02c7b90c879b5feb94207 5.jpg]]
 
 - Managers question organizational structures due to external factors like mergers, technology, or intense competition.
@@ -9,9 +8,7 @@
 - Technology enables better support for managerial decisions.
 - Access to information influences organizational responses to external factors.
 
----
-
-### Project-Based Organization: Example
+## Project-Based Organization: Example
 ![[ee7565979a2d2d5f9a2ee8f9a7bbdede.jpg]]
 
 - In the example below, 3 concurrent projects are managed by separate project managers in the organization, each overseeing 8 team members redeployed from different departments.
@@ -34,9 +31,7 @@ Project Z
   - Department D, × 1 staff
   - Department E, × 1 staff
 
----
-
-### Project-Based Organization: Advs/Disadvs
+## Project-Based Organization: Advs/Disadvs
 ![[5feb0d2f606d8ce350c9255284854888.jpg]]
 
 Advantages:
@@ -54,7 +49,7 @@ Project-based organization — Project managers
 
 ---
 
-### Shamrock Organization: Outsourced Vendors
+## Shamrock Organization: Outsourced Vendors
 ![[9ede8b8327266b01c1382c5c184cdd02.jpg]]
 
 Outsourced vendors, also known as outsourced workers or contractual fringe, are individuals or organizations hired on a contract basis for specific non-core roles like security, catering, accounting, or marketing.

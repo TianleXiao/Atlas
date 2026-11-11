@@ -1,5 +1,4 @@
----
-### Atl-Btl-Ttl
+## Atl-Btl-Ttl
 ![[Pasted image 20261016151618.png]]
 
 **Above the Line**
@@ -22,9 +21,7 @@
 - Uses less conventional method than the usual ATL channels of advertising, typically focusing on direct mean of communication
 - The effect on sales can be measured immediately
 
----
-
-### Social Media Marketing (Smm)
+## Social Media Marketing (Smm)
 ![[Pasted image 20261016151645.png]]
 
 "If you do build a great experience, customers tell each other about that. Word of mouth is very powerful."
@@ -58,7 +55,7 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
 
 ---
 
-### Social Media Marketing (Smm)
+## Social Media Marketing (Smm)
 ![[Pasted image 20261016151702.png]]
 
 - SMM enables users to use social media platforms to directly promote their goods and services. It is often considered as a 'one to many' method of online communication and promotion, with the user owning the content (even if others can respond with 'likes' or personal comments).
@@ -68,7 +65,7 @@ Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid
 
 ---
 
-### Smm Viral Marketing
+## Smm Viral Marketing
 ![[Pasted image 20261016151723.png]]
 
 Viral marketing is the creative use of social media sites to increase brand awareness or sell products.
