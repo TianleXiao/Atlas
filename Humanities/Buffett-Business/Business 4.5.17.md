@@ -11,7 +11,6 @@ Disadvantages—
 - There can be complications with the use of email for promotional purposes. For example, many customers perceive emails as unsolicited marketing messages (known as online spam).
 - In many countries, there may also be legal issues surrounding the use and storage of private data.
 
----
 ## Customer Loyalty Schemes
 ![[5c378e67d77ea8b962c17793a1a04a58.jpg]]
 
@@ -27,9 +26,8 @@ Disadvantages—
 Points Program
 Tier Program
 
----
 
-### Merchandising
+## Merchandising
 ![[4e921e5ab1ca81dcb888f44a8a9c1506.jpg]]
 
 Merchandising is any practice which contributes to the sale of products to a retail consumer. At a retail in-store level, merchandising refers to displaying products that are for sale in a creative way that entices customers to purchase more items or products. It is commonly used by operators of amusement parks (theme parks) such as Universal Studios and the Walt Disney Company.
@@ -42,9 +40,8 @@ Disadvantages—
 - Some retailers, such as supermarkets, use a lot of merchandising but this often leads to visual advertising clutter within the aisles or store.
 - Merchandising incurs additional costs, such as the costs of setup and adjustment of stock control systems.
 
----
 
-### Sales Promotion
+## Sales Promotion
 ![[7e3ced22b362926ec378fbf274aeadde.jpg]]
 
 Sales promotion is a short-term promotional tactic used to entice customers to buy a certain product. It is a temporary measure to boost sales using methods such as:

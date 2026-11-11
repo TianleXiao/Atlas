@@ -6,7 +6,6 @@ Through-the-line promotion is an aspect of promotion that relies on the use of c
 - Developments in Internet technologies have created many opportunities for marketers, such as in-app adverts on online gaming platforms.
 - Cookies and other digital algorithms are used to provide consumers with highly personalized adverts and marketing messages to target their specific needs or wants based on their online activities.
 - Hence, through the line (TTL) promotion uses an integrated approach to reach as many customers in as many ways as possible.
----
 ## TTL Promotion (Digital & 360)
 ![[1f35709d9c19c218185ff200c478bcd5.jpg]]
 
@@ -15,7 +14,6 @@ Digital marketing is a TTL promotional technique used to promote and sell goods 
 Another commonly used form of TTL promotion is 360 degree marketing. This is a marketing campaign that adopts a consistent marketing message through the use of many ATL and BTL platforms.
 Large multinational companies such as Adidas and McDonald's also use 360 degree TTL marketing during major sporting events that they sponsor, such as the FIFA World Cup and the Summer Olympic Games.
 
----
 ## 360 Digital Marketing
 ![[dd842d6ad9c6d554ce3154fe7c707e39.jpg]]
 
@@ -25,7 +23,6 @@ Large multinational companies such as Adidas and McDonald's also use 360 degree 
 Home Furniture — 40% OFF
 18 Standard Size
 
----
 
 ## 360 Digital Marketing
 ![[67fb681b39e9b23e9e5d314c27e34077.jpg]]

@@ -1,5 +1,4 @@
----
-### External Factors That Influence HR Planning — Immigration
+## External Factors That Influence HR Planning — Immigration
 ![[Pasted image 20261020093413.png]]
 
 3. Immigration
@@ -7,9 +6,8 @@
 - Personnel opportunities - The supply of migrant workers allows for new ideas, experiences and ways of thinking. Skilled migrants can pose a threat to less-skilled workers in the country. This form of competition can raise the standard of skills as domestic workers update their skills to retain their own jobs.
 - Net social benefits - The majority of migrants are of working age. They are likely to pay income tax (good news for the government and the general public). It also means they have income to spend on goods and services (good for marketers).
 
----
 
-### External Factors That Influence HR Planning — Flexi-Time
+## External Factors That Influence HR Planning — Flexi-Time
 ![[Pasted image 20261020093428.png]]
 
 4. Flexi-time
@@ -17,9 +15,8 @@ Flexi-time is a form of flexible work practice that enables employees to work a 
 - Many organizations encourage their employees to maintain a work-life balance (which is also beneficial to the employer in the long run) by adopting a variable work schedule, allowing parents to raise their young children, for example, which helps to improve morale and labour productivity.
 - However, flexi-time suffers from similar disadvantages to teleworking, such as the potential lack of accountability and productivity, as well as costs implications if managers have to check and approve flexi-time staff's claimed and worked hours.
 
----
 
-### External Factors That Influence HR Planning — The Gig Economy
+## External Factors That Influence HR Planning — The Gig Economy
 ![[Pasted image 20261020093444.png]]
 
 5. The gig economy
@@ -39,9 +36,8 @@ In 2021, a report by the McKinsey Global Institute (MGI) suggested that more tha
 - Website designers (Fiverr)
 This gig/freelance trend was accelerated across the world following national lockdowns and safety measures introduced during the global coronavirus pandemic.
 
----
 
-### External Factors That Influence HR Planning — The Gig Economy (Advantages)
+## External Factors That Influence HR Planning — The Gig Economy (Advantages)
 ![[Pasted image 20261020093507.png]]
 
 5. The gig economy (advantages)

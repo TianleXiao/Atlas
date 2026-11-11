@@ -1,5 +1,4 @@
----
-### Who's a Leader?
+## Who's a Leader?
 ![[e2a5f04801d5d6ae2527a9b5dd3c3d6e.jpg]]
 
 Leadership involves influencing people to achieve a shared vision or goal.
@@ -10,9 +9,8 @@ Leadership is the process of influencing and inspiring others to achieve organiz
 
 Leadership is Action not.. position
 
----
 
-### What's a Good Leader?
+## What's a Good Leader?
 ![[d8920e5edcd934e96d84a48c974ed214.jpg]]
 
 The traditional view of a 'good' leader
@@ -29,9 +27,8 @@ The modern view of a 'good' leader
 - Welcoming advice and support from specialists.
 - Flexible and able to flourish in a changing environment.
 
----
 
-### Styles of Leadership
+## Styles of Leadership
 ![[b2b9d188dc316f02cfbe00ed919b2882.jpg]]
 
 - Autocratic — The leader makes all the decisions.
@@ -40,9 +37,8 @@ The modern view of a 'good' leader
 - Laissez-faire — Most of the decisions are left to the workers.
 - Situational — The leader is willing and able to change leadership style according to the situations being faced.
 
----
 
-### Leadership Styles: Autocratic
+## Leadership Styles: Autocratic
 ![[b412e9bdda573cb4c0c2303480e203f7.jpg]]
 
 - An autocratic leader is one who centralises decision-making without consulting others or listening to their points of view.

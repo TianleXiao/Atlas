@@ -11,7 +11,6 @@
 - **Promotion**
 This is the largest section of the IB Business Management syllabus, focusing on the 7 Ps of the marketing mix: product, price, promotion, place, people, processes, and physical evidence.
 
----
 ![[405a7394adfdb1eb4a29d9e62a24a8da.png]]
 ## The 7 ps of the marketing mix
 01 Product
@@ -54,7 +53,6 @@ This is the largest section of the IB Business Management syllabus, focusing on 
 - Employees
 - Standardization
 - Organisation culture
----
 ![[85e94833de664facce1b7b893f4c5ebc.jpg]]
 ## Why is product vital in the marketing mix?
 + "The best advert is a good product" – Professor Alan H. Meyer
@@ -63,7 +61,6 @@ This is the largest section of the IB Business Management syllabus, focusing on 
 + "The best marketing strategy and the highest marketing budget in the world cannot win back a disappointed consumer. Long-term success is based on product quality and repurchase rate." – Dietrich Mateschitz, co-founder of Red Bull
 > A product is simply a physical good or intangible service provided by a business.
 > Some marketers argue that product is the most important of the 7Ps in the marketing mix – after all, without a product, there is nothing to promote (promotion), distribute (place), or sell (price).
----
 ![[3f4616846debc6ffc770949164a8a4bf.jpg]]
 ## The BCG Matrix
 - High

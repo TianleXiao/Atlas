@@ -1,12 +1,10 @@
----
-### Human Resources Management
+## Human Resources Management
 ![[Pasted image 20261020092947.png]]
 
 Human Resources Management
 
----
 
-### Intro to HRM
+## Intro to HRM
 ![[Pasted image 20261020093007.png]]
 
 "The world is moving at a tremendous rate. Going no one knows where. We must prepare our children, not for the world of the past. Not for our world. But for their world. The world of the future."
@@ -19,9 +17,8 @@ Human resource management (HRM) is a broad term used to describe the overall man
 
 HR managers play a vital role in ensuring that the right people in the right numbers are hired, at the right time, deployed in the right places, and at the right time.
 
----
 
-### HRM Functions
+## HRM Functions
 ![[Pasted image 20261020093030.png]]
 
 Human resource management involves numerous roles or functions, which include:
@@ -36,9 +33,8 @@ Human resource management involves numerous roles or functions, which include:
 - Redundancies - letting go of workers if/when their jobs are no longer needed, perhaps due to a prolonged economic recession.
 - Training & development - improving the competencies, skills and workers' productivity.
 
----
 
-### Amazon Layoffs
+## Amazon Layoffs
 ![[Pasted image 20261020093051.png]]
 
 Layoffs Reach Amazon After Years of Unabashed Growth

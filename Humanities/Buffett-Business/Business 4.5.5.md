@@ -6,12 +6,11 @@ Examples include: Amazon, Lego, IKEA, Apple, McDonald's, Nintendo, and BMW.
 - motivate people to buy and become loyal.
 - have clear values that position it relative to competitors.
 - connect your target prospects emotionally because they will identify with and want to be associated with the brand values.
-### Aspects of branding include:
+## Aspects of branding include:
 - **brand awareness,**
 - **brand development,**
 - **brand loyalty, and**
 - **brand value.**
----
 ![[3d596bcef03292753af457a5317db661.jpg]]
 ## The Role Of Branding
 "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently."
@@ -23,7 +22,6 @@ The role, or purpose, of branding includes:
 - To build brand loyalty (customer devotion to a particular brand)
 - To create a particular or desired corporate image.
 A good brand name (good brand reputation) helps an organization to gain or sustain competitive advantages. Research has consistently shown that customer purchasing habits are affected by branding to a very large extent; and in many cases, $\rightarrow$ Branding is more important to customers than prices.
----
 ![[95119650fb648fd9d329e91be535ed9e.jpg]]
 ## Brand Development
 "A product can be quickly outdated, but a successful brand is timeless."
@@ -36,7 +34,6 @@ Common steps in the development of a brand include:
 - Developing a unique selling point (USP) for the brand
 - Consideration of the brand in relation to the overall business strategy
 - Creating a focused marketing mix and marketing strategy for the brand.
----
 ![[1297d2e10aecaa6b9cb0015ff8873674.jpg]]
 ## Brand Loyalty
 "A brand that captures your mind gains behavior. A brand that captures your heart gains commitment."

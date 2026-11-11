@@ -20,7 +20,7 @@ AR = \frac{TR}{Q} = \frac{Q \times P}{Q} = P
 $$
 **Where:**
 - \( AR \) = Average Revenue
-### Key Takeaway:
+## Key Takeaway:
 Average Revenue equals the Price Per Unit (AR = P).
 ## Revenue Growth
 + Lego, Which Is Danish For To "Play Well", The Toymaker Founded In 1935, Is The World's Biggest Toy Company As Measured By Sales Revenue.

@@ -10,13 +10,13 @@ The size of a country's different sectors of business activity often indicates i
 Businesses do not operate in isolation
 
 ## Internal vs External Factors Affecting a Business
-### Internal Factors
+## Internal Factors
 These come from **within the business** and are usually **controllable** by the business.  
 
 **Examples:**  
 - **Management & Leadership** → decision-making, leadership style  
 - **Employees** → skills, motivation, productivity  
-### External Factors
+## External Factors
 These come from **outside the business** and are usually **uncontrollable**. Businesses must adapt to them.  
 
 **Examples:**  

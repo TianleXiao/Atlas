@@ -1,5 +1,4 @@
----
-### Taylor's Scientific Management Theory
+## Taylor's Scientific Management Theory
 ![[593c71fa0587523122119194c5f981ff.jpg]]
 
 - To get workers to increase their efforts they had to be rewarded with more money. This is known as the theory of the economic man.
@@ -7,9 +6,8 @@
 
 homo oeconomicus?
 
----
 
-### Taylor's Scientific Management Theory – How to Improve Output per Worker
+## Taylor's Scientific Management Theory – How to Improve Output per Worker
 ![[68eda436461c467d8252f4f293845e61.jpg]]
 
 How to improve output per worker—
@@ -20,9 +18,8 @@ How to improve output per worker—
 - Supervise workers to ensure that this 'best way' is being carried out
 - Pay workers on the basis of the results.
 
----
 
-### Taylor's Approach: Limitations / Relevance to Modern Industry
+## Taylor's Approach: Limitations / Relevance to Modern Industry
 ![[0aa992f478ff358ff5bc1c7286d9bf84.jpg]]
 
 - The more general view today is that workers have a wide range of needs.
@@ -38,9 +35,8 @@ festgelegte Präferenzen
 
 QUALITY HAS MOVED ACROSS THE STREET
 
----
 
-### Maslow's Hierarchy (1943)
+## Maslow's Hierarchy (1943)
 ![[c942d5aa41d76a8aa7f658aadb7c3cbe.jpg]]
 
 Maslow's hierarchy of needs: The 5S model

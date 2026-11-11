@@ -1,8 +1,8 @@
 ## Statement of Financial Position
 The statement of financial position (also known as the balance sheet) shows the value of an organization's assets, liabilities, and the owners' investment (or equity) in the business at a particular point in time.
-### Balance Sheet
+## Balance Sheet
 A financial statement that reports a company's assets, liabilities, and shareholder equity at a specific point in time.
-### How To Read a Balance Sheet
+## How To Read a Balance Sheet
 **Balance sheets are based upon the equation:**
 $$Assets - Liabilities = Shareholders' \ Equity$$
 $$Equity = Share \ Capital + Retained \ Profit$$

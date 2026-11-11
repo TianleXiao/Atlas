@@ -1,5 +1,5 @@
 ## What's in It for Stakeholders?
-### Financial Questions and Affected Stakeholders
+## Financial Questions and Affected Stakeholders
 
 | **Question**                                                                                     | **Groups Affected**                            |
 | :----------------------------------------------------------------------------------------------- | :--------------------------------------------- |

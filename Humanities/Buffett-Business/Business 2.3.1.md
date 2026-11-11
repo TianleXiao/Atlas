@@ -1,5 +1,4 @@
----
-### What Is Management?
+## What Is Management?
 
 ![[28a39fadbfe4b11cb8aa6680bb3724d6.jpg]]
 
@@ -23,9 +22,8 @@ Management Levels
 - Project Manager
   - Does not have line responsibility for employees assigned to project
 
----
 
-### Roles and Functions of Management
+## Roles and Functions of Management
 
 ![[28893a79966d30228f02ba52d3b77d7d.jpg]]
 
@@ -35,9 +33,8 @@ Planning: Managers establish specific, measurable, agreed, realistic, and time-c
 
 Organizing: Managers translate plans into actionable steps, organizing resources such as land, labor, and capital to meet the organization's objectives. This includes coordinating tasks in the short, medium, and long term.
 
----
 
-### Roles and Functions of Management (Continued)
+## Roles and Functions of Management (Continued)
 
 ![[860d24e071d194722a1c78ab1aabef4f.jpg]]
 
@@ -48,9 +45,8 @@ Commanding: Managers possess the authority to instruct subordinates and delegate
 Coordinating: Managers ensure a unified approach among employees in different sections of the organization. Effective coordination harmonizes various objectives, aligning efforts toward the organization's main goals.
 
 Controlling: Managers monitor individual employee performance to ensure it meets organizational standards. Through control mechanisms like budgetary control, managers oversee finances, ensuring the smooth operation of business activities and maintaining organizational efficiency.
----
 
-### Who's a Leader?
+## Who's a Leader?
 
 ![[a7f7d6264264d57062a287a912ce89d9.jpg]]
 

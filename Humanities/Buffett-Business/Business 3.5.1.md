@@ -21,7 +21,7 @@ Let's calculate ratios to express profits as a percentage of sales:
 Company X: $20 million/$240 million×100=8.3%$20million/$240million×100=8.3%  
 Company Y: $2 million/$10 million×100=20.0%$2million/$10million×100=20.0%
 ➔ Company Y is therefore more profitable.
-### Ratio Analysis
+## Ratio Analysis
 Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.
 ## Purposes Of Ratio Analysis
 The purpose of ratio analysis is to:
@@ -35,7 +35,7 @@ The purpose of ratio analysis is to:
         Note: ratio analysis is only of value if managers compare like with like, that is to compare with similar business in the same industry.
 - Aid decision-making, e.g.
     - whether investors should risk their money by investing in the business.
-### Diagram:
+## Diagram:
 - **Liquidity & Efficiency**
 - **Solvency**
 - **Profitability**
@@ -43,7 +43,7 @@ The purpose of ratio analysis is to:
 # Types Of Ratios
 1. **Profitability ratios**: These assess the amount of gross or other profit made by the business in relation to its sales revenue/turnover or the assets or capital available to it.
 2. **Liquidity ratios**: Also known as solvency ratios, these measure the ability of the business to settle its debts in the short-term.
-### Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
+## Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
 
 |Type of ratio|Profitability ratios|Liquidity ratios|
 |---|---|---|
@@ -59,7 +59,7 @@ The purpose of ratio analysis is to:
 ||- Investors|
 ## Gross Profit Margin
 - **Gross profit margin:** This ratio compares gross profit with revenue.
-### What might be the reasons of
+## What might be the reasons of
 Port Louis Press Ltd having much lower gross profit margin?
 - It may have adopted a low-price strategy to increase sales.
 - It has higher cost of sales.

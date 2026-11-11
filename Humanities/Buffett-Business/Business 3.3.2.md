@@ -16,7 +16,7 @@ $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  
 ## Indirect Costs & Direct Costs
 + The terms indirect costs and direct costs are used when referring to businesses that produce or sell a range of products and therefore operate 'cost center's and 'profit centers' (see Unit 3.9).
 + These cost can be either fixed or variable costs, depending on the nature of the business.
-### Cost Centre (TC) VS Profit Centre (TC+TR)
+## Cost Centre (TC) VS Profit Centre (TC+TR)
 + **Cost only:**  Minimize cost  
    + Ex: Production division  
    + Add in cost control
