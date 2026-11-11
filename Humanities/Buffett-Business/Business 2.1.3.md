@@ -1,6 +1,5 @@
 ## External Factors That Influence HR Planning — Demographic Change
 ![[Pasted image 20261020093247.png]]
-
 - Demographic change
 - Demographic trends have led to an ageing population which has several impacts on human resource planning. For example, the retirement age in many countries has increased, as shown in the table hereby. Labour mobility and labour productivity may both fall, as younger workers tend to be more mobile whilst elderly workers may be less productive.
 - Another demographic change in many societies is better employment opportunities for women. In high-income countries, women are typically more career-orientated so have children at an older age. They are also having fewer children, partly due to the higher costs of raising children.
@@ -19,9 +18,9 @@ Country | Men | Women
 - United States | 66 | 66
 
 ---
+
 ## External Factors That Influence HR Planning — Change in Labour Mobility
 ![[Pasted image 20261020093304.png]]
-
 - Change in labour mobility
 - The mobility of labor is the extent to which labor can move to different locations (known as geographical mobility) and their flexibility in changing to different jobs (known as occupational mobility). The more mobile workers are, the higher labor supply tends to be.
 - (i) Occupational mobility
@@ -30,9 +29,9 @@ Country | Men | Women
   - Some workers are immobile because they are highly specialized in their area of expertise, as they find it difficult to seek employment opportunities in other industries.
 
 ---
+
 ## External Factors That Influence HR Planning — Geographical Mobility
 ![[Pasted image 20261020093320.png]]
-
 - Change in labour mobility
 - (ii) Geographical mobility
   - Friends and family ties tend to be the key constraint.
@@ -41,11 +40,10 @@ Country | Men | Women
   - Language and cultural differences tend to limit international mobility.
 
 ---
+
 ## External Factors That Influence HR Planning — Immigration
 ![[Pasted image 20261020093342.png]]
-
 - Immigration
 - Migrant workers are people who move to other locations or countries in search of job opportunities. The influx of migrant workers from overseas can provide many business opportunities, such as:
   - Easing of skills shortages - Hiring skilled migrants has two advantages. First, they take on jobs that cannot be filled by domestic workers, perhaps due to a lack of willingness or skills (ability). Secondly, the pool of migrant workers helps to keep wage costs down.
   - Flexible work structures - Businesses are able to open for longer hours due to workforce flexibility. Migrants add to the supply of staff willing to work part-time or shift work. This is good for businesses which have outlets that open 24-hours a day, such as 7-11 convenience stores, gas stations and hotels.
-

@@ -7,13 +7,14 @@
  + Mixed
 
 ---
+
 ## Market Economy Features
 + All resources are owned and allocated by private individuals.
 + Government refrains from regulating markets.
 
 ---
-## 🔑 Key Terminology
 
+## 🔑 Key Terminology
 | Term | Symbol | Definition |
 | :--- | :--- | :--- |
 | **Demand** | $D$ or $Q_d$ | The quantity consumers are willing and able to buy at a given price. |
@@ -23,11 +24,12 @@
 | **Surplus** | $S > D$ | Market imbalance where quantity supplied exceeds quantity demanded. |
 
 ---
+
 ## 4 Core Market Scenarios
 
 ---
-## 1. High Demand, Low Price ($D \uparrow, P \downarrow$)
 
+## 1. High Demand, Low Price ($D \uparrow, P \downarrow$)
 * **Scenario Type:** **Short-term Disequilibrium** or **Promotional Event**.
 * **Analysis:** This is an unstable market state. Under normal economic laws, high demand would push prices up.
 * **Causes:**
@@ -37,8 +39,8 @@
 * **Outcome:** **Shortage** (Demand > Supply) will quickly ensue, forcing either price hikes or stock depletion.
 
 ---
-## 2. Low Demand, Low Price ($D \downarrow, P \downarrow$)
 
+## 2. Low Demand, Low Price ($D \downarrow, P \downarrow$)
 * **Scenario Type:** **New Equilibrium at a Lower Level** or **Market Contraction**.
 * **Analysis:** This aligns with the **Law of Demand**. When consumer interest drops, sellers must lower the price to encourage purchasing.
 * **Causes:**
@@ -48,8 +50,8 @@
 * **Outcome:** Producers may reduce output ($S \downarrow$) or exit the market to achieve a new, lower equilibrium price and quantity.
 
 ---
-## 3. High Supply, Low Price ($S \uparrow, P \downarrow$)
 
+## 3. High Supply, Low Price ($S \uparrow, P \downarrow$)
 * **Scenario Type:** **Surplus (Overproduction)**.
 * **Analysis:** This is a classic market imbalance where the quantity supplied exceeds demand. Producers must drop prices to clear excess inventory.
 * **Causes:**
@@ -59,8 +61,8 @@
 * **Outcome:** A **Surplus** occurs. Prices will continue to fall until the lower price point stimulates enough new demand to reach equilibrium.
 
 ---
-## 4. Low Supply, High Price ($S \downarrow, P \uparrow$)
 
+## 4. Low Supply, High Price ($S \downarrow, P \uparrow$)
 * **Scenario Type:** **Shortage (Scarcity)**.
 * **Analysis:** This is the result of scarcity, driving prices up as consumers compete for limited goods.
 * **Causes:**
@@ -68,4 +70,3 @@
     * **Increased Input Costs:** Raw materials become significantly more expensive, forcing producers to cut output and raise prices.
     * **Government Regulations:** New regulations restrict production volume.
 * **Outcome:** A **Shortage** occurs. The high price may eventually incentivize more production or cause consumers to seek substitutes, slowly restoring balance.
-

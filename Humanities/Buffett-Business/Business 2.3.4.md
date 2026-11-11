@@ -1,6 +1,5 @@
 ## Leadership Styles: Democratic
 ![[f3697ca50650431fce4a7471d40e2879.jpg]]
-
 - Democratic leadership style is suitable –
   - in a business that expect workers' contribution in decision-making.
   - in situations that demand a new way of thinking or a new solution.
@@ -18,9 +17,9 @@ Disadvantages:
 - Some issues might be too sensitive (layoff labour) or too secret (new product development)
 
 ---
+
 ## Leadership Styles: Laissez-Faire
 ![[3ee53bda5d9d6c274cb989a50b34cef2.jpg]]
-
 The term 'laissez-faire' is French for 'let go' or 'let them be' (let them be).
 
 - A laissez-faire leadership style is one where the leader delegates authority to subordinates and provides them with the freedom to carry out tasks in their own way, with minimal direction or supervision.
@@ -30,9 +29,9 @@ The term 'laissez-faire' is French for 'let go' or 'let them be' (let them be).
 - Do it anyway what you feel is right!!
 
 ---
+
 ## Leadership Styles: Situational
 ![[da27021b3a324708af047d978ae8147d.jpg]]
-
 Sports coaches often use situational leadership during competitive games.
 
 - Situational leadership involves the leader or manager adjusting their leadership style to fit the task, circumstance or situation that they find themselves in.
@@ -49,9 +48,9 @@ Disadvantages:
 - Most leaders have a preferred or natural leadership style, so changing or adopting a different style can be difficult for them.
 
 ---
+
 ## Effective Leadership Style
 ![[0d90e431894d94b39f05d8cd2a0b701b.jpg]]
-
 Whether a leadership style will be effective will depend on several factors such as:
 
 - The traits, personality and experiences of the manager or leader
@@ -59,4 +58,3 @@ Whether a leadership style will be effective will depend on several factors such
 - The time frame, i.e. how quickly decisions need to be made.
 - The task, e.g. whether the task is routine or a response to a crisis.
 - The degree of importance of the decision, e.g. tactical or strategic decision-making.
-

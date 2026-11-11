@@ -11,6 +11,7 @@ The following liquidity ratios:
 - Possible strategies to improve these liquidity ratios
 
 ---
+
 ## The profits and sales figures for two companies
 |        | Company X    | Company Y   |
 | ------ | ------------ | ----------- |
@@ -25,10 +26,12 @@ Company Y: $2 million/$10 million×100=20.0%$2million/$10million×100=20.0%
 ➔ Company Y is therefore more profitable.
 
 ---
+
 ## Ratio Analysis
 Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.
 
 ---
+
 ## Purposes Of Ratio Analysis
 The purpose of ratio analysis is to:
 - Examine a firm's financial position, e.g.
@@ -43,6 +46,7 @@ The purpose of ratio analysis is to:
     - whether investors should risk their money by investing in the business.
 
 ---
+
 ## Diagram:
 - **Liquidity & Efficiency**
 - **Solvency**
@@ -53,8 +57,8 @@ The purpose of ratio analysis is to:
 2. **Liquidity ratios**: Also known as solvency ratios, these measure the ability of the business to settle its debts in the short-term.
 
 ---
-## Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
 
+## Table 3.5.2 Profitability and liquidity ratios, their purposes and their users
 |Type of ratio|Profitability ratios|Liquidity ratios|
 |---|---|---|
 |**Ratios used:**|Gross profit margin|Current ratio|
@@ -69,10 +73,12 @@ The purpose of ratio analysis is to:
 ||- Investors|
 
 ---
+
 ## Gross Profit Margin
 - **Gross profit margin:** This ratio compares gross profit with revenue.
 
 ---
+
 ## What might be the reasons of
 Port Louis Press Ltd having much lower gross profit margin?
 - It may have adopted a low-price strategy to increase sales.
@@ -83,6 +89,6 @@ The gross profit margin is the percentage of the business's revenue which is gro
 → The gross profit margin is a good indicator of how effectively managers have 'added value' to the cost of sales.
 
 ---
+
 ## Vocabulary
 + mediocrity
-

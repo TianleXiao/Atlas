@@ -16,6 +16,7 @@
   Customer data collection and usage
 
 ---
+
 ## Challenges for staring up a business
 + Unforeseen Disasters
 + Sourcing the right people
@@ -23,6 +24,7 @@
 **Many Challenges such as:** A lack of experience in management and enterprise. Difficulties raising financial capital to set up and expand the business, as own funds may be limited, and banks may be **reluctant** to lend to small risky start-up business. Difficulties building brand awareness. A lack of market power.
 
 ---
+
 ## Reasons for starting up a business
 + Growth
 + Earnings
@@ -33,6 +35,7 @@
 + Hobbies
 
 ---
+
 ## Chapter conceptualization
 + Change
 + Creative
@@ -40,6 +43,7 @@
 + Sustainable
 
 ---
+
 ## Vocabulary 
 + Parada
 + Chip
@@ -54,4 +58,3 @@
 + Knock-off
 + Go bankrupt
 + Insist
-

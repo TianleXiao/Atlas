@@ -6,6 +6,7 @@
 + **Franchise:** A business in which the operator pays a mixture of upfront and ongoing fees in order to license the brand name and supporting resources of a parent company.
 
 ---
+
 ## Advantages For The Franchisee
 - Franchisees gain access to a tried and tested business model.
    - **TRIED. TESTED**
@@ -14,15 +15,16 @@
 - Franchisees gain from purchasing economies of scale of the franchisor, rather than facing much higher costs (of inventory, for example) if operating as a sole trader or running a much smaller, independent business.
 
 ---
+
 ## Disadvantages For The Franchisor
 - The franchisor’s corporate image and brand reputation is at risk if a franchisee is negligent and/or incompetent.
 - It is difficult for franchisors to closely monitor the operations of their franchisees.
 - The franchisee, as the owner of the franchised outlet, gets to keep most of the profits they generate, as opposed to the franchisor, who gets only a small percentage of revenue.
 
 ---
+
 ## Disadvantages for the Franchisee
 + Buying a franchise is usually very expensive.
 + The process of applying for a franchise license is typically complex and time-consuming.
 + The franchisee is constrained by the standards and practices set by the franchisor, thus there's no scope for independent decision-making or innovation.
 + Each individual franchisee is at risk of a damaged reputation if another franchisee of the business makes a serious blunder.
-

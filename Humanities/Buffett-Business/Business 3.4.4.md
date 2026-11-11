@@ -5,6 +5,7 @@ Current liabilities are the short-term debts of a business, which need to be rep
 - Other short-term loans - These are advances (loans) from a financier such as a commercial bank, that needs to be repaid within 12 months of the balance sheet date.
 
 ---
+
 ## Working Capital & Non-Current Liabilities
 - **Working Capital** is the money your business needs to be able to operate from day to day.
 $$Working \ Capital = Current \ assets - Current \ liabilities$$
@@ -12,6 +13,7 @@ $$Working \ Capital = Current \ assets - Current \ liabilities$$
 - **Non-current liabilities**: are the long-term debts of a business, falling due after 12 months of the balance sheet date. This refers to the long-term borrowings of the business, such as long-term loans, debentures and mortgages.
 
 ---
+
 ## Net Assets
 - Total assets are simply the sum of non-current assets and current assets, i.e. the sum of all what is owned by the business.
 - Total liabilities are simply the sum of current liabilities and non-current liabilities, i.e. the sum of all what is owed by the business.
@@ -25,4 +27,3 @@ $$Net \ Asset \ Formula=Total \ Assets−Total \ Liabilities$$
 Equity refers to the value of the owners' stake in the business, i.e. what the business is worth at the time of reporting the balance sheet. Equity is comprised of both share capital and retained earnings:
 - Share capital refers to the value of equity in a business that is funded by shareholders, either through an initial public offering or via a share issue.
 - Retained earnings (sometimes referred to as retained profits) is value of equity in a business that is funded by net profit after tax that is not distributed as dividends to shareholders. Instead, it is kept as an internal source of finance for the business to use.
-

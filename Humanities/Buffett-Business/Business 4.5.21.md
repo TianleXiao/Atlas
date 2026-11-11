@@ -1,6 +1,5 @@
 ## Top 10 People Followed on Instagram
 ![[Pasted image 20261016151751.png]]
-
 - Name — Number of Followers
 - Cristiano Ronaldo — 578 million
 - Leo Messi — 457 million
@@ -14,9 +13,9 @@
 - Justin Bieber — 287 million
 
 ---
+
 ## Top 10 Most Followed People on Twitter
 ![[Pasted image 20261016151809.png]]
-
 X (formerly Twitter) accounts with the most followers worldwide as of August 2023 (in millions)
 - @Elonmusk — 140.55
 - @barackobama — 132.6
@@ -31,9 +30,9 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - x-axis: Number of followers in millions — 0, 20, 40, 60, 80, 100, 120, 140, 160
 
 ---
+
 ## P for Place
 ![[Pasted image 20261016151840.png]]
-
 - Place (also referred to as distribution) in the marketing mix refers to the plans and processes of getting the right products (goods and services) to the right customers in the most convenient and most cost-effective way at the right time.
 - The more widely available a product is, the more likely it will sell. Distribution is vital.
 - Place is about providing convenience to consumers.
@@ -43,13 +42,12 @@ X (formerly Twitter) accounts with the most followers worldwide as of August 202
 - Examples include the use of retailers or vending machines.
 
 ---
+
 ## Distribution Networks
 ![[Pasted image 20261016151908.png]]
-
 - A distribution network is an intermediary in the supply chain that gets products from the manufacturer to the consumer (the end customer).
 - Although most businesses use intermediaries as part of their distribution strategy, new technologies such as online apps have shortened the distribution chain so as to sell directly to the consumer. This improves operational efficiencies, reduces costs and therefore can support lowering prices.
 - A zero-channel distribution network (or direct distribution) does not use any intermediaries, i.e., the producer sells its goods directly to the consumer. For example, agricultural farmers can sell their produce directly to customers. Airlines and cinemas use the Internet to sell directly to their customers.
   - Manufacturer — Customer
 - A one-channel distribution network involves the use of a single intermediary. For example, airlines and hotels may choose to use a travel agent to help sell their flight and accommodation bookings. Coca-Cola and Kraft Foods to sell their products in supermarkets and other retail outlets.
   - Manufacturer — Retailer — Customer
-

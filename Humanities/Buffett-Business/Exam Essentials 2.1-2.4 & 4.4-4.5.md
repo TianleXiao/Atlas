@@ -1,11 +1,10 @@
 # 考试要点速记：2.1–2.4 与 4.4–4.5
-
 > IB Business Management（SL/HL）考前核对表。每节给「必背框架 + 高频考点 + 易错辨析」。
 > 复习顺序建议：2.1→2.2→2.3→2.4（HRM 线）→4.4（研究）→4.5（营销组合线）。
 
 ---
-## 2.1 人力资源管理 / Human Resource Management
 
+## 2.1 人力资源管理 / Human Resource Management
 ### 2.1.1 HRM 定义与职能（必背）
 HRM = 对组织劳动力的整体管理：**attracting, selecting, training, assessing, motivating, rewarding, retaining**。
 - 目的：最有效/efficient 地使用员工；是达成 business objectives 的关键。
@@ -68,8 +67,8 @@ Migrant workers 带来的商业机会：
 6. **Explicit & implicit coercion**："大棒"——纪律处分、解雇、不予晋升；因劳动法保护，现实中多**隐性**使用。最后手段。
 
 ---
-## 2.2 组织结构 / Organisational Structure
 
+## 2.2 组织结构 / Organisational Structure
 ### 2.2.1 核心术语（SL+HL，必背定义）
 - **Delegation**：把职权下放给下属完成特定任务（责任可下放，**最终问责不可转移**）。
 - **Span of control**：一位经理直接管理的下属人数（宽/窄）。
@@ -135,8 +134,8 @@ Migrant workers 带来的商业机会：
 - 挑战：外包虽带来专业能力，但**成本高**；缺乏工作安全感→士气低→生产力可能下降。
 
 ---
-## 2.3 管理层角色、职责与关系
 
+## 2.3 管理层角色、职责与关系
 ### 2.3.1 Management 定义与层级
 - Mary Parker Follett：管理是"**the art of getting things done through people**"（通过他人把事做成）。
 - 三层：**Senior**（设定并监督长期计划与战略，对结果负最终责任）、**Middle**（设定部门目标与策略，管理本部门员工）、**Supervisory/Junior**（监督日常例行工作）。
@@ -190,8 +189,8 @@ Migrant workers 带来的商业机会：
 1. 经理决策并公布；2. 经理"推销"决策；3. 经理提出想法并邀请提问；4. 经理提出暂定决策可修改；5. 经理提出问题、收集建议后决策；6. 经理划定界限、由群体决策；7. 经理允许群体在界定范围内独立运作。
 
 ---
-## 2.4 激励 / Motivation
 
+## 2.4 激励 / Motivation
 ### 2.4.1 总纲
 - Eisenhower："Motivation is the art of getting people to do what you want them to do **because they want to do it**."
 - IB 指定三理论：**Taylor（Scientific management）、Maslow（Hierarchy of needs）、Herzberg（Motivation–hygiene）**。
@@ -236,8 +235,8 @@ Migrant workers 带来的商业机会：
 - 评价：先确保**不 demotivate**，再谈激励；个体不同，激励因素因人而异；研究样本为专业工作者与熟练工程师，**代表性有限**（"PEOPLE ARE DIFFERENT"）。
 
 ---
-## 4.4 市场研究 / Market Research
 
+## 4.4 市场研究 / Market Research
 ### 4.4.1 市场研究定义与差异化
 - **Market research** = 收集、分析并产出与营销活动相关的数据的过程。
 - **USP 案例**（记忆用）：DeBeers "A diamond is forever"（1948，20 世纪最佳企业口号）；Domino's "30 分钟送达否则免费"；Patagonia 以使命为 USP（"We're In Business To Save Our Home Planet"，捐出 1% 销售额）。
@@ -319,8 +318,8 @@ Migrant workers 带来的商业机会：
   - **Non-sampling error**：并非研究者人为错误所致（如受访者不诚实回答使结果失真）。
 
 ---
-## 4.5 营销组合 / The Marketing Mix (7Ps)
 
+## 4.5 营销组合 / The Marketing Mix (7Ps)
 ### 4.5.1 7Ps 框架（必背谱系）
 - **Jerome McCarthy (1964)**：4P——product、price、promotion、place（用于**有形商品**）。
 - **Booms & Bitner (1981)**：增加 3P——people、processes、physical evidence（用于**无形服务**）。
@@ -539,8 +538,8 @@ Migrant workers 带来的商业机会：
 - 服务营销要素补充谱系：**People**（顾客、员工、社会互动、角色与脚本、关系）、**Physical evidence**（设施设备、制服、装饰与 artefact、标识、符号）、**Process**（服务设计、标准化、定制化、运营效率）、**Promotion**（内部营销、直接营销、广告等）、**Product**（总服务产品、核心产品、补充服务、便利性服务、支持性服务）。
 
 ---
-## 考前自检清单
 
+## 考前自检清单
 **必背模型（能默画/默写）**
 - [ ] HRM 8 职能；HR planning 内部/外部因素各 6 项/5 项
 - [ ] 变革阻力 4 因（含 self-interest vs interpretation 辨析）
@@ -559,4 +558,3 @@ Migrant workers 带来的商业机会：
 - 定义（1–2 句）→ 优点 2–3 点（**带具体企业例**）→ 缺点 2–3 点 → 结论/判断（"depends on…"）。
 - 评估类（"evaluate/discuss"）：一定要给**判断与条件**，不能只罗列。
 - 案例题：每个论点都回扣**题目给出的企业情境**（规模、行业、文化、市场结构），否则拿不到 AO3 分。
-

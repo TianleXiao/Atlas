@@ -1,8 +1,8 @@
 ## What's in It for Stakeholders?
 
 ---
-## Financial Questions and Affected Stakeholders
 
+## Financial Questions and Affected Stakeholders
 | **Question**                                                                                     | **Groups Affected**                            |
 | :----------------------------------------------------------------------------------------------- | :--------------------------------------------- |
 | How much did we buy from our suppliers and have they been paid yet?                              | Managers and suppliers (creditors)             |
@@ -12,8 +12,8 @@
 | What is the value of the profit after all expenses, which is available for payment of dividends? | Managers and shareholders                      |
 
 ---
-## The Purpose of Final Accounts
 
+## The Purpose of Final Accounts
 | **Stakeholder**         | **Purpose / Interest**                                                                                      |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Shareholders**        | Interested to see where their money was spent. Will decide to hold, buy or sell their shares.               |
@@ -25,9 +25,9 @@
 | **Potential investors** | Will use the accounts to assess whether an investment would be financially worthwhile.                      |
 
 ---
+
 ## Statement of profit or loss
 ![[lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png]]
-
 STATEMENT OF PROFIT OR LOSS - the contents of a statement of profit and loss for XYZ Ltd, a profit-making entity.
 
 The statement of profit or loss, commonly known as the profit and loss account, shows a firm's profit (or loss) after all production costs have been subtracted from the organization's revenues, each year.
@@ -49,6 +49,7 @@ Figure 3.4.2 The format of a statement of profit or loss (with annotations)
 | gives Profit for period | This can be retained in the business or paid to shareholders. |
 
 ---
+
 ## Vocabulary
 + After sale
 + Warranty
@@ -59,4 +60,3 @@ Figure 3.4.2 The format of a statement of profit or loss (with annotations)
 + Blanket
 + Brackets
 + Break-even
-

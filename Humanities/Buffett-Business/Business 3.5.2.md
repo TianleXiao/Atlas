@@ -5,6 +5,7 @@ A firm can improve its GPM ratio by increasing sales revenue. Such methods could
 - Reducing the prices of products sold in highly competitive markets in order to attract more customers.
 
 ---
+
 ## Gross profit margin
 - Gross profit margin: This ratio compares gross profit with revenue.
 **What might be the reasons of Port Louis Press Ltd having much lower gross profit margin?**
@@ -16,6 +17,7 @@ The gross profit margin is the percentage of the business’s revenue which is g
 $$Gross\ Profit\ Margin = \frac{Gross\ Profit}{Sales\ Revenue} \times 100\%$$
 
 ---
+
 ## Roce: return on capital employed
 - The return on capital employed (roce) ratio measures a firm’s efficiency and profitability in relation to its size (as measured by the value of capital employed).
 - Capital employed is the value of all long-term sources of finance available for a business at a point in time, whether internal or external sources finance.
@@ -29,6 +31,7 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 - The higher the roce figure, the better it is for the business.
 
 ---
+
 ## Roce: a key ratio
 - As a general rule, the roce should at least exceed the interest rate offered at banks; otherwise it would be better to simply deposit the funds/capital in an interest-bearing/saving bank account.
 - Especially since bank deposits would probably carry less (to no) risk compared with other investment projects.
@@ -36,9 +39,7 @@ $$\text{Return on capital employed} = \frac{\text{Profit before interest and tax
 - Many people regard the roce as the single most important financial ratio as it measures how well a firm is able to generate profit from its sources of funds.
 - Some sources refer to a 20% roce as being a target benchmark, although this needs to be put into the context of the business and the industry in which it operates.
 # Strategies to improve the gross profit margin
-
 A firm can improve its GPM ratio by reducing its direct costs. Such methods include:
 - **Cutting direct material costs**, perhaps by using cheaper suppliers and/or cheaper materials. However, cost-cutting can have a negative effect on the perceived quality of the good or service.
 - **Cutting direct labour costs**, i.e. reduce staffing costs by cutting the number of staff or by getting staff to do more (for the same pay). However, this method can cause resentment and demotivation.
 - **Outsourcing production or other operations to third-party suppliers**. This helps the firm to benefit from using external providers that can offer specialized services in a more cost-effective way.
-

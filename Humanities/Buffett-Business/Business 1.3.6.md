@@ -9,8 +9,8 @@
    + Oil crisis
 
 ---
-## SWOT Analysis Adv/ Disadv
 
+## SWOT Analysis Adv/ Disadv
 | Advantages | Disadvantages |
 | :--- | :--- |
 | Completing a SWOT analysis can be quite simple and quick. | It is rather simplistic and does not demand detailed analysis. |
@@ -20,6 +20,7 @@
 | It can help reduce the risks of decision-making by demanding objective and logical thought processes. | |
 
 ---
+
 ## Conceptualization
 **Conceptual understandings:**
 + **Change** is essential for businesses to achieve their desired aims. For example, it may be appropriate to set more environmental objectives these days.
@@ -31,7 +32,6 @@
 + **Sustainable** business practices can enhance a business’s existence. For example, finding ways of people sharing resources can create new markets such as ride-hailing apps.
 
 ---
+
 ## Vocabulary
-
 + Criticism
-

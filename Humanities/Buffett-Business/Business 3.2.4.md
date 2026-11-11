@@ -10,12 +10,14 @@
 - Nevertheless, overdrafts provide flexibility for businesses that might occasionally face cash flow problems.
 
 ---
+
 ## Trade Credit
 + Trade credit allows a business to 'buy now and pay later'.
 + Although a sale is made at the time of purchase, the seller or credit provider does not receive any cash from the buyer until a later date.
 + Businesses/suppliers that offer trade credit (known as creditors) usually allow between 30-90 days for their customers (known as debtors) to pay.
 
 ---
+
 ## Crowdfunding
 Crowdfunding is a source of finance that entails collecting relatively small amounts of money from a large number of supporters (the ‘crowd’).
 - Crowdfunding is a welcome popular in recent years, especially after the financial crisis of 2008, when banks have been less willing to lend to small and medium-sized businesses, and savers were losing value of their savings over time.
@@ -23,6 +25,7 @@ Crowdfunding is a source of finance that entails collecting relatively small amo
 - Each saver lends a relatively small amount to any business in return for a product/service in the future; this limits the effect if the business fails to repay the loan.
 
 ---
+
 ## Leasing
 Leasing involves paying for assets, such as vehicles and machinery, over a period of time, without ever owning the asset.
 - It is a contract that is agreed between a leasing company (the lessor) and the customer (the lessee).
@@ -32,6 +35,6 @@ Leasing involves paying for assets, such as vehicles and machinery, over a perio
 	$$Equity=Share \ Capital + Retained \ Profit$$
 
 ---
+
 ## Vocabulary
 + Equity
-

@@ -1,7 +1,5 @@
 ## What Is Management?
-
 ![[28a39fadbfe4b11cb8aa6680bb3724d6.jpg]]
-
 "How management chooses to treat its people impacts everything - for better or for worse."
 - Simon Sinek (b.1973), British-American author
 
@@ -23,10 +21,9 @@ Management Levels
   - Does not have line responsibility for employees assigned to project
 
 ---
+
 ## Roles and Functions of Management
-
 ![[28893a79966d30228f02ba52d3b77d7d.jpg]]
-
 The roles and functions of management, as outlined by Henri Fayol, encompass the following key areas:
 
 Planning: Managers establish specific, measurable, agreed, realistic, and time-constrained targets (SMART goals). Short-term tactical plans are set by junior management, while long-term strategic plans are devised by senior management to guide the organization.
@@ -34,10 +31,9 @@ Planning: Managers establish specific, measurable, agreed, realistic, and time-c
 Organizing: Managers translate plans into actionable steps, organizing resources such as land, labor, and capital to meet the organization's objectives. This includes coordinating tasks in the short, medium, and long term.
 
 ---
+
 ## Roles and Functions of Management (Continued)
-
 ![[860d24e071d194722a1c78ab1aabef4f.jpg]]
-
 The roles and functions of management encompass the following key areas:
 
 Commanding: Managers possess the authority to instruct subordinates and delegate tasks. They make decisions, guide projects, and are accountable for the outcomes, wielding both authority and responsibility.
@@ -47,10 +43,9 @@ Coordinating: Managers ensure a unified approach among employees in different se
 Controlling: Managers monitor individual employee performance to ensure it meets organizational standards. Through control mechanisms like budgetary control, managers oversee finances, ensuring the smooth operation of business activities and maintaining organizational efficiency.
 
 ---
+
 ## Who's a Leader?
-
 ![[a7f7d6264264d57062a287a912ce89d9.jpg]]
-
 A leader is someone who influences and inspires others to get things done.
 
 A leader fosters motivation, respect, trust and loyalty from the workforce.
@@ -58,4 +53,3 @@ A leader fosters motivation, respect, trust and loyalty from the workforce.
 There are two types of leaders:
 - Official Leader: Appointed by the organization, possesses formal authority to give orders.
 - Informal Leader: Lacks an official role but possesses natural charisma, influencing others based on personal qualities rather than formal authority.
-

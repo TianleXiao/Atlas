@@ -1,6 +1,5 @@
 ## Atl-Btl-Ttl
 ![[Pasted image 20261016151618.png]]
-
 **Above the Line**
 - Works to promote product/service to masses with mass media channels
 - Effective in mass communication
@@ -22,9 +21,9 @@
 - The effect on sales can be measured immediately
 
 ---
+
 ## Social Media Marketing (Smm)
 ![[Pasted image 20261016151645.png]]
-
 "If you do build a great experience, customers tell each other about that. Word of mouth is very powerful."
 - Jeff Bezos, Founder of Amazon.com
 
@@ -55,19 +54,18 @@ Online Advertising
 Pyramid labels (bottom to top): IYP Saturation, ARM, Lead-Gen Website, SEO, Paid Traffic, Affiliates, Social
 
 ---
+
 ## Social Media Marketing (Smm)
 ![[Pasted image 20261016151702.png]]
-
 - SMM enables users to use social media platforms to directly promote their goods and services. It is often considered as a 'one to many' method of online communication and promotion, with the user owning the content (even if others can respond with 'likes' or personal comments).
   - The aim of this is to engage customers and ultimately for them to interact with the product or brand.
 - SMM has encouraged many individuals and businesses to share online content, often in a persuasive way (including their views, suggestions, reactions, images and videos).
   - The changing technologies have therefore provided people and businesses with a potentially wide-reaching yet cost-effective method of promotion.
 
 ---
+
 ## Smm Viral Marketing
 ![[Pasted image 20261016151723.png]]
-
 Viral marketing is the creative use of social media sites to increase brand awareness or sell products.
 
 Marketing managers try to identify individuals with high social networking potential – called 'influencers' – and create viral messages that appeal to them and have a high chance of being passed on and shared to many other people who may be impressed.
-

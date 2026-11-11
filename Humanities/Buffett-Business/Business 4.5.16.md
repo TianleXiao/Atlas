@@ -10,6 +10,7 @@ Many customers regard direct mail as junk mail (spam) so don't pay attention to 
 The sheer amount of promotional material create advertising clutter, thus making it difficult for a particular advert to stand out.
 
 ---
+
 ## Public Relations
 ![[7b430200eff3ba7f4520e815a688cfc1.jpg]]
 Public relations activities include: Publicity events; Speeches to targeted groups and professional organizations (such as seminars and receptions); Talk show appearances (radio or TV); Books and other writings; Direct communication (such as newsletters or email); Blogs and vlogs; Social media, such as Twitter, Instagram, TikTok, LinkedIn, and Facebook; Working with the Press/ news media.
@@ -21,6 +22,7 @@ Journalists may report an amended version of the story.
 Despite the efforts (time and money) needed to put a good story together for the press, there is no assurance that they will run the story.
 
 ---
+
 ## Sponsorship
 ![[4aa3e29849a6535d8451e4fd878d804e.jpg]]
 Sponsorship is a BTL promotional strategy that involves a business providing financial support (the sponsor) to another organization or event. For example, Adidas sponsors the FIFA World Cup, and Coca-Cola sponsors the Olympic Games. Arsenal Football Club received a €132 million for a 15-year sponsorship deal in 2006 with Emirates Airlines.
@@ -32,6 +34,7 @@ Sponsorship deals can be very expensive (E.g. in football)
 Negative behaviour of the sponsor could harm the organization's reputation. E.g. Volkswagen's heavy investment in football sponsorship deals became questionable after its emissions scandal in late 2015.
 
 ---
+
 ## Point Of Sale (Pos)
 Point of sale (POS) is the promotion of goods in retail outlets where customers can buy the goods. For example, supermarkets use highly visible promotional materials in their supermarket aisles to attract customers with special offers. They also place snacks, batteries, candy and other small items at the checkouts as a last attempt/impulse buy to make more sales whilst customers queue to pay for the items in their baskets or trolleys.
 **Advantages—**
@@ -40,4 +43,3 @@ Promotional materials are positioned to provide convenience and easy access for 
 **Disadvantages—**
 Customers may come expecting sales promotions and get disappointed if none are offered.
 Some customers have learned to ignore and avoid the point of sale in many supermarkets and retail stores.
-

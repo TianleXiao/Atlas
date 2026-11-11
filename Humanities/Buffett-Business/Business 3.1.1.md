@@ -9,6 +9,7 @@ Multinational companies can expect to win a number of contracts to help governme
 - Government spending in India on IT services reached **$7.7 billion in 2020**, and is expected to rise even more.
 
 ---
+
 ## The role of finance
 - All businesses need money to finance their various activities such as:
     - initial setting up of the business
@@ -19,7 +20,7 @@ $\rightarrow$ The role (purpose) of finance can be categorized either as:
 - **revenue expenditure.**
 
 ---
+
 ## Vocabulary
 + Bonds
 + Utility
-

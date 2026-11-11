@@ -3,13 +3,14 @@
 **"If the customer is happy, the business is happy, and the shareholders are happy."** 
 
 ---
+
 ## Internal VS External Stakeholders
 ![enter image description here](https://textimgs.s3.amazonaws.com/DE/introbus/kcn8-mubms77i)
 + Stakeholders are groups or individuals who have a vested interest in a business.
 
 ---
-## Stakeholders’ Interests
 
+## Stakeholders’ Interests
 | Stakeholder                         | Mainly interested in...                                                                                                                                                                          |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Shareholders / Owners**           | Return on investment + profits and dividends<br>Success and growth of the business<br>Proper running of the business                                                                             |
@@ -21,8 +22,8 @@
 | **Society**                         | Success of the business – particularly creating and retaining jobs<br>Compliance with local laws and regulations (e.g. noise, pollution)                                                         |
 
 ---
-## Summary of stakeholders’ roles, rights and responsibilities
 
+## Summary of stakeholders’ roles, rights and responsibilities
 | Stakeholders | Possible rights include | Possible responsibilities include |
 | :--- | :--- | :--- |
 | **Employees** | To be treated fairly.<br>To be paid fairly.<br>To be kept informed. | To work effectively.<br>To turn up for work on time. |
@@ -35,6 +36,7 @@
 | **The local community** | To live in an area that is free from excessive noise or other forms of pollution.<br>To have a say in decisions which impact the local community.<br>To benefit from employment. | To cooperate with the business in its daily activities. |
 
 ---
+
 ## Vocabulary
 + Promotion
 + Pay back the loan

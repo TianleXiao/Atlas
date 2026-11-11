@@ -2,6 +2,7 @@
 The learning outcomes (or assessment objectives) for this section of the syllabus are:
 
 ---
+
 ## The following profitability ratios:
 - Gross profit margin (GPM)
 - Profit margin
@@ -9,6 +10,7 @@ The learning outcomes (or assessment objectives) for this section of the syllabu
 → Possible strategies to improve these profitability ratios
 
 ---
+
 ## The following liquidity ratios:
 - Current ratio
 - Acid-test / quick ratio
@@ -32,6 +34,7 @@ A more typical figure of an acid-test ratio might now be 0.7:1.
 Which company makes more profit?  
 
 ---
+
 ## Now which one is more **profitable**?
 Let's calculate ratios to express profits as a percentage of sales:  
 Company X: $20 million/$240 million × 100 = 8.3%  
@@ -39,7 +42,7 @@ Company Y: $2 million/$10 million × 100 = 20.0%
 → Company Y is therefore more profitable.
 
 ---
+
 ## Ratio analysis
 A method of quantifying a company's liquidity, operational efficiency, and profitability to evaluate its performance over time and relative to its peers.
 - **Ratio analysis is a technique for analyzing a business's financial performance by comparing one piece of accounting information with another, mainly through the investigation of statements of financial position and statements of profit and loss.**![[02277c3ebd50191aa94e1b571a0efd43.jpg]]
-

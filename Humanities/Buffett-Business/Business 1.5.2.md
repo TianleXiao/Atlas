@@ -10,6 +10,7 @@
 **Specialist markets:** Some large industries have specialist selling places and arrangements such as eyewear markets, electronics markets, factory outlets, shopping malls, etc.
 
 ---
+
 ## Internal Diseconomies of Scale
 **Difficulties controlling the firm:** Management becomes more complex in a large firm. Too many layers of management will increase administrative costs and make the firm slower in responding to changes in market conditions.
 
@@ -18,6 +19,7 @@
 **Motivation problems:** Large firms may be at a greater risk from a lack of motivation of workers, strikes and other industrial action. This is because workers may not have a sense of belonging, may become less cooperative, so more conflicts may arise due to the presence of diverse opinions, which incurs costs.
 
 ---
+
 ## External Diseconomies Of Scale
 **Congestion:** With more and more large firms in an area, there will be an increase in traffic with more vehicles bringing in workers and raw materials, and picking up workers and finished products. The heavy traffic will increase journey times, cause higher transport costs and reduce workers' productivity.
 
@@ -26,6 +28,6 @@
 **Disputes and conflicts:** More shares sold and bought in the market means more owners in the business. Having a lot of shareholders can lead to a lot of disputes and conflicts in making key decisions.
 
 ---
+
 ## Vocabulary
 + Congestion
-

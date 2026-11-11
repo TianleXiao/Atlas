@@ -1,6 +1,5 @@
 ## Sl/Hl Content
 ![[5d7101f64e1297706cac670fad180230.jpg]]
-
 - The following terminology to facilitate understanding of different types of organisational structures:
   - delegation
   - span of control
@@ -19,9 +18,9 @@
 - Changes in organizational structures (for example, project-based organization, Charles Handy's "Shamrock Organization") (HL only)
 
 ---
+
 ## Job Roles Within an Organization
 ![[f11c67f42afd7b82a22a97b09c3bff18 1.jpg]]
-
 - Chief Executive Officer (CEO) or Managing Director (MD)
 - The CEO represents the head of the Board of Directors (BOD) and is ultimately responsible for the success of the business and implementing corporate strategy.
 - The CEO is accountable to the company's BOD and shareholders.
@@ -32,9 +31,9 @@
 - Collectively, they advise and support the CEO.
 
 ---
+
 ## Benefits & Drawbacks of Delegation
 ![[f970b14073e7a3a9e350133e2d25e410.jpg]]
-
 Effective delegation has major benefits for both managers and employees:
 
 - The manager can save time on single tasks, so can focus more on the strategic issues facing the organization.
@@ -54,13 +53,12 @@ Delegation process:
 - Evaluate or review
 
 ---
+
 ## Wide Span of Control
 ![[3da16e94f407d502cc9bcf9fc86e8288.jpg]]
-
 - Fewer layers helps with cost control as there are less managerial positions in the firm.
 - The flatter structure also means that communications between the different levels of the hierarchy should be more effective (in terms of speed and accuracy).
 - However, larger teams tend to suffer from communication problems which may cause tension and conflict within the team.
 
 Diagram: one manager node linked to eight subordinate nodes.
 Label: Wide span of control
-

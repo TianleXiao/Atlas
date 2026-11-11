@@ -5,6 +5,7 @@
 + Many countries operate public sector business in rural regions with low incomes.    
 
 ---
+
 ## Private Sector Objectives: Financial Objective
 + State-owned enterprises (SOEs) are expected to at least cover their operating costs to avoid becoming a drain on government funds.
 + SOEs may want to generate a financial surplus which is mainly reinvested to improve the services offered.
@@ -12,12 +13,14 @@
 + The Beijing Subway Company.
 
 ---
+
 ## Social &Private Sector Enterprises: Ethical Objectives
 Ethical objectives are targets based on moral principles (right vs wrong)
 + Private sector firms are having a greater concern about the environmental social effects of their operations especially in the age of social media.
 + Some private sector firms such as social enterprises do not aim for profits and prefer to set social rather than market objectives.
 
 ---
+
 ## Business Objectives: Profit Maximization Conflicts
 Some objectives may conflict with profit maximization:
 + Growth/Gaining market share: Because achieving growth may involve buying more land or more capital to increase production.
@@ -25,12 +28,14 @@ This will increase costs and reduce average costs in the long run and help achie
 + Social objectives: treating workers (fair trade) better such as providing better working conditions will increase costs. But it will help retain workers which reduces recruting and training costs in the future.
 
 ---
+
 ## Business Objectives: Profit Maximization Conflicts
 Some objectives may conflict with profit maximization:
 + Cash flow: A business may have to discount a product to encourage customers to pay the total amount in cash flow may improve but profits may fall.
 + Ethical objectives: using eco-friendly raw materials may increase packaging costs, not hiring child labor may increase wage costs.(but will improve reputation, increase demand and sales in the long term.)
 
 ---
+
 ## Ethical Objectives: CSR
 **CSR:** Corporate Social Responsibility.
 + CSR refers to when businesses take responsibility for the impact their activities might have on **stakeholders** (employees, managers, customers, government, TV radio, Social Media, Bank, Trade union, Local Community, Competitors, pressure group.), the society and the environment.
@@ -41,6 +46,7 @@ Some objectives may conflict with profit maximization:
 $$Bad \ publicity \ reputation \rightarrow lower sales \ revenue \rightarrow Lower profits. \rightarrow Possible \ legal \ action \ by \ pressure \ groups/NGOs. $$
 
 ---
+
 ## Vocabulary
 + Streaming
 + Screaming
@@ -49,4 +55,3 @@ $$Bad \ publicity \ reputation \rightarrow lower sales \ revenue \rightarrow Low
 + Strike
 + Scandal
 + Loyalty
-
