@@ -1,5 +1,6 @@
 ![alt text](1.png)
 ![alt text](Humanities/Buffett-Business/Assets/2.png)
+
 ---
 ## The Stakeholder Map
 ![alt text](Humanities/Buffett-Business/Assets/3.png)
