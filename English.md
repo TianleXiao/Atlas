@@ -1,0 +1,1 @@
+Focus on the core topic of the visual simulus
