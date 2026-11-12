@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extension",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3956d9e500fe4292",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 4.5.17.md",
     "Humanities/Buffett-Business/Business 4.5.18.md",
