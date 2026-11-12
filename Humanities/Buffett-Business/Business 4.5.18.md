@@ -16,23 +16,6 @@ TTL Through the Line
 Digital marketing is a TTL promotional technique used to promote and sell goods or services on the Internet. It involves using different online marketing channels, such as search engines, social media platforms, and emails to reach the desired target markets. Examples include the use of online banners, pop-up adverts, social media posts/stories/reels, blogs & vlogs, etc.
 Another commonly used form of TTL promotion is 360 degree marketing. This is a marketing campaign that adopts a consistent marketing message through the use of many ATL and BTL platforms.
 Large multinational companies such as Adidas and McDonald's also use 360 degree TTL marketing during major sporting events that they sponsor, such as the FIFA World Cup and the Summer Olympic Games.
-SEO
-Video
-Social Media
-Mobile & Tablet
-Content
-Pay Per Click
-SEM
-Digital Marketing
-PPC
-Email Marketing
-SMO
-Content
-Website
-Offline Marketing
-SEO
-SEM
-360
 
 ---
 
@@ -40,8 +23,6 @@ SEM
 ![[dd842d6ad9c6d554ce3154fe7c707e39.jpg]]
 - More detailed information can be communicated via online advertisements, as marketers can also use embedded video clips, audio and photos to promote their goods or services on different web platforms in a unified homogeneous way.
 - Online banners and pop-up advertisements of different sizes can be specifically targeted to potential consumers, depending on the web/social media platforms used and the device being used (whether it's mobile/tablet/laptop or Android/OS/Windows)
-Home Furniture — 40% OFF
-18 Standard Size
 
 ---
 
