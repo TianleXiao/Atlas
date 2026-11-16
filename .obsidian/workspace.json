@@ -11,10 +11,14 @@
             "id": "af901768cbb796a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 2.4.5.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Business 2.4.5"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "af901768cbb796a1",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 4.5.22.md",
     "Humanities/Hemingway-English/English.md",
     "Humanities/Hemingway-English/Timeline.md",
     "Humanities/Hemingway-English/The sentence could use during presentation.md",
@@ -207,7 +212,6 @@
     "Humanities/Buffett-Business/Business 4.5.19.md",
     "Humanities/Buffett-Business/Business 4.5.20.md",
     "Humanities/Buffett-Business/Business 4.5.21.md",
-    "Humanities/Buffett-Business/Business 4.5.22.md",
     "Humanities/Buffett-Business/Business 4.5.23.md",
     "Humanities/Buffett-Business/Business 4.5.24.md",
     "Humanities/Buffett-Business/Business 4.5.25.md",
