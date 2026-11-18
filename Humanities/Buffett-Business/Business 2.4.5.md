@@ -21,3 +21,6 @@ Self-directed Teams
 PEOPLE ARE DIFFERENT
 
 ---
+![[95e41e13691ecadad49ba761ac4c4e52.jpg]]
+
+---
