@@ -19,3 +19,5 @@ Self-directed Teams
 - Herzberg's arguments also presented problems for managers as he claimed that individuals are unique and therefore what motivates one worker does not necessarily motivate others.
 - He used professional workers and skilled engineers in his research sample, so the findings might not be representative of other workers.
 PEOPLE ARE DIFFERENT
+
+---
