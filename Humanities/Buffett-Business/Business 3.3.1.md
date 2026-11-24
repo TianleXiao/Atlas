@@ -18,7 +18,6 @@ $$ATC=\frac{TC}{Output}$$
 ---
 
 ## Fixed vs Variable Expenses
-![enter image description here](https://cdn.gobankingrates.com/wp-content/uploads/2024/04/image.png?quality=75&w=800&webp=1)
 
 ---
 
@@ -72,7 +71,8 @@ $$ATC = AVC + AFC$$
 ---
 
 ## Total Costs
-![[a17c80f6a51d5abd70a3ef07594b81ba.jpg]]![[f5c22e68662df89f805c1f57664ef706.png]]
+![[a17c80f6a51d5abd70a3ef07594b81ba.jpg]]
+![[f5c22e68662df89f805c1f57664ef706.png]]
 + **Total Costs (TC) = Total Fixed Costs (TFC) + Total Variable Costs (TVC)**
 *This is a simple graph showing the relationship between TC, FC and VC. The gap between the TC and the TVC indicates the TFC.*
 
