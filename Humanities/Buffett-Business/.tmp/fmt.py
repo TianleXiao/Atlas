@@ -45,7 +45,18 @@ def transform(blocks):
         imgs = [l for l in b if is_img(l)]
         rest = [l for l in b if not is_img(l)]
         out.append([rest[0]] + imgs + rest[1:])
-    return out
+    # 3. module with no text at all: images alone cannot be read, merge into next module
+    merged = []
+    carry = []
+    for m in out:
+        if head_of(m) < 0:
+            carry.extend(m)
+            continue
+        merged.append(carry + m)
+        carry = []
+    if carry:
+        merged.append(carry)
+    return merged
 
 
 def render(modules, trailing_newline):

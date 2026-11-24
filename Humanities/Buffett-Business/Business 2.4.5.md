@@ -12,6 +12,7 @@ Empowerment
 Self-directed Teams
 
 ---
+
 ## Evaluation of Hertzberg's Work
 ![[ce24eec2f8629fa720ddacf86b268d3e.jpg]]
 - The existence of hygiene factors meant it might be better for managers to ensure that workers are not demotivated first, rather than hypothesizing what might motivate them.
@@ -20,7 +21,6 @@ Self-directed Teams
 PEOPLE ARE DIFFERENT
 
 ---
-![[95e41e13691ecadad49ba761ac4c4e52.jpg]]
 
----
+![[95e41e13691ecadad49ba761ac4c4e52.jpg]]
 ![[ab8d292db22db0e40d5b1e5fb0198557.jpg]]
