@@ -5,7 +5,7 @@
 ---
 
 ## Internal VS External Stakeholders
-![enter image description here](https://textimgs.s3.amazonaws.com/DE/introbus/kcn8-mubms77i)
+![[286dc4357a589314600562d009938e8e.jpg]]
 + Stakeholders are groups or individuals who have a vested interest in a business.
 
 ---

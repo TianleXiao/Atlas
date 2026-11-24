@@ -1,5 +1,5 @@
 ## Elkington's Triple Bottom Line
-![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
+![[8a04de9ef31967ef93e28009de916aa6.jpg]]
 
 ---
 
@@ -35,7 +35,7 @@ A firm’s objectives don’t remain the same forever. As market situations chan
 ---
 
 ## SWOT Analysis
-![enter image description here](https://www.wordstream.com/wp-content/uploads/2021/07/swot-analysis-header1.png)
+![[0bcb513e40977873920b56fff1cb5b2f.png]]
 SWOT analysis is a situational decision-making tool. It's an acronym for Strengths, Weaknesses, Opportunities, and Threats.
 It can be used to assess the current situation of a business by considering both internal and relevant external factors.
 
