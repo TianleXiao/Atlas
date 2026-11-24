@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccca939d1607eac",
+        "id": "01c70dad73c0786b",
         "type": "tabs",
         "children": [
           {
-            "id": "221731404fbec164",
+            "id": "9f074d67ae425659",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713162916.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260713162916"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,25 +197,26 @@
   },
   "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Assets/20261124_095018.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_094656.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_094358.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_093744.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_093531.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_093327.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_093327 1.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_092945.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_092434.jpg",
+    "Humanities/Buffett-Business/Assets/20261124_092434 1.jpg",
+    "Humanities/Buffett-Business/Assets/20261123_135607.jpg",
     "Untitled.md",
-    "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713162916.png",
     "A",
-    "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713163430.png",
     "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 2.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 2.2.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 2.2.jpg",
     "Humanities/Buffett-Business/Business 2.4.9.md",
     "Business 2.4.11.md",
     "Business 2.4.10.md",
-    "20261124_095018.jpg",
-    "20261124_094656.jpg",
-    "20261124_094358.jpg",
-    "20261124_093744.jpg",
-    "20261124_093327 1.jpg",
-    "20261124_093327.jpg",
-    "20261124_093531.jpg",
     "Humanities/Buffett-Business/Business 2.4.8.md",
     "Humanities/Buffett-Business/Business 2.4.7.md",
     "Humanities/Buffett-Business/Business 2.4.6.md",
