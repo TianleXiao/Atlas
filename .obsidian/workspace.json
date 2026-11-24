@@ -11,10 +11,12 @@
             "id": "221731404fbec164",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713162916.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260713162916"
             }
           }
         ]
@@ -195,8 +197,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "221731404fbec164",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713162916.png",
+    "A",
+    "Sciences/Mendeleev-Chemistry/Assets/Pasted image 20260713163430.png",
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.2.jpg",
     "Humanities/Buffett-Business/Business 2.4.9.md",
     "Business 2.4.11.md",
     "Business 2.4.10.md",
@@ -207,10 +218,7 @@
     "20261124_093327 1.jpg",
     "20261124_093327.jpg",
     "20261124_093531.jpg",
-    "20261124_092945.jpg",
-    "20261124_092434 1.jpg",
     "Humanities/Buffett-Business/Business 2.4.8.md",
-    "20261124_092434.jpg",
     "Humanities/Buffett-Business/Business 2.4.7.md",
     "Humanities/Buffett-Business/Business 2.4.6.md",
     "Humanities/Buffett-Business/Business 2.4.5.md",
@@ -227,12 +235,6 @@
     "Humanities/Buffett-Business/Business 4.5.19.md",
     "Humanities/Buffett-Business/Business 4.5.20.md",
     "Humanities/Buffett-Business/Business 4.5.21.md",
-    "Humanities/Buffett-Business/Business 4.5.23.md",
-    "Humanities/Buffett-Business/Business 4.5.24.md",
-    "Humanities/Buffett-Business/Business 4.5.25.md",
-    "Humanities/Buffett-Business/Business IA.md",
-    "Humanities/Buffett-Business/Business 4.5.11.md",
-    "Humanities/Buffett-Business/Business 3.8.4.md",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_08_0128.pdf",
     "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_20_17_2016.pdf",
     "Humanities/Hemingway-English/Assets",
@@ -241,9 +243,8 @@
     "TOK/TOK-Notes-Obsidian.zip",
     "TOK",
     "Untitled.canvas",
-    "Assets",
+    "Sciences/Mendeleev-Chemistry/Assets",
     "Humanities/Buffett-Business/Business Management Marketing Summary & Outline.pdf",
-    "Humanities/Laozi-Chinese/2026 May Paper 2 范文/2026_05_21_07_5917.pdf",
     "未命名.canvas"
   ]
 }
